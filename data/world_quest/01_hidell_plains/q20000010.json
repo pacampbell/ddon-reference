@@ -1,0 +1,188 @@
+{
+    "type": "World",
+    "name": "The Traveler's Scout",
+    "quest_id": 20000010,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Seek out the enemies at the marked location",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 11,
+            "minimum_item_rank": 0,
+            "xp": 430,
+            "gold": 360,
+            "rift": 50,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 680,
+            "gold": 520,
+            "rift": 90,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 21,
+            "minimum_item_rank": 0,
+            "xp": 970,
+            "gold": 690,
+            "rift": 120,
+            "ap": 220,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "11",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Battle Shield",
+                        "item_id": 4775,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Water Flask",
+                        "item_id": 9393,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Knight's Honor",
+                        "item_id": 4776,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cathedral Fire",
+                        "item_id": 10051,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Water Flask",
+                        "item_id": 9393,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "16",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Nostalgia Waistguard",
+                        "item_id": 8357,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Recovery Decoction",
+                        "item_id": 9373,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "21",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Composite Sleeves",
+                        "item_id": 5386,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Composite Sleeves",
+                        "item_id": 5386,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Buster Knuckles",
+                        "item_id": 5598,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

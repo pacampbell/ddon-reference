@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Fount of Nostalgia",
+    "quest_id": 21014001,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 24614,
+            "gold": 4493,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "75",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rainbow-Colored Claw",
+                        "item_id": 15928,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon Wolf's Sinewy Meat",
+                        "item_id": 15960,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Dangerous Daydream",
+    "quest_id": 22018014,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5500,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "85",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Stone-Curser's Tears",
+                        "item_id": 17856,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Blood-Colored Spiral Shell",
+                        "item_id": 17910,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Flesh-Eating Snail",
+                        "item_id": 17909,
+                        "amount": 6
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

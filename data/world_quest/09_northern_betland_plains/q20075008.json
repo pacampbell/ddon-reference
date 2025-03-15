@@ -1,0 +1,73 @@
+{
+    "type": "World",
+    "name": "Seeking Demon Commander's Belt",
+    "quest_id": 20075008,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and lend your aid",
+    "steps": [
+        "Investigate Gardnox Fortress for clues",
+        "Defeat the evil demons",
+        "Report to the requester",
+        "Investigate Flocwald Bridge",
+        "Defeat the enemy that is the source of evil",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 5940,
+            "gold": 2570,
+            "rift": 1050,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demon Commander's Belt",
+                        "item_id": 9449,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Diorite Steel Ingot",
+                        "item_id": 9444,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wind Twine",
+                        "item_id": 9446,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

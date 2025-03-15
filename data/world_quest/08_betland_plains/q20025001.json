@@ -1,0 +1,63 @@
+{
+    "type": "World",
+    "name": "The One-Eyed Guardian",
+    "quest_id": 20025001,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1460,
+            "gold": 1250,
+            "rift": 200,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Permafrost",
+                        "item_id": 9260,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

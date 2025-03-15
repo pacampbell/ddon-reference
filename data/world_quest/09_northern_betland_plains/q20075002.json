@@ -1,0 +1,165 @@
+{
+    "type": "World",
+    "name": "The Raging Demonic Bird",
+    "quest_id": 20075002,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 2070,
+            "gold": 1480,
+            "rift": 230,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2630,
+            "gold": 1880,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2630,
+            "gold": 1880,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Cockatrice Poison Gland",
+                        "item_id": 7745,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Griffin Glossy Plume",
+                        "item_id": 9439,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Moist Black Leather",
+                        "item_id": 7742,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Glossy Black Feather",
+                        "item_id": 7818,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

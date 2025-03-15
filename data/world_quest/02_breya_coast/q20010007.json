@@ -1,0 +1,303 @@
+{
+    "type": "World",
+    "name": "Shadow from the South Shore",
+    "quest_id": 20010007,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the demon group across from the southern shore",
+        "Defeat the found enemy",
+        "Search for the main force of enemies",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 21,
+            "minimum_item_rank": 0,
+            "xp": 690,
+            "gold": 570,
+            "rift": 60,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 24,
+            "minimum_item_rank": 0,
+            "xp": 790,
+            "gold": 660,
+            "rift": 70,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 32,
+            "minimum_item_rank": 0,
+            "xp": 1260,
+            "gold": 1050,
+            "rift": 160,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 1510,
+            "gold": 1510,
+            "rift": 180,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "21",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rock Armor",
+                        "item_id": 5228,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Rock Armor",
+                        "item_id": 5228,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Shaman's Robe",
+                        "item_id": 5439,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "24",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Shaman's Robe",
+                        "item_id": 5439,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fortifier",
+                        "item_id": 9377,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sorcerer's Coat",
+                        "item_id": 5442,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fortifier",
+                        "item_id": 9377,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sorcerer's Coat",
+                        "item_id": 5442,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Grand Surcoat",
+                        "item_id": 5231,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "32",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Faerie Band",
+                        "item_id": 9568,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Advent Circlet",
+                        "item_id": 9573,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Advent Circlet",
+                        "item_id": 9573,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Justice Holder",
+                        "item_id": 9643,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sand of Reminiscence",
+                        "item_id": 9441,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cracked Black Horn",
+                        "item_id": 7753,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Sand of Reminiscence",
+                        "item_id": 9441,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

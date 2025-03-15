@@ -1,0 +1,230 @@
+{
+    "type": "World",
+    "name": "The Mystery of the Wasted Ruins",
+    "quest_id": 20010005,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Head for the cellar",
+        "Defeat the enemy that stole in",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 19,
+            "minimum_item_rank": 0,
+            "xp": 620,
+            "gold": 620,
+            "rift": 80,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 21,
+            "minimum_item_rank": 0,
+            "xp": 690,
+            "gold": 690,
+            "rift": 90,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 1260,
+            "gold": 1010,
+            "rift": 200,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "19",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Power of Pawn",
+                        "item_id": 4765,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Antidote",
+                        "item_id": 37,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Dawn Staff",
+                        "item_id": 4886,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Antidote",
+                        "item_id": 37,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Dawn Staff",
+                        "item_id": 4886,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crescent Wand",
+                        "item_id": 4987,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Morgengl\u00fchen",
+                        "item_id": 5018,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "21",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mist Gem",
+                        "item_id": 7912,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Herb Salad",
+                        "item_id": 9407,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Mist Gem",
+                        "item_id": 7912,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Herb Salad",
+                        "item_id": 9407,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sinister Black Cloth",
+                        "item_id": 7947,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sinister Black Cloth",
+                        "item_id": 7947,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

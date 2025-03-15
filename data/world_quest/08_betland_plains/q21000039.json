@@ -1,0 +1,87 @@
+{
+    "type": "World",
+    "name": "Door of Jewelry: Truth behind the Legend",
+    "quest_id": 21000039,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 63,
+            "minimum_item_rank": 0,
+            "xp": 9302,
+            "gold": 2078,
+            "rift": 265,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "63",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Betland Medal",
+                        "item_id": 11005,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Aliment Extractant",
+                        "item_id": 8033,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Crest of Herculean Power (Burning)",
+                        "item_id": 16030,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Superior Magick (Burning)",
+                        "item_id": 16035,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Incineration",
+                        "item_id": 9258,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

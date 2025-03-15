@@ -1,0 +1,72 @@
+{
+    "type": "World",
+    "name": "High Difficulty: Demon Eradication",
+    "quest_id": 21000019,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Consecutive Subjugation Quest\u3011 Grant the wish of the Area Master and investigate the issues occurring near the dungeon.",
+    "steps": [
+        "Investigate the specified location",
+        "Defeat the encountered demons",
+        "Search within the specified dungeon",
+        "Defeat the monsters at locations in the dungeon (3 left)",
+        "Defeat the monsters at locations in the dungeon (2 left)",
+        "Defeat the monsters at locations in the dungeon (1 left)",
+        "Report to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 9379,
+            "gold": 2144,
+            "rift": 275,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "65",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Twilight (Decreased Dark Resist)",
+                        "item_id": 16065,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Crest of Twilight",
+                        "item_id": 9266,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Crest of Diminished Dark Resist",
+                        "item_id": 9276,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

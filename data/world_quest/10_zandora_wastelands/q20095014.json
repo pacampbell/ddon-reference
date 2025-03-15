@@ -1,0 +1,64 @@
+{
+    "type": "World",
+    "name": "Urgent Inspection: Zandora Wastelands Treasure Expedition",
+    "quest_id": 20095014,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Hear from the explorers and help eliminate their obstacles",
+    "steps": [
+        "Head to the designated location",
+        "Defeat the found dangerous demons",
+        "Report back to the Seeker"
+    ],
+    "variants": [
+        {
+            "level": 52,
+            "minimum_item_rank": 0,
+            "xp": 1710,
+            "gold": 1710,
+            "rift": 220,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1840,
+            "rift": 240,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2530,
+            "gold": 1550,
+            "rift": 280,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

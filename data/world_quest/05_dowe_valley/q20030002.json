@@ -1,0 +1,151 @@
+{
+    "type": "World",
+    "name": "Historical Mementos",
+    "quest_id": 20030002,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Retrieve the historical materials left in the castle (4 left)",
+        "Retrieve the historical materials left in the castle (3 left)",
+        "Retrieve the historical materials left in the castle (2 left)",
+        "Retrieve the historical materials left in the castle (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 35,
+            "minimum_item_rank": 0,
+            "xp": 960,
+            "gold": 1150,
+            "rift": 150,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1100,
+            "gold": 1320,
+            "rift": 170,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "35",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Freeze Warding",
+                        "item_id": 9317,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Crest of Freeze Warding",
+                        "item_id": 9317,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Strong Thread",
+                        "item_id": 7956,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Strong Thread",
+                        "item_id": 7956,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

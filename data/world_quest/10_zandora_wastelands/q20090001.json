@@ -1,0 +1,152 @@
+{
+    "type": "World",
+    "name": "\"The One Called \"\"Knight-Devourer\"\" \"",
+    "quest_id": 20090001,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the Knight-Devourer lurking in Mergoda Flood Channels",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 53,
+            "minimum_item_rank": 0,
+            "xp": 1920,
+            "gold": 1450,
+            "rift": 250,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 2540,
+            "gold": 1810,
+            "rift": 290,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 2750,
+            "gold": 1810,
+            "rift": 310,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "53",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mystery Organs",
+                        "item_id": 7744,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mergan Cloth",
+                        "item_id": 7950,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Ogre Claw",
+                        "item_id": 7766,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Alchemic Wood",
+                        "item_id": 9159,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sinister Horn",
+                        "item_id": 7748,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

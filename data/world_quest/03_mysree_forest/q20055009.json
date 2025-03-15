@@ -1,0 +1,76 @@
+{
+    "type": "World",
+    "name": "The Lullaby Echoing in the Ruins",
+    "quest_id": 20055009,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Recover relics abandoned in ruins",
+    "steps": [
+        "Be alert for enemies and pick up items that have fallen in the area (10 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (9 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (8 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (7 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (6 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (5 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (4 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (3 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (2 remaining).",
+        "Be alert for enemies and pick up items that have fallen in the area (1 remaining).",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1372,
+            "gold": 1195,
+            "rift": 125,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Elixir",
+                        "item_id": 7553,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Mining Free of Demons",
+    "quest_id": 22018012,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: Special\u3011 Listen to the Area Master's story. Gather and deliver within the specified time.",
+    "steps": [
+        "Gather party members within the location",
+        "Inquire details from the Area Master",
+        "Talk to the scout near the Monster Gathering Spot",
+        "During the period of \"Spot Boss not appearing\",  gather \"<SQDI NAME>\" at a Monster Gathering Spot and deliver 5 of them",
+        "Deliver <SQDI NUM> <SQDI NAME> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 8400,
+            "gold": 13750,
+            "rift": 1662,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "85",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Rathnite District)",
+                        "item_id": 18815,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 10
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

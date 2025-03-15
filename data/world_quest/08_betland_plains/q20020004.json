@@ -1,0 +1,109 @@
+{
+    "type": "World",
+    "name": "Lise's Lost Property",
+    "quest_id": 20020004,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Grant Lise's wish and search for her lost item.",
+    "steps": [
+        "Retrieve the lost item within the Foul Water Channel",
+        "Report to Lise"
+    ],
+    "variants": [
+        {
+            "level": 42,
+            "minimum_item_rank": 0,
+            "xp": 1150,
+            "gold": 1380,
+            "rift": 180,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "42",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "King Bay Leaf",
+                        "item_id": 7983,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "King Bay Leaf",
+                        "item_id": 7983,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "King Bay Leaf",
+                        "item_id": 7983,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

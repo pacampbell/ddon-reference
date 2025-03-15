@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "Friends to the End",
+    "quest_id": 21000059,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Quest\u3011 Listen to the requester's wishes and gather the specified supplies.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 3940,
+            "gold": 5360,
+            "rift": 687,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "65",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pebble Bud",
+                        "item_id": 11789,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

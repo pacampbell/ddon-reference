@@ -1,0 +1,193 @@
+{
+    "type": "World",
+    "name": "A Territorial Dispute",
+    "quest_id": 20040002,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Gilstan's wish and defeat the target enemy",
+    "steps": [
+        "Defeat the designated enemy outside the cave",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 26,
+            "minimum_item_rank": 0,
+            "xp": 1100,
+            "gold": 850,
+            "rift": 150,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 2490,
+            "gold": 1780,
+            "rift": 190,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 33,
+            "minimum_item_rank": 0,
+            "xp": 1520,
+            "gold": 1080,
+            "rift": 210,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1750,
+            "gold": 1250,
+            "rift": 250,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "26",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Battle Sallet",
+                        "item_id": 5205,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Interventive",
+                        "item_id": 9374,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "33",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Holy Drain Warding",
+                        "item_id": 9323,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Exquisite Fried Meat",
+                        "item_id": 9416,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Elixir",
+                        "item_id": 7553,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Permafrost",
+                        "item_id": 9260,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "type": "World",
+    "name": "The Bridges of Our Livelihood",
+    "quest_id": 20050009,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy near the bridge",
+        "Defeat the found enemy",
+        "Report to the requester",
+        "Defeat the enemies in the other locations (2 left)",
+        "Defeat the enemies in the other locations (1 left)"
+    ],
+    "variants": [
+        {
+            "level": 14,
+            "minimum_item_rank": 0,
+            "xp": 460,
+            "gold": 460,
+            "rift": 60,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 590,
+            "gold": 590,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 1510,
+            "gold": 1510,
+            "rift": 180,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "14",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Leather Armor",
+                        "item_id": 5125,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Lamellar Jacket",
+                        "item_id": 5126,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Lamellar Jacket",
+                        "item_id": 5126,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Calm Robe",
+                        "item_id": 5158,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Soldier's Ring",
+                        "item_id": 8947,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Potion",
+                        "item_id": 35,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Fang Wristband",
+                        "item_id": 8966,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Potion",
+                        "item_id": 35,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sand of Reminiscence",
+                        "item_id": 9441,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cracked Black Horn",
+                        "item_id": 7753,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sand of Reminiscence",
+                        "item_id": 9441,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "type": "World",
+    "name": "Source of Disturbance",
+    "quest_id": 21016000,
+    "area_id": "MorrowForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Enemy Horde Extermination Quest\u3011 Listen to the client's request. Exterminate the horde of enemies.",
+    "steps": [
+        "Search for a group of monsters at the designated location (3 remaining)",
+        "Defeat the encountered demon group",
+        "Search for the remaining groups of monsters (2 remaining)",
+        "Defeat the encountered demon group",
+        "Find the group of monsters that remain (1 remaining)",
+        "Defeat the encountered demon group",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 9210,
+            "gold": 2309,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Bornite Ingot",
+                        "item_id": 7883,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

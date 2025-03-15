@@ -1,0 +1,41 @@
+{
+    "type": "World",
+    "name": "First to Trade",
+    "quest_id": 21014004,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 0,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

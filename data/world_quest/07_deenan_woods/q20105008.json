@@ -1,0 +1,50 @@
+{
+    "type": "World",
+    "name": "Urgent Inspection: Deenan Woods Treasure Expedition",
+    "quest_id": 20105008,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the enemies hindering the explorer.",
+    "steps": [
+        "Defeat the demons obstructing the explorer"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1480,
+            "gold": 1480,
+            "rift": 190,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 2310,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

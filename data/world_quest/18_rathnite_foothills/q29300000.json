@@ -1,0 +1,63 @@
+{
+    "type": "World",
+    "name": "Dacreim Fortress Recapture Battle",
+    "quest_id": 29300000,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010War Mission\u3011 Advance to the occupied Dacreim Fortress and defeat the commanding officer of the Evil Dragon army.",
+    "steps": [
+        "Defeat the enemy army in the attack area",
+        "Report to Ashton",
+        "Gather at the progress marker and move to the fortress",
+        "Advance into the fortress",
+        "Defeat the Evil Dragon army occupying the Central Square",
+        "Eliminate the Beast Commander at the location."
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5500,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "85",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Rathnite District)",
+                        "item_id": 18815,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

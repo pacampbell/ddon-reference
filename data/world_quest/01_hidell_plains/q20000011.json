@@ -1,0 +1,91 @@
+{
+    "type": "World",
+    "name": "A Concern for Artifacts",
+    "quest_id": 20000011,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Klaus' request and collect the pertinent items.",
+    "steps": [
+        "Head to Zoma Village and search for the man  who knows the information.",
+        "Search for the specified enemy",
+        "Defeat the found enemy",
+        "Speak with Zoma village bandits",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 1510,
+            "gold": 1260,
+            "rift": 200,
+            "ap": 920,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sinister Carrion",
+                        "item_id": 7741,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sinister Carrion",
+                        "item_id": 7741,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

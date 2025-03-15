@@ -1,0 +1,107 @@
+{
+    "type": "World",
+    "name": "The Missing Report",
+    "quest_id": 20020001,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Search for the Arisen that has not returned from surveying",
+        "Defeat the encountered enemy",
+        "Speak with the wounded Arisen",
+        "Deliver the report to the requester",
+        "Deliver the report to Vanessa"
+    ],
+    "variants": [
+        {
+            "level": 31,
+            "minimum_item_rank": 0,
+            "xp": 1020,
+            "gold": 850,
+            "rift": 130,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "31",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Loneliness Gloves",
+                        "item_id": 9663,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Loneliness Gloves",
+                        "item_id": 9663,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dignity Boots",
+                        "item_id": 9713,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Loneliness Gloves",
+                        "item_id": 9663,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dignity Boots",
+                        "item_id": 9713,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

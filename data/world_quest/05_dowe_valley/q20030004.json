@@ -1,0 +1,177 @@
+{
+    "type": "World",
+    "name": "Undying Pride",
+    "quest_id": 20030004,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Help Gerd and assist in retrieving the knight's belongings.",
+    "steps": [
+        "Defeat the enemy in \"Knights' Old Guardhouse\"",
+        "Defeat the found enemy",
+        "Search for abandoned Knights' possessions.",
+        "Report to Gerd"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1180,
+            "gold": 990,
+            "rift": 150,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 32,
+            "minimum_item_rank": 0,
+            "xp": 1260,
+            "gold": 1050,
+            "rift": 160,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Victory Bracers",
+                        "item_id": 5389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Soldier Arms",
+                        "item_id": 5392,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Soldier Arms",
+                        "item_id": 5392,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "32",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Resolver Arms",
+                        "item_id": 5605,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Resolver Arms",
+                        "item_id": 5605,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Iron Bracers",
+                        "item_id": 5393,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

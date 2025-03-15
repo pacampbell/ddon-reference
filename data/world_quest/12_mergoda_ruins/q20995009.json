@@ -1,0 +1,105 @@
+{
+    "type": "World",
+    "name": "The Experiment Strikes Back",
+    "quest_id": 20995009,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 52,
+            "minimum_item_rank": 0,
+            "xp": 1880,
+            "gold": 1570,
+            "rift": 250,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 52,
+            "minimum_item_rank": 0,
+            "xp": 1880,
+            "gold": 1570,
+            "rift": 250,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "52",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Alchemic Wood",
+                        "item_id": 9159,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "52",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Thread",
+                        "item_id": 7743,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Transmuted Gold Feather",
+                        "item_id": 7822,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

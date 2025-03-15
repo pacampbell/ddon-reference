@@ -1,0 +1,41 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Dredging at Dawn",
+    "quest_id": 21014023,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: 4 to 7 (GT)\u3011 Speak with the area master,  then gather and deliver items  under the specific conditions.",
+    "steps": [
+        "Gather party members in the camp from 04:00 to 07:00 (GT)",
+        "Inquire details from the requester from 04:00 to 07:00 (GT)",
+        "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 14> from 04:00 to 07:00 (GT)",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 5470,
+            "gold": 11233,
+            "rift": 1662,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

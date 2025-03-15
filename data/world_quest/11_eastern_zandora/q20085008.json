@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "The Dead Lord's Retainers",
+    "quest_id": 20085008,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2190,
+            "gold": 1880,
+            "rift": 250,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dark Metal",
+                        "item_id": 7887,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon Arming Points",
+                        "item_id": 8022,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

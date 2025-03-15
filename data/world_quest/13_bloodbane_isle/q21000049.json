@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "Door of Dragon Force: The Beast's Lair",
+    "quest_id": 21000049,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 63,
+            "minimum_item_rank": 0,
+            "xp": 9302,
+            "gold": 2078,
+            "rift": 265,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "63",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Stalactite Tip",
+                        "item_id": 11775,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Aliment Extractant",
+                        "item_id": 8033,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

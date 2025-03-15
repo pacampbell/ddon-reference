@@ -1,0 +1,227 @@
+{
+    "type": "World",
+    "name": "Echoing Footsteps in the Cave",
+    "quest_id": 20050005,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy in \"Glowworm Cave\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 19,
+            "minimum_item_rank": 0,
+            "xp": 870,
+            "gold": 620,
+            "rift": 100,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1630,
+            "gold": 1230,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2900,
+            "gold": 1910,
+            "rift": 330,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2480,
+            "gold": 1910,
+            "rift": 330,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "19",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Legs",
+                        "item_id": 8407,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Solemn Legs",
+                        "item_id": 5253,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Solemn Legs",
+                        "item_id": 5253,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sacred Greaves",
+                        "item_id": 5465,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Tar Prevention",
+                        "item_id": 9340,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Drench Prevention",
+                        "item_id": 9338,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Stunning Prevention",
+                        "item_id": 9336,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dragon Horn",
+                        "item_id": 7754,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Smooth Dragonleather",
+                        "item_id": 7927,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angules Horn",
+                        "item_id": 7756,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "World",
+    "name": "Expedition Preparations",
+    "quest_id": 20100000,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Fulfill Lise's request by defeating the enemies found in the ruins.",
+    "steps": [
+        "Defeat the designated enemy in \"Sunset Terrace\"",
+        "Defeat the found enemy",
+        "Report to Lise"
+    ],
+    "variants": [
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 1890,
+            "gold": 1350,
+            "rift": 210,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "41",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Strong Acid Slime Piece",
+                        "item_id": 7837,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Special Mushroom Dip",
+                        "item_id": 9419,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Lava Rock",
+                        "item_id": 7869,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

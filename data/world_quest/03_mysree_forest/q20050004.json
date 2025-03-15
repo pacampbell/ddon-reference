@@ -1,0 +1,156 @@
+{
+    "type": "World",
+    "name": "Flowers Bathed in Light",
+    "quest_id": 20050004,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Retrieve the flowers in the Glowworm Cave (3 left)",
+        "Retrieve the flowers in the Glowworm Cave (2 left)",
+        "Retrieve the flowers in the Glowworm Cave (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 19,
+            "minimum_item_rank": 0,
+            "xp": 520,
+            "gold": 620,
+            "rift": 80,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 21,
+            "minimum_item_rank": 0,
+            "xp": 570,
+            "gold": 760,
+            "rift": 90,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "19",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wizard's Ring",
+                        "item_id": 8948,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Periapt",
+                        "item_id": 42,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shaman Bracelet",
+                        "item_id": 8973,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Gryphus Mantle",
+                        "item_id": 5691,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shaman Bracelet",
+                        "item_id": 8973,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Periapt",
+                        "item_id": 42,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "21",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Composite Sleeves",
+                        "item_id": 5386,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Composite Sleeves",
+                        "item_id": 5386,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Buster Knuckles",
+                        "item_id": 5598,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

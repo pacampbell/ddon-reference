@@ -1,0 +1,145 @@
+{
+    "type": "World",
+    "name": "A Malice in the Dark",
+    "quest_id": 20010004,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "<COL ffdc78>\u3010Enemy appears during\uff1aNight</COL> Listen to Rudolfo's Request, Investigate the relevant location",
+    "steps": [
+        "Investigate the signs of disturbance at night",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 490,
+            "gold": 490,
+            "rift": 60,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 590,
+            "gold": 590,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Amethyst",
+                        "item_id": 7897,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Amethyst",
+                        "item_id": 7897,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sorcerer's Hat",
+                        "item_id": 8157,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sacred Hood",
+                        "item_id": 5411,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sacred Hood",
+                        "item_id": 5411,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sorel Helm",
+                        "item_id": 5201,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

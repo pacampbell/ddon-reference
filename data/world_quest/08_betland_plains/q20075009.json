@@ -1,0 +1,40 @@
+{
+    "type": "World",
+    "name": "Urgent Inspection: Northern Betland Plains Treasure Expedition",
+    "quest_id": 20075009,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Hear from explorers and help eliminate obstacles to exploration",
+    "steps": [
+        "Head to the designated location",
+        "Defeat the found dangerous demons",
+        "Report back to the searcher"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1540,
+            "gold": 1320,
+            "rift": 170,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

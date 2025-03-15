@@ -1,0 +1,152 @@
+{
+    "type": "World",
+    "name": "The Attacking Bite",
+    "quest_id": 20085006,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy at the specified location",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 3170,
+            "gold": 1810,
+            "rift": 360,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 1980,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 1980,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mergan Cloth",
+                        "item_id": 7950,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Thick Dragonscale",
+                        "item_id": 7929,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Behemoth Fang",
+                        "item_id": 7799,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Amber Dragonscale",
+                        "item_id": 7930,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Huge Dragon Bone Lump",
+                        "item_id": 7806,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dragon Hide",
+                        "item_id": 7928,
+                        "amount": 5
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

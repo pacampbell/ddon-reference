@@ -1,0 +1,128 @@
+{
+    "type": "World",
+    "name": "An Altered Beast Attacks!",
+    "quest_id": 20995005,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Uncover the true nature of the monster",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 3630,
+            "gold": 1810,
+            "rift": 360,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 5420,
+            "gold": 3630,
+            "rift": 330,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Alchemized Armor Plate",
+                        "item_id": 8031,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Alkahest",
+                        "item_id": 7833,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Alchemized Armor Plate",
+                        "item_id": 8031,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Bright Gold Feather",
+                        "item_id": 7823,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alchemized Armor Plate",
+                        "item_id": 8031,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Bone Meal",
+                        "item_id": 7850,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

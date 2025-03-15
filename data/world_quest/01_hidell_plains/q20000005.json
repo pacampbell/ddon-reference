@@ -1,0 +1,259 @@
+{
+    "type": "World",
+    "name": "The Mysterious Monolith",
+    "quest_id": 20000005,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat all enemies encountered within The Ark",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 830,
+            "gold": 590,
+            "rift": 70,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 920,
+            "gold": 660,
+            "rift": 70,
+            "ap": 220,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 23,
+            "minimum_item_rank": 0,
+            "xp": 750,
+            "gold": 750,
+            "rift": 90,
+            "ap": 220,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1840,
+            "rift": 180,
+            "ap": 1340,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Vigorous Legs",
+                        "item_id": 8382,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shielder Legs",
+                        "item_id": 5571,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Ranger Cuisses",
+                        "item_id": 5360,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "20",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Executioner's Mask",
+                        "item_id": 9543,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fortifier",
+                        "item_id": 9377,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Legacy Band",
+                        "item_id": 9553,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lestanian Vest",
+                        "item_id": 9628,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "23",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mysterious Gold Lump",
+                        "item_id": 8026,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Mysterious Gold Lump",
+                        "item_id": 8026,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rainbow Eye Gem",
+                        "item_id": 7731,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alkahest",
+                        "item_id": 7833,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Drilled Ore",
+                        "item_id": 7863,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Rainbow Eye Gem",
+                        "item_id": 7731,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alkahest",
+                        "item_id": 7833,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Guardian of the Diseased Forest",
+    "quest_id": 21016010,
+    "area_id": "MorrowForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Eliminate the newly emerged monster right away to prevent the crisis.",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 13814,
+            "gold": 2309,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ancient Iron Ore",
+                        "item_id": 15917,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

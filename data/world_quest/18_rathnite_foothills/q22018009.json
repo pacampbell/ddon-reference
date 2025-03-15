@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Love Thy Neighbor",
+    "quest_id": 22018009,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Swift Rescue Quest\u3011 Search for the person the client is seeking and rescue them.",
+    "steps": [
+        "Search for the person the client is seeking.",
+        "Defeat the demon quickly and rescue your charge",
+        "Confirm the safety of your charge",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 80,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5139,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "80",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Magickal Potion",
+                        "item_id": 7832,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Royal Crest Medal (Rathnite District)",
+                        "item_id": 18815,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Cursed Letter",
+                        "item_id": 17878,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

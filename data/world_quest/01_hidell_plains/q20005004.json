@@ -1,0 +1,189 @@
+{
+    "type": "World",
+    "name": "Whispers of the Dark",
+    "quest_id": 20005004,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 620,
+            "gold": 420,
+            "rift": 60,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 25,
+            "minimum_item_rank": 0,
+            "xp": 1150,
+            "gold": 820,
+            "rift": 130,
+            "ap": 320,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "13",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Palm Flower",
+                        "item_id": 4764,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Recovery Decoction",
+                        "item_id": 9373,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Power of Pawn",
+                        "item_id": 4765,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Recovery Decoction",
+                        "item_id": 9373,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Power of Pawn",
+                        "item_id": 4765,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Magic in the Cage",
+                        "item_id": 4790,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Doppel Sch\u00fctze",
+                        "item_id": 4797,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "25",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rock Armor",
+                        "item_id": 5228,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Poison Flask",
+                        "item_id": 9395,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Grand Surcoat",
+                        "item_id": 5231,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Black Skull",
+                        "item_id": 7769,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Grand Surcoat",
+                        "item_id": 5231,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sorcerer's Coat",
+                        "item_id": 5442,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Black Skull",
+                        "item_id": 7769,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

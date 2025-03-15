@@ -1,0 +1,154 @@
+{
+    "type": "World",
+    "name": "A Heart Throbs Once More",
+    "quest_id": 20000014,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Do Mayleaf a favor and collect the pertinent items.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to Mayleaf (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 260,
+            "gold": 790,
+            "rift": 20,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 28,
+            "minimum_item_rank": 0,
+            "xp": 920,
+            "gold": 1600,
+            "rift": 90,
+            "ap": 320,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1320,
+            "gold": 8000,
+            "rift": 130,
+            "ap": 440,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Leather Bottoms",
+                        "item_id": 5127,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Mercenary Leg-Guards",
+                        "item_id": 8402,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "28",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Hard Leather Cloth",
+                        "item_id": 7937,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Thread",
+                        "item_id": 7955,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "type": "World",
+    "name": "After That Dragon!",
+    "quest_id": 20035009,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 36,
+            "minimum_item_rank": 0,
+            "xp": 1660,
+            "gold": 1180,
+            "rift": 230,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1320,
+            "rift": 260,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 1980,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "36",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dragon Hide",
+                        "item_id": 7928,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dragonleather",
+                        "item_id": 7941,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Water Dragon Fang",
+                        "item_id": 7765,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dragonleather",
+                        "item_id": 7941,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Spectral Dragon Claw",
+                        "item_id": 7802,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Spectral Dragonscale",
+                        "item_id": 7922,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

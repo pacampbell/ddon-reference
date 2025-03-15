@@ -1,0 +1,194 @@
+{
+    "type": "World",
+    "name": "A Nest of Labor and Love",
+    "quest_id": 20030000,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Search for the specified enemy",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 32,
+            "minimum_item_rank": 0,
+            "xp": 1050,
+            "gold": 1580,
+            "rift": 140,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 36,
+            "minimum_item_rank": 0,
+            "xp": 1180,
+            "gold": 1780,
+            "rift": 150,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Deft Gloves",
+                        "item_id": 5601,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Soldier Arms",
+                        "item_id": 5392,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "32",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Soldier Arms",
+                        "item_id": 5392,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "36",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Blind Warding",
+                        "item_id": 9326,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

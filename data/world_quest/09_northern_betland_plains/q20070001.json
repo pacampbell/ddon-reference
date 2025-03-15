@@ -1,0 +1,90 @@
+{
+    "type": "World",
+    "name": "A Dubious Remedy",
+    "quest_id": 20070001,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Search for the treasure hidden within the Underground Crypt",
+        "Defeat the encountered enemy",
+        "Search for the treasure hidden within the Underground Crypt",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1480,
+            "gold": 1480,
+            "rift": 190,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dr\u00f3mi",
+                        "item_id": 7958,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Corpse-Eater's Horn",
+                        "item_id": 7751,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dr\u00f3mi",
+                        "item_id": 7958,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

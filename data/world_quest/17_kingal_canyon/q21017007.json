@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "Door of Jewelry: Elegy of the Grotesque",
+    "quest_id": 21017007,
+    "area_id": "KingalCanyon",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 73,
+            "minimum_item_rank": 0,
+            "xp": 26200,
+            "gold": 4408,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "73",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Unappraised Flower Trinket (General)",
+                        "item_id": 13484,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Manticore's Scorpion Tail",
+                        "item_id": 11805,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Medusa's Serpent Hair",
+                        "item_id": 13224,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

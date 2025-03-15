@@ -1,0 +1,142 @@
+{
+    "type": "World",
+    "name": "Beloved Forest",
+    "quest_id": 20000013,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Heed Mayleaf's wish. Defeat the target enemy.",
+    "steps": [
+        "Defeat the demons attacking the forest",
+        "Defeat the found enemy",
+        "Report to Mayleaf"
+    ],
+    "variants": [
+        {
+            "level": 12,
+            "minimum_item_rank": 0,
+            "xp": 750,
+            "gold": 490,
+            "rift": 80,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 750,
+            "gold": 490,
+            "rift": 80,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1500,
+            "gold": 990,
+            "rift": 170,
+            "ap": 440,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "12",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mace",
+                        "item_id": 4745,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Periapt",
+                        "item_id": 42,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Thousand Troops",
+                        "item_id": 4747,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Muscular Wall",
+                        "item_id": 4752,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wiseman Cloak",
+                        "item_id": 5693,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

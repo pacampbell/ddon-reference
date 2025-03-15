@@ -1,0 +1,108 @@
+{
+    "type": "World",
+    "name": "The Lurking Marauders",
+    "quest_id": 20025003,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1250,
+            "gold": 1040,
+            "rift": 160,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Red Alloy Ingot",
+                        "item_id": 7888,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Red Alloy Ingot",
+                        "item_id": 7888,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Red Alloy Ingot",
+                        "item_id": 7888,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

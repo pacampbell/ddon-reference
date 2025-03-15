@@ -1,0 +1,131 @@
+{
+    "type": "World",
+    "name": "The Dead City's Chronicles",
+    "quest_id": 20090000,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Fulfill Lise's request and bring back the desired items.",
+    "steps": [
+        "Search for the book in Mergoda Security District",
+        "Defeat the encountered enemy",
+        "Search for the book in Mergoda Security District",
+        "Report to Lise"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 1880,
+            "gold": 1340,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 2500,
+            "gold": 1650,
+            "rift": 280,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demonic Gem",
+                        "item_id": 7911,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

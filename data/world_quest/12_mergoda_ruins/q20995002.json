@@ -1,0 +1,111 @@
+{
+    "type": "World",
+    "name": "The Blue Dragon's Shadow",
+    "quest_id": 20995002,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the blue dragon",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 51,
+            "minimum_item_rank": 0,
+            "xp": 2940,
+            "gold": 1680,
+            "rift": 330,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 1980,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "51",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Star Sphene",
+                        "item_id": 7914,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

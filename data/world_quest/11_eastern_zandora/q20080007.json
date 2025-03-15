@@ -1,0 +1,193 @@
+{
+    "type": "World",
+    "name": "The Evil Draws Near",
+    "quest_id": 20080007,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy at the specified location",
+        "Defeat the enemy gathering near the village",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 47,
+            "minimum_item_rank": 0,
+            "xp": 2530,
+            "gold": 1550,
+            "rift": 280,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 2030,
+            "gold": 1580,
+            "rift": 230,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 51,
+            "minimum_item_rank": 0,
+            "xp": 5080,
+            "gold": 3630,
+            "rift": 290,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2630,
+            "gold": 1880,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "47",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Shadowy Claw",
+                        "item_id": 7800,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dr\u00f3mi",
+                        "item_id": 7958,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "51",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Phantom Metal",
+                        "item_id": 7890,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Ambrosial Beast-Steak",
+                        "item_id": 7727,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Griffin Beak",
+                        "item_id": 7758,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

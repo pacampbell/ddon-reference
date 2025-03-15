@@ -1,0 +1,131 @@
+{
+    "type": "World",
+    "name": "Approaching Hostility",
+    "quest_id": 20050000,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Repel enemies that gather nearby",
+        "Defeat the found enemy",
+        "Pursue the signs of further monsters",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 330,
+            "gold": 270,
+            "rift": 30,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 420,
+            "gold": 350,
+            "rift": 50,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "10",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Fluorite Earrings",
+                        "item_id": 8931,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Warm and Fuzzy Cat Mask (Yellow)",
+                        "item_id": 10707,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "13",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Decreased Ice Resist",
+                        "item_id": 9269,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fireproof Draught",
+                        "item_id": 9370,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Dalmatica",
+                        "item_id": 5142,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Decreased Ice Resist",
+                        "item_id": 9269,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

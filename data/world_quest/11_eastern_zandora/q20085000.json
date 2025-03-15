@@ -1,0 +1,152 @@
+{
+    "type": "World",
+    "name": "The Lord of the Wastes",
+    "quest_id": 20085000,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Seek out the enemy at the Lakebottom Connecting Passage",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 52,
+            "minimum_item_rank": 0,
+            "xp": 1880,
+            "gold": 1430,
+            "rift": 250,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 52,
+            "minimum_item_rank": 0,
+            "xp": 1880,
+            "gold": 1430,
+            "rift": 250,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 1990,
+            "gold": 1510,
+            "rift": 260,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "52",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Cursed Skull",
+                        "item_id": 7772,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "52",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Cursed Skull",
+                        "item_id": 7772,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Phantom Metal",
+                        "item_id": 7890,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon Arming Points",
+                        "item_id": 8022,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

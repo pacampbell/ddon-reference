@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Cloudy Mining",
+    "quest_id": 21015006,
+    "area_id": "FaranaPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: Cloudy Weather\u3011 Speak with the area master,  then gather and submit items  under the specific conditions.",
+    "steps": [
+        "Gather party members in the camp during \"Cloudy\" weather",
+        "Inquire details from the requester during \"Cloudy\" weather",
+        "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 15> during \"Cloudy\" weather",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 5470,
+            "gold": 11233,
+            "rift": 1662,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "75",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pixie Mock Wing",
+                        "item_id": 15959,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

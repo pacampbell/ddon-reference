@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Foresight",
+    "quest_id": 21017004,
+    "area_id": "KingalCanyon",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 24615,
+            "gold": 4494,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "75",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Illustrated Old Cloth",
+                        "item_id": 15979,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

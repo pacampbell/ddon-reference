@@ -1,0 +1,111 @@
+{
+    "type": "World",
+    "name": "The Sole Sign",
+    "quest_id": 20080002,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Heed Dion's wish to take down the target enemy.",
+    "steps": [
+        "Defeat the enemy in \"Empty Chapel\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 1510,
+            "gold": 1370,
+            "rift": 240,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 2140,
+            "gold": 1370,
+            "rift": 280,
+            "ap": 1310,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demon Arming Points",
+                        "item_id": 8022,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Shadowy Claw",
+                        "item_id": 7800,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

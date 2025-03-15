@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Elanic Contrast",
+    "quest_id": 21014018,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Chance Encounter: Subjugation Quest\u3011 Track down the dangerous enemy that has appeared and defeat it.",
+    "steps": [
+        "Defeat the appeared demons",
+        "Look into the signs left by the fleeing beast.",
+        "Track down the demons",
+        "Hunt down and stop the dangerous monsters"
+    ],
+    "variants": [
+        {
+            "level": 80,
+            "minimum_item_rank": 0,
+            "xp": 48420,
+            "gold": 5106,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "80",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sancto Sap",
+                        "item_id": 15990,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Thousand-Year Moss",
+                        "item_id": 16012,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Transparent Coarse Sand",
+                        "item_id": 15983,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

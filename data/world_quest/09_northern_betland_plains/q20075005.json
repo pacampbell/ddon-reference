@@ -1,0 +1,82 @@
+{
+    "type": "World",
+    "name": "The Corpse-Eating White Demon",
+    "quest_id": 20075005,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 43,
+            "minimum_item_rank": 0,
+            "xp": 1980,
+            "gold": 1410,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "43",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "White Shining Sand",
+                        "item_id": 7851,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Sentry Tights",
+                        "item_id": 8737,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

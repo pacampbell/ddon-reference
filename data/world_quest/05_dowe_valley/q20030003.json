@@ -1,0 +1,229 @@
+{
+    "type": "World",
+    "name": "The Timeless Castle",
+    "quest_id": 20030003,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and defeat the target enemy in the castle",
+    "steps": [
+        "Defeat the enemy haunting in \"Dreed Castle\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1320,
+            "rift": 260,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 51,
+            "minimum_item_rank": 0,
+            "xp": 2940,
+            "gold": 1680,
+            "rift": 330,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 3340,
+            "gold": 1910,
+            "rift": 380,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2900,
+            "gold": 1910,
+            "rift": 330,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2870,
+            "gold": 1590,
+            "rift": 380,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Incineration",
+                        "item_id": 9258,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Exquisite Fried Meat",
+                        "item_id": 9416,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "51",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sacred Blessed Cloth",
+                        "item_id": 7943,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dragon Fang",
+                        "item_id": 7763,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Thick Dragonscale",
+                        "item_id": 7929,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Behemoth Fang",
+                        "item_id": 7799,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dragon Horn",
+                        "item_id": 7754,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Smooth Dragonleather",
+                        "item_id": 7927,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angules Horn",
+                        "item_id": 7756,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

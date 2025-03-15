@@ -1,0 +1,125 @@
+{
+    "type": "World",
+    "name": "The Residents of Darkness",
+    "quest_id": 20020009,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Seek out the enemy in the depths of the cemetery",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 1350,
+            "gold": 1120,
+            "rift": 180,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Strong Thread",
+                        "item_id": 7956,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "41",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

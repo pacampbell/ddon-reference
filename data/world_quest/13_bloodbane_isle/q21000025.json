@@ -1,0 +1,87 @@
+{
+    "type": "World",
+    "name": "Door of Treasures: Bloodlust",
+    "quest_id": 21000025,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3783,
+            "gold": 11880,
+            "rift": 250,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ice Cube Fragment",
+                        "item_id": 11504,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Aliment Extractant",
+                        "item_id": 8033,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Crest of Herculean Power (Blinding)",
+                        "item_id": 16034,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Superior Magick (Blinding)",
+                        "item_id": 16042,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Twilight",
+                        "item_id": 9266,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

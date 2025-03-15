@@ -1,0 +1,207 @@
+{
+    "type": "World",
+    "name": "The Snow-White Lion King",
+    "quest_id": 20105000,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 42,
+            "minimum_item_rank": 0,
+            "xp": 1940,
+            "gold": 1380,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 43,
+            "minimum_item_rank": 0,
+            "xp": 1980,
+            "gold": 1410,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 4150,
+            "gold": 2970,
+            "rift": 230,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "42",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Greater Magick",
+                        "item_id": 9200,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Pure White Mane",
+                        "item_id": 7780,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Greater Magick",
+                        "item_id": 9200,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "43",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Holy Guard Earrings",
+                        "item_id": 9003,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Pure White Mane",
+                        "item_id": 7780,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Holy Guard Earrings",
+                        "item_id": 9003,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pure White Mane",
+                        "item_id": 7780,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Dragon's Spit",
+                        "item_id": 9399,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Dragon's Spit",
+                        "item_id": 9399,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

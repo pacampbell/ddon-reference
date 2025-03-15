@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "The Young Custodian",
+    "quest_id": 21016004,
+    "area_id": "MorrowForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Quest\u3011 Listen to the requester's wishes and gather the specified supplies.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 7675,
+            "gold": 5772,
+            "rift": 750,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Silver Ingot",
+                        "item_id": 7875,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

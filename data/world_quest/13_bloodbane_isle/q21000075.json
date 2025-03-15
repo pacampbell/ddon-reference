@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "What Lies beneath the Waters",
+    "quest_id": 21000075,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Eliminate the newly emerged monster right away to prevent the crisis.",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 10665,
+            "gold": 2243,
+            "rift": 290,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "68",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ball Moss",
+                        "item_id": 11797,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

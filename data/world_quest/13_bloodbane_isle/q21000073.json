@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Secure the Outpost",
+    "quest_id": 21000073,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 7092,
+            "gold": 2144,
+            "rift": 275,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "65",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Thread",
+                        "item_id": 7743,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

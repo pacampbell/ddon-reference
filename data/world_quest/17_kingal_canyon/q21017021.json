@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Proof of Quarantine",
+    "quest_id": 21017021,
+    "area_id": "KingalCanyon",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 78,
+            "minimum_item_rank": 0,
+            "xp": 33165,
+            "gold": 5073,
+            "rift": 55,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "78",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Still-Beating Heart",
+                        "item_id": 16010,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Medusa's Serpent Hair",
+                        "item_id": 13224,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "World",
+    "name": "Door of Treasures: Claws that Cleave the Glacier",
+    "quest_id": 21015024,
+    "area_id": "FaranaPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 13675,
+            "gold": 26961,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

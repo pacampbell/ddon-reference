@@ -1,0 +1,147 @@
+{
+    "type": "World",
+    "name": "In the Darkness",
+    "quest_id": 20050001,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and pursue the whereabouts of comrades further in the waterway.",
+    "steps": [
+        "Confirm the safety of the adventurers in the Lynwood Sewers (3 left)",
+        "Confirm the safety of the adventurers (2 left)",
+        "Confirm the safety of the adventurers (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 14,
+            "minimum_item_rank": 0,
+            "xp": 380,
+            "gold": 460,
+            "rift": 60,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 440,
+            "gold": 520,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "14",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Ore Fragment",
+                        "item_id": 7853,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Hot Gel",
+                        "item_id": 9371,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "16",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Knight's Honor",
+                        "item_id": 4776,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Restorative",
+                        "item_id": 9369,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Woody Magick",
+                        "item_id": 4778,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Restorative",
+                        "item_id": 9369,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Woody Magick",
+                        "item_id": 4778,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Power Rod",
+                        "item_id": 4771,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

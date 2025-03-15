@@ -1,0 +1,189 @@
+{
+    "type": "World",
+    "name": "Knight and Arisen",
+    "quest_id": 20000015,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Heinz's request and defeat the target enemy",
+    "steps": [
+        "Seek out the enemies at the marked location",
+        "Defeat the found enemy",
+        "Report to Heinz"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 460,
+            "gold": 330,
+            "rift": 30,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 600,
+            "gold": 420,
+            "rift": 50,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 730,
+            "gold": 520,
+            "rift": 60,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "10",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wolf Head",
+                        "item_id": 5104,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Eyedrops",
+                        "item_id": 39,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Bronze Sallet",
+                        "item_id": 5106,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Magician's Hood",
+                        "item_id": 8152,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "13",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Leather Armor",
+                        "item_id": 5125,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Lamellar Jacket",
+                        "item_id": 5126,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "16",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Noble Greaves",
+                        "item_id": 5161,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Purifying Decoction",
+                        "item_id": 9372,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Vigorous Legs",
+                        "item_id": 8382,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Iron Legs",
+                        "item_id": 8407,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

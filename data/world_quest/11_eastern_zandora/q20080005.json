@@ -1,0 +1,193 @@
+{
+    "type": "World",
+    "name": "The Wings of Darkness",
+    "quest_id": 20080005,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "<COL ffdc78>\u3010Enemy appears during\uff1aNight\u3011</COL> Heed Salamis's request and investigate the rumors.",
+    "steps": [
+        "Defeat the cause of the rumors",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 2580,
+            "gold": 1580,
+            "rift": 290,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 51,
+            "minimum_item_rank": 0,
+            "xp": 2740,
+            "gold": 1680,
+            "rift": 310,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2670,
+            "gold": 1910,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2670,
+            "gold": 1910,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Glossy Black Feather",
+                        "item_id": 7818,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "51",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Glossy Black Feather",
+                        "item_id": 7818,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Nightmare's Vocal Cords",
+                        "item_id": 7746,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Fowl Feather",
+                        "item_id": 7819,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Emerald",
+                        "item_id": 7898,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

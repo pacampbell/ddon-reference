@@ -1,0 +1,231 @@
+{
+    "type": "World",
+    "name": "Wounded Honor",
+    "quest_id": 20040009,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Gerd's request and rescue the captured Knight",
+    "steps": [
+        "Search for the knights trapped within the Bandit Hideout",
+        "Defeat the designated formidable enemy",
+        "Speak with the knight",
+        "Report to Gerd"
+    ],
+    "variants": [
+        {
+            "level": 34,
+            "minimum_item_rank": 0,
+            "xp": 1120,
+            "gold": 930,
+            "rift": 140,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1230,
+            "gold": 1030,
+            "rift": 190,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 1230,
+            "gold": 1030,
+            "rift": 190,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "34",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Expedition Shirt",
+                        "item_id": 5661,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Twin Cross Vest",
+                        "item_id": 8602,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Twin Cross Vest",
+                        "item_id": 8602,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Limber Metal Hose",
+                        "item_id": 5678,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Twin Cross Vest",
+                        "item_id": 8602,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Limber Metal Hose",
+                        "item_id": 5678,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Blow-Resistant Cloth",
+                        "item_id": 7942,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Blow-Resistant Cloth",
+                        "item_id": 7942,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Blow-Resistant Cloth",
+                        "item_id": 7942,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

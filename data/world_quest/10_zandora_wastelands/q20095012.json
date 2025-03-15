@@ -1,0 +1,152 @@
+{
+    "type": "World",
+    "name": "Monster Burning from Within",
+    "quest_id": 20095012,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy at the specified location",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 47,
+            "minimum_item_rank": 0,
+            "xp": 5080,
+            "gold": 3630,
+            "rift": 290,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 2210,
+            "gold": 1580,
+            "rift": 250,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 2310,
+            "gold": 1650,
+            "rift": 260,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "47",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "High Quality Magick Medal",
+                        "item_id": 7870,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "High Quality Magick Medal",
+                        "item_id": 7870,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "type": "World",
+    "name": "Dispatch a Clamor of Harpies!",
+    "quest_id": 20015005,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 290,
+            "gold": 220,
+            "rift": 30,
+            "ap": 50,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 11,
+            "minimum_item_rank": 0,
+            "xp": 390,
+            "gold": 300,
+            "rift": 50,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 26,
+            "minimum_item_rank": 0,
+            "xp": 940,
+            "gold": 710,
+            "rift": 120,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Cotton Hose",
+                        "item_id": 5187,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hot Gel",
+                        "item_id": 9371,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Cotton Hose",
+                        "item_id": 5187,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Linen Tunic",
+                        "item_id": 8547,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Warm and Fuzzy Cat Mask (Green)",
+                        "item_id": 10697,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Linen Tunic",
+                        "item_id": 8547,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "11",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Grass Signet Ring",
+                        "item_id": 8934,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Oil Flask",
+                        "item_id": 9394,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Leaf Signet Ring",
+                        "item_id": 8938,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lockpick",
+                        "item_id": 59,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "26",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Hunter Jacket",
+                        "item_id": 5332,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Combat Guard",
+                        "item_id": 5336,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Combat Guard",
+                        "item_id": 5336,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Showdown Jacket",
+                        "item_id": 5550,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "type": "World",
+    "name": "The Fort's Supply Problems",
+    "quest_id": 20020000,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Do Vanessa a favor and procure specified items",
+    "steps": [
+        "Deliver x<SQDI NUM> <SQDI NAME> to Vanessa (need: <SQDI DNUM>)",
+        "Deliver x<SQDI NUM> <SQDI NAME> to Vanessa (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 240,
+            "gold": 750,
+            "rift": 60,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 17,
+            "minimum_item_rank": 0,
+            "xp": 280,
+            "gold": 1200,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Palm Flower",
+                        "item_id": 4764,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lockpick",
+                        "item_id": 59,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Staff of Magickal Restraint",
+                        "item_id": 4766,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lockpick",
+                        "item_id": 59,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Staff of Magickal Restraint",
+                        "item_id": 4766,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Spiral Wand",
+                        "item_id": 4791,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mageia Kyklos",
+                        "item_id": 4798,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "17",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sorcerer's Hat",
+                        "item_id": 8157,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Interventive",
+                        "item_id": 9374,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Sorcerer's Hat",
+                        "item_id": 8157,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Barrel Helm",
+                        "item_id": 8124,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

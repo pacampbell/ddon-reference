@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Medal To Set an Example",
+    "quest_id": 21014015,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 73,
+            "minimum_item_rank": 0,
+            "xp": 19665,
+            "gold": 4408,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "73",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sharp Back Spine",
+                        "item_id": 15969,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Stiff Crocodile Skin",
+                        "item_id": 15961,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

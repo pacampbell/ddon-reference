@@ -1,0 +1,69 @@
+{
+    "type": "World",
+    "name": "Phantom Thieves: Passionate Pursuit Team",
+    "quest_id": 20045008,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and lend your aid",
+    "steps": [
+        "Investigate the Phantom Thieves at the designated location",
+        "Eliminate the interfering enemies",
+        "Continue your investigation into the Phantom Thieves",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 555,
+            "gold": 555,
+            "rift": 55,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Thief Card",
+                        "item_id": 13810,
+                        "amount": 50
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

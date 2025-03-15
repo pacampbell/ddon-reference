@@ -1,0 +1,109 @@
+{
+    "type": "World",
+    "name": "The Gourmand's Mushroom Hunt",
+    "quest_id": 20100001,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to August's wish and gather the desired items.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1100,
+            "gold": 1100,
+            "rift": 170,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1300,
+            "gold": 1300,
+            "rift": 200,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "King Bay Leaf",
+                        "item_id": 7983,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Elixir",
+                        "item_id": 7553,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold-Striped Hardwood",
+                        "item_id": 9059,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "Ancient Evil Eye",
+    "quest_id": 22018033,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the evil monster lurking in the depths of the ancient cave",
+    "steps": [
+        "Defeat the evil demons"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 50400,
+            "gold": 5500,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "90",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Evil Eye Lens",
+                        "item_id": 17863,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

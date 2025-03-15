@@ -1,0 +1,111 @@
+{
+    "type": "World",
+    "name": "The Abandoned Giant Warrior",
+    "quest_id": 20995004,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the runaway Giant Warrior",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 53,
+            "minimum_item_rank": 0,
+            "xp": 2440,
+            "gold": 1740,
+            "rift": 270,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2580,
+            "gold": 1840,
+            "rift": 290,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "53",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dirty Sheet Metal",
+                        "item_id": 8029,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Exquisite Metal Plate",
+                        "item_id": 8030,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alchemized Armor Plate",
+                        "item_id": 8031,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

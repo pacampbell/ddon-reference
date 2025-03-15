@@ -1,0 +1,72 @@
+{
+    "type": "World",
+    "name": "A Gathering of Demons in the Old Temple",
+    "quest_id": 20020005,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the specified enemy",
+        "Defeat the found enemy",
+        "Search for the next enemy",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1600,
+            "gold": 1250,
+            "rift": 180,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ruby Pendant",
+                        "item_id": 8975,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

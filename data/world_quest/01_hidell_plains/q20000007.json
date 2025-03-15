@@ -1,0 +1,153 @@
+{
+    "type": "World",
+    "name": "Crackdown on Store Vandals",
+    "quest_id": 20000007,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "<COL ffdc78>\u3010Enemy appears during: Night\u3011</COL> Defeat the enemy that appears, granting the client's wish.",
+    "steps": [
+        "Locate the bandits' hideout",
+        "Defeat the found lookouts",
+        "Locate the main force of the bandits' hideout",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 310,
+            "gold": 260,
+            "rift": 30,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 12,
+            "minimum_item_rank": 0,
+            "xp": 470,
+            "gold": 390,
+            "rift": 40,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 590,
+            "gold": 490,
+            "rift": 50,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wind Cloak",
+                        "item_id": 9743,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Antidote",
+                        "item_id": 37,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "12",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rough Thread",
+                        "item_id": 7952,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Herb Salad",
+                        "item_id": 9407,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Rough Thread",
+                        "item_id": 7952,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Herb Salad",
+                        "item_id": 9407,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rough Thread",
+                        "item_id": 7952,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

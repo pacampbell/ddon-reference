@@ -1,0 +1,115 @@
+{
+    "type": "World",
+    "name": "High Difficulty: Monsters Full of Ambition",
+    "quest_id": 21000056,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Consecutive Subjugation Quest\u3011 Grant the wish of the Area Master and investigate the issues occurring near the dungeon.",
+    "steps": [
+        "Investigate the specified location",
+        "Defeat the encountered demons",
+        "Search within the specified dungeon",
+        "Defeat the monsters at locations in the dungeon (3 left)",
+        "Defeat the monsters at locations in the dungeon (2 left)",
+        "Defeat the monsters at locations in the dungeon (1 left)",
+        "Report to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 16020,
+            "gold": 2309,
+            "rift": 300,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 18420,
+            "gold": 2309,
+            "rift": 300,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Power+",
+                        "item_id": 11719,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Herculean Power (Stun)",
+                        "item_id": 16044,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Herculean Power (Lowered Defense)",
+                        "item_id": 16050,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Power+",
+                        "item_id": 11719,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Magick+",
+                        "item_id": 11720,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

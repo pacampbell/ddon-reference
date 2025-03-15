@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "A Call from Beneath the Ivy",
+    "quest_id": 21014020,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Swift Rescue Quest\u3011 Search for the person the client is seeking and rescue them.",
+    "steps": [
+        "Search for the person the client is seeking.",
+        "Defeat the demon quickly and rescue your charge",
+        "Check the search target's well-being",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 78,
+            "minimum_item_rank": 0,
+            "xp": 33165,
+            "gold": 5073,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "78",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Transparent Coarse Sand",
+                        "item_id": 15983,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Protected Beast's Green Fur",
+                        "item_id": 16009,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Fine Weather Treasure Hunt",
+    "quest_id": 21017006,
+    "area_id": "KingalCanyon",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: Clear Weather\u3011 Listen to the Area Master's story. Gather and deliver the items within the specified conditions.",
+    "steps": [
+        "Gather party members in the camp during \"Clear\" weather",
+        "Inquire details from the requester during \"Clear\" weather",
+        "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 17> during \"Clear\" weather",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 5470,
+            "gold": 11233,
+            "rift": 1662,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "75",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demon Wolf's Sinewy Meat",
+                        "item_id": 15960,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "type": "World",
+    "name": "The Sinister Beasts",
+    "quest_id": 20095003,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 1320,
+            "gold": 1050,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 1340,
+            "gold": 1070,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2630,
+            "gold": 1880,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Transmuted Fur",
+                        "item_id": 7781,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Transmuted Fur",
+                        "item_id": 7781,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Transmuted Fur",
+                        "item_id": 7781,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pearl Shell",
+                        "item_id": 9796,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Blue Steel Ingot",
+                        "item_id": 7885,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sand of Reminiscence",
+                        "item_id": 9441,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

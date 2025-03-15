@@ -1,0 +1,137 @@
+{
+    "type": "World",
+    "name": "A Surge of Hellfire",
+    "quest_id": 20105002,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 42,
+            "minimum_item_rank": 0,
+            "xp": 1940,
+            "gold": 1380,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 43,
+            "minimum_item_rank": 0,
+            "xp": 1980,
+            "gold": 1410,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "42",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Greater Power",
+                        "item_id": 9196,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Troll's Blue Poisonous Moss",
+                        "item_id": 8001,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Greater Power",
+                        "item_id": 9196,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "43",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Blow-Resistant Cloth",
+                        "item_id": 7942,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Troll's Blue Poisonous Moss",
+                        "item_id": 8001,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Blow-Resistant Cloth",
+                        "item_id": 7942,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

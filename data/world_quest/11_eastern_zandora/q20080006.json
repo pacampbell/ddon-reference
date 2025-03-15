@@ -1,0 +1,146 @@
+{
+    "type": "World",
+    "name": "The Uninvited Ones",
+    "quest_id": 20080006,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's wishes and resolve the dispute between the residents of the village and the drifter",
+    "steps": [
+        "Evict the squatters in the ruins",
+        "Defeat the attacking enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 1260,
+            "gold": 1160,
+            "rift": 200,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 47,
+            "minimum_item_rank": 0,
+            "xp": 1290,
+            "gold": 1180,
+            "rift": 200,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 1320,
+            "gold": 1210,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Dwindled Strength",
+                        "item_id": 9278,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Dwindled Magick",
+                        "item_id": 9282,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "47",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Dwindled Strength",
+                        "item_id": 9278,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Dwindled Strength",
+                        "item_id": 9278,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Dwindled Magick",
+                        "item_id": 9282,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

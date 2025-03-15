@@ -1,0 +1,112 @@
+{
+    "type": "World",
+    "name": "Trapped in a Nightmare",
+    "quest_id": 20045005,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 25,
+            "minimum_item_rank": 0,
+            "xp": 820,
+            "gold": 680,
+            "rift": 110,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 990,
+            "gold": 820,
+            "rift": 130,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "25",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Battle Sallet",
+                        "item_id": 5205,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gooseneck Arm",
+                        "item_id": 5286,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Gooseneck Arm",
+                        "item_id": 5286,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Iron Bangles",
+                        "item_id": 5499,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

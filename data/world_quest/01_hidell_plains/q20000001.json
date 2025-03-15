@@ -1,0 +1,209 @@
+{
+    "type": "World",
+    "name": "The Woes of a Merchant",
+    "quest_id": 20000001,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 7,
+            "minimum_item_rank": 0,
+            "xp": 230,
+            "gold": 190,
+            "rift": 20,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Green Grass Ring",
+                                "item_id": 8928,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Leather Bracelet",
+                                "item_id": 8929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                }
+            ]
+        },
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 260,
+            "gold": 400,
+            "rift": 20,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Hide Armor",
+                                "item_id": 5107,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Half Cuirass",
+                                "item_id": 8227,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Magician's Coat",
+                                "item_id": 8252,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 12,
+            "minimum_item_rank": 0,
+            "xp": 390,
+            "gold": 600,
+            "rift": 30,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mighty Gloves",
+                                "item_id": 5650,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Master Hands",
+                                "item_id": 5653,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lively Bottoms",
+                                "item_id": 5642,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 520,
+            "gold": 700,
+            "rift": 50,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Poison",
+                                "item_id": 9239,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Lockpick",
+                                "item_id": 59,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

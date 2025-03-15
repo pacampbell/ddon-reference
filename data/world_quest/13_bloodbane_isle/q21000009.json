@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "The Wandering Light",
+    "quest_id": 21000009,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Eliminate the newly emerged monster right away to prevent the crisis.",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 6809,
+            "gold": 1980,
+            "rift": 250,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rock Finger",
+                        "item_id": 11506,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Mushroom",
+                        "item_id": 7994,
+                        "amount": 7
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

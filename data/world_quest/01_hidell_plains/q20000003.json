@@ -1,0 +1,134 @@
+{
+    "type": "World",
+    "name": "An Assistant's Assistant",
+    "quest_id": 20000003,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Klaus' request and deliver business permits to  various locations in the Temple.",
+    "steps": [
+        "Deliver the permits to the merchants (8 left)",
+        "Deliver the permits to the merchants (7 left)",
+        "Deliver the permits to the merchants (6 left)",
+        "Deliver the permits to the merchants (5 left)",
+        "Deliver the permits to the merchants (4 left)",
+        "Deliver the permits to the merchants (3 left)",
+        "Deliver the permits to the merchants (2 left)",
+        "Deliver the permits to the merchants (1 left)",
+        "Report to Klaus",
+        "Give the Permit to Talcott at Gritten Fort",
+        "Report to Klaus"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 310,
+            "gold": 520,
+            "rift": 30,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "level": "8",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Apprentice's Coat",
+                                "item_id": 5139,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sage's Robe",
+                                "item_id": 5155,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Water Flask",
+                                "item_id": 9393,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Breast Armor",
+                                "item_id": 5123,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lantern Kindling",
+                                "item_id": 55,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Magician's Coat",
+                                "item_id": 8252,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Elite Drapes",
+                                "item_id": 8277,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Battle Jacket",
+                                "item_id": 8302,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

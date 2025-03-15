@@ -1,0 +1,171 @@
+{
+    "type": "World",
+    "name": "The Grieving Underling",
+    "quest_id": 20060002,
+    "area_id": "MysreeGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Search for the items within the Greenleaf Terrace (3 left)",
+        "Search for the items within the Greenleaf Terrace (2 left)",
+        "Search for the items within the Greenleaf Terrace (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1040,
+            "gold": 1250,
+            "rift": 160,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 1660,
+            "gold": 1260,
+            "rift": 220,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Brew",
+                        "item_id": 9421,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Angel's Talisman",
+                        "item_id": 9388,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mithril Ore",
+                        "item_id": 7862,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Mithril Ore",
+                        "item_id": 7862,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

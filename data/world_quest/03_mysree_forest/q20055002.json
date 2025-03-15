@@ -1,0 +1,126 @@
+{
+    "type": "World",
+    "name": "The Mystery of Mysree Limestone Cave",
+    "quest_id": 20055002,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 34,
+            "minimum_item_rank": 0,
+            "xp": 1570,
+            "gold": 1120,
+            "rift": 170,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 1810,
+            "gold": 1510,
+            "rift": 240,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "34",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Monster Gallstone",
+                        "item_id": 7865,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Giant's Horn",
+                        "item_id": 7784,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Monster Gallstone",
+                        "item_id": 7865,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Writhing Live Bark",
+                        "item_id": 9442,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Ent Seed",
+                        "item_id": 7992,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Ent Branch",
+                        "item_id": 7971,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

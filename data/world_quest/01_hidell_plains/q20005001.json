@@ -1,0 +1,190 @@
+{
+    "type": "World",
+    "name": "Confrontation with Scouts",
+    "quest_id": 20005001,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy",
+        "Search for the remaining enemies",
+        "Defeat the found enemy",
+        "Search for the remaining enemies",
+        "Defeat the found enemy"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 310,
+            "gold": 260,
+            "rift": 30,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 510,
+            "gold": 420,
+            "rift": 30,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 710,
+            "gold": 590,
+            "rift": 70,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Blue-edged Helm",
+                        "item_id": 8167,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Coif",
+                        "item_id": 8197,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Leather Stole",
+                        "item_id": 9533,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Leather Stole",
+                        "item_id": 9533,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Leader's Vest",
+                        "item_id": 5173,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Gala Extract",
+                        "item_id": 36,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Chain Hood",
+                        "item_id": 8207,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Recovery Decoction",
+                        "item_id": 9373,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

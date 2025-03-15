@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "A Dangerous Wager",
+    "quest_id": 20070002,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Accept Jordan's bet and take down all enemies in the waterway.",
+    "steps": [
+        "Search for the enemy at the specified location",
+        "Defeat the enemy in \"Tegor Flood Control Channel\"",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 1770,
+            "gold": 1340,
+            "rift": 230,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Witch's Grimoire",
+                        "item_id": 7808,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

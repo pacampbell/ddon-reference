@@ -1,0 +1,54 @@
+{
+    "type": "World",
+    "name": "Urgent Directive! Eliminate the Demons to the North",
+    "quest_id": 20020006,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Vanessa's request and defeat the target enemy",
+    "steps": [
+        "Seek out and defeat the enemies in Betland Plains (3 left)",
+        "Seek out and defeat the enemies in Betland Plains (2 left)",
+        "Seek out and defeat the enemies in Betland Plains (1 left)",
+        "Defeat the found enemy",
+        "Report to Vanessa"
+    ],
+    "variants": [
+        {
+            "level": 35,
+            "minimum_item_rank": 0,
+            "xp": 1150,
+            "gold": 1150,
+            "rift": 150,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 1480,
+            "gold": 1350,
+            "rift": 190,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

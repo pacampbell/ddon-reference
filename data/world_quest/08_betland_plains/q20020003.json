@@ -1,0 +1,110 @@
+{
+    "type": "World",
+    "name": "A Commotion in the Cellar",
+    "quest_id": 20020003,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request  and investigate the interior of the basement.",
+    "steps": [
+        "Investigate the Ruins Cellar",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 37,
+            "minimum_item_rank": 0,
+            "xp": 1220,
+            "gold": 1010,
+            "rift": 160,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "37",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Victory Covert",
+                        "item_id": 5629,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Talisman",
+                        "item_id": 9387,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Angel Circlet",
+                        "item_id": 9578,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Talisman",
+                        "item_id": 9387,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Rare Meat Pat\u00e9",
+                        "item_id": 9420,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Angel Circlet",
+                        "item_id": 9578,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Talisman",
+                        "item_id": 9387,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

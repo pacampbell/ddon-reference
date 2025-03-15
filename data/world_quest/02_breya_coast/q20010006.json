@@ -1,0 +1,41 @@
+{
+    "type": "World",
+    "name": "Along the Faraway Sea",
+    "quest_id": 20010006,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Retrieve the flotsam on the beach (3 left)",
+        "Retrieve the flotsam on the beach (2 left)",
+        "Retrieve the flotsam on the beach (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 830,
+            "gold": 590,
+            "rift": 90,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

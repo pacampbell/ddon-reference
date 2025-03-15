@@ -1,0 +1,170 @@
+{
+    "type": "World",
+    "name": "A Faint Ill Omen",
+    "quest_id": 20065000,
+    "area_id": "MysreeGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "<COL ffdc78>(Enemy appears at night)</COL> Defeat the enemies encountered",
+    "steps": [
+        "Defeat the encountered enemy",
+        "Search for the next enemy",
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 36,
+            "minimum_item_rank": 0,
+            "xp": 990,
+            "gold": 990,
+            "rift": 150,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1540,
+            "gold": 1320,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "36",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Noir Gambeson",
+                        "item_id": 8612,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Malevolent God's Cloak",
+                        "item_id": 9758,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Malevolent God's Cloak",
+                        "item_id": 9758,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Talisman",
+                        "item_id": 9389,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Mithril Ingot",
+                        "item_id": 7880,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Mithril Ingot",
+                        "item_id": 7880,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

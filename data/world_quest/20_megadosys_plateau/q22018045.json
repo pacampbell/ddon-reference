@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "The Gatekeeper's Pride",
+    "quest_id": 22018045,
+    "area_id": "MegadosysPlateau",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 95,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5500,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "95",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Megadosys District)",
+                        "item_id": 18820,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 10
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

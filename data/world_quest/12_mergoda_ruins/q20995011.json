@@ -1,0 +1,193 @@
+{
+    "type": "World",
+    "name": "The Shadow That Roams the Dead City",
+    "quest_id": 20995011,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy near the Mergoda Royal Palace Level",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 2540,
+            "gold": 1810,
+            "rift": 290,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 5080,
+            "gold": 3850,
+            "rift": 610,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2540,
+            "gold": 1810,
+            "rift": 290,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 5040,
+            "gold": 4320,
+            "rift": 570,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Magick Gold Ingot",
+                        "item_id": 7886,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Transmuted Gold Feather",
+                        "item_id": 7822,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Exquisite Metal Plate",
+                        "item_id": 8030,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dirty Sheet Metal",
+                        "item_id": 8029,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Alchemized Armor Plate",
+                        "item_id": 8031,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Magick Gold Ingot",
+                        "item_id": 7886,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Transmuted Gold Feather",
+                        "item_id": 7822,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Restoration+",
+                        "item_id": 11743,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alchemite",
+                        "item_id": 7871,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Flame Crystal",
+                        "item_id": 7913,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

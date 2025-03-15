@@ -1,0 +1,72 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Collecting Before the Demons Return",
+    "quest_id": 22018047,
+    "area_id": "MegadosysPlateau",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: Special\u3011 Listen to the Area Master's story. Gather and deliver within the specified time.",
+    "steps": [
+        "Gather party members within the location",
+        "Inquire details from the Area Master",
+        "Talk to the scout near the Monster Gathering Spot",
+        "During the period of \"Spot Boss not appearing\",  gather \"<SQDI NAME>\" at a Monster Gathering Spot and deliver 5 of them",
+        "Deliver <SQDI NUM> <SQDI NAME> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 93,
+            "minimum_item_rank": 0,
+            "xp": 8400,
+            "gold": 13750,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "93",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Megadosys District)",
+                        "item_id": 18820,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 10
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

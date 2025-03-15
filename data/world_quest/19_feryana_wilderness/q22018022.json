@@ -1,0 +1,41 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Gathering Under Clear Skies",
+    "quest_id": 22018022,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: Fine Weather\u3011 Listen to the Area Master's story. Gather and deliver the items within the specified conditions.",
+    "steps": [
+        "Gather party members in the camp during \"Clear\" weather",
+        "Inquire details from the requester during \"Clear\" weather",
+        "Obtain <SQDI NUM> <SQDI NAME> at <AREA 19> during \"Clear\" weather",
+        "Deliver <SQDI NUM> <SQDI NAME> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 88,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

@@ -1,0 +1,159 @@
+{
+    "type": "World",
+    "name": "A Miner's Lifeline",
+    "quest_id": 20040007,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy in \"Miners' Secret Route\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1180,
+            "gold": 990,
+            "rift": 150,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 35,
+            "minimum_item_rank": 0,
+            "xp": 1610,
+            "gold": 1150,
+            "rift": 180,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2610,
+            "gold": 1560,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Torpor",
+                        "item_id": 9241,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "35",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Silver Ore",
+                        "item_id": 7857,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Giant Tough Pelt",
+                        "item_id": 7925,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Silver Ore",
+                        "item_id": 7857,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Flame Crystal",
+                        "item_id": 7913,
+                        "amount": 1
+                    },
+                    {
+                        "name": "High Quality Magick Medal",
+                        "item_id": 7870,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lava Rock",
+                        "item_id": 7869,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

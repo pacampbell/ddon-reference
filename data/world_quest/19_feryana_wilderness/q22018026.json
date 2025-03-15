@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Guard of the Base",
+    "quest_id": 22018026,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 88,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5500,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "88",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Feryana District)",
+                        "item_id": 18819,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Fluttering Rags",
+                        "item_id": 17929,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Cursed Letter",
+                        "item_id": 17878,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

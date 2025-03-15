@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "The Orc Platoon Creeps Closer",
+    "quest_id": 22018025,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Chance Encounter: Subjugation Quest\u3011 Track down the dangerous enemy that has appeared and defeat it.",
+    "steps": [
+        "Defeat the appeared demons",
+        "Examine the traces left by the demon",
+        "Track down the demons",
+        "Hunt down and stop the dangerous monsters"
+    ],
+    "variants": [
+        {
+            "level": 88,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "88",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Feryana District)",
+                        "item_id": 18819,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Ogre's Horn",
+                        "item_id": 17865,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

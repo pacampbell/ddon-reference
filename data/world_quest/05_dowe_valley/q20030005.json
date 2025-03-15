@@ -1,0 +1,118 @@
+{
+    "type": "World",
+    "name": "A Petty Thief's Woes",
+    "quest_id": 20030005,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy in \"Catacombs\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 38,
+            "minimum_item_rank": 0,
+            "xp": 1250,
+            "gold": 1040,
+            "rift": 160,
+            "ap": 590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 1540,
+            "gold": 1540,
+            "rift": 240,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "38",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ruby",
+                        "item_id": 7900,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Wine-Boiled Mushroom",
+                        "item_id": 9411,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Ruby",
+                        "item_id": 7900,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Wine-Boiled Mushroom",
+                        "item_id": 9411,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Witch's Velvet",
+                        "item_id": 7949,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Grimoire",
+                        "item_id": 7808,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

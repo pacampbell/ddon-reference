@@ -1,0 +1,74 @@
+{
+    "type": "World",
+    "name": "Nightmare of the Dark Forest",
+    "quest_id": 22018034,
+    "area_id": "MegadosysPlateau",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Enemy Horde Extermination Quest\u3011 Listen to the client's request. Exterminate the horde of enemies.",
+    "steps": [
+        "Search for a group of monsters at the designated location (3 remaining)",
+        "Defeat the encountered demon group",
+        "Search for the remaining groups of monsters (2 remaining)",
+        "Defeat the encountered demon group",
+        "Find the group of monsters that remain (1 remaining)",
+        "Defeat the encountered demon group",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 25200,
+            "gold": 5500,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "90",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Megadosys District)",
+                        "item_id": 18820,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Cracked Amulet",
+                        "item_id": 21222,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

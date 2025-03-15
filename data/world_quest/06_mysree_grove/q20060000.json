@@ -1,0 +1,134 @@
+{
+    "type": "World",
+    "name": "The Remains of Green",
+    "quest_id": 20060000,
+    "area_id": "MysreeGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Search for the items within the Dark Green Terrace (3 left)",
+        "Search for the items within the Dark Green Terrace (2 left)",
+        "Search for the items within the Dark Green Terrace (1 left)",
+        "Report to the requester",
+        "Search for the item within the Bower Old Well",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 33,
+            "minimum_item_rank": 0,
+            "xp": 1080,
+            "gold": 900,
+            "rift": 170,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "33",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Bangles",
+                        "item_id": 5499,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Roar Bangles",
+                        "item_id": 5500,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Roar Bangles",
+                        "item_id": 5500,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Raptor Gauntlets",
+                        "item_id": 5287,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Roar Bangles",
+                        "item_id": 5500,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Raptor Gauntlets",
+                        "item_id": 5287,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

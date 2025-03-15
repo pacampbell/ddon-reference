@@ -1,0 +1,74 @@
+{
+    "type": "World",
+    "name": "Heartache's Cause",
+    "quest_id": 21014009,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Enemy Horde Extermination Quest\u3011 Listen to the client's request. Exterminate the horde of enemies.",
+    "steps": [
+        "Search for a group of monsters at the designated location (3 remaining)",
+        "Defeat the encountered demon group",
+        "Search for the remaining groups of monsters (2 remaining)",
+        "Defeat the encountered demon group",
+        "Find the group of monsters that remain (1 remaining)",
+        "Defeat the encountered demon group",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 73,
+            "minimum_item_rank": 0,
+            "xp": 19665,
+            "gold": 4408,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "73",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sharp Back Spine",
+                        "item_id": 15969,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon Wolf's Sinewy Meat",
+                        "item_id": 15960,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Bronze Tail Feather",
+                        "item_id": 15962,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "type": "World",
+    "name": "A Thirst for Knowledge",
+    "quest_id": 20095001,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy near the Mergoda Security District",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 2450,
+            "gold": 1610,
+            "rift": 280,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 2450,
+            "gold": 1610,
+            "rift": 280,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Alchemic Wood",
+                        "item_id": 9159,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Alchemic Wood",
+                        "item_id": 9159,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Pure White Mane",
+                        "item_id": 7780,
+                        "amount": 1
+                    },
+                    {
+                        "name": "White Lion Pelt",
+                        "item_id": 7739,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

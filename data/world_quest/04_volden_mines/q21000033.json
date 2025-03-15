@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "A Gush of Wickedness",
+    "quest_id": 21000033,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Eliminate the newly emerged monster right away to prevent the crisis.",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 7092,
+            "gold": 2144,
+            "rift": 275,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "65",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Moonglow",
+                        "item_id": 7981,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

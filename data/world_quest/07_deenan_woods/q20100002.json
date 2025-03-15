@@ -1,0 +1,147 @@
+{
+    "type": "World",
+    "name": "The Remains of Splendor",
+    "quest_id": 20100002,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Christoph's wish and gather the desired items.",
+    "steps": [
+        "Retrieve the relics within Erte Deenan (5 left)",
+        "Retrieve the relics within Erte Deenan (4 left)",
+        "Retrieve the elven relics within Erte Deenan (3 left)",
+        "Retrieve the relics within Erte Deenan (2 left)",
+        "Retrieve the relics within Erte Deenan (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1580,
+            "gold": 1320,
+            "rift": 210,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 1620,
+            "gold": 1350,
+            "rift": 210,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Northern Oregano",
+                        "item_id": 9064,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Knife",
+                        "item_id": 9398,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Northern Oregano",
+                        "item_id": 9064,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "41",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Cerussite",
+                        "item_id": 9062,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Conqueror's Talisman",
+                        "item_id": 9387,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Cerussite",
+                        "item_id": 9062,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Conqueror's Talisman",
+                        "item_id": 9387,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

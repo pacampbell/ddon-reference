@@ -1,0 +1,247 @@
+{
+    "type": "World",
+    "name": "From the Water's Depths",
+    "quest_id": 20015000,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 490,
+            "gold": 410,
+            "rift": 60,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 17,
+            "minimum_item_rank": 0,
+            "xp": 560,
+            "gold": 460,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 890,
+            "gold": 740,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 660,
+            "gold": 550,
+            "rift": 80,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Silken Sand",
+                        "item_id": 7845,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "17",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Ingot",
+                        "item_id": 7874,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Eyedrops",
+                        "item_id": 39,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Bottled Haste",
+                        "item_id": 9365,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Vigorous Legs",
+                        "item_id": 8382,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "High-Grade Bottoms",
+                        "item_id": 9693,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "High-Grade Bottoms",
+                        "item_id": 9693,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Greed Gloves",
+                        "item_id": 9653,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Terry Cloth",
+                        "item_id": 9367,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Superior Healing Potion",
+                        "item_id": 35,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "20",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Leather Cord",
+                        "item_id": 7953,
+                        "amount": 4
+                    },
+                    {
+                        "name": "Bottled Haste",
+                        "item_id": 9365,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Waking Draught",
+                        "item_id": 9366,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

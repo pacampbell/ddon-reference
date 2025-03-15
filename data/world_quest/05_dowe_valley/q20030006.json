@@ -1,0 +1,148 @@
+{
+    "type": "World",
+    "name": "The Incapable Courier",
+    "quest_id": 20030006,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Speak with Kittredge at \"The White Dragon Temple\"",
+        "Speak with Josh at the checkpoint",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 28,
+            "minimum_item_rank": 0,
+            "xp": 920,
+            "gold": 700,
+            "rift": 120,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 990,
+            "gold": 700,
+            "rift": 130,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 1000,
+            "gold": 1200,
+            "rift": 180,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "28",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wiseman Cloak",
+                        "item_id": 5693,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Red Chromium",
+                        "item_id": 7879,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Wine-Boiled Mushroom",
+                        "item_id": 9411,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Eye Gem",
+                        "item_id": 7730,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "type": "World",
+    "name": "The Old Witch of the Woods",
+    "quest_id": 20105006,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "<COL ffdc78>(Enemy appears at night)</COL> Defeat the enemies encountered",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 43,
+            "minimum_item_rank": 0,
+            "xp": 1700,
+            "gold": 1410,
+            "rift": 220,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1840,
+            "rift": 240,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "43",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sinister Black Cloth",
+                        "item_id": 7947,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dragon's Spit",
+                        "item_id": 9399,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Magickal Potion",
+                        "item_id": 7832,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sinister Black Cloth",
+                        "item_id": 7947,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Witch's Velvet",
+                        "item_id": 7949,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Grimoire",
+                        "item_id": 7808,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

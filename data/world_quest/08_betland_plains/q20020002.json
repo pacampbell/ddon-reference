@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Unexpected Training",
+    "quest_id": 20020002,
+    "area_id": "BetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Heed Gurdolin's wish to take down the target enemy.",
+    "steps": [
+        "<The Second Ark> Search for the formidable enemy lurking in the depths.",
+        "Defeat the found enemy",
+        "Report to Gurdolin"
+    ],
+    "variants": [
+        {
+            "level": 46,
+            "minimum_item_rank": 0,
+            "xp": 2120,
+            "gold": 1510,
+            "rift": 240,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "46",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Chipped Gold Lump",
+                        "item_id": 8025,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

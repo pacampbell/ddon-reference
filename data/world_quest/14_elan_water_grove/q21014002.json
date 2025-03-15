@@ -1,0 +1,74 @@
+{
+    "type": "World",
+    "name": "High Difficulty: Lurker in the Deep Woods",
+    "quest_id": 21014002,
+    "area_id": "ElanWaterGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Consecutive Subjugation Quest\u3011 Grant the wish of the Area Master and investigate the issues occurring near the dungeon.",
+    "steps": [
+        "Investigate the specified location",
+        "Defeat the encountered demons",
+        "Search within the specified dungeon",
+        "Defeat the monsters at locations in the dungeon (3 left)",
+        "Defeat the monsters at locations in the dungeon (2 left)",
+        "Defeat the monsters at locations in the dungeon (1 left)",
+        "Report to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 32820,
+            "gold": 4493,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "75",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Platinum Blood",
+                        "item_id": 15935,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dazzling Silver Plume",
+                        "item_id": 15967,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sharp Back Spine",
+                        "item_id": 15969,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

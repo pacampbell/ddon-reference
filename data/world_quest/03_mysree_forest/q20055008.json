@@ -1,0 +1,66 @@
+{
+    "type": "World",
+    "name": "Collecting Souls: Undead Encounter",
+    "quest_id": 20055008,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Assist in the eradication mission of the Knight Order and solve the issue in the Mysree Forest.",
+    "steps": [
+        "Defeat the encountered Undead group"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 9210,
+            "gold": 2309,
+            "rift": 300,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gem of Devastation",
+                        "item_id": 21196,
+                        "amount": 50
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

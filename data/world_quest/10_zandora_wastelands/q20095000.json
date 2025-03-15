@@ -1,0 +1,152 @@
+{
+    "type": "World",
+    "name": "The Fiery Titan",
+    "quest_id": 20095000,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the enemy near the Mergoda Security District",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 2260,
+            "gold": 1610,
+            "rift": 250,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 2260,
+            "gold": 1610,
+            "rift": 250,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2580,
+            "gold": 1840,
+            "rift": 290,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Burn Prevention",
+                        "item_id": 9315,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Freeze Prevention",
+                        "item_id": 9318,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Shock Prevention",
+                        "item_id": 9321,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Black Iron Ingot",
+                        "item_id": 7878,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Chipped Gold Lump",
+                        "item_id": 8025,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Alchemite",
+                        "item_id": 7871,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Dirty Sheet Metal",
+                        "item_id": 8029,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Chipped Gold Lump",
+                        "item_id": 8025,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

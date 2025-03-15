@@ -1,0 +1,186 @@
+{
+    "type": "World",
+    "name": "Volden Poisonous Springs Investigation",
+    "quest_id": 20040008,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and collect items within the designated location.",
+    "steps": [
+        "Investigate the polluted spring (3 left)",
+        "Investigate the polluted spring (2 left)",
+        "Investigate the polluted spring (1 left)",
+        "Defeat the attacking enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 22,
+            "minimum_item_rank": 0,
+            "xp": 720,
+            "gold": 600,
+            "rift": 90,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 22,
+            "minimum_item_rank": 0,
+            "xp": 1450,
+            "gold": 1210,
+            "rift": 90,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 25,
+            "minimum_item_rank": 0,
+            "xp": 820,
+            "gold": 680,
+            "rift": 110,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "22",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Majesty Drapes",
+                        "item_id": 5546,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Strong Jacket",
+                        "item_id": 5547,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Strong Jacket",
+                        "item_id": 5547,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wanderer's Jacket",
+                        "item_id": 5333,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "22",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "25",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Black Tar",
+                        "item_id": 7841,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Black Tar",
+                        "item_id": 7841,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

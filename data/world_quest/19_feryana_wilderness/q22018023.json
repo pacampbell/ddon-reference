@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Reckless Fate",
+    "quest_id": 22018023,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Swift Rescue Quest\u3011 Search for the person the client is seeking and rescue them.",
+    "steps": [
+        "Search for the person the client is seeking.",
+        "Defeat the demon quickly and rescue your charge",
+        "Confirm the safety of your charge",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 88,
+            "minimum_item_rank": 0,
+            "xp": 25200,
+            "gold": 5500,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "85",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Feryana District)",
+                        "item_id": 18819,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Undead Wolf's Fang",
+                        "item_id": 17869,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

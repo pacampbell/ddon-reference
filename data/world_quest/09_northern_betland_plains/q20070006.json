@@ -1,0 +1,102 @@
+{
+    "type": "World",
+    "name": "From One Thing to Another",
+    "quest_id": 20070006,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and lend your aid",
+    "steps": [
+        "Defeat the enemy in \"Decaying Well\"",
+        "Report to the requester",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 44,
+            "minimum_item_rank": 0,
+            "xp": 960,
+            "gold": 1740,
+            "rift": 190,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 44,
+            "minimum_item_rank": 0,
+            "xp": 960,
+            "gold": 1880,
+            "rift": 190,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "44",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Protective Cloth",
+                        "item_id": 7940,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Forest Dwellers' Old Key",
+                        "item_id": 9066,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "44",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Greater Magick",
+                        "item_id": 9200,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Elixir",
+                        "item_id": 7553,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

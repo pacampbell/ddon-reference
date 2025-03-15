@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "Door of Gemstones Absolutely No Entry!",
+    "quest_id": 21000091,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Dangerous Area Quest\u3011 Make a key to the door leading to the Dangerous  Area in the dungeon and defeat Brutal monsters.",
+    "steps": [
+        "Defeat the encountered fiendish demons"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 5925,
+            "gold": 2243,
+            "rift": 1740,
+            "ap": 2000,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "68",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Prism Crystal",
+                        "item_id": 11808,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mergoda Medal",
+                        "item_id": 11010,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

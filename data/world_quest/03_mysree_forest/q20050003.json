@@ -1,0 +1,171 @@
+{
+    "type": "World",
+    "name": "Defending Lynwood",
+    "quest_id": 20050003,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy at 2 forest spots",
+        "Defeat the other enemy",
+        "Report to the requester",
+        "Defeat the found enemy"
+    ],
+    "variants": [
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 630,
+            "gold": 440,
+            "rift": 80,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 790,
+            "gold": 550,
+            "rift": 100,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "16",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Strong Hatchet",
+                        "item_id": 4748,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fireproof Draught",
+                        "item_id": 9370,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Oil Flask",
+                        "item_id": 9394,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Thousand Troops",
+                        "item_id": 4747,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Muscular Wall",
+                        "item_id": 4752,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Oil Flask",
+                        "item_id": 9394,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "20",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Custom Longbow",
+                        "item_id": 4758,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hot Gel",
+                        "item_id": 9371,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Periapt",
+                        "item_id": 45,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Bloody Hide",
+                        "item_id": 4857,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hot Gel",
+                        "item_id": 9371,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Periapt",
+                        "item_id": 45,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Bloody Hide",
+                        "item_id": 4857,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Bardiche Daggers",
+                        "item_id": 4958,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sprite's Periapt",
+                        "item_id": 45,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

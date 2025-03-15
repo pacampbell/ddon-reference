@@ -1,0 +1,150 @@
+{
+    "type": "World",
+    "name": "The Apes of Mayhem",
+    "quest_id": 20035005,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1150,
+            "gold": 990,
+            "rift": 160,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 34,
+            "minimum_item_rank": 0,
+            "xp": 1430,
+            "gold": 1120,
+            "rift": 200,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 39,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Hard Leather Cloth",
+                        "item_id": 7937,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Fortifier",
+                        "item_id": 9377,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "34",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Shock Warding",
+                        "item_id": 9320,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Quality Gala Extract",
+                        "item_id": 9362,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Angel's Amulet",
+                        "item_id": 9382,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "39",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wanderer's Wrist Ring",
+                        "item_id": 9007,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Elixir",
+                        "item_id": 7553,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

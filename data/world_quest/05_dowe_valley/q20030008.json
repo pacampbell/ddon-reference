@@ -1,0 +1,171 @@
+{
+    "type": "World",
+    "name": "No Unexpected Guests",
+    "quest_id": 20030008,
+    "area_id": "DoweValley",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the enemy in \"Valley Chapel\"",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1980,
+            "gold": 1650,
+            "rift": 130,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 32,
+            "minimum_item_rank": 0,
+            "xp": 1470,
+            "gold": 1050,
+            "rift": 160,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 34,
+            "minimum_item_rank": 0,
+            "xp": 1520,
+            "gold": 1120,
+            "rift": 170,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "32",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Expedition Shirt",
+                        "item_id": 5661,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Amulet",
+                        "item_id": 9382,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Pourpoint",
+                        "item_id": 5663,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Belligerent Tied",
+                        "item_id": 5681,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "34",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Blind Warding",
+                        "item_id": 9326,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Mellow Ale",
+                        "item_id": 9413,
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

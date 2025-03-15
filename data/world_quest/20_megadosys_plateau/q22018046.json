@@ -1,0 +1,41 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Early Dawn Bug Hunting",
+    "quest_id": 22018046,
+    "area_id": "MegadosysPlateau",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: 05:00 to 10:00 (GT)\u3011 Listen to the Area Master's story. Gather and deliver within the specified time.",
+    "steps": [
+        "Gather party members in the camp between 05:00 to 10:00 (GT)",
+        "Inquire details from the requester between 05:00 to 10:00 (GT)",
+        "Obtain <SQDI NUM> <SQDI NAME> at <AREA 20> between 05:00 to 10:00 (GT)",
+        "Deliver <SQDI NUM> <SQDI NAME> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 93,
+            "minimum_item_rank": 0,
+            "xp": 8400,
+            "gold": 13750,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

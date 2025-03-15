@@ -1,0 +1,249 @@
+{
+    "type": "World",
+    "name": "The Abductors' True Nature",
+    "quest_id": 20055004,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 19,
+            "minimum_item_rank": 0,
+            "xp": 750,
+            "gold": 520,
+            "rift": 100,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 23,
+            "minimum_item_rank": 0,
+            "xp": 910,
+            "gold": 630,
+            "rift": 120,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 31,
+            "minimum_item_rank": 0,
+            "xp": 1430,
+            "gold": 1020,
+            "rift": 160,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "19",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pleasant Helm",
+                        "item_id": 8177,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Absorbent Cloth",
+                        "item_id": 9368,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shielder Helm",
+                        "item_id": 5519,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Concoction of Light",
+                        "item_id": 9376,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Absorbent Cloth",
+                        "item_id": 9368,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shielder Helm",
+                        "item_id": 5519,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Headgear",
+                        "item_id": 5305,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Absorbent Cloth",
+                        "item_id": 9368,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "23",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Bloodstained Red Cloth",
+                        "item_id": 7946,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Interventive",
+                        "item_id": 9374,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Bloodstained Red Cloth",
+                        "item_id": 7946,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Interventive",
+                        "item_id": 9374,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "31",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gooseneck Arm",
+                        "item_id": 5286,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wine-Boiled Mushroom",
+                        "item_id": 9411,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wine-Boiled Mushroom",
+                        "item_id": 9411,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Custodian Arms",
+                        "item_id": 5604,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Soldier Arms",
+                        "item_id": 5392,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

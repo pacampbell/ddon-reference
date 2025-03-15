@@ -1,0 +1,68 @@
+{
+    "type": "World",
+    "name": "The Last Lie",
+    "quest_id": 22018040,
+    "area_id": "MegadosysPlateau",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Quest\u3011 Listen to the requester's wishes and gather the specified supplies.",
+    "steps": [
+        "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 92,
+            "minimum_item_rank": 0,
+            "xp": 21000,
+            "gold": 13750,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "92",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Megadosys District)",
+                        "item_id": 18820,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 10
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 10
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

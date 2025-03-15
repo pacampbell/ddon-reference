@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "Flight of the Ravenous Birds",
+    "quest_id": 21016008,
+    "area_id": "MorrowForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Eliminate the newly emerged monster right away to prevent the crisis.",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 73,
+            "minimum_item_rank": 0,
+            "xp": 19665,
+            "gold": 4408,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "73",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Unappraised Flower Trinket (Soldier)",
+                        "item_id": 13483,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Strong Gala Extract",
+                        "item_id": 9364,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

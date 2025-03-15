@@ -1,0 +1,40 @@
+{
+    "type": "World",
+    "name": "Rampaging Wild Beasts",
+    "quest_id": 21016019,
+    "area_id": "MorrowForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Subjugation Quest\u3011 Search for suspicious monsters in the area and defeat the enemy causing the problem.",
+    "steps": [
+        "Defeat the encountered demons",
+        "Get rewards by instantly defeating newly appearing monsters",
+        "Defeat the remaining demons"
+    ],
+    "variants": [
+        {
+            "level": 78,
+            "minimum_item_rank": 0,
+            "xp": 33165,
+            "gold": 5073,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

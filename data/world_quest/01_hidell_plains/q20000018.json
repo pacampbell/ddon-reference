@@ -1,0 +1,168 @@
+{
+    "type": "World",
+    "name": "Fabio and Monster-Slaying",
+    "quest_id": 20000018,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Fabio's request and defeat the target enemy",
+    "steps": [
+        "Search for the specified enemy",
+        "Defeat the found enemy",
+        "Report to Fabio"
+    ],
+    "variants": [
+        {
+            "level": 9,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 290,
+            "rift": 50,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 830,
+            "gold": 590,
+            "rift": 90,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 24,
+            "minimum_item_rank": 0,
+            "xp": 1100,
+            "gold": 790,
+            "rift": 120,
+            "ap": 220,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "9",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Cleric's Cap",
+                        "item_id": 8147,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Bottled Haste",
+                        "item_id": 9365,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Intellect Helm",
+                        "item_id": 8172,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Plate Coif",
+                        "item_id": 8202,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Legs",
+                        "item_id": 8407,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Ranger Cuisses",
+                        "item_id": 5360,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Periapt",
+                        "item_id": 42,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "24",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pyrite",
+                        "item_id": 9061,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Conqueror's Amulet",
+                        "item_id": 9381,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Purifying Decoction",
+                        "item_id": 9372,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

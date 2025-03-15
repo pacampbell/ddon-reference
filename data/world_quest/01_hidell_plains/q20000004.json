@@ -1,0 +1,64 @@
+{
+    "type": "World",
+    "name": "A Petition to Rid of Demons in Ruins",
+    "quest_id": 20000004,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to Joseph's story and solve the matter of the petition.",
+    "steps": [
+        "Head for \"Small Cave Tombs\"",
+        "Defeat all encountered enemies",
+        "Report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 700,
+            "gold": 420,
+            "rift": 60,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 16,
+            "minimum_item_rank": 0,
+            "xp": 870,
+            "gold": 520,
+            "rift": 70,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 1810,
+            "gold": 1510,
+            "rift": 180,
+            "ap": 1340,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

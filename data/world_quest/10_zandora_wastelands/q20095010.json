@@ -1,0 +1,149 @@
+{
+    "type": "World",
+    "name": "A Clash with the Orc Elite Corps",
+    "quest_id": 20095010,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Search for the elite orc troops",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 1320,
+            "gold": 1320,
+            "rift": 210,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 1370,
+            "gold": 1370,
+            "rift": 220,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Holy Drain Prevention",
+                        "item_id": 9324,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Blind Prevention",
+                        "item_id": 9327,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Crest of Holy Drain Prevention",
+                        "item_id": 9324,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Crest of Blind Prevention",
+                        "item_id": 9327,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Mithril Ore",
+                        "item_id": 7862,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Orc's War Tusk",
+                        "item_id": 7761,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Orc Decoration",
+                        "item_id": 8020,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Mithril Ore",
+                        "item_id": 7862,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Orc's War Tusk",
+                        "item_id": 7761,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

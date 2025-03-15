@@ -1,0 +1,147 @@
+{
+    "type": "World",
+    "name": "A Calamity at the Cathedral Ruins",
+    "quest_id": 20000000,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Based on the story of White Guard Knight Gordon, investigate the cause of the supernatural phenomena hidden within the abandoned church.",
+    "steps": [
+        "Investigate and find the ringleader",
+        "Defeat the undead group",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 770,
+            "gold": 660,
+            "rift": 60,
+            "ap": 220,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Iron Ingot",
+                                "item_id": 7874,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Rock",
+                                "item_id": 9396,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Iron Ingot",
+                                "item_id": 7874,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Rock",
+                                "item_id": 9396,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 25,
+            "minimum_item_rank": 0,
+            "xp": 960,
+            "gold": 820,
+            "rift": 80,
+            "ap": 320,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Drilled Plate Sheet",
+                                "item_id": 7881,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Drilled Plate Sheet",
+                                "item_id": 7881,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

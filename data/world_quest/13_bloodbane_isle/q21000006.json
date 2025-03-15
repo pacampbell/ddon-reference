@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "A Thief's Whereabouts",
+    "quest_id": 21000006,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2914,
+            "gold": 1847,
+            "rift": 230,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "56",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gold Ingot",
+                        "item_id": 7877,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Iron Ore Fragment",
+                        "item_id": 7853,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

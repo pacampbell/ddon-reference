@@ -1,0 +1,246 @@
+{
+    "type": "World",
+    "name": "The Witch of the Forest",
+    "quest_id": 20050006,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 280,
+            "gold": 120,
+            "rift": 70,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 330,
+            "gold": 120,
+            "rift": 80,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 17,
+            "minimum_item_rank": 0,
+            "xp": 370,
+            "gold": 70,
+            "rift": 90,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 500,
+            "gold": 1000,
+            "rift": 160,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "13",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Linen",
+                        "item_id": 7936,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Oil Flask",
+                        "item_id": 9394,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Linen",
+                        "item_id": 7936,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Oil Flask",
+                        "item_id": 9394,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Mushroom Saut\u00e9",
+                        "item_id": 1351,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Linen",
+                        "item_id": 7936,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Superior Healing Potion",
+                        "item_id": 35,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Linen",
+                        "item_id": 7936,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Potion",
+                        "item_id": 35,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Meatloaf",
+                        "item_id": 9408,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "17",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Copper Sabatons",
+                        "item_id": 8332,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon's Periapt",
+                        "item_id": 44,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Copper Sabatons",
+                        "item_id": 8332,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Nostalgia Waistguard",
+                        "item_id": 8357,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Periapt",
+                        "item_id": 43,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "45",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Dr\u00f3mi",
+                        "item_id": 7958,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

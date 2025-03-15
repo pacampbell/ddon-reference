@@ -1,0 +1,161 @@
+{
+    "type": "World",
+    "name": "Ambush in the Well's Depths",
+    "quest_id": 20005002,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 11,
+            "minimum_item_rank": 0,
+            "xp": 540,
+            "gold": 300,
+            "rift": 50,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 12,
+            "minimum_item_rank": 0,
+            "xp": 660,
+            "gold": 520,
+            "rift": 30,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 740,
+            "gold": 410,
+            "rift": 70,
+            "ap": 140,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "11",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Hard Leather Mask",
+                        "item_id": 5625,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Absorbent Cloth",
+                        "item_id": 9368,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Thief's Mask",
+                        "item_id": 5170,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Absorbent Cloth",
+                        "item_id": 9368,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Thief's Mask",
+                        "item_id": 5170,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Trooper's Vest",
+                        "item_id": 9608,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "12",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Healing Potion",
+                        "item_id": 34,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Gala Extract",
+                        "item_id": 36,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Iron Ore Fragment",
+                        "item_id": 7853,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Lantern Kindling",
+                        "item_id": 55,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

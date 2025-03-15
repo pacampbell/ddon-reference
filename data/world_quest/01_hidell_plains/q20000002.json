@@ -1,0 +1,217 @@
+{
+    "type": "World",
+    "name": "A Transporter's Tragedy",
+    "quest_id": 20000002,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Retrieve the lost supplies (5 left)",
+        "Retrieve the lost supplies (4 left)",
+        "Retrieve the lost supplies (3 left)",
+        "Retrieve the lost supplies (2 left)",
+        "Retrieve the lost supplies (1 left)",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 9,
+            "minimum_item_rank": 0,
+            "xp": 320,
+            "gold": 320,
+            "rift": 30,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Combat Bottoms",
+                                "item_id": 5644,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Folded Boots",
+                                "item_id": 5646,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Knight's Gloves",
+                                "item_id": 5651,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Warm and Fuzzy Cat Mask (Purple)",
+                                "item_id": 10702,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Knight's Gloves",
+                                "item_id": 5651,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 12,
+            "minimum_item_rank": 0,
+            "xp": 470,
+            "gold": 470,
+            "rift": 40,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "level": "12",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Noble Greaves",
+                                "item_id": 5161,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Gala Extract",
+                                "item_id": 61,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Noble Greaves",
+                                "item_id": 5161,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Smart Boots",
+                                "item_id": 5129,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 14,
+            "minimum_item_rank": 0,
+            "xp": 550,
+            "gold": 690,
+            "rift": 50,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Copper Greaves",
+                                "item_id": 5113,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Pickaxe",
+                                "item_id": 57,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Gaudy Greaves",
+                                "item_id": 5114,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Pickaxe",
+                                "item_id": 57,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

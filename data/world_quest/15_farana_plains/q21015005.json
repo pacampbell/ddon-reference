@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Time Restriction: Midday Harvest",
+    "quest_id": 21015005,
+    "area_id": "FaranaPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Time Restriction Quest: 11:00 to 15:00 (GT)\u3011 Listen to the Area Master's story. Collect and deliver within the specified time.",
+    "steps": [
+        "Gather party members in the camp from 11:00 to 15:00 (GT)",
+        "Inquire details from the requester from 11:00 to 15:00 (GT)",
+        "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 15> from 11:00 to 15:00 (GT)",
+        "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 3070,
+            "gold": 5772,
+            "rift": 750,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "70",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sparkling Water",
+                        "item_id": 15945,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Superior Healing Remedy",
+                        "item_id": 7555,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

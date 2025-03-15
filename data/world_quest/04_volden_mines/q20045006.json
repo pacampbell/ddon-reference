@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Seeking Riese Extract",
+    "quest_id": 20045006,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and lend your aid",
+    "steps": [
+        "Investigate the source of the evil presence in the Hidell Catacombs.",
+        "Defeat the evil demons",
+        "Report to the requester",
+        "Search for further sources of evil in designated locations",
+        "Defeat the enemy that is the source of evil",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 5740,
+            "gold": 2480,
+            "rift": 1020,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Riese Extract",
+                        "item_id": 9450,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Dragon Fang",
+                        "item_id": 7763,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Velvet",
+                        "item_id": 7949,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

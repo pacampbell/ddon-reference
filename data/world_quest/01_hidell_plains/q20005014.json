@@ -1,0 +1,66 @@
+{
+    "type": "World",
+    "name": "Collecting Souls: Corpse Encounter",
+    "quest_id": 20005014,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Assist in the eradication mission of the Knight Order and solve the issue in the Hidell Plains.",
+    "steps": [
+        "Defeat the encountered Undead group"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 470,
+            "gold": 470,
+            "rift": 40,
+            "ap": 80,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "10",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Gem of Devastation",
+                        "item_id": 21196,
+                        "amount": 30
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

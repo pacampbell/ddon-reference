@@ -1,0 +1,38 @@
+{
+    "type": "World",
+    "name": "Happy Days Once Again",
+    "quest_id": 22018019,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Quest\u3011 Listen to the requester's wishes and gather the specified supplies.",
+    "steps": [
+        "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)"
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 8400,
+            "gold": 13750,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

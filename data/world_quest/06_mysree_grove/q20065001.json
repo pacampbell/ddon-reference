@@ -1,0 +1,176 @@
+{
+    "type": "World",
+    "name": "The Guardian of Green Leaves",
+    "quest_id": 20065001,
+    "area_id": "MysreeGrove",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 1840,
+            "gold": 1320,
+            "rift": 210,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 1890,
+            "gold": 1350,
+            "rift": 210,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 2110,
+            "gold": 1810,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "40",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Ruby",
+                        "item_id": 7900,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Ruby",
+                        "item_id": 7900,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Sprite's Talisman",
+                        "item_id": 9390,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "41",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Rosewood",
+                        "item_id": 7966,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Harvest Salad",
+                        "item_id": 9418,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Rosewood",
+                        "item_id": 7966,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Harvest Salad",
+                        "item_id": 9418,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Writhing Live Bark",
+                        "item_id": 9442,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Ent Seed",
+                        "item_id": 7992,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Ent Branch",
+                        "item_id": 7971,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

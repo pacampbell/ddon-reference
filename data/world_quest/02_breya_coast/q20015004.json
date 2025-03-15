@@ -1,0 +1,108 @@
+{
+    "type": "World",
+    "name": "A Seaside Mystery",
+    "quest_id": 20015004,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 34,
+            "minimum_item_rank": 0,
+            "xp": 1120,
+            "gold": 930,
+            "rift": 140,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "34",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Scroll of Great Sorcery",
+                        "item_id": 8009,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Scroll of Great Sorcery",
+                        "item_id": 8009,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Skull",
+                        "item_id": 9397,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Scroll of Great Sorcery",
+                        "item_id": 8009,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Grilled Mushroom",
+                        "item_id": 9415,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "type": "World",
+    "name": "The Tunnel Beast",
+    "quest_id": 20045003,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 23,
+            "minimum_item_rank": 0,
+            "xp": 970,
+            "gold": 750,
+            "rift": 110,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 1380,
+            "gold": 990,
+            "rift": 150,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 5420,
+            "gold": 3630,
+            "rift": 420,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 3460,
+            "gold": 1980,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 6930,
+            "gold": 3960,
+            "rift": 490,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "23",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Drilled Plate Sheet",
+                        "item_id": 7881,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Drilled Plate Sheet",
+                        "item_id": 7881,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Sergeant's Cloak",
+                        "item_id": 5698,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Pauldron",
+                        "item_id": 5694,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwing Rock",
+                        "item_id": 9396,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Pauldron",
+                        "item_id": 5694,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Battler Bracelet",
+                        "item_id": 8972,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Wild Steak",
+                        "item_id": 9412,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Thick Dragonscale",
+                        "item_id": 7929,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Behemoth Fang",
+                        "item_id": 7799,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Spectral Dragon Fang",
+                        "item_id": 9453,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Spectral Dragonscale",
+                        "item_id": 7922,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Power+",
+                        "item_id": 11719,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Amber Dragonscale",
+                        "item_id": 7930,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Witch's Velvet",
+                        "item_id": 7949,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "Demon Army's Surprise Attack",
+    "quest_id": 22018010,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Chance Encounter: Subjugation Quest\u3011 Track down the dangerous enemy that has appeared and defeat it.",
+    "steps": [
+        "Defeat the appeared demons",
+        "Examine the traces left by the demon",
+        "Track down the demons",
+        "Hunt down and stop the dangerous monsters"
+    ],
+    "variants": [
+        {
+            "level": 83,
+            "minimum_item_rank": 0,
+            "xp": 50400,
+            "gold": 5500,
+            "rift": 555,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "83",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Demon Beast's Liver",
+                        "item_id": 18655,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Royal Crest Medal (Rathnite District)",
+                        "item_id": 18815,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Mark of Brute Courage",
+                        "item_id": 17859,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

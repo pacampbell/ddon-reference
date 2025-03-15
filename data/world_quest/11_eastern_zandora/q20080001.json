@@ -1,0 +1,153 @@
+{
+    "type": "World",
+    "name": "The Bound Spirit",
+    "quest_id": 20080001,
+    "area_id": "EasternZandora",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the requester's wishes and lend your aid.",
+    "steps": [
+        "Search for old equipment at the Shrine of Resentment",
+        "Defeat the encountered enemy",
+        "Acquire the found old equipment",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 48,
+            "minimum_item_rank": 0,
+            "xp": 1740,
+            "gold": 1320,
+            "rift": 290,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 1980,
+            "gold": 1370,
+            "rift": 330,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 4350,
+            "gold": 3020,
+            "rift": 360,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "48",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lockpick",
+                        "item_id": 9403,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Smoky Quartz",
+                        "item_id": 7908,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cursed Skull",
+                        "item_id": 7772,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demon Arming Points",
+                        "item_id": 8022,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

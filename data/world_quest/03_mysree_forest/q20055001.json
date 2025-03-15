@@ -1,0 +1,227 @@
+{
+    "type": "World",
+    "name": "A Strange Bird Dances in the Forest",
+    "quest_id": 20055001,
+    "area_id": "MysreeForest",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 690,
+            "gold": 490,
+            "rift": 70,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 830,
+            "gold": 590,
+            "rift": 90,
+            "ap": 150,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 26,
+            "minimum_item_rank": 0,
+            "xp": 1200,
+            "gold": 850,
+            "rift": 130,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "15",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Smart Boots",
+                        "item_id": 5129,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Composite Bottoms",
+                        "item_id": 5130,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Lestania Wine",
+                        "item_id": 9409,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Composite Bottoms",
+                        "item_id": 5130,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sentry Boots",
+                        "item_id": 5162,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Superior Gala Extract",
+                        "item_id": 61,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ],
+                [
+                    {
+                        "name": "Warm and Fuzzy Cat Mask (Orange)",
+                        "item_id": 10712,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Composite Bottoms",
+                        "item_id": 5130,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Sentry Boots",
+                        "item_id": 5162,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "18",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Knight's Honor",
+                        "item_id": 4776,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fortifier",
+                        "item_id": 9377,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Fireproof Draught",
+                        "item_id": 9370,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "26",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Smoky Gloves",
+                        "item_id": 5283,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Conqueror's Amulet",
+                        "item_id": 9381,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

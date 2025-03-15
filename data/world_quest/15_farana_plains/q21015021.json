@@ -1,0 +1,70 @@
+{
+    "type": "World",
+    "name": "King of the Fairies",
+    "quest_id": 21015021,
+    "area_id": "FaranaPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Mortality Check Quest\u3011 Listen to the requester's wish. Defeat the ferocious enemy without reviving even once.",
+    "steps": [
+        "Go to the designated location and find the rabid demon",
+        "Defeat the encountered demons",
+        "Report back to the requester"
+    ],
+    "variants": [
+        {
+            "level": 80,
+            "minimum_item_rank": 0,
+            "xp": 36315,
+            "gold": 5106,
+            "rift": 665,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "80",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Pixie Crown",
+                        "item_id": 15989,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fine Femur",
+                        "item_id": 16008,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Unappraised Wind Trinket (General)",
+                        "item_id": 13488,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

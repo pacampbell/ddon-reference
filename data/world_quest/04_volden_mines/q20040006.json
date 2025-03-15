@@ -1,0 +1,230 @@
+{
+    "type": "World",
+    "name": "A Grim Pilgrimage",
+    "quest_id": 20040006,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Defeat the demons at the summit",
+        "Defeat the found enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 26,
+            "minimum_item_rank": 0,
+            "xp": 850,
+            "gold": 710,
+            "rift": 110,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 990,
+            "gold": 820,
+            "rift": 130,
+            "ap": 450,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 2630,
+            "gold": 1560,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "26",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Over Guard",
+                        "item_id": 5309,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Enamel Hood",
+                        "item_id": 5310,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Demon's Amulet",
+                        "item_id": 9383,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Enamel Hood",
+                        "item_id": 5310,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Showdown Helm",
+                        "item_id": 5524,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "30",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Wiseman Cloak",
+                        "item_id": 5693,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Pauldron",
+                        "item_id": 5694,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sprite's Amulet",
+                        "item_id": 9384,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Pauldron",
+                        "item_id": 5694,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Throwblast",
+                        "item_id": 52,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Authentication Orb (Rathalos)",
+                        "item_id": 13491,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "57",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Magick Lion's Large Mane",
+                        "item_id": 9437,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Rainbow Eye Gem",
+                        "item_id": 7731,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Alkahest",
+                        "item_id": 7833,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

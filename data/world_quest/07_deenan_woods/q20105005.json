@@ -1,0 +1,87 @@
+{
+    "type": "World",
+    "name": "The Greenery Falls, Dancing",
+    "quest_id": 20105005,
+    "area_id": "DeenanWoods",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the encountered enemy",
+    "steps": [
+        "Defeat the encountered enemy"
+    ],
+    "variants": [
+        {
+            "level": 41,
+            "minimum_item_rank": 0,
+            "xp": 900,
+            "gold": 1120,
+            "rift": 180,
+            "ap": 750,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "41",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Marbled Beast-Steak",
+                        "item_id": 7726,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Special Mushroom Dip",
+                        "item_id": 9419,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Pickaxe",
+                        "item_id": 9401,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Marbled Beast-Steak",
+                        "item_id": 7726,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Special Mushroom Dip",
+                        "item_id": 9419,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Authentication Orb (Rathian)",
+                        "item_id": 13492,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "World",
+    "name": "Urgent Inspection: Mergoda Ruins Treasure Expedition",
+    "quest_id": 20995012,
+    "area_id": "MergodaRuins",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Hear from the explorers and help eliminate their obstacles",
+    "steps": [
+        "Head to the designated location",
+        "Defeat the found dangerous demons",
+        "Report back to the Seeker"
+    ],
+    "variants": [
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 1500,
+            "gold": 1500,
+            "rift": 200,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 2350,
+            "gold": 2010,
+            "rift": 260,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

@@ -1,0 +1,174 @@
+{
+    "type": "World",
+    "name": "Request for Medicine",
+    "quest_id": 20000009,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and gather the desired items",
+    "steps": [
+        "Visit Vicelot's item shop in the White Dragon Temple",
+        "Collect the materials needed in Hidell Plains (2 left)",
+        "Collect the materials needed in Hidell Plains (1 left)",
+        "Deliver the materials to Vicelot",
+        "Deliver the medicine to Henry"
+    ],
+    "variants": [
+        {
+            "level": 7,
+            "minimum_item_rank": 0,
+            "xp": 260,
+            "gold": 300,
+            "rift": 20,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 290,
+            "gold": 350,
+            "rift": 20,
+            "ap": 40,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "7",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Battle Greaves",
+                        "item_id": 5111,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Leather Shoes",
+                        "item_id": 5143,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lumber Knife",
+                        "item_id": 58,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Serpent's Whisker",
+                        "item_id": 8322,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Pickaxe",
+                        "item_id": 57,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Serpent's Whisker",
+                        "item_id": 8322,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "8",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Entry Boots",
+                        "item_id": 5159,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lockpick",
+                        "item_id": 59,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shinguards",
+                        "item_id": 8372,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Lockpick",
+                        "item_id": 59,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Shinguards",
+                        "item_id": 8372,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hide Cuisses",
+                        "item_id": 8397,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "type": "World",
+    "name": "The Cause of the Hot Springs Blockage",
+    "quest_id": 20040004,
+    "area_id": "VoldenMines",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and investigate the  cause of the waterway issue at the hot spring.",
+    "steps": [
+        "Investigate the Kinoza Flood Control Channel",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 22,
+            "minimum_item_rank": 0,
+            "xp": 1010,
+            "gold": 720,
+            "rift": 110,
+            "ap": 230,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 25,
+            "minimum_item_rank": 0,
+            "xp": 1650,
+            "gold": 1370,
+            "rift": 80,
+            "ap": 350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 28,
+            "minimum_item_rank": 0,
+            "xp": 1290,
+            "gold": 920,
+            "rift": 140,
+            "ap": 330,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "22",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Shaman's Robe",
+                        "item_id": 5439,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Poison Flask",
+                        "item_id": 9395,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Ocean Robe",
+                        "item_id": 5440,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Poison Flask",
+                        "item_id": 9395,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Ocean Robe",
+                        "item_id": 5440,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Vice Cuirass",
+                        "item_id": 5229,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Refreshing Remedy",
+                        "item_id": 9375,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "25",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Quality Gala Extract",
+                        "item_id": 9361,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Small Thief's Key",
+                        "item_id": 9429,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "28",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Artisan's Boots",
+                        "item_id": 9703,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Angel's Amulet",
+                        "item_id": 9382,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Dignity Boots",
+                        "item_id": 9713,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Elixir",
+                        "item_id": 7552,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Angel's Amulet",
+                        "item_id": 9382,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Dignity Boots",
+                        "item_id": 9713,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Monarch's Vest",
+                        "item_id": 9638,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Angel's Amulet",
+                        "item_id": 9382,
+                        "amount": 2
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

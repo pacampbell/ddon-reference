@@ -1,0 +1,234 @@
+{
+    "type": "World",
+    "name": "The Dark Shadow Covering the Sky",
+    "quest_id": 20095002,
+    "area_id": "ZandoraWastelands",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and defeat the enemy.",
+    "steps": [
+        "Uncover the identity of the large black shadow",
+        "Defeat the encountered enemy",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 2640,
+            "gold": 1610,
+            "rift": 300,
+            "ap": 930,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 2690,
+            "gold": 1650,
+            "rift": 300,
+            "ap": 1130,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 2690,
+            "gold": 1650,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 58,
+            "minimum_item_rank": 0,
+            "xp": 2670,
+            "gold": 1910,
+            "rift": 300,
+            "ap": 1350,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 5540,
+            "gold": 3960,
+            "rift": 310,
+            "ap": 1590,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "49",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Moist Black Leather",
+                        "item_id": 7742,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Enhanced Lumber Knife",
+                        "item_id": 9402,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Strong Gala Extract",
+                        "item_id": 9363,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "50",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Moist Black Leather",
+                        "item_id": 7742,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Panacea",
+                        "item_id": 41,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Healing Remedy",
+                        "item_id": 7554,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "55",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Moist Black Leather",
+                        "item_id": 7742,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Glossy Black Feather",
+                        "item_id": 7818,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cursed Skull",
+                        "item_id": 7772,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "58",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Nightmare's Vocal Cords",
+                        "item_id": 7746,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Demonic Fowl Feather",
+                        "item_id": 7819,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Emerald",
+                        "item_id": 7898,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "60",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Crest of Perseverance+",
+                        "item_id": 11742,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Griffin Glossy Plume",
+                        "item_id": 9439,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Spirit Crystal",
+                        "item_id": 7909,
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

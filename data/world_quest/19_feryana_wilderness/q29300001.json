@@ -1,0 +1,43 @@
+{
+    "type": "World",
+    "name": "Jifule Fortress Capture Battle",
+    "quest_id": 29300001,
+    "area_id": "FeryanaWilderness",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010War Mission\u3011 Advance towards the occupied Jifule Fortress and eliminate the Commanding Officer of the Evil Dragon army.",
+    "steps": [
+        "Defeat the enemy army in the attack area",
+        "Report to Walt",
+        "Gather at the progress marker and move to the fortress",
+        "Advance into the fortress",
+        "Defeat the Evil Dragon army occupying the Central Square",
+        "Eliminate the Necro Master at the location"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": []
+}

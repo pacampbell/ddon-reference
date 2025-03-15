@@ -1,0 +1,144 @@
+{
+    "type": "World",
+    "name": "The Sea-Watcher's Hand",
+    "quest_id": 20010003,
+    "area_id": "BreyaCoast",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the client's request and deliver the items to the designated location.",
+    "steps": [
+        "Visit the lighthouse keeper",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 11,
+            "minimum_item_rank": 0,
+            "xp": 360,
+            "gold": 360,
+            "rift": 30,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        },
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 420,
+            "gold": 470,
+            "rift": 40,
+            "ap": 90,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "11",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Walker Tights",
+                        "item_id": 8687,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Eyedrops",
+                        "item_id": 39,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Walker Tights",
+                        "item_id": 8687,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Trooper Suit",
+                        "item_id": 5655,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Warm and Fuzzy Cat Mask (Black)",
+                        "item_id": 10692,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Trooper Suit",
+                        "item_id": 5655,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        },
+        {
+            "level": "13",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Walker Tights",
+                        "item_id": 8687,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Bottled Haste",
+                        "item_id": 9365,
+                        "amount": 3
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ],
+                [
+                    {
+                        "name": "Walker Tights",
+                        "item_id": 8687,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Trooper Suit",
+                        "item_id": 5655,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Random Rewards",
+                        "amount": 1
+                    }
+                ]
+            ]
+        }
+    ]
+}

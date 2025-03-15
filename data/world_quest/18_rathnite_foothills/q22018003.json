@@ -1,0 +1,71 @@
+{
+    "type": "World",
+    "name": "The Cowardly Soldier's Distraction",
+    "quest_id": 22018003,
+    "area_id": "RathniteFoothills",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 1,
+    "repeatable": true,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "\u3010Delivery Hunt Quest\u3011 Hand over a valuable item to the client and locate the whereabouts of a rare enemy.",
+    "steps": [
+        "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+        "Go to the designated location to search for enemy",
+        "Defeat the found demons",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 80,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5139,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "parsed_rewards": [
+        {
+            "level": "80",
+            "type": "Select1",
+            "pools": [
+                [
+                    {
+                        "name": "Royal Crest Medal (Rathnite District)",
+                        "item_id": 18815,
+                        "amount": 5
+                    },
+                    {
+                        "name": "Acre Royal Family Intaglio",
+                        "item_id": 17912,
+                        "amount": 1
+                    },
+                    {
+                        "name": "Highly Viscous Slime Liquid",
+                        "item_id": 17880,
+                        "amount": 3
+                    }
+                ],
+                [
+                    {
+                        "name": "Random Rewards",
+                        "amount": 2
+                    }
+                ]
+            ]
+        }
+    ]
+}

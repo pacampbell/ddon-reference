@@ -35,7 +35,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "21",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rock Armor",
+                                "item_id": 5228,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Rock Armor",
+                                "item_id": 5228,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Shaman's Robe",
+                                "item_id": 5439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 24,
@@ -47,7 +96,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "24",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Shaman's Robe",
+                                "item_id": 5439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorcerer's Coat",
+                                "item_id": 5442,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorcerer's Coat",
+                                "item_id": 5442,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grand Surcoat",
+                                "item_id": 5231,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 32,
@@ -59,7 +178,67 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "32",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Faerie Band",
+                                "item_id": 9568,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Advent Circlet",
+                                "item_id": 9573,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Advent Circlet",
+                                "item_id": 9573,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Justice Holder",
+                                "item_id": 9643,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -71,232 +250,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "21",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rock Armor",
-                        "item_id": 5228,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Rock Armor",
-                        "item_id": 5228,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Shaman's Robe",
-                        "item_id": 5439,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "24",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Shaman's Robe",
-                        "item_id": 5439,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorcerer's Coat",
-                        "item_id": 5442,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorcerer's Coat",
-                        "item_id": 5442,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grand Surcoat",
-                        "item_id": 5231,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "32",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Faerie Band",
-                        "item_id": 9568,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Advent Circlet",
-                        "item_id": 9573,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Advent Circlet",
-                        "item_id": 9573,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Justice Holder",
-                        "item_id": 9643,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cracked Black Horn",
-                        "item_id": 7753,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "55",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cracked Black Horn",
+                                "item_id": 7753,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

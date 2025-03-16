@@ -25,6 +25,7 @@
         "Check Eluna's well-being",
         "Report to Wilson"
     ],
+    "tags": ["Attack on Titan"],
     "variants": [
         {
             "level": 20,
@@ -36,7 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "20",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Survey Corps Token",
+                                "item_id": 18835,
+                                "amount": 20
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 50,
@@ -48,7 +77,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "50",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Survey Corps Token",
+                                "item_id": 18835,
+                                "amount": 40
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 80,
@@ -61,62 +118,6 @@
             "pp": 0,
             "is_bounty": false,
             "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "20",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Survey Corps Token",
-                        "item_id": 18835,
-                        "amount": 20
-                    },
-                    {
-                        "name": "Rugged Leather",
-                        "item_id": 7924,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "50",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Survey Corps Token",
-                        "item_id": 18835,
-                        "amount": 40
-                    },
-                    {
-                        "name": "Giant Eyeball",
-                        "item_id": 7740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
         }
     ]
 }

@@ -31,7 +31,46 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "14",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Decreased Ice Resist",
+                                "item_id": 9269,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Restorative",
+                                "item_id": 9369,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Purity Legs",
+                                "item_id": 9683,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Decreased Ice Resist",
+                                "item_id": 9269,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 18,
@@ -43,7 +82,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "18",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Barrel Helm",
+                                "item_id": 8124,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Terry Cloth",
+                                "item_id": 9367,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorel Helm",
+                                "item_id": 5201,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Terry Cloth",
+                                "item_id": 9367,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorel Helm",
+                                "item_id": 5201,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sacred Hood",
+                                "item_id": 5411,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 21,
@@ -55,148 +149,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "14",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Decreased Ice Resist",
-                        "item_id": 9269,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Restorative",
-                        "item_id": 9369,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Purity Legs",
-                        "item_id": 9683,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Decreased Ice Resist",
-                        "item_id": 9269,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Barrel Helm",
-                        "item_id": 8124,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Terry Cloth",
-                        "item_id": 9367,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorel Helm",
-                        "item_id": 5201,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Terry Cloth",
-                        "item_id": 9367,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorel Helm",
-                        "item_id": 5201,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sacred Hood",
-                        "item_id": 5411,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "21",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sorcery Bangles",
-                        "item_id": 5493,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Concoction of Light",
-                        "item_id": 9376,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorcery Bangles",
-                        "item_id": 5493,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Murg Armguards",
-                        "item_id": 5280,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "21",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sorcery Bangles",
+                                "item_id": 5493,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorcery Bangles",
+                                "item_id": 5493,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Murg Armguards",
+                                "item_id": 5280,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

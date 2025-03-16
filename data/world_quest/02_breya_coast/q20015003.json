@@ -31,7 +31,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "19",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nostalgia Waistguard",
+                                "item_id": 8357,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Absorbent Cloth",
+                                "item_id": 9368,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sacred Greaves",
+                                "item_id": 5465,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Solemn Legs",
+                                "item_id": 5253,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 36,
@@ -43,7 +92,51 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "36",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Protective Cloth",
+                                "item_id": 7940,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -55,126 +148,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "19",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Nostalgia Waistguard",
-                        "item_id": 8357,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Absorbent Cloth",
-                        "item_id": 9368,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Sacred Greaves",
-                        "item_id": 5465,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Solemn Legs",
-                        "item_id": 5253,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "36",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Protective Cloth",
-                        "item_id": 7940,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Azure Dragonscale",
-                        "item_id": 7931,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Huge Dragon Bone Lump",
-                        "item_id": 7806,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dragon Hide",
-                        "item_id": 7928,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "60",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Huge Dragon Bone Lump",
+                                "item_id": 7806,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dragon Hide",
+                                "item_id": 7928,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

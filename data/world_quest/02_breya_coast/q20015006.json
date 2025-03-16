@@ -33,20 +33,43 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        },
-        {
-            "level": 60,
-            "minimum_item_rank": 0,
-            "xp": 3460,
-            "gold": 1980,
-            "rift": 490,
-            "ap": 1590,
-            "jp": 0,
-            "pp": 0,
-            "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Amber Dragonscale",
+                                "item_id": 7930,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Huge Dragon Bone Lump",
+                                "item_id": 7806,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dragon Hide",
+                                "item_id": 7928,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 60
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

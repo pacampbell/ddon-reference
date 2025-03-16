@@ -31,35 +31,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cursed Cloth",
-                        "item_id": 7948,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Large Scallop Shell",
-                        "item_id": 8018,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "60",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cursed Cloth",
+                                "item_id": 7948,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Large Scallop Shell",
+                                "item_id": 8018,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -33,7 +33,46 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "15",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Amethyst",
+                                "item_id": 7897,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Waking Draught",
+                                "item_id": 9366,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Amethyst",
+                                "item_id": 7897,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Waking Draught",
+                                "item_id": 9366,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 18,
@@ -45,100 +84,61 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "15",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Amethyst",
-                        "item_id": 7897,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Waking Draught",
-                        "item_id": 9366,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Amethyst",
-                        "item_id": 7897,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Waking Draught",
-                        "item_id": 9366,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sorcerer's Hat",
-                        "item_id": 8157,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sacred Hood",
-                        "item_id": 5411,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sacred Hood",
-                        "item_id": 5411,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sorel Helm",
-                        "item_id": 5201,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "18",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sorcerer's Hat",
+                                "item_id": 8157,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sacred Hood",
+                                "item_id": 5411,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sacred Hood",
+                                "item_id": 5411,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sorel Helm",
+                                "item_id": 5201,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

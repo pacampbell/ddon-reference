@@ -34,8 +34,44 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Red Pine Bow",
+                                "item_id": 4760,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Antidote",
+                                "item_id": 37,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Eyedrops",
+                                "item_id": 39,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "comment": "Random Reward",
+                                "name": "Pharmacy Mantle",
+                                "item_id": 5690,
+                                "amount": 1
+                            },
+                            {
+                                "comment": "Random Reward",
+                                "name": "Attack Upgrade Rock",
+                                "item_id": 8035,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

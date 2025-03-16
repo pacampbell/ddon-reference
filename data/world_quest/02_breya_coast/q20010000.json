@@ -33,7 +33,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "11",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Tied Belt",
+                                "item_id": 9603,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Restorative",
+                                "item_id": 9369,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Trooper's Vest",
+                                "item_id": 9608,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Restorative",
+                                "item_id": 9369,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Trooper's Vest",
+                                "item_id": 9608,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Thief's Mask",
+                                "item_id": 5170,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 13,
@@ -45,116 +100,61 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "11",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Tied Belt",
-                        "item_id": 9603,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Restorative",
-                        "item_id": 9369,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Trooper's Vest",
-                        "item_id": 9608,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Restorative",
-                        "item_id": 9369,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Trooper's Vest",
-                        "item_id": 9608,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Thief's Mask",
-                        "item_id": 5170,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "13",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Grass-Green Shoes",
-                        "item_id": 5145,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lockpick",
-                        "item_id": 59,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sagacity Shoes",
-                        "item_id": 5146,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lockpick",
-                        "item_id": 59,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sagacity Shoes",
-                        "item_id": 5146,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gaudy Greaves",
-                        "item_id": 5114,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "13",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Grass-Green Shoes",
+                                "item_id": 5145,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lockpick",
+                                "item_id": 59,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sagacity Shoes",
+                                "item_id": 5146,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lockpick",
+                                "item_id": 59,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sagacity Shoes",
+                                "item_id": 5146,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gaudy Greaves",
+                                "item_id": 5114,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

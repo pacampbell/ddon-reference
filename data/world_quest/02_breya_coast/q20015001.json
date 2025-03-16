@@ -31,19 +31,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        },
-        {
-            "level": 15,
-            "minimum_item_rank": 0,
-            "xp": 720,
-            "gold": 540,
-            "rift": 120,
-            "ap": 150,
-            "jp": 0,
-            "pp": 0,
-            "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "15",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Composite Longbow",
+                                "item_id": 4757,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Absorbent Cloth",
+                                "item_id": 9368,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "White Wolf Bow",
+                                "item_id": 4759,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Absorbent Cloth",
+                                "item_id": 9368,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "White Wolf Bow",
+                                "item_id": 4759,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gladius",
+                                "item_id": 4785,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 15,
@@ -54,8 +112,36 @@
             "ap": 150,
             "jp": 0,
             "pp": 0,
-            "is_bounty": false,
-            "rewards": []
+            "is_bounty": true,
+            "rewards": [
+                {
+                    "level": "15",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Gala Extract",
+                                "item_id": 61,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 24,
@@ -67,173 +153,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "15",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Composite Longbow",
-                        "item_id": 4757,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Absorbent Cloth",
-                        "item_id": 9368,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "White Wolf Bow",
-                        "item_id": 4759,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Absorbent Cloth",
-                        "item_id": 9368,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "White Wolf Bow",
-                        "item_id": 4759,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gladius",
-                        "item_id": 4785,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "15",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Gala Extract",
-                        "item_id": 61,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "24",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Majesty Drapes",
-                        "item_id": 5546,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Valiant Coat",
-                        "item_id": 5549,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Valiant Coat",
-                        "item_id": 5549,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Silver Lorica",
-                        "item_id": 5335,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "24",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Majesty Drapes",
+                                "item_id": 5546,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Valiant Coat",
+                                "item_id": 5549,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Valiant Coat",
+                                "item_id": 5549,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silver Lorica",
+                                "item_id": 5335,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

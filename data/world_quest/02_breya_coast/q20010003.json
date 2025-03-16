@@ -32,7 +32,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "11",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Walker Tights",
+                                "item_id": 8687,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Eyedrops",
+                                "item_id": 39,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Walker Tights",
+                                "item_id": 8687,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Trooper Suit",
+                                "item_id": 5655,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Warm and Fuzzy Cat Mask (Black)",
+                                "item_id": 10692,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Trooper Suit",
+                                "item_id": 5655,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 13,
@@ -44,100 +99,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "11",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Walker Tights",
-                        "item_id": 8687,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Eyedrops",
-                        "item_id": 39,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Walker Tights",
-                        "item_id": 8687,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Trooper Suit",
-                        "item_id": 5655,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Warm and Fuzzy Cat Mask (Black)",
-                        "item_id": 10692,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Trooper Suit",
-                        "item_id": 5655,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "13",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Walker Tights",
-                        "item_id": 8687,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Bottled Haste",
-                        "item_id": 9365,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Walker Tights",
-                        "item_id": 8687,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Trooper Suit",
-                        "item_id": 5655,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "13",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Walker Tights",
+                                "item_id": 8687,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Bottled Haste",
+                                "item_id": 9365,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Walker Tights",
+                                "item_id": 8687,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Trooper Suit",
+                                "item_id": 5655,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

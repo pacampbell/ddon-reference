@@ -33,35 +33,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Corroded Giant Eyeball",
-                        "item_id": 11774,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Quality Gala Mushroom",
-                        "item_id": 7994,
-                        "amount": 7
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "63",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Corroded Giant Eyeball",
+                                "item_id": 11774,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Quality Gala Mushroom",
+                                "item_id": 7994,
+                                "amount": 7
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

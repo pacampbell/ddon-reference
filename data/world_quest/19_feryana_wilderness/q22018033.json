@@ -5,7 +5,7 @@
     "area_id": "FeryanaWilderness",
     "guide_type": "QuestUsefulForAdventure",
     "starting_npc": null,
-    "minimum_area_rank": 1,
+    "minimum_area_rank": 10,
     "repeatable": true,
     "quest_chain": {
         "previous_quest_id": 0,
@@ -62,5 +62,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "tags": []
 }

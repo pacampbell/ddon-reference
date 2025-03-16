@@ -41,7 +41,6 @@
                                 "item_id": 18819,
                                 "amount": 5
                             },
-
                             {
                                 "name": "Superior Healing Remedy",
                                 "item_id": 7555,
@@ -57,5 +56,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "tags": []
 }

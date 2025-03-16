@@ -31,10 +31,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
+            "rewards": [
         {
             "level": "70",
             "type": "Select1",
@@ -60,6 +57,8 @@
                         "amount": 1
                     }
                 ]
+            ]
+        }
             ]
         }
     ]

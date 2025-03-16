@@ -31,7 +31,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "34",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Monster Gallstone",
+                                "item_id": 7865,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Giant's Horn",
+                                "item_id": 7784,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Monster Gallstone",
+                                "item_id": 7865,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -43,83 +92,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "34",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Monster Gallstone",
-                        "item_id": 7865,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Concoction of Light",
-                        "item_id": 9376,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Giant's Horn",
-                        "item_id": 7784,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Monster Gallstone",
-                        "item_id": 7865,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Concoction of Light",
-                        "item_id": 9376,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Writhing Live Bark",
-                        "item_id": 9442,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ent Seed",
-                        "item_id": 7992,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Ent Branch",
-                        "item_id": 7971,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "55",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Writhing Live Bark",
+                                "item_id": 9442,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ent Seed",
+                                "item_id": 7992,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Ent Branch",
+                                "item_id": 7971,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

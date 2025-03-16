@@ -35,7 +35,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "14",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Leather Armor",
+                                "item_id": 5125,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Gala Extract",
+                                "item_id": 61,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lamellar Jacket",
+                                "item_id": 5126,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Gala Extract",
+                                "item_id": 61,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lamellar Jacket",
+                                "item_id": 5126,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Calm Robe",
+                                "item_id": 5158,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 18,
@@ -47,7 +102,46 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "18",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Soldier's Ring",
+                                "item_id": 8947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Fang Wristband",
+                                "item_id": 8966,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -59,148 +153,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "14",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Leather Armor",
-                        "item_id": 5125,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Gala Extract",
-                        "item_id": 61,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Lamellar Jacket",
-                        "item_id": 5126,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Gala Extract",
-                        "item_id": 61,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Lamellar Jacket",
-                        "item_id": 5126,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Calm Robe",
-                        "item_id": 5158,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Soldier's Ring",
-                        "item_id": 8947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Fang Wristband",
-                        "item_id": 8966,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cracked Black Horn",
-                        "item_id": 7753,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "55",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cracked Black Horn",
+                                "item_id": 7753,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

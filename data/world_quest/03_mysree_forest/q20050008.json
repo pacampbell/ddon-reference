@@ -34,7 +34,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "18",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Executioner's Mask",
+                                "item_id": 9543,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Periapt",
+                                "item_id": 45,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Legacy Band",
+                                "item_id": 9553,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Periapt",
+                                "item_id": 45,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Legacy Band",
+                                "item_id": 9553,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lestanian Vest",
+                                "item_id": 9628,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 20,
@@ -46,146 +116,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Executioner's Mask",
-                        "item_id": 9543,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Periapt",
-                        "item_id": 45,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Legacy Band",
-                        "item_id": 9553,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Periapt",
-                        "item_id": 45,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Legacy Band",
-                        "item_id": 9553,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lestanian Vest",
-                        "item_id": 9628,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "20",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Barrel Helm",
-                        "item_id": 8124,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Oil Flask",
-                        "item_id": 9394,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Hot Gel",
-                        "item_id": 9371,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Assassin's Mask",
-                        "item_id": 5306,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Oil Flask",
-                        "item_id": 9394,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Hot Gel",
-                        "item_id": 9371,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Assassin's Mask",
-                        "item_id": 5306,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Quest Helm",
-                        "item_id": 5520,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Hot Gel",
-                        "item_id": 9371,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "20",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Barrel Helm",
+                                "item_id": 8124,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Oil Flask",
+                                "item_id": 9394,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Hot Gel",
+                                "item_id": 9371,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Assassin's Mask",
+                                "item_id": 5306,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Oil Flask",
+                                "item_id": 9394,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Hot Gel",
+                                "item_id": 9371,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Assassin's Mask",
+                                "item_id": 5306,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Quest Helm",
+                                "item_id": 5520,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Hot Gel",
+                                "item_id": 9371,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

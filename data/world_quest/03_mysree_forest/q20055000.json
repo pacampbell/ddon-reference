@@ -31,7 +31,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "16",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Smart Boots",
+                                "item_id": 5129,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Iron Legs",
+                                "item_id": 8407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Iron Legs",
+                                "item_id": 8407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Vigorous Legs",
+                                "item_id": 8382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 20,
@@ -43,7 +98,46 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "20",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Chain Hood",
+                                "item_id": 8207,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Gala Extract",
+                                "item_id": 61,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Battle Helm",
+                                "item_id": 5202,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spike Head",
+                                "item_id": 5412,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 24,
@@ -55,138 +149,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "16",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Smart Boots",
-                        "item_id": 5129,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Iron Legs",
-                        "item_id": 8407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Iron Legs",
-                        "item_id": 8407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Vigorous Legs",
-                        "item_id": 8382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "20",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Chain Hood",
-                        "item_id": 8207,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Gala Extract",
-                        "item_id": 61,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Battle Helm",
-                        "item_id": 5202,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Spike Head",
-                        "item_id": 5412,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "24",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Apophyllite",
-                        "item_id": 7916,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Apophyllite",
-                        "item_id": 7916,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "24",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Apophyllite",
+                                "item_id": 7916,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Apophyllite",
+                                "item_id": 7916,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

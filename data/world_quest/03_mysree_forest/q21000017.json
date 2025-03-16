@@ -33,37 +33,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Unappraised Star Trinket (General)",
-                        "item_id": 13480,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "70",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Star Trinket (General)",
+                                "item_id": 13480,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

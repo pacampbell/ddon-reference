@@ -34,7 +34,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "19",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Wizard's Ring",
+                                "item_id": 8948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shaman Bracelet",
+                                "item_id": 8973,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gryphus Mantle",
+                                "item_id": 5691,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shaman Bracelet",
+                                "item_id": 8973,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 21,
@@ -46,110 +101,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "19",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Wizard's Ring",
-                        "item_id": 8948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Shaman Bracelet",
-                        "item_id": 8973,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gryphus Mantle",
-                        "item_id": 5691,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Shaman Bracelet",
-                        "item_id": 8973,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "21",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Composite Sleeves",
-                        "item_id": 5386,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Composite Sleeves",
-                        "item_id": 5386,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Buster Knuckles",
-                        "item_id": 5598,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "21",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Composite Sleeves",
+                                "item_id": 5386,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Composite Sleeves",
+                                "item_id": 5386,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Buster Knuckles",
+                                "item_id": 5598,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

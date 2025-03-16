@@ -33,7 +33,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "21",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Hunter Jacket",
+                                "item_id": 5332,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Hunter Jacket",
+                                "item_id": 5332,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Majesty Drapes",
+                                "item_id": 5546,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 25,
@@ -45,85 +94,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "21",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Hunter Jacket",
-                        "item_id": 5332,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Hunter Jacket",
-                        "item_id": 5332,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Majesty Drapes",
-                        "item_id": 5546,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Periapt",
-                        "item_id": 42,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "25",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bloodstained Red Cloth",
-                        "item_id": 7946,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "25",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bloodstained Red Cloth",
+                                "item_id": 7946,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

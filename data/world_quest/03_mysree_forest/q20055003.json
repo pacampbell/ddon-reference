@@ -31,7 +31,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "18",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Strong Hatchet",
+                                "item_id": 4748,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Restorative",
+                                "item_id": 9369,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Iron Sword",
+                                "item_id": 4749,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Vanguard",
+                                "item_id": 9942,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 25,
@@ -43,7 +92,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "25",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Combat Fabric",
+                                "item_id": 7938,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Rock",
+                                "item_id": 9396,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Rock",
+                                "item_id": 9396,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 57,
@@ -55,131 +153,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Strong Hatchet",
-                        "item_id": 4748,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Restorative",
-                        "item_id": 9369,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Iron Sword",
-                        "item_id": 4749,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Vanguard",
-                        "item_id": 9942,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "25",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Combat Fabric",
-                        "item_id": 7938,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwing Rock",
-                        "item_id": 9396,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwing Rock",
-                        "item_id": 9396,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "57",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Magick Lion's Large Mane",
-                        "item_id": 9437,
-                        "amount": 1
-                    },
-                    {
-                        "name": "White Lion Pelt",
-                        "item_id": 7739,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pure White Mane",
-                        "item_id": 7780,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "57",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Lion's Large Mane",
+                                "item_id": 9437,
+                                "amount": 1
+                            },
+                            {
+                                "name": "White Lion Pelt",
+                                "item_id": 7739,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pure White Mane",
+                                "item_id": 7780,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

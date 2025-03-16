@@ -35,7 +35,46 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "10",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Fluorite Earrings",
+                                "item_id": 8931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Warm and Fuzzy Cat Mask (Yellow)",
+                                "item_id": 10707,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 13,
@@ -47,84 +86,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "10",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Fluorite Earrings",
-                        "item_id": 8931,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Potion",
-                        "item_id": 34,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Warm and Fuzzy Cat Mask (Yellow)",
-                        "item_id": 10707,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Potion",
-                        "item_id": 34,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "13",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Decreased Ice Resist",
-                        "item_id": 9269,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fireproof Draught",
-                        "item_id": 9370,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Dalmatica",
-                        "item_id": 5142,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Decreased Ice Resist",
-                        "item_id": 9269,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "13",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Decreased Ice Resist",
+                                "item_id": 9269,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fireproof Draught",
+                                "item_id": 9370,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dalmatica",
+                                "item_id": 5142,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Decreased Ice Resist",
+                                "item_id": 9269,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

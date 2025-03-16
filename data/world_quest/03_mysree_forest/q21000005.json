@@ -37,37 +37,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Freezing)",
-                        "item_id": 16031,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Freezing)",
-                        "item_id": 16036,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Ice Barrier",
-                        "item_id": 16081,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "70",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Freezing)",
+                                "item_id": 16031,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Freezing)",
+                                "item_id": 16036,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Ice Barrier",
+                                "item_id": 16081,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

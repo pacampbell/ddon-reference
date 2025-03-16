@@ -33,7 +33,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "19",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Iron Legs",
+                                "item_id": 8407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Periapt",
+                                "item_id": 43,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Periapt",
+                                "item_id": 44,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Solemn Legs",
+                                "item_id": 5253,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Periapt",
+                                "item_id": 43,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Periapt",
+                                "item_id": 44,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Solemn Legs",
+                                "item_id": 5253,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sacred Greaves",
+                                "item_id": 5465,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Periapt",
+                                "item_id": 44,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -45,7 +115,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "45",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Tar Prevention",
+                                "item_id": 9340,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Drench Prevention",
+                                "item_id": 9338,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Stunning Prevention",
+                                "item_id": 9336,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -57,7 +155,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "58",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dragon Horn",
+                                "item_id": 7754,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Smooth Dragonleather",
+                                "item_id": 7927,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angules Horn",
+                                "item_id": 7756,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -68,159 +194,35 @@
             "ap": 1350,
             "jp": 0,
             "pp": 0,
-            "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "19",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Iron Legs",
-                        "item_id": 8407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Periapt",
-                        "item_id": 43,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Periapt",
-                        "item_id": 44,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Solemn Legs",
-                        "item_id": 5253,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Periapt",
-                        "item_id": 43,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Periapt",
-                        "item_id": 44,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Solemn Legs",
-                        "item_id": 5253,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sacred Greaves",
-                        "item_id": 5465,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Periapt",
-                        "item_id": 44,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Tar Prevention",
-                        "item_id": 9340,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Drench Prevention",
-                        "item_id": 9338,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Stunning Prevention",
-                        "item_id": 9336,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dragon Horn",
-                        "item_id": 7754,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Smooth Dragonleather",
-                        "item_id": 7927,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angules Horn",
-                        "item_id": 7756,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "is_bounty": true,
+            "rewards": [
+                {
+                    "level": "58",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

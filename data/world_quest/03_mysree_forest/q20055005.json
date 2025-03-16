@@ -31,7 +31,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "32",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Iron Bangles",
+                                "item_id": 5499,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sphinx Claw",
+                                "item_id": 7747,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mellow Ale",
+                                "item_id": 9413,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,7 +92,37 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "45",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Deeper Sleep",
+                                "item_id": 9244,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -55,7 +134,56 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "55",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Phantom Metal",
+                                "item_id": 7890,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sphinx Claw",
+                                "item_id": 7747,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ent Seed",
+                                "item_id": 7992,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Firm Protection",
+                                "item_id": 9290,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Wisdom",
+                                "item_id": 9294,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -67,162 +195,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "32",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Iron Bangles",
-                        "item_id": 5499,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Sphinx Claw",
-                        "item_id": 7747,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mellow Ale",
-                        "item_id": 9413,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Deeper Sleep",
-                        "item_id": 9244,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Phantom Metal",
-                        "item_id": 7890,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sphinx Claw",
-                        "item_id": 7747,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ent Seed",
-                        "item_id": 7992,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Firm Protection",
-                        "item_id": 9290,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Wisdom",
-                        "item_id": 9294,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Relief Coin (Crimson)",
-                        "item_id": 13812,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Dazzling",
-                        "item_id": 9205,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Nightmare's Vocal Cords",
-                        "item_id": 7746,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Writhing Live Bark",
-                        "item_id": 9442,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "60",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dazzling",
+                                "item_id": 9205,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Writhing Live Bark",
+                                "item_id": 9442,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

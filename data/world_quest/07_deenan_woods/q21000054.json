@@ -37,7 +37,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Protection+",
+                                "item_id": 11740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Unwavering",
+                                "item_id": 16078,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Stature Protection",
+                                "item_id": 16099,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 80,
@@ -49,62 +76,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Protection+",
-                        "item_id": 11740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Unwavering",
-                        "item_id": 16078,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Stature Protection",
-                        "item_id": 16099,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "80",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Unappraised Moon Trinket (King)",
-                        "item_id": 13477,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Moon Trinket (King)",
+                                "item_id": 13477,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

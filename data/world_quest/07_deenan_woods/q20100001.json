@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "King Bay Leaf",
+                                "item_id": 7983,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,66 +72,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "King Bay Leaf",
-                        "item_id": 7983,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gold-Striped Hardwood",
-                        "item_id": 9059,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold-Striped Hardwood",
+                                "item_id": 9059,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

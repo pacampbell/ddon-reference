@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 41,
@@ -43,7 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Spirit Silver Ingot",
+                                "item_id": 7884,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -55,7 +113,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Permafrost",
+                                "item_id": 9260,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -67,143 +154,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "41",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Spirit Silver Ingot",
-                        "item_id": 7884,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Permafrost",
-                        "item_id": 9260,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Transmuted Fur",
-                        "item_id": 7781,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Fur",
+                                "item_id": 7781,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -33,7 +33,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cursed Cloth",
+                                "item_id": 7948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Cloth",
+                                "item_id": 7948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -45,7 +93,71 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Darkness Defense Earrings",
+                                "item_id": 9004,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Darkness Defense Earrings",
+                                "item_id": 9004,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -57,7 +169,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ambrosial Beast-Steak",
+                                "item_id": 7727,
+                                "amount": 1
+                            },
+                            {
+                                "name": "White Lion Pelt",
+                                "item_id": 7739,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -69,174 +208,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cursed Cloth",
-                        "item_id": 7948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Exquisite Fried Meat",
-                        "item_id": 9416,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cursed Cloth",
-                        "item_id": 7948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Darkness Defense Earrings",
-                        "item_id": 9004,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Darkness Defense Earrings",
-                        "item_id": 9004,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gold Ingot",
-                        "item_id": 7877,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Magick Gold Ingot",
-                        "item_id": 7886,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ambrosial Beast-Steak",
-                        "item_id": 7727,
-                        "amount": 1
-                    },
-                    {
-                        "name": "White Lion Pelt",
-                        "item_id": 7739,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Protection+",
-                        "item_id": 11740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Spectral Dragon Fang",
-                        "item_id": 9453,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Magick Lion's Large Mane",
-                        "item_id": 9437,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Protection+",
+                                "item_id": 11740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spectral Dragon Fang",
+                                "item_id": 9453,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Magick Lion's Large Mane",
+                                "item_id": 9437,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dragon's Spit",
+                                "item_id": 9399,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Magickal Potion",
+                                "item_id": 7832,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -43,73 +81,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sinister Black Cloth",
-                        "item_id": 7947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dragon's Spit",
-                        "item_id": 9399,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Magickal Potion",
-                        "item_id": 7832,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sinister Black Cloth",
-                        "item_id": 7947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Witch's Velvet",
-                        "item_id": 7949,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Grimoire",
-                        "item_id": 7808,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Smoky Quartz",
-                        "item_id": 7908,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Witch's Velvet",
+                                "item_id": 7949,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Grimoire",
+                                "item_id": 7808,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Smoky Quartz",
+                                "item_id": 7908,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

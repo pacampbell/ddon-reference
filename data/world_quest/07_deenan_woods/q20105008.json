@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Troll's Blue Poisonous Moss",
+                                "item_id": 8001,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Thick Bone",
+                                "item_id": 7770,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -43,8 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Huge Dragon Bone Lump",
+                                "item_id": 7806,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dragon Hide",
+                                "item_id": 7928,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

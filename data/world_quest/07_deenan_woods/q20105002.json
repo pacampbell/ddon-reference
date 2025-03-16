@@ -31,7 +31,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Power",
+                                "item_id": 9196,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Troll's Blue Poisonous Moss",
+                                "item_id": 8001,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Greater Power",
+                                "item_id": 9196,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 43,
@@ -43,94 +81,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "42",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Greater Power",
-                        "item_id": 9196,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Talisman",
-                        "item_id": 9390,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Troll's Blue Poisonous Moss",
-                        "item_id": 8001,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Greater Power",
-                        "item_id": 9196,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Blow-Resistant Cloth",
-                        "item_id": 7942,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Troll's Blue Poisonous Moss",
-                        "item_id": 8001,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Blow-Resistant Cloth",
-                        "item_id": 7942,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Blow-Resistant Cloth",
+                                "item_id": 7942,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Troll's Blue Poisonous Moss",
+                                "item_id": 8001,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Blow-Resistant Cloth",
+                                "item_id": 7942,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

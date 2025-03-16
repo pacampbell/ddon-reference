@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Red Alloy Ingot",
+                                "item_id": 7888,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,7 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Smooth Dragonleather",
+                                "item_id": 7927,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Twinkle Star",
+                                "item_id": 5630,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -55,7 +113,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Smooth Dragonleather",
+                                "item_id": 7927,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angules Horn",
+                                "item_id": 7756,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dragonleather",
+                                "item_id": 7941,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -67,124 +154,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Red Alloy Ingot",
-                        "item_id": 7888,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Smooth Dragonleather",
-                        "item_id": 7927,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Twinkle Star",
-                        "item_id": 5630,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Talisman",
-                        "item_id": 9390,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Smooth Dragonleather",
-                        "item_id": 7927,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angules Horn",
-                        "item_id": 7756,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dragonleather",
-                        "item_id": 7941,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Spectral Dragon Claw",
-                        "item_id": 7802,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Spectral Dragonscale",
-                        "item_id": 7922,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Spectral Dragon Claw",
+                                "item_id": 7802,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spectral Dragonscale",
+                                "item_id": 7922,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

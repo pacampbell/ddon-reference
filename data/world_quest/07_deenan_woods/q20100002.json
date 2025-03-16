@@ -36,7 +36,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Northern Oregano",
+                                "item_id": 9064,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Northern Oregano",
+                                "item_id": 9064,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 41,
@@ -48,99 +96,50 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Northern Oregano",
-                        "item_id": 9064,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Northern Oregano",
-                        "item_id": 9064,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "41",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cerussite",
-                        "item_id": 9062,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cerussite",
-                        "item_id": 9062,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+
             ]
         }
     ]

@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Restoration",
+                                "item_id": 9297,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 43,
@@ -43,7 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Noblewoman's Corset",
+                                "item_id": 5667,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -55,7 +113,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Thick Bone",
+                                "item_id": 7770,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -67,124 +154,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "42",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Restoration",
-                        "item_id": 9297,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Exquisite Fried Meat",
-                        "item_id": 9416,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Noblewoman's Corset",
-                        "item_id": 5667,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Thick Bone",
-                        "item_id": 7770,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Writhing Live Bark",
-                        "item_id": 9442,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ent Seed",
-                        "item_id": 7992,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Ent Branch",
-                        "item_id": 7971,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Writhing Live Bark",
+                                "item_id": 9442,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ent Seed",
+                                "item_id": 7992,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Ent Branch",
+                                "item_id": 7971,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

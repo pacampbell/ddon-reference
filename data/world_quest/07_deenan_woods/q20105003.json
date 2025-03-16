@@ -31,7 +31,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cursed Cloth",
+                                "item_id": 7948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Bracers",
+                                "item_id": 5664,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Cloth",
+                                "item_id": 7948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,104 +112,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cursed Cloth",
-                        "item_id": 7948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Special Bracers",
-                        "item_id": 5664,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cursed Cloth",
-                        "item_id": 7948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gold Ingot",
-                        "item_id": 7877,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

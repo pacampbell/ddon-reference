@@ -33,35 +33,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "68",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Prism Crystal",
-                        "item_id": 11808,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Soft Tectrix",
-                        "item_id": 11799,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Prism Crystal",
+                                "item_id": 11808,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Soft Tectrix",
+                                "item_id": 11799,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

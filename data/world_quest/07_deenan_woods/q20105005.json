@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "41",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Marbled Beast-Steak",
-                        "item_id": 7726,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Marbled Beast-Steak",
-                        "item_id": 7726,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Marbled Beast-Steak",
+                                "item_id": 7726,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Marbled Beast-Steak",
+                                "item_id": 7726,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

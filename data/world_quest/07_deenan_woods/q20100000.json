@@ -33,56 +33,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "41",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Strong Acid Slime Piece",
-                        "item_id": 7837,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Mellow Ale",
-                        "item_id": 9413,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Lava Rock",
-                        "item_id": 7869,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Strong Acid Slime Piece",
+                                "item_id": 7837,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Mellow Ale",
+                                "item_id": 9413,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lava Rock",
+                                "item_id": 7869,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

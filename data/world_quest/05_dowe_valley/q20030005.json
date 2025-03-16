@@ -4,7 +4,14 @@
     "quest_id": 20030005,
     "area_id": "DoweValley",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 522,
+        "name": "Bandit",
+        "stage": {
+            "name": "Catacombs",
+            "id": 90
+        }
+    },
     "minimum_area_rank": 7,
     "repeatable": true,
     "quest_chain": {

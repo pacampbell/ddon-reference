@@ -4,7 +4,14 @@
     "quest_id": 20095007,
     "area_id": "ZandoraWastelands",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4504,
+        "name": "Bayard",
+        "stage": {
+            "name": "Hermits House",
+            "id": 55
+        }
+    },
     "minimum_area_rank": 6,
     "repeatable": true,
     "quest_chain": {

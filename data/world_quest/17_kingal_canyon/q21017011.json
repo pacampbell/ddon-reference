@@ -4,7 +4,14 @@
     "quest_id": 21017011,
     "area_id": "KingalCanyon",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2707,
+        "name": "Boadicea",
+        "stage": {
+            "name": "Kingal Canyon",
+            "id": 373
+        }
+    },
     "minimum_area_rank": 7,
     "repeatable": true,
     "quest_chain": {

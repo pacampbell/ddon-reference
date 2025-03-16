@@ -4,7 +4,14 @@
     "quest_id": 21014000,
     "area_id": "ElanWaterGrove",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 559,
+        "name": "Dirith",
+        "stage": {
+            "name": "Protectors Retreat",
+            "id": 339
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

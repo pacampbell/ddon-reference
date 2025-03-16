@@ -4,7 +4,14 @@
     "quest_id": 20090000,
     "area_id": "ZandoraWastelands",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 13,
+        "name": "Lise",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

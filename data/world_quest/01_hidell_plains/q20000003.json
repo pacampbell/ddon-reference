@@ -4,7 +4,14 @@
     "quest_id": 20000003,
     "area_id": "HidellPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 3,
+        "name": "Klaus",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

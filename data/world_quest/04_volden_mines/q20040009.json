@@ -4,7 +4,14 @@
     "quest_id": 20040009,
     "area_id": "VoldenMines",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 7,
+        "name": "Gerd",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 8,
     "repeatable": true,
     "quest_chain": {

@@ -4,7 +4,14 @@
     "quest_id": 20060002,
     "area_id": "MysreeGrove",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 536,
+        "name": "Soldier",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

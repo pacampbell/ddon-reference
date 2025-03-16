@@ -4,7 +4,14 @@
     "quest_id": 20050006,
     "area_id": "MysreeForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4501,
+        "name": "Emerada",
+        "stage": {
+            "name": "Lone Houseinthe Forest",
+            "id": 16
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

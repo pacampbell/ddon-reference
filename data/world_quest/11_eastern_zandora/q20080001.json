@@ -4,7 +4,14 @@
     "quest_id": 20080001,
     "area_id": "EasternZandora",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 523,
+        "name": "Lingering Skeleton",
+        "stage": {
+            "name": "Shrineof Resentment",
+            "id": 93
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

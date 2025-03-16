@@ -4,7 +4,14 @@
     "quest_id": 20020001,
     "area_id": "BetlandPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 533,
+        "name": "Arisen Corps Regimental Soldier",
+        "stage": {
+            "name": "Gritten Fort",
+            "id": 66
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

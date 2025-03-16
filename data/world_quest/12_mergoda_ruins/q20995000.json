@@ -4,7 +4,14 @@
     "quest_id": 20995000,
     "area_id": "MergodaRuins",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2300,
+        "name": "Actaeon",
+        "stage": {
+            "name": "Mergoda Residential Area",
+            "id": 237
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

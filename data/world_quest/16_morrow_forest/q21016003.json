@@ -4,7 +4,14 @@
     "quest_id": 21016003,
     "area_id": "MorrowForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2609,
+        "name": "Winnie",
+        "stage": {
+            "name": "Morrow Forest",
+            "id": 374
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

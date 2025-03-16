@@ -4,7 +4,14 @@
     "quest_id": 21014006,
     "area_id": "ElanWaterGrove",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4509,
+        "name": "Musel",
+        "stage": {
+            "name": "Protectors Retreat",
+            "id": 339
+        }
+    },
     "minimum_area_rank": 8,
     "repeatable": true,
     "quest_chain": {

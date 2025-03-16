@@ -4,7 +4,14 @@
     "quest_id": 20050004,
     "area_id": "MysreeForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 516,
+        "name": "Dalia",
+        "stage": {
+            "name": "Glowworm Cave",
+            "id": 67
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

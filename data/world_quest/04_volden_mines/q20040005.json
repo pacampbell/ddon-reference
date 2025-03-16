@@ -4,7 +4,14 @@
     "quest_id": 20040005,
     "area_id": "VoldenMines",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1608,
+        "name": "Nelson",
+        "stage": {
+            "name": "Southern Wall Fissure",
+            "id": 104
+        }
+    },
     "minimum_area_rank": 2,
     "repeatable": true,
     "quest_chain": {

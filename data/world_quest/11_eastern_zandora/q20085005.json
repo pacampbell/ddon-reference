@@ -4,7 +4,14 @@
     "quest_id": 20085005,
     "area_id": "EasternZandora",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1808,
+        "name": "Sonya",
+        "stage": {
+            "name": "Golden Tankard Inn",
+            "id": 61
+        }
+    },
     "minimum_area_rank": 3,
     "repeatable": true,
     "quest_chain": {

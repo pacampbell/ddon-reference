@@ -4,7 +4,14 @@
     "quest_id": 21015013,
     "area_id": "FaranaPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2511,
+        "name": "Etna",
+        "stage": {
+            "name": "Dana Centrum",
+            "id": 341
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

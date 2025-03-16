@@ -4,7 +4,14 @@
     "quest_id": 20040003,
     "area_id": "VoldenMines",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1607,
+        "name": "Eugene",
+        "stage": {
+            "name": "Volden Narrow Tunnels",
+            "id": 101
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

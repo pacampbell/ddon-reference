@@ -4,7 +4,14 @@
     "quest_id": 20050005,
     "area_id": "MysreeForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 505,
+        "name": "White Knight",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

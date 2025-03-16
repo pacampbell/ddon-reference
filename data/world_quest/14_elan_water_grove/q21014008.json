@@ -4,7 +4,14 @@
     "quest_id": 21014008,
     "area_id": "ElanWaterGrove",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 556,
+        "name": "Enna",
+        "stage": {
+            "name": "Elan Water Grove",
+            "id": 372
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

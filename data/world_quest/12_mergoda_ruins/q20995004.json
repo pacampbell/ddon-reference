@@ -4,7 +4,14 @@
     "quest_id": 20995004,
     "area_id": "MergodaRuins",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4740,
+        "name": "",
+        "stage": {
+            "name": "Mergoda Ruins Lower Level",
+            "id": 76
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

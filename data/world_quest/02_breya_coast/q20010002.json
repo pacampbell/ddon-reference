@@ -4,7 +4,14 @@
     "quest_id": 20010002,
     "area_id": "BreyaCoast",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1206,
+        "name": "Akim",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 9,
     "repeatable": true,
     "quest_chain": {

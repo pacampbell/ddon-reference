@@ -4,7 +4,14 @@
     "quest_id": 20070005,
     "area_id": "NorthernBetlandPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 522,
+        "name": "Bandit",
+        "stage": {
+            "name": "Knights Old Storehouse",
+            "id": 123
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

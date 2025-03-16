@@ -4,7 +4,14 @@
     "quest_id": 20000006,
     "area_id": "HidellPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 513,
+        "name": "Christoph",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 9,
     "repeatable": true,
     "quest_chain": {

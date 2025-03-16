@@ -4,7 +4,14 @@
     "quest_id": 20000004,
     "area_id": "HidellPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

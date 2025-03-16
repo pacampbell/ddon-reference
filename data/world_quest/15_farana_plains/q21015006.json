@@ -4,7 +4,14 @@
     "quest_id": 21015006,
     "area_id": "FaranaPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2501,
+        "name": "Razanailt",
+        "stage": {
+            "name": "Dana Centrum",
+            "id": 341
+        }
+    },
     "minimum_area_rank": 9,
     "repeatable": true,
     "quest_chain": {

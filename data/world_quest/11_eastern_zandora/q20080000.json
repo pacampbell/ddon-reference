@@ -4,7 +4,14 @@
     "quest_id": 20080000,
     "area_id": "EasternZandora",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 509,
+        "name": "Peddler",
+        "stage": {
+            "name": "Caseys General Store",
+            "id": 54
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

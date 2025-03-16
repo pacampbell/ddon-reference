@@ -4,7 +4,14 @@
     "quest_id": 21017015,
     "area_id": "KingalCanyon",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2705,
+        "name": "Oengus",
+        "stage": {
+            "name": "Kingal Canyon",
+            "id": 373
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

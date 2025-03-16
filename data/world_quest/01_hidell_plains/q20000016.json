@@ -4,7 +4,14 @@
     "quest_id": 20000016,
     "area_id": "HidellPlains",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 8,
+        "name": "Heinz",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 8,
     "repeatable": true,
     "quest_chain": {

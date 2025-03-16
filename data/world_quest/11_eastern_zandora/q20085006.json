@@ -4,7 +4,14 @@
     "quest_id": 20085006,
     "area_id": "EasternZandora",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1800,
+        "name": "Oswald",
+        "stage": {
+            "name": "Oswalds Armor Shop",
+            "id": 57
+        }
+    },
     "minimum_area_rank": 6,
     "repeatable": true,
     "quest_chain": {

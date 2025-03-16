@@ -4,7 +4,14 @@
     "quest_id": 20095010,
     "area_id": "ZandoraWastelands",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4731,
+        "name": "Arisen Corps Regimental Soldier",
+        "stage": {
+            "name": "Lestania",
+            "id": 1
+        }
+    },
     "minimum_area_rank": 2,
     "repeatable": true,
     "quest_chain": {

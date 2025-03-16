@@ -4,7 +4,14 @@
     "quest_id": 20030007,
     "area_id": "DoweValley",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4505,
+        "name": "Chester",
+        "stage": {
+            "name": "Lone Houseinthe Valley",
+            "id": 51
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

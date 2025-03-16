@@ -4,7 +4,14 @@
     "quest_id": 20990001,
     "area_id": "MergodaRuins",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 10,
+        "name": "Theodor",
+        "stage": {
+            "name": "Theodors Alchemy Workshop",
+            "id": 63
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

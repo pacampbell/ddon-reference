@@ -4,7 +4,14 @@
     "quest_id": 21000085,
     "area_id": "BloodbaneIsle",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2401,
+        "name": "Gunther",
+        "stage": {
+            "name": "Expedition Garrison",
+            "id": 317
+        }
+    },
     "minimum_area_rank": 12,
     "repeatable": true,
     "quest_chain": {

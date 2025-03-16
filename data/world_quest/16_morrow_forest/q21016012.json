@@ -4,7 +4,14 @@
     "quest_id": 21016012,
     "area_id": "MorrowForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2608,
+        "name": "Zolta",
+        "stage": {
+            "name": "Morrow Forest",
+            "id": 374
+        }
+    },
     "minimum_area_rank": 4,
     "repeatable": true,
     "quest_chain": {

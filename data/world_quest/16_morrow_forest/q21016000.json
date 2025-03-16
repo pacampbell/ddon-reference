@@ -4,7 +4,14 @@
     "quest_id": 21016000,
     "area_id": "MorrowForest",
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 2603,
+        "name": "Suronya",
+        "stage": {
+            "name": "Morfaul Centrum",
+            "id": 340
+        }
+    },
     "minimum_area_rank": 1,
     "repeatable": true,
     "quest_chain": {

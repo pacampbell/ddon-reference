@@ -33,37 +33,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "73",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sharp Back Spine",
-                        "item_id": 15969,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Stiff Crocodile Skin",
-                        "item_id": 15961,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sharp Back Spine",
+                                "item_id": 15969,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Stiff Crocodile Skin",
+                                "item_id": 15961,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Greater Protection+",
-                        "item_id": 14186,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Greater Intelligence+",
-                        "item_id": 14187,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Relief Coin (Crimson)",
-                        "item_id": 13812,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Protection+",
+                                "item_id": 14186,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Greater Intelligence+",
+                                "item_id": 14187,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

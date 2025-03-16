@@ -25,7 +25,9 @@
         "Check Eluna's well-being",
         "Report to Wilson"
     ],
-    "tags": ["Attack on Titan"],
+    "tags": [
+        "Attack on Titan"
+    ],
     "variants": [
         {
             "level": 20,

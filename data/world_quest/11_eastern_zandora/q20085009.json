@@ -31,7 +31,83 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Sheer Protection",
+                                "item_id": 9289,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sheer Intelligence",
+                                "item_id": 9293,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Sheer Protection",
+                                "item_id": 9289,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sheer Intelligence",
+                                "item_id": 9293,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Bone Meal",
+                                "item_id": 7850,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 49,
@@ -43,85 +119,82 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "47",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Sheer Protection",
-                        "item_id": 9289,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Sheer Intelligence",
-                        "item_id": 9293,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Sheer Protection",
-                        "item_id": 9289,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Sheer Intelligence",
-                        "item_id": 9293,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "49",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cursed Skull",
-                        "item_id": 7772,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Bone Meal",
-                        "item_id": 7850,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Sheer Protection",
+                                "item_id": 9289,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sheer Intelligence",
+                                "item_id": 9293,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Sheer Protection",
+                                "item_id": 9289,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sheer Intelligence",
+                                "item_id": 9293,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Bone Meal",
+                                "item_id": 7850,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

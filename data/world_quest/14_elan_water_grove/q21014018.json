@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "80",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sancto Sap",
-                        "item_id": 15990,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Thousand-Year Moss",
-                        "item_id": 16012,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Transparent Coarse Sand",
-                        "item_id": 15983,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sancto Sap",
+                                "item_id": 15990,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Thousand-Year Moss",
+                                "item_id": 16012,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transparent Coarse Sand",
+                                "item_id": 15983,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,81 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Protection",
+                                "item_id": 9288,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lava Rock",
+                                "item_id": 7869,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mithril Ingot",
+                                "item_id": 7880,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,83 +117,80 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Greater Protection",
-                        "item_id": 9288,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Lava Rock",
-                        "item_id": 7869,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mithril Ingot",
-                        "item_id": 7880,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Protection",
+                                "item_id": 9288,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lava Rock",
+                                "item_id": 7869,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mithril Ingot",
+                                "item_id": 7880,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

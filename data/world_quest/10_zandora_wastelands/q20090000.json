@@ -34,7 +34,83 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 50,
@@ -46,85 +122,82 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "49",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "50",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

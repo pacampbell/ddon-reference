@@ -33,7 +33,64 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -45,66 +102,63 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "53",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dirty Sheet Metal",
-                        "item_id": 8029,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Exquisite Metal Plate",
-                        "item_id": 8030,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Alchemized Armor Plate",
-                        "item_id": 8031,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

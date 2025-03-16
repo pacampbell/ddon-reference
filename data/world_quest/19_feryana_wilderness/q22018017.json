@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "85",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Feryana District)",
-                        "item_id": 18819,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Blood Drinking Vessel",
-                        "item_id": 17868,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Blood Drinking Vessel",
+                                "item_id": 17868,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

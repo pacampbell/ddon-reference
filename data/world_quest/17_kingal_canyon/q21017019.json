@@ -34,8 +34,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Frost Metal",
+                                "item_id": 11778,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

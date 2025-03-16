@@ -36,37 +36,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demon Commander's Belt",
-                        "item_id": 9449,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Diorite Steel Ingot",
-                        "item_id": 9444,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wind Twine",
-                        "item_id": 9446,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon Commander's Belt",
+                                "item_id": 9449,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Diorite Steel Ingot",
+                                "item_id": 9444,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wind Twine",
+                                "item_id": 9446,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

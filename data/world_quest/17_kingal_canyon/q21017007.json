@@ -31,37 +31,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "73",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Unappraised Flower Trinket (General)",
-                        "item_id": 13484,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Manticore's Scorpion Tail",
-                        "item_id": 11805,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Medusa's Serpent Hair",
-                        "item_id": 13224,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flower Trinket (General)",
+                                "item_id": 13484,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Manticore's Scorpion Tail",
+                                "item_id": 11805,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Medusa's Serpent Hair",
+                                "item_id": 13224,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

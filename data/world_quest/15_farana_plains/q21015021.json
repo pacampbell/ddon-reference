@@ -33,37 +33,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "80",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Pixie Crown",
-                        "item_id": 15989,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Fine Femur",
-                        "item_id": 16008,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Unappraised Wind Trinket (General)",
-                        "item_id": 13488,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Pixie Crown",
+                                "item_id": 15989,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fine Femur",
+                                "item_id": 16008,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Unappraised Wind Trinket (General)",
+                                "item_id": 13488,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

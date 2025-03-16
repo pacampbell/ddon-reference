@@ -31,7 +31,130 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 47,
@@ -43,7 +166,130 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -55,133 +301,129 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "46",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gold Ingot",
-                        "item_id": 7877,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Gold Ingot",
-                        "item_id": 7877,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "47",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Pigeon Blood",
-                        "item_id": 7910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Orc Decoration",
-                        "item_id": 8020,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demon's Prized Liquor",
-                        "item_id": 9443,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pigeon Blood",
-                        "item_id": 7910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Orc Decoration",
-                        "item_id": 8020,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Demon's Prized Liquor",
-                        "item_id": 9443,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pigeon Blood",
-                        "item_id": 7910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

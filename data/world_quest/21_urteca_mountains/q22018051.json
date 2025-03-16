@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "95",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Urteca District)",
-                        "item_id": 18826,
-                        "amount": 20
-                    },
-                    {
-                        "name": "Tree Man's Charred Branch",
-                        "item_id": 21265,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Blazing Lizard Pelt",
-                        "item_id": 21262,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 20
+                            },
+                            {
+                                "name": "Tree Man's Charred Branch",
+                                "item_id": 21265,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Blazing Lizard Pelt",
+                                "item_id": 21262,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

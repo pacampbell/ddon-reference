@@ -34,77 +34,75 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "50",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Mergan Ring",
-                        "item_id": 8023,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Mergan Ring",
-                        "item_id": 8023,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Mergan Ring",
+                                "item_id": 8023,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Mergan Ring",
+                                "item_id": 8023,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

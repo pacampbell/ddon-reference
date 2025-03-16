@@ -33,7 +33,86 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 47,
@@ -45,7 +124,86 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 48,
@@ -57,89 +215,85 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "46",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Dwindled Strength",
-                        "item_id": 9278,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Dwindled Magick",
-                        "item_id": 9282,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "47",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Dwindled Strength",
-                        "item_id": 9278,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "48",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Dwindled Strength",
-                        "item_id": 9278,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Dwindled Magick",
-                        "item_id": 9282,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Strength",
+                                "item_id": 9278,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick",
+                                "item_id": 9282,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

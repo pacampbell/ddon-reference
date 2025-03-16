@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Magick+",
-                        "item_id": 11720,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Stun)",
-                        "item_id": 16052,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Lowered Magick Defense)",
-                        "item_id": 16058,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Stun)",
+                                "item_id": 16052,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Lowered Magick Defense)",
+                                "item_id": 16058,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

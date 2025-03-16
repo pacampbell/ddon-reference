@@ -34,27 +34,25 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "93",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Megadosys District)",
-                        "item_id": 18820,
-                        "amount": 5
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

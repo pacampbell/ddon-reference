@@ -33,7 +33,81 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Alkahest",
+                                "item_id": 7833,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bright Gold Feather",
+                                "item_id": 7823,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Bone Meal",
+                                "item_id": 7850,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -45,83 +119,80 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Alchemized Armor Plate",
-                        "item_id": 8031,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Alkahest",
-                        "item_id": 7833,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Alchemized Armor Plate",
-                        "item_id": 8031,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bright Gold Feather",
-                        "item_id": 7823,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Alchemized Armor Plate",
-                        "item_id": 8031,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Bone Meal",
-                        "item_id": 7850,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Alkahest",
+                                "item_id": 7833,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bright Gold Feather",
+                                "item_id": 7823,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Bone Meal",
+                                "item_id": 7850,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

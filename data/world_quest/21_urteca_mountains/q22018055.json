@@ -25,30 +25,44 @@
     ],
     "variants": [
         {
-            "level": 100,
+            "level": 95,
             "minimum_item_rank": 0,
-            "xp": 0,
-            "gold": 0,
-            "rift": 0,
-            "ap": 0,
+            "xp": 37800,
+            "gold": 5500,
+            "rift": 555,
+            "ap": 500,
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "95",
-            "type": "Select1",
-            "pools": [
-                [],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 10
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 10
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

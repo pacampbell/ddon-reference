@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "75",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Platinum Blood",
-                        "item_id": 15935,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dazzling Silver Plume",
-                        "item_id": 15967,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sharp Back Spine",
-                        "item_id": 15969,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Platinum Blood",
+                                "item_id": 15935,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dazzling Silver Plume",
+                                "item_id": 15967,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sharp Back Spine",
+                                "item_id": 15969,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

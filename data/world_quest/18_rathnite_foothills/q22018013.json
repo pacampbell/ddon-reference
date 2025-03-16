@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "85",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Rathnite District)",
-                        "item_id": 18815,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Blood-Colored Spiral Shell",
-                        "item_id": 17910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Beast Snakeskin",
-                        "item_id": 17857,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Blood-Colored Spiral Shell",
+                                "item_id": 17910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Beast Snakeskin",
+                                "item_id": 17857,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

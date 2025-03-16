@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Triple Resist (Sleep/Poison/Slow)",
-                        "item_id": 16096,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Triple Resist (Stun/Curse/Stifle)",
-                        "item_id": 16097,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Triple Resist (Petrify/Gild/Frail)",
-                        "item_id": 16098,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Triple Resist (Sleep/Poison/Slow)",
+                                "item_id": 16096,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Triple Resist (Stun/Curse/Stifle)",
+                                "item_id": 16097,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Triple Resist (Petrify/Gild/Frail)",
+                                "item_id": 16098,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

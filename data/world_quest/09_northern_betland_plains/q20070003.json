@@ -34,7 +34,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dragonleather",
+                                "item_id": 7941,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dragonleather",
+                                "item_id": 7941,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 42,
@@ -46,8 +94,50 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Strong Acid Slime Piece",
+                                "item_id": 7837,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Acid Slime Piece",
+                                "item_id": 7837,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

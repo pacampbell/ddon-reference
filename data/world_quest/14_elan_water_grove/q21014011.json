@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "75",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ancient Manuscript Scrap",
-                        "item_id": 15931,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Sharp Back Spine",
-                        "item_id": 15969,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Bronze Tail Feather",
-                        "item_id": 15962,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ancient Manuscript Scrap",
+                                "item_id": 15931,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Sharp Back Spine",
+                                "item_id": 15969,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Bronze Tail Feather",
+                                "item_id": 15962,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

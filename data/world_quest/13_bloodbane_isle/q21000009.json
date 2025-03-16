@@ -33,37 +33,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rock Finger",
-                        "item_id": 11506,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Quality Gala Mushroom",
-                        "item_id": 7994,
-                        "amount": 7
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rock Finger",
+                                "item_id": 11506,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Quality Gala Mushroom",
+                                "item_id": 7994,
+                                "amount": 7
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

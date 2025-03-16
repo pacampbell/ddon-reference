@@ -34,8 +34,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Strong Heat-Resistant Scale",
+                                "item_id": 21223,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Cursed Letter",
+                                "item_id": 17878,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

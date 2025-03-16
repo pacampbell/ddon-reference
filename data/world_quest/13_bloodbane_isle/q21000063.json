@@ -37,7 +37,64 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Shock)",
+                                "item_id": 16032,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Shock)",
+                                "item_id": 16040,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Lightning Barrier",
+                                "item_id": 16082,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Shock)",
+                                "item_id": 16032,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Shock)",
+                                "item_id": 16040,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 70,
@@ -49,66 +106,63 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Shock)",
-                        "item_id": 16032,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Shock)",
-                        "item_id": 16040,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Lightning Barrier",
-                        "item_id": 16082,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Shock)",
-                        "item_id": 16032,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Shock)",
-                        "item_id": 16040,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Shock)",
+                                "item_id": 16032,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Shock)",
+                                "item_id": 16040,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Lightning Barrier",
+                                "item_id": 16082,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Shock)",
+                                "item_id": 16032,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Shock)",
+                                "item_id": 16040,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

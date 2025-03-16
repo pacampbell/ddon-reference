@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gold Ingot",
-                        "item_id": 7877,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Iron Ore Fragment",
-                        "item_id": 7853,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gold Ingot",
+                                "item_id": 7877,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Iron Ore Fragment",
+                                "item_id": 7853,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "73",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demon Envoy's Horn",
-                        "item_id": 15973,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Envoy's Loathsome Tail",
-                        "item_id": 15974,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon Envoy's Horn",
+                                "item_id": 15973,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Envoy's Loathsome Tail",
+                                "item_id": 15974,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

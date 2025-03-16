@@ -37,8 +37,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Transparent Coarse Sand",
+                                "item_id": 15983,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Platinum Blood",
+                                "item_id": 15935,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dazzling Silver Plume",
+                                "item_id": 15967,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

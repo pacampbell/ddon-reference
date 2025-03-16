@@ -33,7 +33,120 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Restoration+",
+                                "item_id": 11743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -45,7 +158,120 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Restoration+",
+                                "item_id": 11743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -57,7 +283,120 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Restoration+",
+                                "item_id": 11743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -69,124 +408,119 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Magick Gold Ingot",
-                        "item_id": 7886,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Transmuted Gold Feather",
-                        "item_id": 7822,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Exquisite Metal Plate",
-                        "item_id": 8030,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dirty Sheet Metal",
-                        "item_id": 8029,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Alchemized Armor Plate",
-                        "item_id": 8031,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Magick Gold Ingot",
-                        "item_id": 7886,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Transmuted Gold Feather",
-                        "item_id": 7822,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Restoration+",
-                        "item_id": 11743,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Alchemite",
-                        "item_id": 7871,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Flame Crystal",
-                        "item_id": 7913,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Exquisite Metal Plate",
+                                "item_id": 8030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Alchemized Armor Plate",
+                                "item_id": 8031,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magick Gold Ingot",
+                                "item_id": 7886,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Transmuted Gold Feather",
+                                "item_id": 7822,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Restoration+",
+                                "item_id": 11743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

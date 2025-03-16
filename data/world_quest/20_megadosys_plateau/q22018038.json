@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "93",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Megadosys District)",
-                        "item_id": 18820,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Manticore Raw Pelt",
-                        "item_id": 17866,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Manticore Raw Pelt",
+                                "item_id": 17866,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

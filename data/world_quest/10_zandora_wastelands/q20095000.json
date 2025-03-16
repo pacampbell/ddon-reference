@@ -33,7 +33,92 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Burn Prevention",
+                                "item_id": 9315,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Freeze Prevention",
+                                "item_id": 9318,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Shock Prevention",
+                                "item_id": 9321,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Iron Ingot",
+                                "item_id": 7878,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 49,
@@ -45,7 +130,92 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Burn Prevention",
+                                "item_id": 9315,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Freeze Prevention",
+                                "item_id": 9318,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Shock Prevention",
+                                "item_id": 9321,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Iron Ingot",
+                                "item_id": 7878,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -57,95 +227,91 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "49",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Burn Prevention",
-                        "item_id": 9315,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Freeze Prevention",
-                        "item_id": 9318,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Shock Prevention",
-                        "item_id": 9321,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "49",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Black Iron Ingot",
-                        "item_id": 7878,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Chipped Gold Lump",
-                        "item_id": 8025,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Alchemite",
-                        "item_id": 7871,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dirty Sheet Metal",
-                        "item_id": 8029,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Chipped Gold Lump",
-                        "item_id": 8025,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Burn Prevention",
+                                "item_id": 9315,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Freeze Prevention",
+                                "item_id": 9318,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Shock Prevention",
+                                "item_id": 9321,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Iron Ingot",
+                                "item_id": 7878,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Alchemite",
+                                "item_id": 7871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dirty Sheet Metal",
+                                "item_id": 8029,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Chipped Gold Lump",
+                                "item_id": 8025,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "78",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Transparent Coarse Sand",
-                        "item_id": 15983,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Protected Beast's Green Fur",
-                        "item_id": 16009,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Transparent Coarse Sand",
+                                "item_id": 15983,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Protected Beast's Green Fur",
+                                "item_id": 16009,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

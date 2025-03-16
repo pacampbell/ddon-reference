@@ -33,7 +33,111 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gleipnir",
+                                "item_id": 7959,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Poison Gland",
+                                "item_id": 7745,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mystery Organs",
+                                "item_id": 7744,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Crystallization",
+                                "item_id": 9254,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Gastrolith",
+                                "item_id": 9440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Protection+",
+                                "item_id": 11740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Intelligence+",
+                                "item_id": 11741,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -45,7 +149,111 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gleipnir",
+                                "item_id": 7959,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Poison Gland",
+                                "item_id": 7745,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mystery Organs",
+                                "item_id": 7744,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Crystallization",
+                                "item_id": 9254,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Gastrolith",
+                                "item_id": 9440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Protection+",
+                                "item_id": 11740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Intelligence+",
+                                "item_id": 11741,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -57,114 +265,110 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gleipnir",
-                        "item_id": 7959,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cockatrice Poison Gland",
-                        "item_id": 7745,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mystery Organs",
-                        "item_id": 7744,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Giant Single Pelt",
-                        "item_id": 9438,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Giant Eyeball",
-                        "item_id": 7740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rugged Leather",
-                        "item_id": 7924,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Crystallization",
-                        "item_id": 9254,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cockatrice Gastrolith",
-                        "item_id": 9440,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Giant Single Pelt",
-                        "item_id": 9438,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Protection+",
-                        "item_id": 11740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Intelligence+",
-                        "item_id": 11741,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Relief Coin (Crimson)",
-                        "item_id": 13812,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gleipnir",
+                                "item_id": 7959,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Poison Gland",
+                                "item_id": 7745,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mystery Organs",
+                                "item_id": 7744,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Crystallization",
+                                "item_id": 9254,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Gastrolith",
+                                "item_id": 9440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Protection+",
+                                "item_id": 11740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Intelligence+",
+                                "item_id": 11741,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

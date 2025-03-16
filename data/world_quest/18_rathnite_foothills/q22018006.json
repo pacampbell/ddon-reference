@@ -28,6 +28,47 @@
     ],
     "variants": [
         {
+            "level": 80,
+            "minimum_item_rank": 0,
+            "xp": 37800,
+            "gold": 5139,
+            "rift": 300,
+            "ap": 500,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Manticore Raw Pelt",
+                                "item_id": 17866,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Battle Armor Fragment",
+                                "item_id": 17876,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
             "level": 83,
             "minimum_item_rank": 0,
             "xp": 37800,
@@ -37,7 +78,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Rock-Cutter",
+                                "item_id": 17871,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rock Leather",
+                                "item_id": 17870,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
     ],
     "parsed_rewards": [

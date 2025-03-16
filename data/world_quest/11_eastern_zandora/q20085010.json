@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Skull",
+                                "item_id": 7769,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon Arming Points",
+                                "item_id": 8022,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spiritual Will Fragment",
+                                "item_id": 7889,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 50,
@@ -43,8 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Skull",
+                                "item_id": 7769,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon Arming Points",
+                                "item_id": 8022,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orb of Darkness",
+                                "item_id": 7729,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

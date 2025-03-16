@@ -31,46 +31,44 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mithril Ingot",
-                        "item_id": 7880,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Rare Meat Pat\u00e9",
-                        "item_id": 9420,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "White Lion Pelt",
-                        "item_id": 7739,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mithril Ingot",
-                        "item_id": 7880,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mithril Ingot",
+                                "item_id": 7880,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Rare Meat Pat\u00e9",
+                                "item_id": 9420,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "White Lion Pelt",
+                                "item_id": 7739,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mithril Ingot",
+                                "item_id": 7880,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

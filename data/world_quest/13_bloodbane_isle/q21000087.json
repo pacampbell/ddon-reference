@@ -31,37 +31,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "68",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mirage Crystal",
-                        "item_id": 11809,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Stone Bouquet",
-                        "item_id": 11790,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mirage Crystal",
+                                "item_id": 11809,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Stone Bouquet",
+                                "item_id": 11790,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

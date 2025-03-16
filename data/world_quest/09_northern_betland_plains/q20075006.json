@@ -31,7 +31,87 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Intelligence",
+                                "item_id": 9292,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sortie Hose",
+                                "item_id": 8732,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 44,
@@ -43,7 +123,87 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Intelligence",
+                                "item_id": 9292,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sortie Hose",
+                                "item_id": 8732,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -55,90 +215,86 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Greater Intelligence",
-                        "item_id": 9292,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Sprite's Talisman",
-                        "item_id": 9390,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "44",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sortie Hose",
-                        "item_id": 8732,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sinister Black Cloth",
-                        "item_id": 7947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Intelligence",
+                                "item_id": 9292,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sortie Hose",
+                                "item_id": 8732,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

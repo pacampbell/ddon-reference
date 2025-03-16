@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ice Cube Fragment",
-                        "item_id": 11504,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Herculean Power (Blinding)",
-                        "item_id": 16034,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Blinding)",
-                        "item_id": 16042,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Twilight",
-                        "item_id": 9266,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ice Cube Fragment",
+                                "item_id": 11504,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Blinding)",
+                                "item_id": 16034,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Blinding)",
+                                "item_id": 16042,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Twilight",
+                                "item_id": 9266,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

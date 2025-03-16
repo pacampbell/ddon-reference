@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Frost Metal",
-                        "item_id": 11778,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Iron Ore Fragment",
-                        "item_id": 7853,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Frost Metal",
+                                "item_id": 11778,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Iron Ore Fragment",
+                                "item_id": 7853,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

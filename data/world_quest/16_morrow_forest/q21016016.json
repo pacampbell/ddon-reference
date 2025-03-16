@@ -34,8 +34,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Elemental Lace",
+                                "item_id": 16006,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silvery Snow Steel Ingot",
+                                "item_id": 16005,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Scroll of True Shadow",
+                                "item_id": 16007,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

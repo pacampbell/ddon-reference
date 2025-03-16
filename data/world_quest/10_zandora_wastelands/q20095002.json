@@ -33,7 +33,148 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Glossy Black Feather",
+                                "item_id": 7818,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Fowl Feather",
+                                "item_id": 7819,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Emerald",
+                                "item_id": 7898,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Perseverance+",
+                                "item_id": 11742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Griffin Glossy Plume",
+                                "item_id": 9439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 50,
@@ -45,7 +186,148 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Glossy Black Feather",
+                                "item_id": 7818,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Fowl Feather",
+                                "item_id": 7819,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Emerald",
+                                "item_id": 7898,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Perseverance+",
+                                "item_id": 11742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Griffin Glossy Plume",
+                                "item_id": 9439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -57,7 +339,148 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Glossy Black Feather",
+                                "item_id": 7818,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Fowl Feather",
+                                "item_id": 7819,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Emerald",
+                                "item_id": 7898,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Perseverance+",
+                                "item_id": 11742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Griffin Glossy Plume",
+                                "item_id": 9439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -69,7 +492,148 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Glossy Black Feather",
+                                "item_id": 7818,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Fowl Feather",
+                                "item_id": 7819,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Emerald",
+                                "item_id": 7898,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Perseverance+",
+                                "item_id": 11742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Griffin Glossy Plume",
+                                "item_id": 9439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -81,153 +645,147 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "49",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Moist Black Leather",
-                        "item_id": 7742,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "50",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Moist Black Leather",
-                        "item_id": 7742,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Moist Black Leather",
-                        "item_id": 7742,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Glossy Black Feather",
-                        "item_id": 7818,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cursed Skull",
-                        "item_id": 7772,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Nightmare's Vocal Cords",
-                        "item_id": 7746,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Fowl Feather",
-                        "item_id": 7819,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Emerald",
-                        "item_id": 7898,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Perseverance+",
-                        "item_id": 11742,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Griffin Glossy Plume",
-                        "item_id": 9439,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Spirit Crystal",
-                        "item_id": 7909,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Moist Black Leather",
+                                "item_id": 7742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Glossy Black Feather",
+                                "item_id": 7818,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cursed Skull",
+                                "item_id": 7772,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nightmare's Vocal Cords",
+                                "item_id": 7746,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Fowl Feather",
+                                "item_id": 7819,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Emerald",
+                                "item_id": 7898,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Perseverance+",
+                                "item_id": 11742,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Griffin Glossy Plume",
+                                "item_id": 9439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

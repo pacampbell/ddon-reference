@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "80",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Rathnite District)",
-                        "item_id": 18815,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Rock Leather",
-                        "item_id": 17870,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Harpy Breast Meat",
-                        "item_id": 17928,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Rock Leather",
+                                "item_id": 17870,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harpy Breast Meat",
+                                "item_id": 17928,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

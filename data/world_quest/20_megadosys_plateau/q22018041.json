@@ -34,8 +34,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Goremanticore's White Beard",
+                                "item_id": 17927,
+                                "amount": 1
+                            },
+                            {
+                                "name": "War Demon's Ancestor Nasal Cartilage",
+                                "item_id": 21219,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

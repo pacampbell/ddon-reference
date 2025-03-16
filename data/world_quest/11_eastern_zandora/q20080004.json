@@ -34,56 +34,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demon Arming Points",
-                        "item_id": 8022,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rainbow Eye Gem",
-                        "item_id": 7731,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Alkahest",
-                        "item_id": 7833,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Demon Arming Points",
-                        "item_id": 8022,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rainbow Eye Gem",
-                        "item_id": 7731,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon Arming Points",
+                                "item_id": 8022,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rainbow Eye Gem",
+                                "item_id": 7731,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Alkahest",
+                                "item_id": 7833,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demon Arming Points",
+                                "item_id": 8022,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rainbow Eye Gem",
+                                "item_id": 7731,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

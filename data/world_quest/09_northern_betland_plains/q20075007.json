@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "44",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dragonleather",
-                        "item_id": 7941,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Dragonleather",
-                        "item_id": 7941,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dragonleather",
+                                "item_id": 7941,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dragonleather",
+                                "item_id": 7941,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

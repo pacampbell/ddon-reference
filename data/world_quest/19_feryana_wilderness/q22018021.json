@@ -28,7 +28,7 @@
     ],
     "variants": [
         {
-            "level": 85,
+            "level": 88,
             "minimum_item_rank": 0,
             "xp": 21000,
             "gold": 13750,
@@ -37,37 +37,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "88",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Royal Crest Medal (Feryana District)",
-                        "item_id": 18819,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Fluttering Rags",
-                        "item_id": 17929,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 10
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Fluttering Rags",
+                                "item_id": 17929,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 10
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

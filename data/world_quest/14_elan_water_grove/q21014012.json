@@ -34,37 +34,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "75",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Unappraised Flower Trinket (Soldier)",
-                        "item_id": 13483,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Bronze Tail Feather",
-                        "item_id": 15962,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flower Trinket (Soldier)",
+                                "item_id": 13483,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Bronze Tail Feather",
+                                "item_id": 15962,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

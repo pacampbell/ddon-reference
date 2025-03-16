@@ -37,8 +37,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Seabird Syrinx",
+                                "item_id": 16011,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Still-Beating Heart",
+                                "item_id": 16010,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fine Femur",
+                                "item_id": 16008,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

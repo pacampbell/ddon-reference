@@ -8,4 +8,4 @@ Attempt to create a reference of ddon data from old sources in English.
   - h1g.jp
   - dogmaonlineyyy.wiki.fc2.com
 - Translations consumed from the [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation) project.
-- Additional data extarcted from [ddon-data](https://github.com/ddon-research/ddon-data) project.
+- Additional data extracted from the [ddon-data](https://github.com/ddon-research/ddon-data) project.

@@ -33,8 +33,37 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gnarled Branch",
+                                "item_id": 15977,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Murky Dragon Fang",
+                                "item_id": 15971,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Scroll of Dream and Reality",
+                                "item_id": 15958,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

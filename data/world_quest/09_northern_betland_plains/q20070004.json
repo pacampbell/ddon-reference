@@ -33,7 +33,181 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -45,7 +219,181 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -57,7 +405,181 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -69,7 +591,181 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -81,186 +777,180 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cerussite",
-                        "item_id": 9062,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Officer's Mantle",
-                        "item_id": 9768,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Thick Dragonscale",
-                        "item_id": 7929,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Incineration",
-                        "item_id": 9258,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Exquisite Fried Meat",
-                        "item_id": 9416,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Giant Single Pelt",
-                        "item_id": 9438,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Giant Eyeball",
-                        "item_id": 7740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rugged Leather",
-                        "item_id": 7924,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Magick+",
-                        "item_id": 11720,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Azure Dragonscale",
-                        "item_id": 7931,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Dark Metal",
-                        "item_id": 7887,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cerussite",
+                                "item_id": 9062,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

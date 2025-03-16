@@ -33,37 +33,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "78",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Still-Beating Heart",
-                        "item_id": 16010,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Medusa's Serpent Hair",
-                        "item_id": 13224,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Still-Beating Heart",
+                                "item_id": 16010,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Medusa's Serpent Hair",
+                                "item_id": 13224,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

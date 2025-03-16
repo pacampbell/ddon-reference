@@ -15,7 +15,7 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 2,
         "next_quest_id": 4
     },
     "order_conditions": [],

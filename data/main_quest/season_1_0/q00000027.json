@@ -1,0 +1,71 @@
+{
+    "type": "Main",
+    "name": "The Goblin King",
+    "quest_id": 27,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 5,
+        "name": "Leo",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 7
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Seek clues to undo the petrification of  the White Dragon by visiting the Goblin King  in Hobolic Cave.",
+    "steps": [
+        "Head to the Hobolic Cave and speak with Gilstan the Goblin King",
+        "Defeat the monsters near the Hobolic Cave",
+        "Report back to Gilstan in the Hobolic Cave",
+        "Deliver the ancient texts to Leo in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 21,
+            "minimum_item_rank": 0,
+            "xp": 4000,
+            "gold": 3600,
+            "rift": 420,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Greed Gloves",
+                                "item_id": 9649,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Beast Cape",
+                                "item_id": 8833,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Fang Wristband",
+                                "item_id": 8966,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,68 @@
+{
+    "type": "Main",
+    "name": "The Fate of Lestania",
+    "quest_id": 20070,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20080
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Eliminate the infected demons that are attacking all over Lestania",
+    "steps": [
+        "Head to the church ruins under attack near Drawan",
+        "Defeat the enemy encountered",
+        "Head to the emerging corruption infestation in Eastern Zandora",
+        "Defeat the enemy encountered",
+        "Return to the Audience Chamber to gather more information",
+        "Head to Theodor and assist in the Mergoda Ruins",
+        "Seek out the emerging corruption infestation in Mergoda",
+        "Defeat the enemy encountered",
+        "Head to the emerging corruption infestation in the Mergoda square",
+        "Defeat the enemy encountered",
+        "Report back to the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 148000,
+            "gold": 30000,
+            "rift": 2400,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Moon Trinket (Soldier)",
+                                "item_id": 11759,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

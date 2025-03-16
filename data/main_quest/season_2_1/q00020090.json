@@ -1,0 +1,66 @@
+{
+    "type": "Main",
+    "name": "Negotiations",
+    "quest_id": 20090,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20100
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Go to Leo's Hideout in Dowe Valley so Cecily can compare her memories with Loeg's",
+    "steps": [
+        "Speak with Gurdolin at the entrance to Leo's Hideout in Dowe Valley",
+        "Head for Leo's Hideout deep within the dungeon",
+        "Defeat the encountered enemy",
+        "Return to the Audience Chamber and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 64,
+            "minimum_item_rank": 0,
+            "xp": 103000,
+            "gold": 28000,
+            "rift": 2300,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dapper Wear",
+                                "item_id": 13078,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Anti-Corruption Medicine",
+                                "item_id": 11510,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

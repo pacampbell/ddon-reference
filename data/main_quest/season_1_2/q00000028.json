@@ -1,0 +1,68 @@
+{
+    "type": "Main",
+    "name": "A Brief Respite",
+    "quest_id": 28,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 18
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Mysial's wish is granted.",
+    "steps": [
+        "Ask around for Mysial",
+        "Head to the Relay Station District and search for Mysial",
+        "Walk with Mysial in the Temple grounds",
+        "Walk with Mysial in the Temple grounds",
+        "Walk with Mysial in the Temple grounds",
+        "Walk with Mysial in the Temple grounds"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 5000,
+            "gold": 2500,
+            "rift": 500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "White Sun Scale",
+                                "item_id": 8623,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mother Goddess' Ring",
+                                "item_id": 9043,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

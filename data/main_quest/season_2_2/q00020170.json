@@ -1,0 +1,79 @@
+{
+    "type": "Main",
+    "name": "The Village of Soldiers",
+    "quest_id": 20170,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20180
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Cross to Phindym to search for stragglers.",
+    "steps": [
+        "Speak with Cecily waiting in front of \"Protector's Retreat\"",
+        "Head towards the village of Dana in the  Farana Plains.",
+        "Speak with Cecily",
+        "Speak with Razanailt, the Area Master",
+        "Activate the portcrystal in Dana Village.",
+        "Visit Adair Donnchadh's house in Dana",
+        "Speak to Adair Donnchadh",
+        "Enter Dunhain's Hall of Trials and  face the challenges.",
+        "Defeat the encountered demons",
+        "Go report to Chief Pisarr of Dana Village.",
+        "Speak with Cecily",
+        "Return to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 69,
+            "minimum_item_rank": 0,
+            "xp": 350000,
+            "gold": 48000,
+            "rift": 3800,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flower Trinket (Soldier)",
+                                "item_id": 13483,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Anti-Corruption Medicine",
+                                "item_id": 11510,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Novice Spear",
+                                "item_id": 14737,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

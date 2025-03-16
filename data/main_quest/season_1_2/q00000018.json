@@ -1,0 +1,69 @@
+{
+    "type": "Main",
+    "name": "The Ark, Once More",
+    "quest_id": 18,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 5,
+        "name": "Leo",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 19
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the Second Ark that appeared in  the Betland Plains.",
+    "steps": [
+        "Speak with Joseph",
+        "Enter The Second Ark at the Betland Plains",
+        "Join Leo and Joseph, who have gone ahead",
+        "Destroy the metal giant",
+        "Escort Joseph to safety",
+        "Return to the Audience Chamber and speak with Joseph",
+        "Discuss the issue"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 11000,
+            "gold": 8800,
+            "rift": 1000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dire Plume",
+                                "item_id": 960,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Maker's Gray Bottoms",
+                                "item_id": 9729,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

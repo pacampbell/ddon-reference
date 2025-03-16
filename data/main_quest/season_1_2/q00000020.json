@@ -1,0 +1,76 @@
+{
+    "type": "Main",
+    "name": "The future entrusted to us",
+    "quest_id": 20,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 21
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Rescue Mysial, who has been abducted",
+    "steps": [
+        "Rendezvous with Leo at the Mergoda Security District",
+        "Search for Mysial",
+        "Find a way to open the large doors",
+        "Find the key in the Alchemical Research Facility",
+        "Open the door with the key you have obtained",
+        "Find the device to open the huge doors",
+        "Head through the open huge doors",
+        "Defeat Iris",
+        "Report back to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 49,
+            "minimum_item_rank": 0,
+            "xp": 13500,
+            "gold": 12500,
+            "rift": 1200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mythology Bracers",
+                                "item_id": 992,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Champion Breastplate",
+                                "item_id": 8638,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Spiritual Bracelet",
+                                "item_id": 9006,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

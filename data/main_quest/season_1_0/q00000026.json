@@ -1,0 +1,87 @@
+{
+    "type": "Main",
+    "name": "A Servant's Pledge",
+    "quest_id": 26,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 2102,
+        "name": "Alvar",
+        "stage": {
+            "name": "Pawn Cathedral",
+            "id": 78
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 25
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Enter the realm of The Rift and obtain the raw  Riftstone Ore as proof of a Pawn contract.",
+    "steps": [
+        "Retrieve a Riftstone Ore from the depths of the Rift",
+        "Report back to Alvar",
+        "Return to the Audience Chamber and give the Riftstone Ore to Mysial"
+    ],
+    "variants": [
+        {
+            "level": 6,
+            "minimum_item_rank": 0,
+            "xp": 2350,
+            "gold": 1500,
+            "rift": 200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Brown Cape",
+                                "item_id": 514,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bronze Plate",
+                                "item_id": 427,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Hallowed Robe",
+                                "item_id": 459,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Garrison's Jacket",
+                                "item_id": 475,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Copper Lorica",
+                                "item_id": 443,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

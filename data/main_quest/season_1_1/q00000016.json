@@ -1,0 +1,78 @@
+{
+    "type": "Main",
+    "name": "A Friendly Visit",
+    "quest_id": 16,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 5,
+        "name": "Leo",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 17
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Head to Gardnox Fortress to retrieve the Vessel of Life from Kieshildt.",
+    "steps": [
+        "Go to Drawan Village and find out how to enter Gardnox Fortress",
+        "Hear what Sunny has to say in the Sleeping Wolf Inn",
+        "Head to the Orcs' location",
+        "Defeat the Orcs to obtain the key to the fortress",
+        "Pick up the key to Gardnox Fortress",
+        "Break into Gardnox Fortress by using the key",
+        "Find a way to enter the heart of the fortress",
+        "Use the levers to open the main gate of the fortress",
+        "Head to the back of the main gate and search for the Vessel of Life",
+        "Defeat Mogok",
+        "Report back to Leo in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 43,
+            "minimum_item_rank": 0,
+            "xp": 10500,
+            "gold": 8000,
+            "rift": 960,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Coat of Plates",
+                                "item_id": 8618,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rebel Banded",
+                                "item_id": 8743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Raptor Mantle",
+                                "item_id": 8878,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

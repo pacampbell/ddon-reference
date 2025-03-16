@@ -1,0 +1,68 @@
+{
+    "type": "Main",
+    "name": "Soldiers of the Rift",
+    "quest_id": 4,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 6,
+        "name": "Iris",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 26
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to acquire a pawn, head to the Pawn Settlement and complete the challenge",
+    "steps": [
+        "Go to the village of Tel using the Portcrystal and hear what Alfred has to say",
+        "Check the area information with Alfred",
+        "Pass through the Hunters' Secret Passage and head to the Pawn Cathedral",
+        "Get information in the Pawn Settlement",
+        "Register and set the Pawn Cathedral Portcrystal",
+        "Speak with Alvar"
+    ],
+    "variants": [
+        {
+            "level": 5,
+            "minimum_item_rank": 0,
+            "xp": 2100,
+            "gold": 1200,
+            "rift": 180,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Trouv\u00e8re Band",
+                                "item_id": 945,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Combat Bottoms",
+                                "item_id": 963,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

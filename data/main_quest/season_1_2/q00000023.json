@@ -1,0 +1,72 @@
+{
+    "type": "Main",
+    "name": "The Golden Key",
+    "quest_id": 23,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 24
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Obtain assistance from Theodor and prepare for battle",
+    "steps": [
+        "Visit Klaus waiting in Mergoda",
+        "Seek information on the Giant Warrior and its whereabouts",
+        "Clear one World Quest in Mergoda Ruins",
+        "Report to Ariadne in the Specialist Trading Post",
+        "Seek out the giant warrior in the Mergoda Ruins Royal Palace Level",
+        "Defeat the Giant Warrior Goliath in order to obtain the key",
+        "Pick up the key",
+        "Hand over the key to Klaus",
+        "Speak with Klaus",
+        "Report back to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 53,
+            "minimum_item_rank": 0,
+            "xp": 15000,
+            "gold": 15000,
+            "rift": 1500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sacred Tree Ring",
+                                "item_id": 9024,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cofferer's Earrings",
+                                "item_id": 9045,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

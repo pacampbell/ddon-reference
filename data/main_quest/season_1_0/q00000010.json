@@ -1,0 +1,73 @@
+{
+    "type": "Main",
+    "name": "The Castle of Dusk",
+    "quest_id": 10,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 5,
+        "name": "Leo",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 11
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Explore how to awaken the White Dragon",
+    "steps": [
+        "Explore ways to awaken the White Dragon by talking to the people in the Audience Chamber",
+        "Speak with Leo in the Audience Chamber",
+        "Head to Dreed Castle in Dowe Valley",
+        "Search for the Vessel of Life in Dreed Castle",
+        "Defeat the summoned beast",
+        "Report back to Mysial in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 35,
+            "minimum_item_rank": 0,
+            "xp": 6800,
+            "gold": 5300,
+            "rift": 700,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Solemn Suit",
+                                "item_id": 977,
+                                "amount": 1
+                            },
+                            {
+                                "name": "White Legs",
+                                "item_id": 1001,
+                                "amount": 1
+                            },
+                            {
+                                "name": "White Wings Mantle",
+                                "item_id": 1011,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

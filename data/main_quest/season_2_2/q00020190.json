@@ -1,0 +1,72 @@
+{
+    "type": "Main",
+    "name": "Gallant Footsteps",
+    "quest_id": 20190,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20200
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Follow Cecily's father, aiming for the place they headed to",
+    "steps": [
+        "Head to Morfaul and speak with Cecily",
+        "Hear what Arthfael has to say regarding Gear\u00f3id's destination",
+        "Head to the Kingal Canyon from the Farana Plains' border checkpoint",
+        "Activate the Glyndwr portcrystal",
+        "Visit Ciar\u00e1n, Area Master of Glyndwr",
+        "Follow Gear\u00f3id to the Shadolean Great Temple",
+        "Speak with Cecily",
+        "Search for Gear\u00f3id",
+        "Return to Morfaul and check Gear\u00f3id's condition",
+        "Return to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 450000,
+            "gold": 52000,
+            "rift": 4200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flower Trinket (General)",
+                                "item_id": 13484,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Dragon Force",
+                                "item_id": 14189,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

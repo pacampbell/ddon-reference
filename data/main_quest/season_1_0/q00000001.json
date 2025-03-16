@@ -1,0 +1,41 @@
+{
+    "type": "Main",
+    "name": "Resolutions and Omens",
+    "quest_id": 1,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 2
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": [
+            "MainMenu"
+        ]
+    },
+    "description": "Gritten Fort is being raided by the Orc army Join battle with Leo and Iris as reinforcements",
+    "steps": [
+        "Head to Gritten Fort with Leo and Iris",
+        "Defeat all Orcs in the fort"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "tags": []
+}

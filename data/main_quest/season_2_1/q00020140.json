@@ -1,0 +1,62 @@
+{
+    "type": "Main",
+    "name": "The Entrusted One",
+    "quest_id": 20140,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 1,
+        "name": "The White Dragon",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20150
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To confront the Black Knight,  the invader of both continents,  head towards Bloodbane Isle.",
+    "steps": [
+        "Speak to Cecily",
+        "Speak to Joseph",
+        "Head to the glowing distortion on Bloodbane Isle",
+        "Destroy the Altered Zuhl",
+        "Return to the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 66,
+            "minimum_item_rank": 0,
+            "xp": 128000,
+            "gold": 42000,
+            "rift": 3200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Beast Lord's Cape",
+                                "item_id": 13173,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

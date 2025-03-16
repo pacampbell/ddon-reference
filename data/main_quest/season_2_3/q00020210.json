@@ -1,0 +1,74 @@
+{
+    "type": "Main",
+    "name": "The Spirit Land",
+    "quest_id": 20210,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20220
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Head to the Spirit Land from the Gate of Sacred Grounds",
+    "steps": [
+        "Head to Gate of Sacred Grounds in Farana Plains",
+        "Head towards the Hollow of Beginnings  within the tree",
+        "Defeat the enemy encountered",
+        "Proceed through the interior of the tree towards the Hollow of Beginnings",
+        "Defeat the enemy encountered",
+        "Proceed through the interior of the tree towards the Hollow of Beginnings",
+        "Defeat the enemy encountered",
+        "Proceed through the interior of the tree towards the Hollow of Beginnings",
+        "Defeat the demons destroying the central vein",
+        "Speak with Cecily",
+        "Activate the Gathering Area portcrystal",
+        "Return to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 600000,
+            "gold": 56000,
+            "rift": 4600,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Wind Trinket (Soldier)",
+                                "item_id": 13487,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Anti-Corruption Medicine",
+                                "item_id": 11510,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

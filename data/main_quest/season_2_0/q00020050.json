@@ -1,0 +1,71 @@
+{
+    "type": "Main",
+    "name": "Eliminate the Corrosion Infestation",
+    "quest_id": 20050,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 21,
+        "name": "Elliot",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20060
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Take part in the White Knights' campaign to eliminate the strange corrosion infestation in Dreed Castle",
+    "steps": [
+        "Head to the Knights' Headquarters and speak to Heinz",
+        "Head to Dreed Castle and speak with Gurdolin",
+        "Defeat the corruption lured into the castle",
+        "Defeat the enemy encountered",
+        "Search for the remaining enemy",
+        "Defeat the enemy encountered",
+        "Search for the remaining enemy",
+        "Defeat the enemy encountered",
+        "Report back to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 56,
+            "minimum_item_rank": 0,
+            "xp": 138000,
+            "gold": 27000,
+            "rift": 2100,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Artisan's Boots",
+                                "item_id": 13063,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Anti-Corruption Medicine",
+                                "item_id": 11408,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,91 @@
+{
+    "type": "Main",
+    "name": "Homecoming",
+    "quest_id": 20180,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20190
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "While searching for clues about Cecily's father, head towards Cecily's hometown.",
+    "steps": [
+        "Head to Dana village and speak with Cecily",
+        "Visit Musel, the Area Master of Elan Water Grove",
+        "Speak with Toreasa,  the boatman at the water's edge",
+        "Take the boat and head to the cave on the opposite shore",
+        "Traverse the cave and head to Morfaul",
+        "Defeat the enemy encountered",
+        "Traverse the cave and head to Morfaul",
+        "Head towards the village of Morfaul",
+        "Activate the Morfaul portcrystal",
+        "Head to Morfaul Centrum and speak with Arthfael",
+        "Search for Cecily",
+        "Return to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 69,
+            "minimum_item_rank": 0,
+            "xp": 400000,
+            "gold": 50000,
+            "rift": 4000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Key of Gemstones",
+                                "item_id": 14190,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Treasures",
+                                "item_id": 14191,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Jewelry",
+                                "item_id": 14192,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

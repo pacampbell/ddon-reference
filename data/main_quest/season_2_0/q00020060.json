@@ -1,0 +1,61 @@
+{
+    "type": "Main",
+    "name": "The Man From Another Land",
+    "quest_id": 20060,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 501,
+        "name": "Gurdolin",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20070
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Follow Cecily who has gone from Mayleaf's home and is headed for Flocwald Bridge",
+    "steps": [
+        "Speak to Joseph",
+        "Go after Cecily heading to Flocwald Bridge",
+        "Defeat Zuhl",
+        "Return to the Audience Chamber and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 148000,
+            "gold": 28000,
+            "rift": 2200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

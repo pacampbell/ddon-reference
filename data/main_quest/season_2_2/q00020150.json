@@ -1,0 +1,70 @@
+{
+    "type": "Main",
+    "name": "A New Continent",
+    "quest_id": 20150,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20160
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Cross over to the New Continent from the Gate  on Bloodbane Isle.",
+    "steps": [
+        "Head to in front of the gate on Bloodbane Isle",
+        "Speak with Loeg",
+        "Explore the surroundings",
+        "Defeat the encountered demons",
+        "Find a portcrystal on the new continent",
+        "Activate the portcrystal",
+        "Speak with Gurdolin",
+        "Report back to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 69,
+            "minimum_item_rank": 0,
+            "xp": 250000,
+            "gold": 44000,
+            "rift": 3400,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Refined Paraffin",
+                                "item_id": 11784,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Anti-Corruption Medicine",
+                                "item_id": 11510,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

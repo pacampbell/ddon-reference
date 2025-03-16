@@ -1,0 +1,66 @@
+{
+    "type": "Main",
+    "name": "Reason and Bonds",
+    "quest_id": 20240,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20250
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Towards the battle with the Spirit Dragon. Its roost is at the top of the tree.",
+    "steps": [
+        "Head to the Hollow of Beginnings",
+        "Head for Spirit Dragon's Roost",
+        "Defeat the Spirit Dragon",
+        "Return to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 900000,
+            "gold": 62000,
+            "rift": 5200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Wind Trinket (King)",
+                                "item_id": 13489,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Dragon Force",
+                                "item_id": 14189,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,45 @@
+{
+    "type": "Main",
+    "name": "The God\u2019s Awakening",
+    "quest_id": 11,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 2,
+        "name": "Mysial",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 12
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Offer the vessel of life to the white dragon to awaken it.",
+    "steps": [
+        "Speak with Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 35,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": []
+        }
+    ],
+    "tags": []
+}

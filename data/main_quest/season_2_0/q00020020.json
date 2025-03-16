@@ -1,0 +1,65 @@
+{
+    "type": "Main",
+    "name": "The Girl Who Lost Her Memories",
+    "quest_id": 20020,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 13,
+        "name": "Lise",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20030
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Go and visit the girl you found washed up on the beach",
+    "steps": [
+        "Head to Mayleaf's home in the White Dragon Temple",
+        "Head to the village of Rotes where Cecily was found",
+        "Head to the coast and search for Zuhl",
+        "Defeat Zuhl",
+        "Return to Elliot in the village of Rotes",
+        "Return to the Audience Chamber",
+        "Speak to Joseph",
+        "Speak to Klaus"
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 128000,
+            "gold": 18000,
+            "rift": 1200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sunny Pareo",
+                                "item_id": 13043,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

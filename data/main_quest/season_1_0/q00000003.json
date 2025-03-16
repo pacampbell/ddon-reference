@@ -1,0 +1,92 @@
+{
+    "type": "Main",
+    "name": "Envoy of Reconciliation",
+    "quest_id": 3,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 5,
+        "name": "Leo",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 4
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Take up the mission to defeat the monsters Suppress the conflict between the Arisen and the White Dragon Knights",
+    "steps": [
+        "Head to the village of Tel",
+        "Hear the situation from Alfred in the Black Grape Inn",
+        "Register and set the Tel Village portcrystal",
+        "Investigate the Abandoned House Cellar",
+        "Defeat the enemy encountered",
+        "Report the result to Alfred",
+        "Return to the Knights' location",
+        "Return to the temple using portcrystal and report to Leo"
+    ],
+    "variants": [
+        {
+            "level": 2,
+            "minimum_item_rank": 0,
+            "xp": 2300,
+            "gold": 4000,
+            "rift": 200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Composite Vest",
+                                "item_id": 504,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Landing Sword",
+                                "item_id": 63,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Blue Cane",
+                                "item_id": 81,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Oval Shield",
+                                "item_id": 92,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Stalking Bow",
+                                "item_id": 74,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

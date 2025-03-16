@@ -1,0 +1,75 @@
+{
+    "type": "Main",
+    "name": "The Lone Arisen",
+    "quest_id": 20120,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20130
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Go and meet Leo who is waiting at the Temple of Purification near the banks of Lake Cera, and discuss a way to resolve the current situation",
+    "steps": [
+        "Hear what Loeg has to say in Mayleaf's home",
+        "Head to Leo waiting on the banks of Lake Cera outside the Temple of Purification",
+        "Confirm with Leo on how to unlock the stagnant Dragon Force",
+        "Head to the Rift's Inner Depths in the Pawn Cathedral",
+        "Search for five Dragon Tears",
+        "Search for the second Dragon Tear",
+        "Search for the third Dragon Tear",
+        "Search for the fourth Dragon Tear",
+        "Defeat the enemy barring your path",
+        "Search for the fifth Dragon Tear",
+        "Defeat the enemy barring your path",
+        "Give Leo the Dragon's Tears you have gathered",
+        "Report to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 118000,
+            "gold": 38000,
+            "rift": 2800,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Star Trinket (General)",
+                                "item_id": 13480,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

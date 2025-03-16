@@ -1,0 +1,86 @@
+{
+    "type": "Main",
+    "name": "The Lost Hometown",
+    "quest_id": 20160,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20170
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Explore the continent of Phindym",
+    "steps": [
+        "Traverse Phindym and speak with Loeg waiting in front of \"Protector's Retreat\"",
+        "Leave the Elan Water Grove and head for the Farana Plains",
+        "Head to the deserted village along the road",
+        "Defeat the encountered enemy",
+        "Investigate the deserted village",
+        "Return to \"Protector's Retreat\" check the comrade's safety",
+        "Return to the Audience Chamber and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 69,
+            "minimum_item_rank": 0,
+            "xp": 300000,
+            "gold": 46000,
+            "rift": 3600,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Anti-Corruption Medicine",
+                                "item_id": 11510,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Key of Gemstones",
+                                "item_id": 14190,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Treasures",
+                                "item_id": 14191,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Jewelry",
+                                "item_id": 14192,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

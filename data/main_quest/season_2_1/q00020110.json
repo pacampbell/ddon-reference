@@ -1,0 +1,72 @@
+{
+    "type": "Main",
+    "name": "A Strange Land's Light",
+    "quest_id": 20110,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 20,
+        "name": "Cecily",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20120
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Explore Bloodbane Isle from the new landing site with Loeg as your guide",
+    "steps": [
+        "Speak to Gurdolin",
+        "Head to the Cave Harbor and speak to Zerkin in order to cross to Bloodbane Isle",
+        "Travel to Bloodbane Isle Precipice",
+        "Speak to Cecily",
+        "Head for the source of the bright light over the island",
+        "Explore the cave",
+        "Defeat the encountered enemy",
+        "Leave the cave and head for the source of the bright light over the island",
+        "Speak to Elliot",
+        "Return to the Audience Chamber and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 113000,
+            "gold": 35000,
+            "rift": 2600,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Key of Gemstones",
+                                "item_id": 14190,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

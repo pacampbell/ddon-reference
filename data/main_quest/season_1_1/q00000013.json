@@ -1,0 +1,77 @@
+{
+    "type": "Main",
+    "name": "The Stolen Heart",
+    "quest_id": 13,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 3,
+        "name": "Klaus",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 14
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Recover the kidnapped Mayleaf",
+    "steps": [
+        "Obtain information from Leo",
+        "Reconfirm the destination from Leo",
+        "Obtain information from Scherzo in Gritten Fort",
+        "Head to the Temple of Purification",
+        "Find the key to the control room on the second floor",
+        "Turn off the flow of water from the control room",
+        "Go to the location behind the waterfall",
+        "Defeat the mysterious abductor",
+        "Go to the entrance of the Temple of Purification",
+        "Report back to Leo in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 7000,
+            "gold": 6000,
+            "rift": 780,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dominion's Seal",
+                                "item_id": 9579,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silk Bliaut",
+                                "item_id": 987,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Vice Hose",
+                                "item_id": 8748,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

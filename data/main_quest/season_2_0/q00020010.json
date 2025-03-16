@@ -1,0 +1,74 @@
+{
+    "type": "Main",
+    "name": "The Storm That Brought A Tragedy",
+    "quest_id": 20010,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20020
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Inspect the carcass of the dead beast that washed up on Breya Coast",
+    "steps": [
+        "Speak to Joseph",
+        "Speak to Gurdolin",
+        "Head to Breya Coast",
+        "Speak to Gurdolin",
+        "Investigate the vicinity",
+        "Defeat the encountered enemy",
+        "Speak to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 98000,
+            "gold": 12000,
+            "rift": 1000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Refined Paraffin",
+                                "item_id": 11784,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Anti-Corruption Medicine",
+                                "item_id": 11408,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

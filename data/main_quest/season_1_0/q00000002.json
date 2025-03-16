@@ -1,0 +1,58 @@
+{
+    "type": "Main",
+    "name": "The Slumbering God",
+    "quest_id": 2,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 3
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Talk to the important people in the Audience Chamber Learn about your position and mission as an Arisen",
+    "steps": [
+        "Head to the Audience Chamber and speak with Leo",
+        "Speak with Leo and Mysial",
+        "Speak with the White Dragon"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 700,
+            "gold": 1000,
+            "rift": 200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Tunic",
+                                "item_id": 499,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Short Pants",
+                                "item_id": 505,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

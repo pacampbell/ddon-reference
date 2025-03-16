@@ -1,0 +1,68 @@
+{
+    "type": "Main",
+    "name": "Straying Power",
+    "quest_id": 20130,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20140
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To enter the stagnation of Dragon Force, head to the Temple of Purification  where Leo awaits.",
+    "steps": [
+        "Head to Leo waiting in the Temple of Purification",
+        "Seek out Leo waiting in the temple",
+        "Head to the location of the stagnant dragon force",
+        "Defeat the Phantasmic Great Dragon",
+        "Head to Cecily in the White Dragon Temple",
+        "Report to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 123000,
+            "gold": 40000,
+            "rift": 3000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Star Trinket (King)",
+                                "item_id": 13481,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Key of Dragon Force",
+                                "item_id": 14189,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

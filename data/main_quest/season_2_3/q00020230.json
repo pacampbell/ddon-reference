@@ -1,0 +1,71 @@
+{
+    "type": "Main",
+    "name": "Restoration Requirements",
+    "quest_id": 20230,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "npc_info": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 20240
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In search for Primeval Drops, head deeper into the canyon",
+    "steps": [
+        "Head to the Hollow of Beginnings",
+        "Speak with Gear\u00f3id",
+        "Head to the back of Kingal Canyon and search for the Primeval Drops",
+        "Defeat the demons",
+        "Head into the open cave",
+        "Obtain Primeval Drops",
+        "Return to the Hollow of Beginnings",
+        "Defeat the Black Knight who possessed Loeg",
+        "Return to the Audience Chamber and speak with the White Dragon"
+    ],
+    "variants": [
+        {
+            "level": 75,
+            "minimum_item_rank": 0,
+            "xp": 800000,
+            "gold": 60000,
+            "rift": 5000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Wind Trinket (General)",
+                                "item_id": 13488,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Corruption Cure",
+                                "item_id": 11407,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

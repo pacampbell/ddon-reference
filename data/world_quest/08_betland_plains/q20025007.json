@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Unburdening",
-                        "item_id": 9286,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Unburdening",
-                        "item_id": 9286,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Unburdening",
+                                "item_id": 9286,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Unburdening",
+                                "item_id": 9286,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -33,7 +33,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 36,
@@ -45,7 +72,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Shiny Hands",
+                                "item_id": 9668,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ambrosial Beast-Steak",
+                                "item_id": 7727,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -57,110 +132,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "36",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Shiny Hands",
-                        "item_id": 9668,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Ambrosial Beast-Steak",
-                        "item_id": 7727,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Cockatrice Gastrolith",
-                        "item_id": 9440,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cockatrice Poison Gland",
-                        "item_id": 7745,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cockatrice Liquor",
-                        "item_id": 7842,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Cockatrice Gastrolith",
+                                "item_id": 9440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Poison Gland",
+                                "item_id": 7745,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cockatrice Liquor",
+                                "item_id": 7842,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -37,35 +37,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Twilight (Decreased Dark Resist)",
-                        "item_id": 16065,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Twilight",
-                        "item_id": 9266,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Diminished Dark Resist",
-                        "item_id": 9276,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Twilight (Decreased Dark Resist)",
+                                "item_id": 16065,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Twilight",
+                                "item_id": 9266,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Diminished Dark Resist",
+                                "item_id": 9276,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

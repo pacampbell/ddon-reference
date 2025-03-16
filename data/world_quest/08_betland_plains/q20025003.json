@@ -31,77 +31,75 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Red Alloy Ingot",
-                        "item_id": 7888,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Red Alloy Ingot",
-                        "item_id": 7888,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Red Alloy Ingot",
-                        "item_id": 7888,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Red Alloy Ingot",
+                                "item_id": 7888,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Red Alloy Ingot",
+                                "item_id": 7888,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Red Alloy Ingot",
+                                "item_id": 7888,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

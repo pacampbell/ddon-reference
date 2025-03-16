@@ -34,35 +34,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Gleipnir",
-                        "item_id": 7959,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Iron Ore Fragment",
-                        "item_id": 7853,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Gleipnir",
+                                "item_id": 7959,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Iron Ore Fragment",
+                                "item_id": 7853,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

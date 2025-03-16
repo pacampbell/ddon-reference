@@ -35,37 +35,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ruby Pendant",
-                        "item_id": 8975,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ruby Pendant",
+                                "item_id": 8975,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

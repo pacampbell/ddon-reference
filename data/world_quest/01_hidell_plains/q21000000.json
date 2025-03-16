@@ -37,7 +37,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Lowered Defense)",
+                                "item_id": 16050,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Herculean Power",
+                                "item_id": 9198,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Dwindled Defense",
+                                "item_id": 9280,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 65,
@@ -49,62 +76,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Lowered Defense)",
-                        "item_id": 16050,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Herculean Power",
-                        "item_id": 9198,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Dwindled Defense",
-                        "item_id": 9280,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Firm Protection (Health)",
-                        "item_id": 16070,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Wisdom (Health)",
-                        "item_id": 16074,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Relief Coin (Crimson)",
-                        "item_id": 13812,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Firm Protection (Health)",
+                                "item_id": 16070,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Wisdom (Health)",
+                                "item_id": 16074,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

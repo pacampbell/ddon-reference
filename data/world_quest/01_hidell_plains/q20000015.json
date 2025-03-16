@@ -33,7 +33,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Wolf Head",
+                                "item_id": 5104,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Eyedrops",
+                                "item_id": 39,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Bronze Sallet",
+                                "item_id": 5106,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Magician's Hood",
+                                "item_id": 8152,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 13,
@@ -45,7 +83,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Leather Armor",
+                                "item_id": 5125,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Periapt",
+                                "item_id": 43,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Lamellar Jacket",
+                                "item_id": 5126,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Periapt",
+                                "item_id": 43,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 16,
@@ -57,132 +133,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "10",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Wolf Head",
-                        "item_id": 5104,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Eyedrops",
-                        "item_id": 39,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Bronze Sallet",
-                        "item_id": 5106,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Magician's Hood",
-                        "item_id": 8152,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "13",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Leather Armor",
-                        "item_id": 5125,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Periapt",
-                        "item_id": 43,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Lamellar Jacket",
-                        "item_id": 5126,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Periapt",
-                        "item_id": 43,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "16",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Noble Greaves",
-                        "item_id": 5161,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Periapt",
-                        "item_id": 44,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Purifying Decoction",
-                        "item_id": 9372,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Vigorous Legs",
-                        "item_id": 8382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Iron Legs",
-                        "item_id": 8407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Periapt",
-                        "item_id": 44,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Noble Greaves",
+                                "item_id": 5161,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Periapt",
+                                "item_id": 44,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Vigorous Legs",
+                                "item_id": 8382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Iron Legs",
+                                "item_id": 8407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Periapt",
+                                "item_id": 44,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

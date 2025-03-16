@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Hidell Medal",
-                        "item_id": 10999,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Herculean Power (Freezing)",
-                        "item_id": 16031,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Freezing)",
-                        "item_id": 16036,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Permafrost",
-                        "item_id": 9260,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Hidell Medal",
+                                "item_id": 10999,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Freezing)",
+                                "item_id": 16031,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Freezing)",
+                                "item_id": 16036,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Permafrost",
+                                "item_id": 9260,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

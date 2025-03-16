@@ -34,7 +34,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Greater Power",
+                                "item_id": 9196,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -46,66 +75,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "42",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Greater Power",
-                        "item_id": 9196,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mithril Ingot",
-                        "item_id": 7880,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mithril Ingot",
+                                "item_id": 7880,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

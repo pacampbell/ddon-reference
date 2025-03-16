@@ -31,7 +31,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Leather Bottoms",
+                                "item_id": 5127,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Mercenary Leg-Guards",
+                                "item_id": 8402,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 28,
@@ -43,7 +81,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Hard Leather Cloth",
+                                "item_id": 7937,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 30,
@@ -55,99 +117,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Leather Bottoms",
-                        "item_id": 5127,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Potion",
-                        "item_id": 34,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Mercenary Leg-Guards",
-                        "item_id": 8402,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Potion",
-                        "item_id": 34,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Hard Leather Cloth",
-                        "item_id": 7937,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "30",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Iron Thread",
-                        "item_id": 7955,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Quality Gala Extract",
-                        "item_id": 9361,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Iron Thread",
+                                "item_id": 7955,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Quality Gala Extract",
+                                "item_id": 9361,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

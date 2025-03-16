@@ -31,7 +31,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Wizard's Ring",
+                                "item_id": 8948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sphinx Hair",
+                                "item_id": 7810,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wizard's Ring",
+                                "item_id": 8948,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 16,
@@ -43,7 +91,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Copper Sabatons",
+                                "item_id": 8332,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Copper Sabatons",
+                                "item_id": 8332,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Nostalgia Waistguard",
+                                "item_id": 8357,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 20,
@@ -55,7 +151,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Buster Knuckles",
+                                "item_id": 5598,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Buster Knuckles",
+                                "item_id": 5598,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Composite Sleeves",
+                                "item_id": 5386,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 34,
@@ -67,181 +211,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "14",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Wizard's Ring",
-                        "item_id": 8948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Purifying Decoction",
-                        "item_id": 9372,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Sphinx Hair",
-                        "item_id": 7810,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wizard's Ring",
-                        "item_id": 8948,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "16",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Copper Sabatons",
-                        "item_id": 8332,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Copper Sabatons",
-                        "item_id": 8332,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Nostalgia Waistguard",
-                        "item_id": 8357,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "20",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Buster Knuckles",
-                        "item_id": 5598,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Recovery Decoction",
-                        "item_id": 9373,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Buster Knuckles",
-                        "item_id": 5598,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Composite Sleeves",
-                        "item_id": 5386,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Recovery Decoction",
-                        "item_id": 9373,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "34",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Shock Warding",
-                        "item_id": 9320,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Shock Warding",
+                                "item_id": 9320,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

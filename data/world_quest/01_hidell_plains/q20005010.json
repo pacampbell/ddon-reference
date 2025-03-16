@@ -31,7 +31,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Battle Shield",
+                                "item_id": 4775,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Knight's Honor",
+                                "item_id": 4776,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Knight's Honor",
+                                "item_id": 4776,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cathedral Fire",
+                                "item_id": 10051,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 20,
@@ -43,7 +112,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Soldier's Ring",
+                                "item_id": 8947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 28,
@@ -55,147 +172,28 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "12",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Battle Shield",
-                        "item_id": 4775,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lumber Knife",
-                        "item_id": 58,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Knight's Honor",
-                        "item_id": 4776,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lumber Knife",
-                        "item_id": 58,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Knight's Honor",
-                        "item_id": 4776,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cathedral Fire",
-                        "item_id": 10051,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lumber Knife",
-                        "item_id": 58,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "20",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Soldier's Ring",
-                        "item_id": 8947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Superior Healing Potion",
-                        "item_id": 35,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Over Guard",
-                        "item_id": 5309,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Concoction of Light",
-                        "item_id": 9376,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Over Guard",
+                                "item_id": 5309,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

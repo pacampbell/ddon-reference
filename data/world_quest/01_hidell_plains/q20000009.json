@@ -35,7 +35,72 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Battle Greaves",
+                                "item_id": 5111,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pickaxe",
+                                "item_id": 57,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Leather Shoes",
+                                "item_id": 5143,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lumber Knife",
+                                "item_id": 58,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Serpent's Whisker",
+                                "item_id": 8322,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pickaxe",
+                                "item_id": 57,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Serpent's Whisker",
+                                "item_id": 8322,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 8,
@@ -47,127 +112,60 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "7",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Battle Greaves",
-                        "item_id": 5111,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pickaxe",
-                        "item_id": 57,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Leather Shoes",
-                        "item_id": 5143,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lumber Knife",
-                        "item_id": 58,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Serpent's Whisker",
-                        "item_id": 8322,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pickaxe",
-                        "item_id": 57,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Serpent's Whisker",
-                        "item_id": 8322,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Entry Boots",
-                        "item_id": 5159,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lockpick",
-                        "item_id": 59,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Shinguards",
-                        "item_id": 8372,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lockpick",
-                        "item_id": 59,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Shinguards",
-                        "item_id": 8372,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Hide Cuisses",
-                        "item_id": 8397,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Entry Boots",
+                                "item_id": 5159,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lockpick",
+                                "item_id": 59,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shinguards",
+                                "item_id": 8372,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lockpick",
+                                "item_id": 59,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shinguards",
+                                "item_id": 8372,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Hide Cuisses",
+                                "item_id": 8397,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

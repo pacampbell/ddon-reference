@@ -43,7 +43,6 @@
             "is_bounty": false,
             "rewards": [
                 {
-                    "level": "8",
                     "type": "Select1",
                     "pools": [
                         [

@@ -35,56 +35,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "46",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sinister Carrion",
-                        "item_id": 7741,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sinister Carrion",
-                        "item_id": 7741,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sinister Carrion",
+                                "item_id": 7741,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sinister Carrion",
+                                "item_id": 7741,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

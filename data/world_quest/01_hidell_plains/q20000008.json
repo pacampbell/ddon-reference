@@ -35,7 +35,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Poison",
+                                "item_id": 9239,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 16,
@@ -47,7 +71,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Power of Pawn",
+                                "item_id": 4765,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Staff of Magickal Restraint",
+                                "item_id": 4766,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -59,128 +131,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "11",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Poison",
-                        "item_id": 9239,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "16",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Power of Pawn",
-                        "item_id": 4765,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Purifying Decoction",
-                        "item_id": 9372,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Staff of Magickal Restraint",
-                        "item_id": 4766,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Purifying Decoction",
-                        "item_id": 9372,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Demon's Prized Liquor",
-                        "item_id": 9443,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pigeon Blood",
-                        "item_id": 7910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Orc Decoration",
-                        "item_id": 8020,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Demon's Prized Liquor",
-                        "item_id": 9443,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Pigeon Blood",
-                        "item_id": 7910,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Orc Decoration",
+                                "item_id": 8020,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Demon's Prized Liquor",
+                                "item_id": 9443,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Pigeon Blood",
+                                "item_id": 7910,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -33,8 +33,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Orcish Cloth",
+                                "item_id": 7945,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Orc Tusk",
+                                "item_id": 7760,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Orcish Cloth",
+                                "item_id": 7945,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Orc Tusk",
+                                "item_id": 7760,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

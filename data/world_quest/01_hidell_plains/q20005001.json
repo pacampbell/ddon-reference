@@ -35,7 +35,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Blue-edged Helm",
+                                "item_id": 8167,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Waking Draught",
+                                "item_id": 9366,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 8,
@@ -47,7 +71,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Coif",
+                                "item_id": 8197,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Terry Cloth",
+                                "item_id": 9367,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Leather Stole",
+                                "item_id": 9533,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Terry Cloth",
+                                "item_id": 9367,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Leather Stole",
+                                "item_id": 9533,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Leader's Vest",
+                                "item_id": 5173,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Healing Potion",
+                                "item_id": 34,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 18,
@@ -59,131 +153,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Blue-edged Helm",
-                        "item_id": 8167,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Waking Draught",
-                        "item_id": 9366,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Coif",
-                        "item_id": 8197,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Terry Cloth",
-                        "item_id": 9367,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Leather Stole",
-                        "item_id": 9533,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Terry Cloth",
-                        "item_id": 9367,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Leather Stole",
-                        "item_id": 9533,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Leader's Vest",
-                        "item_id": 5173,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Healing Potion",
-                        "item_id": 34,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Gala Extract",
-                        "item_id": 36,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "18",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Chain Hood",
-                        "item_id": 8207,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Recovery Decoction",
-                        "item_id": 9373,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Chain Hood",
+                                "item_id": 8207,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

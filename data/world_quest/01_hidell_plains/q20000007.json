@@ -35,7 +35,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Wind Cloak",
+                                "item_id": 9743,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Antidote",
+                                "item_id": 37,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 12,
@@ -47,7 +71,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rough Thread",
+                                "item_id": 7952,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Rough Thread",
+                                "item_id": 7952,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Herb Salad",
+                                "item_id": 9407,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 15,
@@ -59,94 +121,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Wind Cloak",
-                        "item_id": 9743,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Antidote",
-                        "item_id": 37,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "12",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rough Thread",
-                        "item_id": 7952,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Rough Thread",
-                        "item_id": 7952,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Herb Salad",
-                        "item_id": 9407,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "15",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rough Thread",
-                        "item_id": 7952,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "15",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rough Thread",
+                                "item_id": 7952,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

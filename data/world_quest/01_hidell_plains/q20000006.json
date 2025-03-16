@@ -33,7 +33,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Battle Sallet",
+                                "item_id": 5205,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Fiend's Helmet",
+                                "item_id": 5208,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Atonement Cap",
+                                "item_id": 5418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 34,
@@ -45,7 +93,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Burn Warding",
+                                "item_id": 9314,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -57,7 +134,19 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -69,7 +158,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ancient Knight's Emblem",
+                                "item_id": 8021,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sinister Black Cloth",
+                                "item_id": 7947,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Spirit Crystal",
+                                "item_id": 7909,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ancient Knight's Emblem",
+                                "item_id": 8021,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 60,
@@ -81,175 +218,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "30",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Battle Sallet",
-                        "item_id": 5205,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Fiend's Helmet",
-                        "item_id": 5208,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Atonement Cap",
-                        "item_id": 5418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "34",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Burn Warding",
-                        "item_id": 9314,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Spirit Crystal",
-                        "item_id": 7909,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ancient Knight's Emblem",
-                        "item_id": 8021,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sinister Black Cloth",
-                        "item_id": 7947,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Spirit Crystal",
-                        "item_id": 7909,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ancient Knight's Emblem",
-                        "item_id": 8021,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Unburdening",
-                        "item_id": 9286,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Flame Crystal",
-                        "item_id": 7913,
-                        "amount": 1
-                    },
-                    {
-                        "name": "High Quality Magick Medal",
-                        "item_id": 7870,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "60",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Unburdening",
+                                "item_id": 9286,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            },
+                            {
+                                "name": "High Quality Magick Medal",
+                                "item_id": 7870,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

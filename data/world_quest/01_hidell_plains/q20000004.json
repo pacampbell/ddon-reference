@@ -33,7 +33,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dull Iron Ingot",
+                                "item_id": 7872,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dull Iron Ingot",
+                                "item_id": 7872,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 16,
@@ -45,7 +83,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dull Iron Ingot",
+                                "item_id": 7872,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Lantern Kindling",
+                                "item_id": 55,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -57,8 +124,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Cracked Black Horn",
+                                "item_id": 7753,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
-    ],
-    "parsed_rewards": []
+    ]
 }

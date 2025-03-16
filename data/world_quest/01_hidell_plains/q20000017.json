@@ -33,7 +33,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Green Grass Ring",
+                                "item_id": 8928,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Leaf Signet Ring",
+                                "item_id": 8938,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Gala Extract",
+                                "item_id": 36,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 13,
@@ -45,7 +83,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Amethyst",
+                                "item_id": 7897,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Sprite's Periapt",
+                                "item_id": 45,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Amethyst",
+                                "item_id": 7897,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Sprite's Periapt",
+                                "item_id": 45,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 24,
@@ -57,108 +133,30 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "8",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Green Grass Ring",
-                        "item_id": 8928,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gala Extract",
-                        "item_id": 36,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Leaf Signet Ring",
-                        "item_id": 8938,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Gala Extract",
-                        "item_id": 36,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "13",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Amethyst",
-                        "item_id": 7897,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Sprite's Periapt",
-                        "item_id": 45,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Amethyst",
-                        "item_id": 7897,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Sprite's Periapt",
-                        "item_id": 45,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "24",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Monster Gallstone",
-                        "item_id": 7865,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Monster Gallstone",
+                                "item_id": 7865,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

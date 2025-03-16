@@ -33,35 +33,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "10",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Thief Card",
-                        "item_id": 13810,
-                        "amount": 20
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Thief Card",
+                                "item_id": 13810,
+                                "amount": 20
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

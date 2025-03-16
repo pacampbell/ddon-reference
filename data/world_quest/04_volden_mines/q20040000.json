@@ -31,7 +31,58 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "23",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Jewel Steel Ingot",
+                                "item_id": 7882,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sorcerer's Hat",
+                                "item_id": 8157,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Oil Flask",
+                                "item_id": 9394,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Mentor's Cap",
+                                "item_id": 5413,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Brute Armet",
+                                "item_id": 5203,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 25,
@@ -43,124 +94,73 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "23",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Jewel Steel Ingot",
-                        "item_id": 7882,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Sorcerer's Hat",
-                        "item_id": 8157,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Oil Flask",
-                        "item_id": 9394,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Mentor's Cap",
-                        "item_id": 5413,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Brute Armet",
-                        "item_id": 5203,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "25",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Combat Fabric",
-                        "item_id": 7938,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Purifying Decoction",
-                        "item_id": 9372,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Pleasant Helm",
-                        "item_id": 8177,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sergeant's Helm",
-                        "item_id": 5523,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sergeant's Helm",
-                        "item_id": 5523,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Over Guard",
-                        "item_id": 5309,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "25",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Combat Fabric",
+                                "item_id": 7938,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Purifying Decoction",
+                                "item_id": 9372,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Pleasant Helm",
+                                "item_id": 8177,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sergeant's Helm",
+                                "item_id": 5523,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sergeant's Helm",
+                                "item_id": 5523,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Over Guard",
+                                "item_id": 5309,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

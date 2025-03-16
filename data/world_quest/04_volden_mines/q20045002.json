@@ -31,7 +31,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Murg Armguards",
+                                "item_id": 5280,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lestania Wine",
+                                "item_id": 9409,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Murg Armguards",
+                                "item_id": 5280,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sorcery Bangles",
+                                "item_id": 5493,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 24,
@@ -43,7 +91,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sorcery Bangles",
+                                "item_id": 5493,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Griffin Beak",
+                                "item_id": 7758,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mystic Bangles",
+                                "item_id": 5496,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 27,
@@ -55,131 +151,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "21",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Murg Armguards",
-                        "item_id": 5280,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lestania Wine",
-                        "item_id": 9409,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Murg Armguards",
-                        "item_id": 5280,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sorcery Bangles",
-                        "item_id": 5493,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "24",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sorcery Bangles",
-                        "item_id": 5493,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Griffin Beak",
-                        "item_id": 7758,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mystic Bangles",
-                        "item_id": 5496,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "27",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Victory Bracers",
-                        "item_id": 5389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Concoction of Light",
-                        "item_id": 9376,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Victory Bracers",
+                                "item_id": 5389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Concoction of Light",
+                                "item_id": 9376,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

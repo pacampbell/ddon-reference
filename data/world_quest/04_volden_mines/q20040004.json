@@ -33,7 +33,77 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "22",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Shaman's Robe",
+                                "item_id": 5439,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ocean Robe",
+                                "item_id": 5440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Poison Flask",
+                                "item_id": 9395,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ocean Robe",
+                                "item_id": 5440,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Vice Cuirass",
+                                "item_id": 5229,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 25,
@@ -45,7 +115,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "25",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Quality Gala Extract",
+                                "item_id": 9361,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 28,
@@ -57,173 +155,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "22",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Shaman's Robe",
-                        "item_id": 5439,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Ocean Robe",
-                        "item_id": 5440,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Poison Flask",
-                        "item_id": 9395,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Ocean Robe",
-                        "item_id": 5440,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Vice Cuirass",
-                        "item_id": 5229,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "25",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Quality Gala Extract",
-                        "item_id": 9361,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Artisan's Boots",
-                        "item_id": 9703,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Dignity Boots",
-                        "item_id": 9713,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Dignity Boots",
-                        "item_id": 9713,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Monarch's Vest",
-                        "item_id": 9638,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "28",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Artisan's Boots",
+                                "item_id": 9703,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dignity Boots",
+                                "item_id": 9713,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dignity Boots",
+                                "item_id": 9713,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Monarch's Vest",
+                                "item_id": 9638,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

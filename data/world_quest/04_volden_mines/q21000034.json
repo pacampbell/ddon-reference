@@ -31,35 +31,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Blow-Resistant Cloth",
-                        "item_id": 7942,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Quality Gala Mushroom",
-                        "item_id": 7994,
-                        "amount": 7
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Blow-Resistant Cloth",
+                                "item_id": 7942,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Quality Gala Mushroom",
+                                "item_id": 7994,
+                                "amount": 7
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Volden Medal",
-                        "item_id": 11002,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Herculean Power (Holy Drain)",
-                        "item_id": 16033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Holy Drain)",
-                        "item_id": 16041,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Sanctity",
-                        "item_id": 9264,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Volden Medal",
+                                "item_id": 11002,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Holy Drain)",
+                                "item_id": 16033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Holy Drain)",
+                                "item_id": 16041,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sanctity",
+                                "item_id": 9264,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

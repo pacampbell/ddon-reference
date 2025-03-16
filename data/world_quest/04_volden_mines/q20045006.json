@@ -36,35 +36,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Riese Extract",
-                        "item_id": 9450,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Dragon Fang",
-                        "item_id": 7763,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Velvet",
-                        "item_id": 7949,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Riese Extract",
+                                "item_id": 9450,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Dragon Fang",
+                                "item_id": 7763,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Velvet",
+                                "item_id": 7949,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

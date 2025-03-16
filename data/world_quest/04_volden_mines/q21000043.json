@@ -37,35 +37,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Superior Magick (Lowered Magick Defense)",
-                        "item_id": 16058,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Superior Magick",
-                        "item_id": 9202,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Dwindled Magick Defense",
-                        "item_id": 9284,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Superior Magick (Lowered Magick Defense)",
+                                "item_id": 16058,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Superior Magick",
+                                "item_id": 9202,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Dwindled Magick Defense",
+                                "item_id": 9284,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

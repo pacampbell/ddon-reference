@@ -35,7 +35,61 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Majesty Drapes",
+                                "item_id": 5546,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Jacket",
+                                "item_id": 5547,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Mushroom Saut\u00e9",
+                                "item_id": 1351,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Jacket",
+                                "item_id": 5547,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wanderer's Jacket",
+                                "item_id": 5333,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 22,
@@ -47,7 +101,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Healing Elixir",
+                                "item_id": 7552,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Quality Gala Extract",
+                                "item_id": 9361,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 25,
@@ -58,128 +139,45 @@
             "ap": 330,
             "jp": 0,
             "pp": 0,
-            "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "22",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Majesty Drapes",
-                        "item_id": 5546,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Strong Jacket",
-                        "item_id": 5547,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Mushroom Saut\u00e9",
-                        "item_id": 1351,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Strong Jacket",
-                        "item_id": 5547,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wanderer's Jacket",
-                        "item_id": 5333,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "22",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Healing Elixir",
-                        "item_id": 7552,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Quality Gala Extract",
-                        "item_id": 9361,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "25",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Black Tar",
-                        "item_id": 7841,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Black Tar",
-                        "item_id": 7841,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Meatloaf",
-                        "item_id": 9408,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "is_bounty": true,
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Tar",
+                                "item_id": 7841,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Black Tar",
+                                "item_id": 7841,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Meatloaf",
+                                "item_id": 9408,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

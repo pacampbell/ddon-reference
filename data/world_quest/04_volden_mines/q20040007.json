@@ -33,7 +33,32 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "30",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Torpor",
+                                "item_id": 9241,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 35,
@@ -45,7 +70,51 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "35",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Silver Ore",
+                                "item_id": 7857,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Giant Tough Pelt",
+                                "item_id": 7925,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silver Ore",
+                                "item_id": 7857,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 57,
@@ -57,102 +126,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "30",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Torpor",
-                        "item_id": 9241,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Silver Ore",
-                        "item_id": 7857,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Giant Tough Pelt",
-                        "item_id": 7925,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Silver Ore",
-                        "item_id": 7857,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "57",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Flame Crystal",
-                        "item_id": 7913,
-                        "amount": 1
-                    },
-                    {
-                        "name": "High Quality Magick Medal",
-                        "item_id": 7870,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lava Rock",
-                        "item_id": 7869,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "57",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Flame Crystal",
+                                "item_id": 7913,
+                                "amount": 1
+                            },
+                            {
+                                "name": "High Quality Magick Medal",
+                                "item_id": 7870,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lava Rock",
+                                "item_id": 7869,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,66 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Deft Gloves",
+                                "item_id": 5601,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Battle Arms",
+                                "item_id": 5602,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Battle Arms",
+                                "item_id": 5602,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ace Bracers",
+                                "item_id": 5390,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Interventive",
+                                "item_id": 9374,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 34,
@@ -43,7 +102,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dignity Boots",
+                                "item_id": 9713,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cathedral Bottoms",
+                                "item_id": 9723,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cathedral Bottoms",
+                                "item_id": 9723,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silver Silk Pareo",
+                                "item_id": 5640,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -55,163 +183,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "27",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Deft Gloves",
-                        "item_id": 5601,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Battle Arms",
-                        "item_id": 5602,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Battle Arms",
-                        "item_id": 5602,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ace Bracers",
-                        "item_id": 5390,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Interventive",
-                        "item_id": 9374,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "34",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dignity Boots",
-                        "item_id": 9713,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cathedral Bottoms",
-                        "item_id": 9723,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Cathedral Bottoms",
-                        "item_id": 9723,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Silver Silk Pareo",
-                        "item_id": 5640,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cracked Black Horn",
-                        "item_id": 7753,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cracked Black Horn",
+                                "item_id": 7753,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

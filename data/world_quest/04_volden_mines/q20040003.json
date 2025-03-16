@@ -34,7 +34,62 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "level": "23",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Murg Armguards",
+                                "item_id": 5280,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Wild Gauntlet",
+                                "item_id": 5281,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Recovery Decoction",
+                                "item_id": 9373,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Wild Gauntlet",
+                                "item_id": 5281,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Charm Bangles",
+                                "item_id": 5494,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 28,
@@ -46,91 +101,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "23",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Murg Armguards",
-                        "item_id": 5280,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Recovery Decoction",
-                        "item_id": 9373,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Wild Gauntlet",
-                        "item_id": 5281,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Recovery Decoction",
-                        "item_id": 9373,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Wild Gauntlet",
-                        "item_id": 5281,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Charm Bangles",
-                        "item_id": 5494,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Endurance Ring",
-                        "item_id": 8971,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Small Thief's Key",
-                        "item_id": 9429,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "level": "28",
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Endurance Ring",
+                                "item_id": 8971,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Small Thief's Key",
+                                "item_id": 9429,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

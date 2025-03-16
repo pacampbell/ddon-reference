@@ -4,14 +4,6 @@
     "quest_id": 26,
     "area_id": null,
     "guide_type": "MainQuest",
-    "npc_info": {
-        "id": 2102,
-        "name": "Alvar",
-        "stage": {
-            "name": "Pawn Cathedral",
-            "id": 78
-        }
-    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
@@ -83,5 +75,13 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "starting_npc": {
+        "id": 2102,
+        "name": "Alvar",
+        "stage": {
+            "name": "Pawn Cathedral",
+            "id": 78
+        }
+    }
 }

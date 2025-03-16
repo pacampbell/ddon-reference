@@ -4,7 +4,6 @@
     "quest_id": 2,
     "area_id": null,
     "guide_type": "MainQuest",
-    "npc_info": null,
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
@@ -54,5 +53,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "starting_npc": null
 }

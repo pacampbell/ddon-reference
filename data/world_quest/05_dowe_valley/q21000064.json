@@ -37,7 +37,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Burning)",
+                                "item_id": 16030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Burning)",
+                                "item_id": 16035,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Fire Barrier",
+                                "item_id": 16080,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 70,
@@ -49,66 +78,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Burning)",
-                        "item_id": 16030,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Burning)",
-                        "item_id": 16035,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Fire Barrier",
-                        "item_id": 16080,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "70",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Herculean Power (Burning)",
-                        "item_id": 16030,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Burning)",
-                        "item_id": 16035,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Burning)",
+                                "item_id": 16030,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Burning)",
+                                "item_id": 16035,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

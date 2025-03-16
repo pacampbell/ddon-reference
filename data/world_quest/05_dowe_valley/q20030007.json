@@ -33,7 +33,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Faerie Band",
+                                "item_id": 9568,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Outlaw's Mask",
+                                "item_id": 8522,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Outlaw's Mask",
+                                "item_id": 8522,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Freya Plate",
+                                "item_id": 5635,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 36,
@@ -45,7 +114,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Silver Chainmail",
+                                "item_id": 5666,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Goat Horn",
+                                "item_id": 7785,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silver Chainmail",
+                                "item_id": 5666,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -57,7 +174,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Sheer Protection",
+                                "item_id": 9289,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Sheer Intelligence",
+                                "item_id": 9293,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Relief Coin (Crimson)",
+                                "item_id": 13812,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -69,179 +213,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "31",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Faerie Band",
-                        "item_id": 9568,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Outlaw's Mask",
-                        "item_id": 8522,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Outlaw's Mask",
-                        "item_id": 8522,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Freya Plate",
-                        "item_id": 5635,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "36",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Silver Chainmail",
-                        "item_id": 5666,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Goat Horn",
-                        "item_id": 7785,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Silver Chainmail",
-                        "item_id": 5666,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Sheer Protection",
-                        "item_id": 9289,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Sheer Intelligence",
-                        "item_id": 9293,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Relief Coin (Crimson)",
-                        "item_id": 13812,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Troll's Blue Poisonous Moss",
-                        "item_id": 8001,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Thick Bone",
-                        "item_id": 7770,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Gold Thread",
-                        "item_id": 7743,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Troll's Blue Poisonous Moss",
+                                "item_id": 8001,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Thick Bone",
+                                "item_id": 7770,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Gold Thread",
+                                "item_id": 7743,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

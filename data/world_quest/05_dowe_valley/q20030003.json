@@ -33,7 +33,31 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Exquisite Fried Meat",
+                                "item_id": 9416,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 51,
@@ -45,7 +69,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sacred Blessed Cloth",
+                                "item_id": 7943,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -57,7 +110,37 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "comment": "Behemoth",
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dragon Fang",
+                                "item_id": 7763,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Thick Dragonscale",
+                                "item_id": 7929,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Behemoth Fang",
+                                "item_id": 7799,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -69,7 +152,37 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "comment": "Angules",
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dragon Horn",
+                                "item_id": 7754,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Smooth Dragonleather",
+                                "item_id": 7927,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angules Horn",
+                                "item_id": 7756,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 58,
@@ -81,148 +194,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Incineration",
-                        "item_id": 9258,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Exquisite Fried Meat",
-                        "item_id": 9416,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "51",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sacred Blessed Cloth",
-                        "item_id": 7943,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dragon Fang",
-                        "item_id": 7763,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Thick Dragonscale",
-                        "item_id": 7929,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Behemoth Fang",
-                        "item_id": 7799,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dragon Horn",
-                        "item_id": 7754,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Smooth Dragonleather",
-                        "item_id": 7927,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angules Horn",
-                        "item_id": 7756,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "58",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "comment": "Rare Species",
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bornite Ingot",
+                                "item_id": 7883,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Bornite Ingot",
+                                "item_id": 7883,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Throwing Knife",
+                                "item_id": 9398,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 37,
@@ -43,104 +91,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bornite Ingot",
-                        "item_id": 7883,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Bornite Ingot",
-                        "item_id": 7883,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Throwing Knife",
-                        "item_id": 9398,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "37",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Topaz Pendant",
-                        "item_id": 8977,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Giant Eyeball",
-                        "item_id": 7740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Topaz Pendant",
-                        "item_id": 8977,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Topaz Pendant",
+                                "item_id": 8977,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Topaz Pendant",
+                                "item_id": 8977,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

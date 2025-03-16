@@ -31,7 +31,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Hard Leather Cloth",
+                                "item_id": 7937,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Fortifier",
+                                "item_id": 9377,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wild Steak",
+                                "item_id": 9412,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 34,
@@ -43,7 +72,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Shock Warding",
+                                "item_id": 9320,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 39,
@@ -55,95 +113,35 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "30",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Hard Leather Cloth",
-                        "item_id": 7937,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Fortifier",
-                        "item_id": 9377,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Wild Steak",
-                        "item_id": 9412,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "34",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Shock Warding",
-                        "item_id": 9320,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "39",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Wanderer's Wrist Ring",
-                        "item_id": 9007,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Wanderer's Wrist Ring",
+                                "item_id": 9007,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

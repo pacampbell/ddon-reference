@@ -31,7 +31,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dignity Boots",
+                                "item_id": 9713,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Goddess Petticoat",
+                                "item_id": 9718,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 35,
@@ -39,79 +77,39 @@
             "xp": 1480,
             "gold": 1150,
             "rift": 160,
-            "ap": 0,
+            "ap": 590,
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "32",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dignity Boots",
-                        "item_id": 9713,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Goddess Petticoat",
-                        "item_id": 9718,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Holy Drain Warding",
-                        "item_id": 9323,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 3
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Holy Drain Warding",
+                                "item_id": 9323,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

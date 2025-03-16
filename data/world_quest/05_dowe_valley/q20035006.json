@@ -31,62 +31,60 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Innocence Cape",
-                        "item_id": 9763,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Officer's Mantle",
-                        "item_id": 9768,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Officer's Mantle",
-                        "item_id": 9768,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Innocence Cape",
+                                "item_id": 9763,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Officer's Mantle",
+                                "item_id": 9768,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

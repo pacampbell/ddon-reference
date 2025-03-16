@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bornite Ingot",
-                        "item_id": 7883,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bornite Ingot",
+                                "item_id": 7883,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,97 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Braided Hose",
+                                "item_id": 5683,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sentry Tights",
+                                "item_id": 8737,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sentry Tights",
+                                "item_id": 8737,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Bracers",
+                                "item_id": 5664,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sentry Tights",
+                                "item_id": 8737,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Special Bracers",
+                                "item_id": 5664,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 45,
@@ -43,125 +133,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Braided Hose",
-                        "item_id": 5683,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sentry Tights",
-                        "item_id": 8737,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sentry Tights",
-                        "item_id": 8737,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Special Bracers",
-                        "item_id": 5664,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sentry Tights",
-                        "item_id": 8737,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Special Bracers",
-                        "item_id": 5664,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "45",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mystery Organs",
-                        "item_id": 7744,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mystery Organs",
+                                "item_id": 7744,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

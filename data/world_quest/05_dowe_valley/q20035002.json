@@ -31,7 +31,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Loneliness Gloves",
+                                "item_id": 9663,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shiny Hands",
+                                "item_id": 9668,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwing Skull",
+                                "item_id": 9397,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Shiny Hands",
+                                "item_id": 9668,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cathedral Bottoms",
+                                "item_id": 9723,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 36,
@@ -43,7 +112,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Nature Pants",
+                                "item_id": 5685,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Mellow Ale",
+                                "item_id": 9413,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Braided Hose",
+                                "item_id": 5683,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Silver Chainmail",
+                                "item_id": 5666,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 57,
@@ -55,152 +172,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "33",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Loneliness Gloves",
-                        "item_id": 9663,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Shiny Hands",
-                        "item_id": 9668,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwing Skull",
-                        "item_id": 9397,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Shiny Hands",
-                        "item_id": 9668,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cathedral Bottoms",
-                        "item_id": 9723,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "36",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Nature Pants",
-                        "item_id": 5685,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Mellow Ale",
-                        "item_id": 9413,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Braided Hose",
-                        "item_id": 5683,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Silver Chainmail",
-                        "item_id": 5666,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "57",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Dark Metal",
-                        "item_id": 7887,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon Arming Points",
-                        "item_id": 8022,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Dark Metal",
+                                "item_id": 7887,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon Arming Points",
+                                "item_id": 8022,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

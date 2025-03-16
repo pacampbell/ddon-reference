@@ -33,7 +33,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ruby",
+                                "item_id": 7900,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ruby",
+                                "item_id": 7900,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Wine-Boiled Mushroom",
+                                "item_id": 9411,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -45,73 +83,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ruby",
-                        "item_id": 7900,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Ruby",
-                        "item_id": 7900,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Wine-Boiled Mushroom",
-                        "item_id": 9411,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Witch's Velvet",
-                        "item_id": 7949,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Grimoire",
-                        "item_id": 7808,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Smoky Quartz",
-                        "item_id": 7908,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Witch's Velvet",
+                                "item_id": 7949,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Grimoire",
+                                "item_id": 7808,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Smoky Quartz",
+                                "item_id": 7908,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

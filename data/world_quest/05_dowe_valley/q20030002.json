@@ -35,7 +35,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Freeze Warding",
+                                "item_id": 9317,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Freeze Warding",
+                                "item_id": 9317,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 40,
@@ -47,104 +95,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Freeze Warding",
-                        "item_id": 9317,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Freeze Warding",
-                        "item_id": 9317,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Strong Thread",
-                        "item_id": 7956,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Strong Thread",
-                        "item_id": 7956,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Grilled Mushroom",
-                        "item_id": 9415,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Strong Thread",
+                                "item_id": 7956,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Strong Thread",
+                                "item_id": 7956,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Grilled Mushroom",
+                                "item_id": 9415,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -31,7 +31,34 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Iron Thread",
+                                "item_id": 7955,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Amulet",
+                                "item_id": 9381,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Pickaxe",
+                                "item_id": 9401,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 28,
@@ -43,62 +70,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Iron Thread",
-                        "item_id": 7955,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Amulet",
-                        "item_id": 9381,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Pickaxe",
-                        "item_id": 9401,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "28",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Red Chromium",
-                        "item_id": 7879,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Angel's Amulet",
-                        "item_id": 9382,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lumber Knife",
-                        "item_id": 9402,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Red Chromium",
+                                "item_id": 7879,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Angel's Amulet",
+                                "item_id": 9382,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lumber Knife",
+                                "item_id": 9402,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

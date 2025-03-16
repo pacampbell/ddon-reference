@@ -31,7 +31,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Lapis Lazuli",
+                                "item_id": 7902,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Sprite's Amulet",
+                                "item_id": 9384,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Golem Magickal Rock",
+                                "item_id": 7866,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Lapis Lazuli",
+                                "item_id": 7902,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Forest Dwellers' Old Key",
+                                "item_id": 9066,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 56,
@@ -43,83 +91,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Lapis Lazuli",
-                        "item_id": 7902,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Sprite's Amulet",
-                        "item_id": 9384,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Golem Magickal Rock",
-                        "item_id": 7866,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Lapis Lazuli",
-                        "item_id": 7902,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Forest Dwellers' Old Key",
-                        "item_id": 9066,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "56",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Giant Single Pelt",
-                        "item_id": 9438,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Giant Eyeball",
-                        "item_id": 7740,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Rugged Leather",
-                        "item_id": 7924,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Single Pelt",
+                                "item_id": 9438,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Giant Eyeball",
+                                "item_id": 7740,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Rugged Leather",
+                                "item_id": 7924,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

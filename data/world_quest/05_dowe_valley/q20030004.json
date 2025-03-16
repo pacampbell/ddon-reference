@@ -34,7 +34,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Victory Bracers",
+                                "item_id": 5389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Soldier Arms",
+                                "item_id": 5392,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Soldier Arms",
+                                "item_id": 5392,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Custodian Arms",
+                                "item_id": 5604,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 32,
@@ -46,131 +115,60 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "30",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Victory Bracers",
-                        "item_id": 5389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Soldier Arms",
-                        "item_id": 5392,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Amulet",
-                        "item_id": 9383,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Soldier Arms",
-                        "item_id": 5392,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Custodian Arms",
-                        "item_id": 5604,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "32",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Custodian Arms",
-                        "item_id": 5604,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Resolver Arms",
-                        "item_id": 5605,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Resolver Arms",
-                        "item_id": 5605,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Iron Bracers",
-                        "item_id": 5393,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Custodian Arms",
+                                "item_id": 5604,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Resolver Arms",
+                                "item_id": 5605,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Resolver Arms",
+                                "item_id": 5605,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Iron Bracers",
+                                "item_id": 5393,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

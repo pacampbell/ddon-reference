@@ -36,35 +36,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "60",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Elfin Extract",
-                        "item_id": 9451,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Azure Dragonscale",
-                        "item_id": 7931,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Amber Dragonscale",
-                        "item_id": 7930,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Elfin Extract",
+                                "item_id": 9451,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Azure Dragonscale",
+                                "item_id": 7931,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Amber Dragonscale",
+                                "item_id": 7930,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

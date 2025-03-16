@@ -31,7 +31,66 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Soldier Arms",
+                                "item_id": 5392,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Silver Manicae",
+                                "item_id": 5394,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Silver Manicae",
+                                "item_id": 5394,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Stalwart Arms",
+                                "item_id": 5606,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Refreshing Remedy",
+                                "item_id": 9375,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -43,115 +102,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "35",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Soldier Arms",
-                        "item_id": 5392,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Silver Manicae",
-                        "item_id": 5394,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Silver Manicae",
-                        "item_id": 5394,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Stalwart Arms",
-                        "item_id": 5606,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Refreshing Remedy",
-                        "item_id": 9375,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Cracked Black Horn",
-                        "item_id": 7753,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Sand of Reminiscence",
-                        "item_id": 9441,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demonic Gem",
-                        "item_id": 7911,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Cracked Black Horn",
+                                "item_id": 7753,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sand of Reminiscence",
+                                "item_id": 9441,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demonic Gem",
+                                "item_id": 7911,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

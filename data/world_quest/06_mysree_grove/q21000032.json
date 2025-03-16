@@ -34,35 +34,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ash Quartz",
-                        "item_id": 11768,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Quality Gala Mushroom",
-                        "item_id": 7994,
-                        "amount": 7
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ash Quartz",
+                                "item_id": 11768,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Quality Gala Mushroom",
+                                "item_id": 7994,
+                                "amount": 7
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

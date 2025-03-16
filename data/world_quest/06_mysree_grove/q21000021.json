@@ -31,35 +31,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Black Iron Ingot",
-                        "item_id": 7878,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Cedar Wood",
-                        "item_id": 7967,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Superior Healing Remedy",
-                        "item_id": 7555,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Black Iron Ingot",
+                                "item_id": 7878,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Cedar Wood",
+                                "item_id": 7967,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Superior Healing Remedy",
+                                "item_id": 7555,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

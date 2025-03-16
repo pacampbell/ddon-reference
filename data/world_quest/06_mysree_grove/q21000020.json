@@ -33,35 +33,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ash Quartz",
-                        "item_id": 11768,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Crystal",
-                        "item_id": 7901,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Panacea",
-                        "item_id": 41,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ash Quartz",
+                                "item_id": 11768,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Crystal",
+                                "item_id": 7901,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Panacea",
+                                "item_id": 41,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

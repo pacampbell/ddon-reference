@@ -31,56 +31,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "63",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mysree Grove Medal",
-                        "item_id": 11004,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Aliment Extractant",
-                        "item_id": 8033,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Strong Gala Extract",
-                        "item_id": 9364,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Crest of Herculean Power (Shock)",
-                        "item_id": 16032,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Superior Magick (Shock)",
-                        "item_id": 16040,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Electrocution",
-                        "item_id": 9262,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mysree Grove Medal",
+                                "item_id": 11004,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Aliment Extractant",
+                                "item_id": 8033,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Strong Gala Extract",
+                                "item_id": 9364,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Herculean Power (Shock)",
+                                "item_id": 16032,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Superior Magick (Shock)",
+                                "item_id": 16040,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Electrocution",
+                                "item_id": 9262,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

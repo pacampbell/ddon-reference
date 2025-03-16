@@ -31,7 +31,45 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ruby",
+                                "item_id": 7900,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ruby",
+                                "item_id": 7900,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Sprite's Talisman",
+                                "item_id": 9390,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 41,
@@ -43,7 +81,55 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Rosewood",
+                                "item_id": 7966,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Rosewood",
+                                "item_id": 7966,
+                                "amount": 5
+                            },
+                            {
+                                "name": "Harvest Salad",
+                                "item_id": 9418,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Throwblast",
+                                "item_id": 52,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 55,
@@ -55,121 +141,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "40",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Ruby",
-                        "item_id": 7900,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Sprite's Talisman",
-                        "item_id": 9390,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Ruby",
-                        "item_id": 7900,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Sprite's Talisman",
-                        "item_id": 9390,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "41",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Rosewood",
-                        "item_id": 7966,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Rosewood",
-                        "item_id": 7966,
-                        "amount": 5
-                    },
-                    {
-                        "name": "Harvest Salad",
-                        "item_id": 9418,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Throwblast",
-                        "item_id": 52,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "55",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Writhing Live Bark",
-                        "item_id": 9442,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Ent Seed",
-                        "item_id": 7992,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Ent Branch",
-                        "item_id": 7971,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Writhing Live Bark",
+                                "item_id": 9442,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Ent Seed",
+                                "item_id": 7992,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Ent Branch",
+                                "item_id": 7971,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

@@ -34,7 +34,76 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Protective Cloth",
+                                "item_id": 7940,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Protective Cloth",
+                                "item_id": 7940,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Witch's Brew",
+                                "item_id": 9421,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Protective Cloth",
+                                "item_id": 7940,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Angel's Talisman",
+                                "item_id": 9388,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Authentication Orb (Rathalos)",
+                                "item_id": 13491,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 46,
@@ -46,125 +115,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "38",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Protective Cloth",
-                        "item_id": 7940,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Protective Cloth",
-                        "item_id": 7940,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Witch's Brew",
-                        "item_id": 9421,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Protective Cloth",
-                        "item_id": 7940,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Angel's Talisman",
-                        "item_id": 9388,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Authentication Orb (Rathalos)",
-                        "item_id": 13491,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "46",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Mithril Ore",
-                        "item_id": 7862,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Strong Gala Extract",
-                        "item_id": 9363,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Mithril Ore",
-                        "item_id": 7862,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Healing Remedy",
-                        "item_id": 7554,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Authentication Orb (Rathian)",
-                        "item_id": 13492,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 1
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mithril Ore",
+                                "item_id": 7862,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Strong Gala Extract",
+                                "item_id": 9363,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Mithril Ore",
+                                "item_id": 7862,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Healing Remedy",
+                                "item_id": 7554,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Authentication Orb (Rathian)",
+                                "item_id": 13492,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

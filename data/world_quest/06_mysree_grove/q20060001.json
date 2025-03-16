@@ -33,7 +33,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Electrocution",
+                                "item_id": 9262,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Superior Quality Gala Extract",
+                                "item_id": 9362,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Special Mushroom Dip",
+                                "item_id": 9419,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 43,
@@ -45,7 +74,36 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bluish Gray Dragonscale",
+                                "item_id": 7932,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Electrocution",
+                                "item_id": 9262,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
         },
         {
             "level": 43,
@@ -57,114 +115,54 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "36",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Electrocution",
-                        "item_id": 9262,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Superior Quality Gala Extract",
-                        "item_id": 9362,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Special Mushroom Dip",
-                        "item_id": 9419,
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bluish Gray Dragonscale",
-                        "item_id": 7932,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Electrocution",
-                        "item_id": 9262,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    }
-                ],
-                [
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
-            ]
-        },
-        {
-            "level": "43",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Bluish Gray Dragonscale",
-                        "item_id": 7932,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Crest of Electrocution",
-                        "item_id": 9262,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Demon's Talisman",
-                        "item_id": 9389,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ],
-                [
-                    {
-                        "name": "Superior Healing Elixir",
-                        "item_id": 7553,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Enhanced Lockpick",
-                        "item_id": 9403,
-                        "amount": 3
-                    },
-                    {
-                        "name": "Conqueror's Talisman",
-                        "item_id": 9387,
-                        "amount": 1
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Bluish Gray Dragonscale",
+                                "item_id": 7932,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Crest of Electrocution",
+                                "item_id": 9262,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Demon's Talisman",
+                                "item_id": 9389,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Superior Healing Elixir",
+                                "item_id": 7553,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Enhanced Lockpick",
+                                "item_id": 9403,
+                                "amount": 3
+                            },
+                            {
+                                "name": "Conqueror's Talisman",
+                                "item_id": 9387,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

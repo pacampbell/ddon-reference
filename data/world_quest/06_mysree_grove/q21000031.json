@@ -37,35 +37,33 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
-        }
-    ],
-    "parsed_rewards": [
-        {
-            "level": "65",
-            "type": "Select1",
-            "pools": [
-                [
-                    {
-                        "name": "Crest of Incineration (Decreased Fire Resist)",
-                        "item_id": 16061,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Incineration",
-                        "item_id": 9258,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Crest of Diminished Fire Resist",
-                        "item_id": 9268,
-                        "amount": 2
-                    },
-                    {
-                        "name": "Random Rewards",
-                        "amount": 2
-                    }
-                ]
+            "rewards": [
+                {
+                    "type": "Select1",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Incineration (Decreased Fire Resist)",
+                                "item_id": 16061,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Incineration",
+                                "item_id": 9258,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Crest of Diminished Fire Resist",
+                                "item_id": 9268,
+                                "amount": 2
+                            },
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
             ]
         }
     ]

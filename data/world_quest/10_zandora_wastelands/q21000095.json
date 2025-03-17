@@ -5,7 +5,7 @@
     "area_id": "ZandoraWastelands",
     "guide_type": "QuestUsefulForAdventure",
     "starting_npc": null,
-    "minimum_area_rank": 1,
+    "minimum_area_rank": 13,
     "repeatable": true,
     "quest_chain": {
         "previous_quest_id": 0,
@@ -22,17 +22,51 @@
     ],
     "variants": [
         {
-            "level": 0,
+            "level": 70,
             "minimum_item_rank": 0,
             "xp": 0,
-            "gold": 0,
-            "rift": 0,
+            "gold": 13854,
+            "rift": 300,
             "ap": 0,
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": []
+            "rewards": [
+				{
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Random Rewards",
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+			]
         }
     ],
+	"walkthrough": [
+		"Head to the Pit of Screams: Dangerous Area",
+		"",
+		"There are 9 enemies which spawn in the room",
+		"- LV70 Drake or Lindwurm x1 (Hidden Treasure) (1pp)",
+		"- LV70 Witch x3 (Hidden Treasure) (1pp each)",
+		"- LV70 Strix x5 (Hidden Treasure) (1pp each)",
+		"",
+		"The following loot bag treasure was observed being picked up by the player when fighting Lindwurm:",
+		"- 4500 gold x3",
+		"- 4500 gold x2, 2000 gold x1",
+		"- 4500 gold x2, 2000 gold x1, Premium Cocoa Powder x1, Magick-Tinged Bone x2",
+		"- 4500 gold x2, 2000 gold x1",
+		"- 4500 gold x2, Orb of Darkness x1, Magick-Tinged Bone x2",
+		"- 4500 gold x2, Premium Cocoa Powder x1",
+		"- 4500 gold x2, 2000 gold x1",
+		"- 4500 gold x2, Dragon Hide x2, Premium Cocoa Powder x1",
+		"- 4500 gold x2, Orb of Darkness x1, Magick-Tinged Bone x2",
+		"",
+		"The videos show 2 random rewards, but the video does not go to the reward box to collect them."
+	],
+	"references": ["https://www.youtube.com/watch?v=eIshsWb7Z7c", "https://www.youtube.com/watch?v=2TE7nIiz194"],
     "tags": []
 }

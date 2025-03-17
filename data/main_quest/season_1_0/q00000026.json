@@ -13,7 +13,12 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Riftstone",
+            "PawnAndPartyPlay",
+            "AdventureBroker",
+            "WorldQuests"
+        ]
     },
     "description": "Enter the realm of The Rift and obtain the raw  Riftstone Ore as proof of a Pawn contract.",
     "steps": [

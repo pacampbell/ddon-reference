@@ -13,7 +13,7 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": ["AreaMaster"]
     },
     "description": "In order to acquire a pawn, head to the Pawn Settlement and complete the challenge",
     "steps": [

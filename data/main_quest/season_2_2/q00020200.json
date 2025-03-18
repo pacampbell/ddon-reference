@@ -10,7 +10,9 @@
         "previous_quest_id": 20190,
         "next_quest_id": 20210
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 71}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

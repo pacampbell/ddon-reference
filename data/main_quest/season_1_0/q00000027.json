@@ -10,7 +10,10 @@
         "previous_quest_id": 6,
         "next_quest_id": 7
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 21},
+        {"type": "AreaRank", "param01": "MysreeForest", "param02": 5}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

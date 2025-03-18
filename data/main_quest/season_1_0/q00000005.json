@@ -10,7 +10,10 @@
         "previous_quest_id": 25,
         "next_quest_id": 6
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 14},
+        {"type": "AreaRank", "param01": "BreyaCoast", "param02": 3}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

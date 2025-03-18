@@ -10,10 +10,15 @@
         "previous_quest_id": 16,
         "next_quest_id": 28
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 43},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "The 3rd stage of Dragon Force Augmentation is unlocked"
+        ]
     },
     "description": "Offer the vessel of life you brought back  to the White Dragon.",
     "steps": [

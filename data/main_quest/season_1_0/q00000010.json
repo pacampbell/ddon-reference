@@ -10,7 +10,10 @@
         "previous_quest_id": 9,
         "next_quest_id": 11
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 35},
+        {"type": "AreaRank", "param01": "DoweValley", "param02": 5}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

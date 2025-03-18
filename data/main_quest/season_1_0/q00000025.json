@@ -10,10 +10,16 @@
         "previous_quest_id": 26,
         "next_quest_id": 5
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 10},
+        {"type": "ClearPersonalQuest", "param01": 60000016},
+        {"type": "ArisenTactics"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "The 1st stage of Dragon Force Augmentation is unlocked"
+        ]
     },
     "description": "Head towards Gritten Fort as Leo's envoy to deliver supplies to the Arisen Vanessa.",
     "steps": [

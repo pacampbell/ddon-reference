@@ -10,7 +10,10 @@
         "previous_quest_id": 15,
         "next_quest_id": 17
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 43},
+        {"type": "AreaRank", "param01": "BetlandPlains", "param02": 6}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

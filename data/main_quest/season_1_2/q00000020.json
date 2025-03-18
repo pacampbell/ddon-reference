@@ -1,6 +1,6 @@
 {
     "type": "Main",
-    "name": "The future entrusted to us",
+    "name": "The Future Entrusted to Us",
     "quest_id": 20,
     "area_id": null,
     "guide_type": "MainQuest",
@@ -10,7 +10,10 @@
         "previous_quest_id": 29,
         "next_quest_id": 21
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 48},
+        {"type": "AreaRank", "param01": "EasternZandora", "param02": 2}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

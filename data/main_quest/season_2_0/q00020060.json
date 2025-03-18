@@ -10,7 +10,10 @@
         "previous_quest_id": 20050,
         "next_quest_id": 20070
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 57},
+        {"type": "AreaRank", "param01": "NorthernBetlandPlains", "param02": 6}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

@@ -10,7 +10,10 @@
         "previous_quest_id": 12,
         "next_quest_id": 14
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 40},
+        {"type": "AreaRank", "param01": "MysreeGrove", "param02": 3}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

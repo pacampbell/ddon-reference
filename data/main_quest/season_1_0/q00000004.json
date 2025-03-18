@@ -10,7 +10,10 @@
         "previous_quest_id": 3,
         "next_quest_id": 26
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 5},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": ["AreaMaster"]

@@ -10,7 +10,11 @@
         "previous_quest_id": 20140,
         "next_quest_id": 20160
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 69},
+        {"type": "AreaRank", "param01": "BloodbaneIsle", "param02": 8}
+
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []

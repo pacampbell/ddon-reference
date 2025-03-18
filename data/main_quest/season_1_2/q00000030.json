@@ -10,10 +10,16 @@
         "previous_quest_id": 24,
         "next_quest_id": 20010
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 53},
+        {"type": "MainQuestCompleted", "param01": 24},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "The 4th stage of Dragon Force Augmentation is unlocked"
+        ]
     },
     "description": "Offer the Vessel of Life that has been filled with Diamantes' life force to the White Dragon",
     "steps": [],

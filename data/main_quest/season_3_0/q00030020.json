@@ -10,7 +10,10 @@
         "previous_quest_id": 30010,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 80},
+        {"type": "MainQuestCompleted", "param01": 30010}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -53,6 +56,11 @@
                                 "name": "Royal Crest Medal (Rathnite District)",
                                 "item_id": 18815,
                                 "amount": 5
+                            },
+                            {
+                                "name": "AP (Rathnite Foothills) 10 pts",
+                                "item_id": 13345,
+                                "amount": 50
                             }
                         ]
                     ]

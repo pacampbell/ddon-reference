@@ -1,0 +1,88 @@
+{
+    "type": "Main",
+    "name": "The Fate of All",
+    "quest_id": 30440,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30430,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 100
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30430
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Enter the Vortex of Stagnation that connects the dark world that appeared in skies of  Mergoda Abyss and Lestania,  and slay the Black Dragon.",
+    "steps": [
+        "Speak with Joseph",
+        "Speak with Klaus",
+        "Head towards the Zandora Wastelands where the  Vortex of Stagnation can be observed.",
+        "Head to Theodor in the Mergoda Ruins",
+        "Head towards the entrance to the  Mergoda Ruins: Royal Palace Level  and search for the Black Sword.",
+        "Defeat the enemy and destroy the Black Sword",
+        "Speak with Beatrix",
+        "Head towards the next location and search for the Black Sword.",
+        "Defeat the enemy and destroy the Black Sword",
+        "Speak with Theodor",
+        "Head to Lise and the others waiting in front of the Mergoda Security District.",
+        "Head to Travers in the White Dragon Temple",
+        "Clear \"The Great Dragon Crystal War:  The Sacrificed Capital\" by accepting the challenge from Travers.",
+        "Report to Travers",
+        "Rendezvous with Lise and the others waiting in  front of the Mergoda Security District.",
+        "Head towards the gate that appeared in the Mergoda Security District.",
+        "Defeat the encountered demons",
+        "Speak with Mysial",
+        "Plunge into the Vortex of Stagnation.",
+        "Report to Travers",
+        "Seek out the Black Dragon",
+        "Defeat the Black Dragon"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 1000000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Keystone to Ruin",
+                                "item_id": 24728,
+                                "amount": 10
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ring of Order",
+                                "item_id": 24741,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

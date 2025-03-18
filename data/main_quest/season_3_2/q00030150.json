@@ -1,0 +1,94 @@
+{
+    "type": "Main",
+    "name": "Rally the Troops",
+    "quest_id": 30150,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30140,
+        "next_quest_id": 30160
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 90
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30140
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Join in the preparation to reclaim the Royal Capital Megado",
+    "steps": [
+        "Head to the Lookout Castle",
+        "Speak with Gillian",
+        "Obtain information from Yuri at Eli Guard Tower",
+        "Search for the people who escaped from Megado",
+        "Defeat the encountered enemy",
+        "Speak with Kirsty",
+        "Search for the remaining people",
+        "Defeat the encountered enemy",
+        "Speak with the assisting soldier",
+        "Search for the remaining people",
+        "Defeat the encountered enemy",
+        "Speak with the assisting person",
+        "Head to Gillian waiting in Eli Guard Tower",
+        "Return to the Lookout Castle and report to Meirova"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 800000,
+            "gold": 90000,
+            "rift": 9000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Water Trinket (General)",
+                                "item_id": 21241,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Megadosys Plateau)",
+                                "item_id": 13347,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

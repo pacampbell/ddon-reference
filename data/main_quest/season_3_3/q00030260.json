@@ -1,0 +1,95 @@
+{
+    "type": "Main",
+    "name": "Hope's Bitter End",
+    "quest_id": 30260,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 1,
+        "name": "The White Dragon",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30250,
+        "next_quest_id": 30270
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 100
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30250
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Head to Firefall Mountain to help the prince confront the Evil Dragon",
+    "steps": [
+        "Head to the Lookout Castle",
+        "Speak with Meirova",
+        "Rendezvous with Cyril at  the entrance to Firefall Mountain",
+        "Head to the Evil Dragon's Roost on Firefall Mountain",
+        "Defeat the enemy encountered",
+        "Head for the Evil Dragon's Roost",
+        "Defeat the enemy encountered",
+        "Head for the Evil Dragon's Roost",
+        "Defeat the enemy encountered",
+        "Head for the Evil Dragon's Roost",
+        "Head towards the place where Nedo and the Evil Dragon reside",
+        "Defeat the Evil Dragon",
+        "Defeat the Evil Dragon who has regained its power",
+        "Speak with Nedo",
+        "Return to Lestania and report to the White Dragon"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 900000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Cloud Trinket (General)",
+                                "item_id": 21281,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Urteca Mountains)",
+                                "item_id": 18825,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

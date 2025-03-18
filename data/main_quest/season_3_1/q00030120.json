@@ -1,0 +1,88 @@
+{
+    "type": "Main",
+    "name": "The Secret Entrance",
+    "quest_id": 30120,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30110,
+        "next_quest_id": 30125
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 87
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30110
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Find the secret entrance that leads to the castle  for the operation to retake Lookout Castle",
+    "steps": [
+        "Head to Fort Thines",
+        "Seek out the Royal Passage around Lookout Castle",
+        "Explore the inside of the shrine",
+        "Defeat the enemy encountered",
+        "Rendezvous with Lise",
+        "Speak with Lise",
+        "Return to Fort Thines and report to Nedo",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 87,
+            "minimum_item_rank": 0,
+            "xp": 700000,
+            "gold": 80000,
+            "rift": 8000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flight Trinket (General)",
+                                "item_id": 18822,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Feryana Wilderness)",
+                                "item_id": 13346,
+                                "amount": 500
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

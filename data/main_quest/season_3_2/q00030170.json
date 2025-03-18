@@ -1,0 +1,96 @@
+{
+    "type": "Main",
+    "name": "An Omen of Destruction",
+    "quest_id": 30170,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30160,
+        "next_quest_id": 30180
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 92
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30160
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To save the weakening White Dragon, head to the Temple of Purification in search of a pseudo-dragon.",
+    "steps": [
+        "Speak with Joseph",
+        "Head to the Temple of Purification",
+        "Search for a pseudo-dragon",
+        "Examine the cause of Dragon Force imbalance",
+        "Defeat the demons disrupting the Dragon Force  (3 remaining)",
+        "Examine the location where the enemy was defeated",
+        "Defeat the demons disrupting the Dragon Force  (2 remaining)",
+        "Examine the location where the enemy was defeated",
+        "Defeat the demons disrupting the Dragon Force  (1 remaining)",
+        "Examine the location where the enemy was defeated",
+        "Ride on the revived Dragon Force and head to the Vortex of Stagnation",
+        "Proceed further and search for the pseudo-dragon",
+        "Defeat the encountered demons",
+        "Examine the location where the enemy was defeated",
+        "Head to Mayleaf's room in the White Dragon Temple",
+        "Report to Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 92,
+            "minimum_item_rank": 0,
+            "xp": 800000,
+            "gold": 90000,
+            "rift": 9000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Water Trinket (General)",
+                                "item_id": 21241,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Megadosys Plateau)",
+                                "item_id": 13347,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

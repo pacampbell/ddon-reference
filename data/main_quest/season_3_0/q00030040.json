@@ -1,0 +1,92 @@
+{
+    "type": "Main",
+    "name": "The Prince's Whereabouts",
+    "quest_id": 30040,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30030,
+        "next_quest_id": 30050
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 82
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30030
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Cross to Acre Selund and cooperate in the search  for Prince Nedo, the hope of the Liberation Army",
+    "steps": [
+        "Head to the hilltop of the Hidden Village Piremoth",
+        "Speak with Gillian",
+        "Rendezvous with Gillian in front of Fort Thines",
+        "To open a breach in the fortress,  destroy the cannons in front of the fortress",
+        "Raid Fort Thines",
+        "Defeat the War-Ready Gorecyclops in the castle",
+        "Unlock the door by moving the lever on the wall",
+        "Storm in through the open door",
+        "Eliminate the enemies in the hall",
+        "Speak with Meirova",
+        "Activate the Hall portcrystal",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 82,
+            "minimum_item_rank": 0,
+            "xp": 700000,
+            "gold": 70000,
+            "rift": 7000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Snow Trinket (General)",
+                                "item_id": 18731,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Rathnite Foothills)",
+                                "item_id": 13345,
+                                "amount": 1000
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

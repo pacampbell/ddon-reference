@@ -1,0 +1,96 @@
+{
+    "type": "Main",
+    "name": "The Battle of Lookout Castle",
+    "quest_id": 30130,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30125,
+        "next_quest_id": 30140
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 89
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30125
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "With diversions in place, enter the Royal Passage and reclaim Lookout Castle",
+    "steps": [
+        "Head to Fort Thines",
+        "Speak with Nedo",
+        "Head to the shrine using the Royal Family's Hidden Passage",
+        "Rendezvous with Gurdolin before the secret door",
+        "Storm into the Lookout Castle",
+        "Sweep away the enemies within Lookout Castle",
+        "Search for the remaining enemy",
+        "Eliminate the enemy",
+        "Find the remaining soldiers in the upper levels",
+        "Defeat the enemy obstructing your path",
+        "Defeat the War Master",
+        "Defeat the leader at the Lookout Castle",
+        "Speak with Nedo",
+        "Activate the Hall portcrystal",
+        "Speak with Nedo",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 89,
+            "minimum_item_rank": 0,
+            "xp": 700000,
+            "gold": 80000,
+            "rift": 8000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flight Trinket (General)",
+                                "item_id": 18822,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Feryana Wilderness)",
+                                "item_id": 13346,
+                                "amount": 500
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

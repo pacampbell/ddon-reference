@@ -1,0 +1,93 @@
+{
+    "type": "Main",
+    "name": "The Road to the Royal Capital",
+    "quest_id": 30140,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30130,
+        "next_quest_id": 30150
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 89
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30130
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Head to Lookout Castle to establish a foothold in the royal city of Megado",
+    "steps": [
+        "Speak with Meirova at Lookout Castle",
+        "Rendezvous with Gillian in the Enslaved Beasts' pen",
+        "Speak with Gillian",
+        "Navigate through the cave and head towards the small stone tower, Eli Guard Tower",
+        "Defeat the Demon Army occupying Eli Guard Tower",
+        "Defeat the remaining troops in the tower",
+        "Rendezvous with Gillian",
+        "Activate the portcrystal",
+        "Speak with Gillian",
+        "Welcome the arrival of Nedo and Meirova",
+        "Speak with Nedo",
+        "Speak with the Area Master in the basement of the guard tower",
+        "Return to Lestania"
+    ],
+    "variants": [
+        {
+            "level": 89,
+            "minimum_item_rank": 0,
+            "xp": 800000,
+            "gold": 90000,
+            "rift": 9000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Water Trinket (General)",
+                                "item_id": 21241,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Megadosys Plateau)",
+                                "item_id": 13347,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

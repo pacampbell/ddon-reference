@@ -1,0 +1,89 @@
+{
+    "type": "Main",
+    "name": "The Opposition",
+    "quest_id": 30060,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30050,
+        "next_quest_id": 30070
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 82
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30050
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Accompany Prince Nedo to the hideout of the bandit Bertha",
+    "steps": [
+        "Head to Fort Thines",
+        "Go after General Meirova heading to the Lakeside Grotto",
+        "Search for the bandit's hideout inside the cave",
+        "Defeat the enemy encountered",
+        "Proceed through the open door and search for the bandit's hideout",
+        "Speak with Sly",
+        "Speak with Meirova",
+        "Activate the Sub Portcrystals",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 82,
+            "minimum_item_rank": 0,
+            "xp": 700000,
+            "gold": 70000,
+            "rift": 7000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Snow Trinket (General)",
+                                "item_id": 18731,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Rathnite Foothills)",
+                                "item_id": 13345,
+                                "amount": 1000
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

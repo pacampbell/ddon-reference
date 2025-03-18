@@ -1,0 +1,89 @@
+{
+    "type": "Main",
+    "name": "The Dreadful Passage",
+    "quest_id": 30240,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30230,
+        "next_quest_id": 30250
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 97
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30230
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Follow the Prince to the mouth of Firefall Mountain",
+    "steps": [
+        "Head to the Lookout Castle",
+        "Head towards the foothills of the northern part of the Urteca Mountains,  towards Firefall Mountain.",
+        "Strike down the enemy that stands in your way.",
+        "Speak with Gillian",
+        "Head towards the entrance of Firefall Mountain,  beyond the foot of the mountain.",
+        "Speak with Gillian",
+        "Activate the portcrystal",
+        "Speak with Gurdolin",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 97,
+            "minimum_item_rank": 0,
+            "xp": 900000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Cloud Trinket (General)",
+                                "item_id": 21281,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Urteca Mountains)",
+                                "item_id": 18825,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,96 @@
+{
+    "type": "Main",
+    "name": "A Brief Dragon Force",
+    "quest_id": 30180,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30170,
+        "next_quest_id": 30190
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 92
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30170
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Receive a premonition of the awakening of  Spirit Dragon Cecily and head towards Phindym",
+    "steps": [
+        "Head to the Hollow of Beginnings  on the continent of Phindym",
+        "Speak with Adair Donnchadh",
+        "Heading to the Tarie Small Tower  in search of ancient Dragon Force",
+        "Search for Dragon Force and explore the interior",
+        "Defeat the encountered enemy",
+        "Proceed through the door and search for Dragon Force",
+        "Return to the Hollow of Beginnings and report to Gear\u00f3id",
+        "Head to Bloodbane Isle and speak with Bertrand",
+        "Head to the Sage Tower Ruins on the island",
+        "Search for Dragon Force and explore the interior",
+        "Defeat the encountered enemy",
+        "Proceed through the door and search for Dragon Force",
+        "Return to the Hollow of Beginnings and report to Gear\u00f3id",
+        "Observe the state of the Spirit Dragon",
+        "Speak with Gear\u00f3id",
+        "Return to Lestania"
+    ],
+    "variants": [
+        {
+            "level": 92,
+            "minimum_item_rank": 0,
+            "xp": 800000,
+            "gold": 90000,
+            "rift": 9000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Water Trinket (General)",
+                                "item_id": 21241,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Megadosys Plateau)",
+                                "item_id": 13347,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

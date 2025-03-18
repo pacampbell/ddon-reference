@@ -1,0 +1,84 @@
+{
+    "type": "Main",
+    "name": "The White Dragon's Arisen",
+    "quest_id": 30430,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30420,
+        "next_quest_id": 30440
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 100
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30420
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To deal with the vortex of stagnation that appeared in Lestania, find Fabio.",
+    "steps": [
+        "Head to Fabio's location in Jingen  in the Dowe Valley.",
+        "Head to Erte Deenan and search for the Black Sword.",
+        "Defeat the enemy and destroy the Black Sword",
+        "Speak with Ringdeel",
+        "Head to Gardnox Fortress and search for your comrades.",
+        "Rendezvous with Elliot",
+        "Search for the Black Sword and the Knights led by Heinz.",
+        "Defeat the enemy and destroy the Black Sword",
+        "Speak with Heinz",
+        "Head to the Temple of Purification,  where Gerd is acting as a decoy.",
+        "Head to the Vortex of Stagnation",
+        "Defeat the illusion of the Black Knight and destroy the Black Sword.",
+        "Speak with Gerd",
+        "Head towards Dreed Castle, where Vanessa leads the White Wings Arisen Corps.",
+        "Head to Travers in the White Dragon Temple",
+        "Clear \"The Great Dragon Crystal War:  Castle with No Lord\" by accepting the challenge from Travers.",
+        "Report to Travers",
+        "Head towards Scherzo waiting at Dreed Castle.",
+        "Head towards the location of the gate that  appeared in Dreed Castle.",
+        "Defeat the encountered demons",
+        "Speak with Vanessa",
+        "Plunge into the Vortex of Stagnation.",
+        "Defeat the Black Knight",
+        "Speak with Vanessa",
+        "Report to Joseph at the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 1000000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Keystone to Ruin",
+                                "item_id": 24728,
+                                "amount": 10
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

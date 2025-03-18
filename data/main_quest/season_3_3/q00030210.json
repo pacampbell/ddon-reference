@@ -1,0 +1,91 @@
+{
+    "type": "Main",
+    "name": "The Missing Prince",
+    "quest_id": 30210,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30200,
+        "next_quest_id": 30220
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 95
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30200
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Consult about Prince Nedo,  who disappeared after the recapture of Megado",
+    "steps": [
+        "Head to the Lookout Castle",
+        "Speak with Meirova",
+        "Rendezvous with the guide at the Megado Royal Palace Level",
+        "Head to the Megado Detached Palace",
+        "Head to the lowest level of the detached palace and search for Nedo",
+        "Defeat the enemy encountered",
+        "Examine the vicinity of the altar",
+        "Speak with Meirova",
+        "Activate the portcrystal located in the place after leaving the detached palace",
+        "Return to the Lookout Castle and speak with Bertha",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 95,
+            "minimum_item_rank": 0,
+            "xp": 900000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 5
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Unappraised Cloud Trinket (General)",
+                                "item_id": 21281,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Urteca Mountains)",
+                                "item_id": 18825,
+                                "amount": 500
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

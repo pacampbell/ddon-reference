@@ -1,0 +1,88 @@
+{
+    "type": "Main",
+    "name": "Breakdown of Reason",
+    "quest_id": 30410,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30270,
+        "next_quest_id": 30420
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 100
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30270
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Glimpse with the White Dragon the unsettling  events that are about to unfold in the world of order",
+    "steps": [
+        "Seek out the White Dragon",
+        "With the White Dragon, glimpse through the  dragon's eyes the destruction of order",
+        "Speak with Joseph",
+        "Head to Phindym with the Arisen Corps",
+        "Speak with Gear\u00f3id's envoy Musel",
+        "Gear\u00f3id awaits at Shadolean Great Temple",
+        "Rendezvous with Mordred in the Elan Water Grove",
+        "Head to the location of the Black Sword",
+        "Defeat the enemy and destroy the Black Sword",
+        "Report to Mordred",
+        "Head to Kingal Canyon and search for  the Black Sword",
+        "Defeat the enemy and destroy the Black Sword",
+        "Head towards the Hollow of Beginnings to obtain information about the new Black Sword",
+        "Head towards the Spirit Dragon's Roost and search for the Black Sword",
+        "Defeat the enemy and destroy the Black Sword",
+        "Speak with Adair Donnchadh",
+        "Head to the Shadolean Great Temple  that is being engulfed by a whirlpool",
+        "Return to Lestania and speak with the White Dragon",
+        "Speak with Joseph",
+        "Seek out Travers",
+        "Clear \"The Great Dragon Crystal War: The Resisting Land\" by accepting the challenge from Travers.",
+        "Report to Travers",
+        "Seek out the White Dragon",
+        "Head to the Shadolean Great Temple  where the Arisen Corps awaits",
+        "Head to the location where the dark energy within the Great Temple has shown signs of change",
+        "Defeat the encountered demons",
+        "Defeat the demons of the Vortex of Stagnation",
+        "Return to the Hollow of Beginnings",
+        "Return to Lestania and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 1000000,
+            "gold": 100000,
+            "rift": 10000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Keystone to Ruin",
+                                "item_id": 24728,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

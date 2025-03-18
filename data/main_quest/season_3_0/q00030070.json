@@ -1,0 +1,93 @@
+{
+    "type": "Main",
+    "name": "Prince Nedo",
+    "quest_id": 30070,
+    "area_id": null,
+    "guide_type": "MainQuest",
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 30060,
+        "next_quest_id": 30080
+    },
+    "order_conditions": [
+        {
+            "type": "MinimumLevel",
+            "param01": 84
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30060
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": [
+            "Prerequisite to unlock Special Skill Augmentation"
+        ]
+    },
+    "description": "Head to Dacreim Fortress to rescue the bandit  Bertha and assist in protecting Prince Nedo",
+    "steps": [
+        "Head to the bandit hideout in the Lakeside Grotto",
+        "Head to Rothgill and speak with Meirova",
+        "Head to the soldier before Dacreim Fortress",
+        "Defeat the obstructing Orcs to storm into Dacreim Fortress",
+        "Raid Dacreim Fortress",
+        "Eliminate the War-Ready Manticore and the War-Ready Grimwarg",
+        "Rescue Prince Nedo",
+        "Eliminate the enemy",
+        "Speak with Nedo",
+        "Return to Fort Thines and speak with Nedo again",
+        "Return to Lestania and report to the White Dragon"
+    ],
+    "variants": [
+        {
+            "level": 84,
+            "minimum_item_rank": 0,
+            "xp": 900000,
+            "gold": 70000,
+            "rift": 7000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Snow Trinket (General)",
+                                "item_id": 18731,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "AP (Rathnite Foothills)",
+                                "item_id": 13345,
+                                "amount": 1000
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 10
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

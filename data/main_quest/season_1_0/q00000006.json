@@ -68,7 +68,8 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=3075", "https://youtu.be/DdMNhVnZJww?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1500"],
     "starting_npc": {
         "id": 4,
         "name": "Joseph",

@@ -15,7 +15,9 @@
         {"type": "AreaRank", "param01": "BreyaCoast", "param02": 3}
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Notes on Main Quest Boss Monster"
+        ],
         "contents": []
     },
     "description": "They headed for the Ark and disappeared. We're trying to track down the survey team.",
@@ -61,7 +63,8 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2121"],
     "starting_npc": {
         "id": 5,
         "name": "Leo",
@@ -69,5 +72,11 @@
             "name": "Audience Chamber",
             "id": 3
         }
-    }
+    },
+    "walkthrough": [
+        "Boss Battle: Fight against 5x skeleton enemies",
+        "- Level 16 Large Deformed Skeleton x2 (Alchemized Skeleton)",
+        "- Level 15 Refined Skeleton x2 (Skeleton)",
+        "- Level 15 Refined Skeleton Mage x1 (Skeleton Mage)"
+    ]
 }

@@ -64,7 +64,7 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

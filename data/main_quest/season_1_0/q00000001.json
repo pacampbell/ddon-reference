@@ -12,7 +12,16 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "WhatAreTheArisen",
+            "BasicAbilities",
+            "BasicTacticsFighter",
+            "BasicTacticsPriest",
+            "BasicTacticsHunter",
+            "BasicTacticsShieldSage",
+            "CustomSkills",
+            "UsingTheMinimap"
+        ],
         "contents": [
             "MainMenu"
         ]
@@ -36,6 +45,7 @@
             "rewards": []
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1150"],
     "starting_npc": null
 }

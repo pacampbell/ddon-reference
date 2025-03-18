@@ -15,8 +15,15 @@
         {"type": "Solo"}
     ],
     "unlocks": {
-        "tutorials": [],
-        "contents": ["AreaMaster"]
+        "tutorials": [
+            "AreaMasters",
+            "AreaRankAndLevelingUp",
+            "SuspendResumeGame"
+        ],
+        "contents": [
+            "AreaMaster",
+            "Hidell Plains area rank 2"
+        ]
     },
     "description": "In order to acquire a pawn, head to the Pawn Settlement and complete the challenge",
     "steps": [
@@ -59,7 +66,8 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2262"],
     "starting_npc": {
         "id": 6,
         "name": "Iris",

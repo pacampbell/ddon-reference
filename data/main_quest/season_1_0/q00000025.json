@@ -16,8 +16,13 @@
         {"type": "ArisenTactics"}
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "BloodOrbEnemies",
+            "ArisensFurtherGrowthAndDragonForceAugmentation",
+            "ShortcutBar"
+        ],
         "contents": [
+            "BloodOrbEnemies",
             "The 1st stage of Dragon Force Augmentation is unlocked"
         ]
     },
@@ -85,7 +90,8 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/7DyCw9123D0?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1433", "https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1425"],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

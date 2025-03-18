@@ -111,7 +111,7 @@
             "ap": 220,
             "jp": 0,
             "pp": 0,
-            "is_bounty": false,
+            "is_bounty": true,
             "rewards": [
                 {
                     "type": "Select1",

@@ -12,7 +12,13 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "TutorialGuide",
+            "MainQuests",
+            "TheWhiteDragonTemple",
+            "ChatLog",
+            "BasicGrowth"
+        ],
         "contents": []
     },
     "description": "Talk to the important people in the Audience Chamber Learn about your position and mission as an Arisen",
@@ -53,6 +59,7 @@
             ]
         }
     ],
-    "tags": [],
+    "tags": ["Season 1.0"],
+    "references": ["https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1642"],
     "starting_npc": null
 }

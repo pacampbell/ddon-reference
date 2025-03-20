@@ -1,0 +1,65 @@
+{
+    "type": "Personal",
+    "name": "Living with the Partner Pawn",
+    "quest_id": 60200000,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 4726,
+        "name": "Julia",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Together with the Main Pawn obtained through the Servants' Pledge, receive an introduction to a new resting place in the Relay Station District from Julia, Barton's daughter.",
+    "steps": [
+        "Julia will show you to your room.",
+        "Go into your room",
+        "Speak with Julia in your room",
+        "Set up the Partner Pawn from your room's Riftstone.",
+        "Speak with Barton's daughter Julia again",
+        "Give a gift to the Partner Pawn you have set",
+        "Report to Barton's daughter Julia"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 650,
+            "gold": 400,
+            "rift": 40,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Riftstone Shard",
+                                "item_id": 10133,
+                                "amount": 3
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

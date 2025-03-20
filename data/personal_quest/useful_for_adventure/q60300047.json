@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "To the Bitterblack Maze",
+    "quest_id": 60300047,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 548,
+        "name": "Lyka1",
+        "stage": {
+            "name": "Cave Harbor",
+            "id": 5
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "SoloWithPawns"
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 26
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to a story from Lyka about a certain place",
+    "steps": [
+        "Hear more from Lyka"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 15000,
+            "gold": 15000,
+            "rift": 1500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

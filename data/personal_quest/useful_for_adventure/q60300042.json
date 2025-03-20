@@ -1,0 +1,52 @@
+{
+    "type": "Personal",
+    "name": "Restored Medal of the Royal Family \uff13",
+    "quest_id": 60300042,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Received the honor of restoring the royal family",
+    "steps": [
+        "Talk about your contribution to the war effort.",
+        "Receive the congratulatory honors again."
+    ],
+    "variants": [
+        {
+            "level": 95,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Mantle of the Shoulder Armor",
+                                "item_id": 21151,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

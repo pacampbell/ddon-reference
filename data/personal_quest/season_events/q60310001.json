@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Ghost Wail Collection: Quest of Overlord",
+    "quest_id": 60310001,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Listen to the story of the strange skeleton that  appeared in the tavern and cooperate with its  ambitions by fulfilling its requests.",
+    "steps": [
+        "Use Photo Mode to take a commemorative  photo with the three people",
+        "Report to Skeleton",
+        "Obtain \"Gem of Devastation\"",
+        "Deliver to the skeleton"
+    ],
+    "variants": [
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 10000,
+            "gold": 10000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Unappraised Flight Trinket (King)",
+                                "item_id": 18823,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

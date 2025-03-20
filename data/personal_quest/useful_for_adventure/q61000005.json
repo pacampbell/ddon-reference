@@ -1,0 +1,46 @@
+{
+    "type": "Personal",
+    "name": "Unending Darkness",
+    "quest_id": 61000005,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Ask for details about the malevolent presence  sensed by the White Dragon",
+    "steps": [
+        "Speak with the White Dragon",
+        "Seek out Travers"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

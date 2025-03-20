@@ -1,0 +1,58 @@
+{
+    "type": "Personal",
+    "name": "Megadosys Plateau Liberation Army Support",
+    "quest_id": 60320002,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Choose a support mission",
+        "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 585> (need: <SQDI DNUM>)",
+        "Head to investigate <STG 1006>",
+        "Defeat the found enemy",
+        "Report the investigation to <NPC 585>",
+        "Head to defeat the enemy forces that appeared in <SPOT 1048>",
+        "Defeat the enemy",
+        "Report to the client, <NPC 585>"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Spirit Purifier Stone",
+                                "item_id": 21248,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

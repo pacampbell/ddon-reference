@@ -1,0 +1,52 @@
+{
+    "type": "Personal",
+    "name": "Fighter Tactics Trial: A Stubborn Shield",
+    "quest_id": 60000003,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basic tactics of Fighter, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with the White Knight at the base of the cliff before the Training Chapel",
+        "Speak with Wilson in the Training Chapel",
+        "Attack an enemy with Onslaught",
+        "Break the enemy's guard stance with your charged attack",
+        "Guard and block when the enemy attacks",
+        "Defeat the remaining Goblins in the inner sanctum",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

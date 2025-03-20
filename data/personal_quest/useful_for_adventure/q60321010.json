@@ -1,0 +1,76 @@
+{
+    "type": "Personal",
+    "name": "Urteca Mountains Trial: A Trickle in the Darkness",
+    "quest_id": 60321010,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Confirm the details of the conversation  with <NPC 4512>",
+        "Check with <NPC 4512> about the  monsters nesting in Firefall Mountain",
+        "Search for traces of dark forces",
+        "Defeat the appeared demons",
+        "Search for clues",
+        "Continue searching for traces of dark forces",
+        "Defeat the appeared demons",
+        "Search for clues",
+        "Continue searching for traces of dark forces",
+        "Defeat the appeared demons",
+        "Check where the dark forces flow out",
+        "Talk to Area Master <NPC 4512> about the circumstances"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Volcanic Tuff",
+                                "item_id": 21258,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Volcanic Mountain Ash",
+                                "item_id": 21259,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

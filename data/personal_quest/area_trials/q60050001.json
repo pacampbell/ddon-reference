@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Dowe Valley Trial: Echoes",
+    "quest_id": 60050001,
+    "area_id": "DoweValley",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1508,
+        "name": "Hayden",
+        "stage": {
+            "name": "Singing Winds Inn",
+            "id": 48
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "DoweValley",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the problems in Dowe Valley, investigate the Howling Wind Cave and uncover the true nature of the echoing song.",
+    "steps": [
+        "Head towards the Howling Wind Cave to confirm the true nature of the song.",
+        "Defeat the the enemy who is the origin of the song",
+        "Report to Hayden in Jingen village"
+    ],
+    "variants": [
+        {
+            "level": 33,
+            "minimum_item_rank": 0,
+            "xp": 4120,
+            "gold": 3450,
+            "rift": 370,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

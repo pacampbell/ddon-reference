@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Eastern Zandora Trial: The Hollow Visitors",
+    "quest_id": 60211000,
+    "area_id": "EasternZandora",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1811,
+        "name": "Nadia",
+        "stage": {
+            "name": "Golden Tankard Inn",
+            "id": 61
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "EasternZandora",
+            "param02": 12
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to solve the problem in Eastern Zandora, investigate Weeping Corpse Ground and defeat the encountered demons",
+    "steps": [
+        "Head to Weeping Corpse Ground  and find monsters",
+        "Defeat the found demons",
+        "Report to Nadia in Zoma village"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 1970,
+            "gold": 1072,
+            "rift": 137,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

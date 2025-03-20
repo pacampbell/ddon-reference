@@ -1,0 +1,74 @@
+{
+    "type": "Personal",
+    "name": "Feryana Wilderness Trial: Investigate Sealed Evil",
+    "quest_id": 60319010,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Confirm the details of the conversation  with <NPC 3050>",
+        "Check with <NPC 3050> about the ancient monsters",
+        "Talk to <NPC 3053> in <STG 635>",
+        "Ask <NPC 3> in <STG 201> to decipher it",
+        "Wait for decryption to complete at <STG 635> \u3010Wait time: 3 minutes (real time)\u3011",
+        "Listen to the decoding results from <NPC 3>  in <STG 635>",
+        "Talk to <NPC 2954> who is in <STG 1001> for decryption",
+        "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 2954> (need: <SQDI DNUM>)",
+        "Head to <STG 1063> and ask  <NPC 600> for the results",
+        "Report how to release it to <NPC 3050>"
+    ],
+    "variants": [
+        {
+            "level": 88,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Underworld Drop",
+                                "item_id": 17915,
+                                "amount": 2
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Misleading Twig",
+                                "item_id": 17916,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

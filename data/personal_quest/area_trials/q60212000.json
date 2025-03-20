@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Mergoda Ruins Trial: The Fall of Salon",
+    "quest_id": 60212000,
+    "area_id": "MergodaRuins",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 2301,
+        "name": "Beatrix",
+        "stage": {
+            "name": "Mergoda Residential Area",
+            "id": 237
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "MergodaRuins",
+            "param02": 12
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To resolve the issue in the Mergoda Ruins, search for the fanatics and eliminate them before they become a threat.",
+    "steps": [
+        "Head to the Mergodan Residence and  search for fanatics",
+        "Defeat the found enemy",
+        "Report to Beatrix in the Mergoda Residential Area"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 2962,
+            "gold": 1121,
+            "rift": 145,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

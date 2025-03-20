@@ -1,0 +1,57 @@
+{
+    "type": "Personal",
+    "name": "Elan Water Grove Trial: Tidings of Turmoil",
+    "quest_id": 60214006,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the Area Master and try to solve the problem",
+    "steps": [
+        "Go to the rescue site and ask for information",
+        "Investigate the location of the attack",
+        "Sweep away monsters in the middle of a melee",
+        "Defeat the attacking unknown demons",
+        "Tell <NPC 4758>  about the rebuilding of the investigation team",
+        "Report to the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 15350,
+            "gold": 4618,
+            "rift": 600,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Premium Fragrant Wood",
+                                "item_id": 15948,
+                                "amount": 10
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

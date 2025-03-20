@@ -1,0 +1,68 @@
+{
+    "type": "Personal",
+    "name": "The Ruler Overwhelmed by Power",
+    "quest_id": 60320011,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Hear the details of the incident from the  requester and tackle the problem. Note: You cannot abandon this quest.",
+    "steps": [
+        "Get an order for the World Quest and head to  <SPOT 1102>",
+        "Defeat the Ifrit",
+        "Report to <NPC 3200>"
+    ],
+    "variants": [
+        {
+            "level": 95,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Low-Grade Reinforced Armor",
+                                "item_id": 21227,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Padding",
+                                "item_id": 21229,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Fireproof Cord",
+                                "item_id": 21230,
+                                "amount": 1
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,46 @@
+{
+    "type": "Personal",
+    "name": "The Treasure Lying in the Frontier 2",
+    "quest_id": 60200007,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "On Isaac's request, head to either the Crypt of Murmurs, the Dried Well by the Tower, Misty Illusion Terrace, or Scorching Blocked Passage, and examine the innermost treasure chest.",
+    "steps": [
+        "Examine the deepest treasure chest in one designated dungeon.",
+        "Report to Isaac"
+    ],
+    "variants": [
+        {
+            "level": 62,
+            "minimum_item_rank": 0,
+            "xp": 1922,
+            "gold": 1022,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,56 @@
+{
+    "type": "Personal",
+    "name": "The High Scepter's Heir",
+    "quest_id": 60300044,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the figure carrying a mysterious weapon",
+    "steps": [
+        "Hear what Craig has to say in the Craft Room",
+        "Head to \"Small Cave Tombs\" and stand-in for Craig",
+        "Investigate a mysterious person",
+        "Defeat the enemy encountered",
+        "Speak to the person who assisted",
+        "Return to the Craft Room and report to Craig"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 10000,
+            "gold": 10000,
+            "rift": 3000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Scimitar",
+                                "item_id": 20031,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

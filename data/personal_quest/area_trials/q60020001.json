@@ -1,0 +1,68 @@
+{
+    "type": "Personal",
+    "name": "Breya Coast Request: Troubled Shores 1",
+    "quest_id": 60020001,
+    "area_id": "HidellPlains",
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 1013,
+        "name": "Seneka0",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "comment": "A Servant's Pledge",
+            "type": "MainQuestCompleted",
+            "param01": 26
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the issues on the Breya Coast, meet with Area Master O'Neill and address the problems plaguing the coastline.",
+    "steps": [
+        "Speak with O'Neill in Rotes village",
+        "Raise your area rank in Breya Coast to 2",
+        "Head to the hidden beach and look for the stranger.",
+        "Defeat the ruffians that appeared in the Hidden Beach",
+        "Report to O'Neill in Rotes village"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 700,
+            "gold": 1000,
+            "rift": 200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Riftstone Shard",
+                                "item_id": 10133,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

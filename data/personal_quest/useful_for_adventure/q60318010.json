@@ -1,0 +1,74 @@
+{
+    "type": "Personal",
+    "name": "Rathnite Foothills Trial: Detect the Demon Army's Attack",
+    "quest_id": 60318010,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Check Endale's message",
+        "Check on the new movements of the demon army",
+        "Head to <STG 1001> and gather information  about the Demon Army",
+        "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 2953> (need: <SQDI DNUM>)",
+        "Hear about the Demon Army's attack plan  from <NPC 2953>",
+        "Search for Demon Army messengers  in designated locations",
+        "Defeat the Demon Army's messenger soldiers",
+        "Collect the command document lost by the messenger",
+        "Show instructions to <NPC 2953>",
+        "Tell <NPC 2900>  about the Demon Army's attack plan"
+    ],
+    "variants": [
+        {
+            "level": 83,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Rathnite District)",
+                                "item_id": 18815,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Pyroclastic Rock",
+                                "item_id": 17883,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Volcanic Glass",
+                                "item_id": 18649,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

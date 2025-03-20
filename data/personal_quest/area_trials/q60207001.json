@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Deenan Woods Trial: A Roar of Absolute Zero",
+    "quest_id": 60207001,
+    "area_id": "DeenanWoods",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 4508,
+        "name": "Rondejeel0",
+        "stage": {
+            "name": "Secret Bowmakers Home",
+            "id": 105
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "DeenanWoods",
+            "param02": 14
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Resolve the Deenan Woods problem by exploring the Heavenly Terrace and defeating the Wyrm",
+    "steps": [
+        "Head to Heavenly Terrace and find the Wyrm",
+        "Defeat the Wyrm",
+        "Report to Rondejeel in the Secret Bowmaker's Home"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 11850,
+            "gold": 4486,
+            "rift": 580,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

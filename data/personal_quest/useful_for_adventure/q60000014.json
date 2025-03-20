@@ -1,0 +1,66 @@
+{
+    "type": "Personal",
+    "name": "Reliable Source of Information",
+    "quest_id": 60000014,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 1013,
+        "name": "Seneka",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Check that the news provided by Seneka, through Iris's introduction, about Lestania is true",
+    "steps": [
+        "Check Lestania News",
+        "Speak with Seneka again",
+        "Go to Tel and hear what Alfred has to say",
+        "Check the available World Quests in Area Information",
+        "Speak to Alfred again",
+        "Complete a World Quest in Hidell Plains",
+        "Report back to Alfred",
+        "Report back to Seneka",
+        "Go back to the Audience Chamber and report to Iris"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 2000,
+            "gold": 1500,
+            "rift": 200,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Blessing Vest",
+                                "item_id": 8582,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

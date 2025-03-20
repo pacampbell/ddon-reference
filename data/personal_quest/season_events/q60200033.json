@@ -1,0 +1,56 @@
+{
+    "type": "Personal",
+    "name": "Summer! Beach Festival ()",
+    "quest_id": 60200033,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Let's go for a vacation wearing swimwear",
+    "steps": [
+        "Equip swimwear",
+        "Report to Ray",
+        "Head to the limited-time beach on Breya Coast",
+        "Speak to Ray",
+        "Take a commemorative photo with Ray and Samantha in swimwear",
+        "Speak to Ray"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 8000,
+            "gold": 8000,
+            "rift": 1500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Golden Palm Fiber",
+                                "item_id": 18893,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

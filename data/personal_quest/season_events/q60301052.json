@@ -1,0 +1,68 @@
+{
+    "type": "Personal",
+    "name": "Emergency! Not Enough Candy! (1)",
+    "quest_id": 60301052,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Help collect candy for the Halloween party",
+    "steps": [
+        "Obtain \"Halloween Petit Muffin\"",
+        "Show Angelo the acquired petit muffin",
+        "Deliver \"Halloween Petit Muffin\" x20",
+        "Consult with Fabio",
+        "Report Fabio's story to Angelo",
+        "Head to Hidell Catacombs with Angelo",
+        "Rendezvous with Angelo",
+        "Search for Ghosts that drop petit muffins",
+        "Hunt the Ghosts",
+        "Return to Angelo's location",
+        "Speak to Angelo"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 1031,
+            "gold": 1031,
+            "rift": 1031,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Halloween Petit Muffin",
+                                "item_id": 23545,
+                                "amount": 50
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Mischievous Ghost Costume",
+                                "item_id": 23397,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

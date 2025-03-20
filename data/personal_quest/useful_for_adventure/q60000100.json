@@ -1,0 +1,45 @@
+{
+    "type": "Personal",
+    "name": "Further Signs of Misfortune",
+    "quest_id": 60000100,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Follow the guidance of the White Dragon to undertake the mission of destroying the Wyrmking's Ring.",
+    "steps": [
+        "Speak with Joseph in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

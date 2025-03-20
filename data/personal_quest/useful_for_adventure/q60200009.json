@@ -1,0 +1,46 @@
+{
+    "type": "Personal",
+    "name": "The Treasure Lying in the Frontier",
+    "quest_id": 60200009,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "On Isaac's request, head to either the Waterfall Echo Cavern, Fungal Colony Caves, Heavenly Terrace, Forsaken Well, or Secret Proving Ground, and investigate the treasure chest at the deepest part.",
+    "steps": [
+        "Examine the innermost treasure chest in one designated dungeon.",
+        "Report to Isaac"
+    ],
+    "variants": [
+        {
+            "level": 65,
+            "minimum_item_rank": 0,
+            "xp": 1970,
+            "gold": 1072,
+            "rift": 137,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

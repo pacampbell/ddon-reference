@@ -1,0 +1,74 @@
+{
+    "type": "Personal",
+    "name": "Megadosys Plateau Trial: Material Procurement",
+    "quest_id": 60320000,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the Area Master and try to solve the problem",
+    "steps": [
+        "Talk to a man who is familiar with artillery",
+        "Collect artillery materials from various locations  (3 remaining)",
+        "Collect artillery materials from various locations  (2 remaining)",
+        "Collect artillery materials from various locations  (1 remaining)",
+        "Show the materials collected to <NPC 592>",
+        "Head to <SPOT 1087>",
+        "Use the created cannon to defeat the enemy",
+        "Speak with <NPC 592>",
+        "Talk to Area Master <NPC 3200> about the circumstances"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Rose Megadosys",
+                                "item_id": 21214,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Giant Caterpillar",
+                                "item_id": 21215,
+                                "amount": 1
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

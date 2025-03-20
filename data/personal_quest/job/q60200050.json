@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Spirit Lancer Tactics Trial: A Spirit Lance",
+    "quest_id": 60200050,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basic tactics of Spirit Lancer, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Attack an enemy with Thrust",
+        "Activate Aid",
+        "Avoid an enemy attack with Scar Move",
+        "Activate boost with Spirit Gauge",
+        "Cling to the enemy in the inner sanctum and attack using Iolar Thrust",
+        "Reveal the Secret Core with Aid",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

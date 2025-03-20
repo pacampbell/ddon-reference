@@ -1,0 +1,70 @@
+{
+    "type": "Personal",
+    "name": "High Scepter Tactics Trial: A Magick Sword",
+    "quest_id": 60300400,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basics of High Scepter, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Attack an enemy with Quadruple Slash",
+        "Activate Will Marker",
+        "Activate Ruin Shot",
+        "Avoid an attack with Dodge Counter Slash",
+        "Attack a marked foe with Magick Glyph to grow it",
+        "Accumulate magick",
+        "Move away from an enemy with Back Leap",
+        "Attack an enemy with Ruin Blade",
+        "Move toward an enemy with Return Shift",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Scimitar",
+                                "item_id": 20031,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Conqueror's Periapt",
+                                "item_id": 42,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

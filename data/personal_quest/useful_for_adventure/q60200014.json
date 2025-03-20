@@ -1,0 +1,59 @@
+{
+    "type": "Personal",
+    "name": "Road to Mastery",
+    "quest_id": 60200014,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 1028,
+        "name": "Archibald",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Talk to Archibald at the White Dragon Temple about the new growth element, Play Points",
+    "steps": [
+        "Switch to Play Point Acquisition Mode on the Job Change Screen",
+        "Report to Archibald in the White Dragon Temple",
+        "Head to <STG 870> in order to acquire Play Points",
+        "Defeat enemies to earn 1 or more Play Points",
+        "Report to Archibald in the White Dragon Temple",
+        "Hear about the Play Point Shop from Renton",
+        "Check out the Play Point Shop lineup",
+        "Report to Renton"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 3337,
+            "gold": 1154,
+            "rift": 150,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

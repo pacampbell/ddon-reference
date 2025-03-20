@@ -1,0 +1,58 @@
+{
+    "type": "Personal",
+    "name": "Skill Augmentation Seeker Trial: III",
+    "quest_id": 60200118,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To learn new Seeker tactics, challenge the trial of the Job Master",
+    "steps": [
+        "Head to \"<STG 841>\"",
+        "Head to the location of the first test",
+        "Defeat the enemy at the first test",
+        "Head to the location of the second test",
+        "Defeat the enemy at the second test",
+        "Head to the location of the final test",
+        "Defeat the enemy at the final test",
+        "Receive teachings at the home of the master"
+    ],
+    "variants": [
+        {
+            "level": 50,
+            "minimum_item_rank": 0,
+            "xp": 3400,
+            "gold": 820,
+            "rift": 100,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Dwindled Defense",
+                                "item_id": 9280,
+                                "amount": 4
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

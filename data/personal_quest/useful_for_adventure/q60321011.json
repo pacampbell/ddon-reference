@@ -1,0 +1,67 @@
+{
+    "type": "Personal",
+    "name": "Magick Called to the Deepest Depths",
+    "quest_id": 60321011,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Head to the location of the monster that  manipulates dark magic",
+        "Defeat the demons",
+        "Report to <NPC 4512>, the Area Master"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Ancient Wheat Ear",
+                                "item_id": 21274,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Dragon Temple's Blessed Cloth",
+                                "item_id": 21276,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Sacred Flame Steel",
+                                "item_id": 21278,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

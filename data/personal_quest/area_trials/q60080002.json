@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Betland Plains Trial: Pursuing the Orc Company",
+    "quest_id": 60080002,
+    "area_id": "BetlandPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1905,
+        "name": "Scherzo",
+        "stage": {
+            "name": "Gritten Fort",
+            "id": 66
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "BetlandPlains",
+            "param02": 9
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the problem in the Betland Plains, locate the War Demons' Hideout and defeat Gesomu the War Demon, the commander of the unit.",
+    "steps": [
+        "Search for the War Demons' Hideout and find Gesomu the War Demon.",
+        "Wipe out threatening enemies",
+        "Report to Scherzo in Gritten Fort"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 5300,
+            "gold": 5500,
+            "rift": 525,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

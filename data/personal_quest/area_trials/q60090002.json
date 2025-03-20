@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Northern Betland Plains Trial: The Rampaging War Dragon",
+    "quest_id": 60090002,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1701,
+        "name": "Sunny",
+        "stage": {
+            "name": "Sleeping Wolf Inn",
+            "id": 53
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "NorthernBetlandPlains",
+            "param02": 9
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the Dragon Unit Behemoth that appeared in the Gardnox Patrol Area to solve the issue in the Northern Betland Plains.",
+    "steps": [
+        "Go to the Gardnox Patrol Area and spot the Dragon Unit",
+        "Defeat the Dragon Unit",
+        "Report to Sunny in Drawan village"
+    ],
+    "variants": [
+        {
+            "level": 51,
+            "minimum_item_rank": 0,
+            "xp": 6250,
+            "gold": 7000,
+            "rift": 620,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

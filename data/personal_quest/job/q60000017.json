@@ -1,0 +1,61 @@
+{
+    "type": "Personal",
+    "name": "Priest Tactics Trial: Break Attack",
+    "quest_id": 60000017,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the fundamentals of combat, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Cling to the enemy and successfully use Ride Holy Aura",
+        "Cling to the enemy and successfully use Ride Heal Aura",
+        "Use Resist to endure the enemy's swing (yellow icon) while climbing them",
+        "While climbing the enemy, jump off during their knock-away attack (red icon)",
+        "Attack and enrage the enemy",
+        "Reveal the enemy's secret core during their enraged state with Heal Aura",
+        "Shake the enemy while they are enraged and tire them out!",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 5,
+            "minimum_item_rank": 0,
+            "xp": 650,
+            "gold": 800,
+            "rift": 150,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Superior Healing Potion",
+                                "item_id": 35,
+                                "amount": 3
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

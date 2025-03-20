@@ -1,0 +1,56 @@
+{
+    "type": "Personal",
+    "name": "Vocation Emblem Trial: Hunter",
+    "quest_id": 60300404,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Undertake the trial to obtain  the Emblem Stone from Gilstan",
+    "steps": [
+        "Head to <STG 550> and speak with <NPC 2004>",
+        "Head to the innermost part and begin the trial",
+        "Defeat all enemies within time without dying",
+        "Report to <NPC 2004> within the chapel",
+        "Receive Emblem Stone from <NPC 2000> in <STG 510>",
+        "Report to <NPC 1029> in <STG 200>"
+    ],
+    "variants": [
+        {
+            "level": 70,
+            "minimum_item_rank": 0,
+            "xp": 15350,
+            "gold": 4618,
+            "rift": 600,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Emblem Stone (Hunter)",
+                                "item_id": 18145,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

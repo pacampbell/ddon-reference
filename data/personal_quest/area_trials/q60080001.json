@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Betland Plains Trial: The Shadowy Survey Mission",
+    "quest_id": 60080001,
+    "area_id": "BetlandPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1905,
+        "name": "Scherzo",
+        "stage": {
+            "name": "Gritten Fort",
+            "id": 66
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "BetlandPlains",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the problem in the Betland Plains, head to the Betland underground crypt and investigate the presence of threats.",
+    "steps": [
+        "Investigate if there is a threat emerging in the Betland Cemetery",
+        "Defeat the enemy threat",
+        "Report to Scherzo in Gritten Fort"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 4700,
+            "gold": 4800,
+            "rift": 410,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

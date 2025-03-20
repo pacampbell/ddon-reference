@@ -1,0 +1,73 @@
+{
+    "type": "Personal",
+    "name": "Strange Creature Investigation",
+    "quest_id": 60300001,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get a request on how to expand your room  to include Mandragora Breeding.",
+    "steps": [
+        "Talk to <NPC 1024> about guests",
+        "Head to <STG 211>  to greet the invited guests.",
+        "Go outside and search for Mandragora at  <AREA 1>",
+        "Check the situation",
+        "Use \"Beckon\" emote",
+        "Find out more about Mandragora",
+        "Check the situation again",
+        "Use \"Welcome\" emote",
+        "Report to the requester"
+    ],
+    "variants": [
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 10000,
+            "gold": 10000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Mandragora Potted Plant 1 (Normal)",
+                                "item_id": 17370,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Mandragora Potted Plant 2 (Passport)",
+                                "item_id": 17371,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Soft Soil",
+                                "item_id": 17959,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

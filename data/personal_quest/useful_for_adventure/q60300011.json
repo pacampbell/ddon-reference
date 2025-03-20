@@ -1,0 +1,63 @@
+{
+    "type": "Personal",
+    "name": "Shining Within a Loyal Heart",
+    "quest_id": 60300011,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 2102,
+        "name": "Alvar",
+        "stage": {
+            "name": "Arisens Room",
+            "id": 348
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To investigate the mysterious power sensed by the  pawn, go to The Rift with Alvar.",
+    "steps": [
+        "Hear more from Alvar",
+        "Have Alvar take you to The Rift",
+        "Rendezvous with Alvar at the Rift",
+        "Conduct research on pawns' new abilities",
+        "Defeat the enemy encountered",
+        "Reopen the investigation.",
+        "Defeat the enemy encountered",
+        "Reopen the investigation.",
+        "Defeat the enemy encountered",
+        "Examine the traces of the enemy's departure",
+        "Speak to Alvar",
+        "Hear from Alvar about the pawn's new abilities"
+    ],
+    "variants": [
+        {
+            "level": 15,
+            "minimum_item_rank": 0,
+            "xp": 7500,
+            "gold": 7500,
+            "rift": 1500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

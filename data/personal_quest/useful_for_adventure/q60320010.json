@@ -1,0 +1,75 @@
+{
+    "type": "Personal",
+    "name": "Megadosys Plateau Trial: Shadow of Heresy",
+    "quest_id": 60320010,
+    "area_id": null,
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Check the contents of the story from  <NPC 3200>",
+        "Ask <NPC 3200> for details regarding  aberrations and corrupted entities.",
+        "Head to the area experiencing the anomalies",
+        "Defeat the appeared demons",
+        "Continue to the area experiencing the anomalies",
+        "Defeat the appeared demons",
+        "Continue to the area experiencing the anomalies",
+        "Defeat the appeared demons",
+        "Find out where the problem is",
+        "Defeat the appeared demons",
+        "Talk to Area Master <NPC 3200> about the circumstances"
+    ],
+    "variants": [
+        {
+            "level": 95,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Phlogopite",
+                                "item_id": 21216,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Highland Akadama",
+                                "item_id": 21217,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

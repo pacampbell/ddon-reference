@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Eastern Zandora Trial: The Scorching Menace",
+    "quest_id": 60110001,
+    "area_id": "EasternZandora",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1811,
+        "name": "Nadia",
+        "stage": {
+            "name": "Golden Tankard Inn",
+            "id": 61
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "EasternZandora",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the issues in Eastern Zandora, destroy the Geo Golem that have appeared in the ruins of East Zandora.",
+    "steps": [
+        "Discover the Geo Golem in the East Zandora Ruins.",
+        "Destroy the Geo Golem.",
+        "Report to Nadia in Zoma village"
+    ],
+    "variants": [
+        {
+            "level": 47,
+            "minimum_item_rank": 0,
+            "xp": 5900,
+            "gold": 6500,
+            "rift": 570,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

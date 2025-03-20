@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Northern Betland Plains Trial: The Crypt's Shadow",
+    "quest_id": 60090001,
+    "area_id": "NorthernBetlandPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1701,
+        "name": "Sunny",
+        "stage": {
+            "name": "Sleeping Wolf Inn",
+            "id": 53
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "NorthernBetlandPlains",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the underground catacombs for usable equipment and check for monsters to address the issues in Northern Betland Plains.",
+    "steps": [
+        "Examine the underground crypt for any enemies or bones.",
+        "Defeat the demon threat",
+        "Report to Sunny in Drawan village"
+    ],
+    "variants": [
+        {
+            "level": 45,
+            "minimum_item_rank": 0,
+            "xp": 5500,
+            "gold": 5600,
+            "rift": 540,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

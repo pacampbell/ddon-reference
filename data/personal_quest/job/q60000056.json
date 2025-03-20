@@ -1,0 +1,51 @@
+{
+    "type": "Personal",
+    "name": "Seeking the Master Element Archer",
+    "quest_id": 60000056,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Visit Job Master Ringdeel to request  approval for the Element Archer's trial",
+    "steps": [
+        "Visit Ringdeel in Deenan Woods"
+    ],
+    "variants": [
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 2500,
+            "gold": 1000,
+            "rift": 300,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Demon's Amulet",
+                                "item_id": 9383,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

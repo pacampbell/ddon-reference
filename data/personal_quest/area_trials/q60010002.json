@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Hidell Plains Trial: The Cause of Calamity",
+    "quest_id": 60010002,
+    "area_id": "HidellPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1313,
+        "name": "Alfred",
+        "stage": {
+            "name": "Black Grape Inn",
+            "id": 25
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "HidellPlains",
+            "param02": 9
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To resolve the issue in the Hidell Plains, investigate the Hidell Catacombs Depths and deal with the cause of the epidemic.",
+    "steps": [
+        "Search for the source of the plague in the depths of the Hidell Catacombs.",
+        "Defeat the the enemy, the source of calamity",
+        "Report to Alfred in Tel village"
+    ],
+    "variants": [
+        {
+            "level": 30,
+            "minimum_item_rank": 0,
+            "xp": 4000,
+            "gold": 3000,
+            "rift": 350,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,46 @@
+{
+    "type": "Personal",
+    "name": "Whirls of Dragon Force",
+    "quest_id": 60000101,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To resolve Joseph's concerns, prepare to head towards the Vortex of Dragon Force.",
+    "steps": [
+        "Meet Joseph in the audience chamber",
+        "Return to Seneka and listen to the explanation."
+    ],
+    "variants": [
+        {
+            "level": 55,
+            "minimum_item_rank": 0,
+            "xp": 0,
+            "gold": 0,
+            "rift": 0,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

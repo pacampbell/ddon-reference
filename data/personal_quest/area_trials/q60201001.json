@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Hidell Plains Trial: The Ark's Guardian",
+    "quest_id": 60201001,
+    "area_id": "HidellPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1313,
+        "name": "Alfred",
+        "stage": {
+            "name": "Black Grape Inn",
+            "id": 25
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "HidellPlains",
+            "param02": 14
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the source of the vibrations coming  from the Ark's deeper layers to resolve the  issue in Hidell Plains.",
+    "steps": [
+        "Head to The Ark to investigate the  cause of the vibration",
+        "Defeat the demons that caused the vibrations",
+        "Report to Alfred in Tel village"
+    ],
+    "variants": [
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 3600,
+            "gold": 900,
+            "rift": 120,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

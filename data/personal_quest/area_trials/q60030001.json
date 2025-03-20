@@ -1,0 +1,67 @@
+{
+    "type": "Personal",
+    "name": "Mysree Forest Trial: An Ancient Emissary",
+    "quest_id": 60030001,
+    "area_id": "MysreeForest",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1412,
+        "name": "Patricia",
+        "stage": {
+            "name": "White Deer Inn",
+            "id": 24
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "MysreeForest",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the issues in the Mysree Forest, defeat the Ent that resides in the Ancient Place of Rituals.",
+    "steps": [
+        "Head towards the Ancient Place of Rituals and confirm the presence of the Ent.",
+        "Wipe out threatening enemies",
+        "Report to Patricia in Lynwood village"
+    ],
+    "variants": [
+        {
+            "level": 18,
+            "minimum_item_rank": 0,
+            "xp": 2000,
+            "gold": 1850,
+            "rift": 300,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Riftstone Shard",
+                                "item_id": 10133,
+                                "amount": 3
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

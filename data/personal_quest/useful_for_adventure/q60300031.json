@@ -1,0 +1,61 @@
+{
+    "type": "Personal",
+    "name": "Rescue the Genius Commander",
+    "quest_id": 60300031,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Receive a request from the client regarding the  restoration of the royal family.",
+    "steps": [
+        "Head to the dungeon to check the condition of <NPC 582>",
+        "Hear more details about the situation from <NPC 582>",
+        "Report to the concerned <NPC 3103>",
+        "Review the restoration support information from  <NPC 582>,  who has set off for Prince Nedo."
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Bright Purple Steel Ingot",
+                                "item_id": 17894,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

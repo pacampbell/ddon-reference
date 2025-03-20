@@ -1,0 +1,62 @@
+{
+    "type": "Personal",
+    "name": "The Arisen's Abilities",
+    "quest_id": 60000012,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Go speak to Archibald in the Relay District to further Fabio's training.",
+    "steps": [
+        "Seek out Fabio",
+        "Introduce yourself to Archibald at the Relay Station District",
+        "Equip a Skill via the Change Vocation/Skills menu at Archibald",
+        "Speak with Archibald again",
+        "Report back to Fabio",
+        "Accept a quest from the Quest Board",
+        "Complete a quest from the Quest Board",
+        "Report the quest clear to Fabio",
+        "Check the \"Rewards\" of the Storage Box",
+        "Report back to Fabio",
+        "Purchase the designated item from the Online Shop for free.",
+        "Report back to Fabio"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 450,
+            "gold": 300,
+            "rift": 100,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Leather Cloak",
+                                "item_id": 5192,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

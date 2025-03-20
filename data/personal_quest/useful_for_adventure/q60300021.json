@@ -1,0 +1,62 @@
+{
+    "type": "Personal",
+    "name": "To the Heroic Spirit Sleeping Path Feryana District",
+    "quest_id": 60300021,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the way to release slumbering Dragon Force",
+    "steps": [
+        "Head to <STG 1148>  and check with <NPC 610>  for details",
+        "Head to <STG 1143> and speak with <NPC 610>",
+        "Complete the Trial of the spirits in <STG 1143>  and search for the stone statue",
+        "Return to <STG 451> and report to <NPC 3108>",
+        "Perform Special Skill Augmentation with  <NPC 1> at  <STG 201>"
+    ],
+    "variants": [
+        {
+            "level": 90,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Feryana District)",
+                                "item_id": 18819,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Scroll of the Starry Sky",
+                                "item_id": 17893,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

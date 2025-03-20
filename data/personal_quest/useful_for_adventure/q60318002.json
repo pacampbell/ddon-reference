@@ -1,0 +1,58 @@
+{
+    "type": "Personal",
+    "name": "Rathnite Foothills Liberation Army Support",
+    "quest_id": 60318002,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Choose a support mission",
+        "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 656> (need: <SQDI DNUM>)",
+        "Head to <STG 1092> for reconnaissance",
+        "Defeat the found enemy",
+        "Report the investigation to <NPC 656>",
+        "Head to investigate the enemy forces that  appeared in <SPOT 1037>",
+        "Defeat the enemy",
+        "Report to the client, <NPC 656>"
+    ],
+    "variants": [
+        {
+            "level": 81,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Animal Hunter Stone",
+                                "item_id": 17900,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,51 @@
+{
+    "type": "Personal",
+    "name": "Strange Happening at Guardknock Fortress",
+    "quest_id": 60350000,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Hear about the new threat from Isaac",
+    "steps": [
+        "Hear more from Isaac"
+    ],
+    "variants": [
+        {
+            "level": 105,
+            "minimum_item_rank": 0,
+            "xp": 125000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Custom-Made Service Ticket",
+                                "item_id": 19367,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

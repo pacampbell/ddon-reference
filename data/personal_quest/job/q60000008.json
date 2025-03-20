@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Sorcer Tactics Trial: A Magick Attack",
+    "quest_id": 60000008,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basic tactics of Sorcerer, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Attack the enemy 3 times with your Magick Ball",
+        "Attack the enemy 3 times with Magick Trap",
+        "Charge a spell and reposition yourself when it is fully charged",
+        "Charge a spell with lock-on switched off",
+        "Increase spell power while chanting",
+        "Cling to the enemy in the deeper chamber and use Magic Cracker",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

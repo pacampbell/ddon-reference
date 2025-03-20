@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Feryana Wilderness Rescue Request",
+    "quest_id": 60319003,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Head out to fulfill the comrades'  request for reinforcements",
+        "Head to the site to defeat the enemy",
+        "Defeat the enemy forces",
+        "Report to the client, <NPC 596>"
+    ],
+    "variants": [
+        {
+            "level": 86,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Giant Killer Stone",
+                                "item_id": 17905,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

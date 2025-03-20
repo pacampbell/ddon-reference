@@ -1,0 +1,86 @@
+{
+    "type": "Personal",
+    "name": "Story of Mayleaf and the Songbird",
+    "quest_id": 60200201,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Meet with Mayleaf and hear what she has to say.",
+    "steps": [
+        "Meet with Mayleaf and hear her story.",
+        "Head to \"<SPOT 561>\" of southern Deenan Woods",
+        "Investigate inside <SPOT 561>",
+        "Defeat the encountered demons",
+        "Rendezvous with Lise at \"<SPOT 556>\"",
+        "Speak with Rondejeel",
+        "Head to \"<SPOT 475>\"",
+        "Investigate inside <SPOT 475>",
+        "Defeat the enemy encountered",
+        "Further investigation",
+        "Defeat the enemy encountered",
+        "Further investigation",
+        "Defeat Mogok and its subordinates",
+        "Return to the Audience Chamber and report to Joseph"
+    ],
+    "variants": [
+        {
+            "level": 77,
+            "minimum_item_rank": 0,
+            "xp": 33350,
+            "gold": 10079,
+            "rift": 1550,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Power+",
+                                "item_id": 11719,
+                                "amount": 4
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Herculean Power",
+                                "item_id": 9198,
+                                "amount": 4
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Magick+",
+                                "item_id": 11720,
+                                "amount": 4
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Crest of Superior Magick",
+                                "item_id": 9202,
+                                "amount": 4
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

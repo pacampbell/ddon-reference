@@ -1,0 +1,58 @@
+{
+    "type": "Personal",
+    "name": "Element Archer Tactics Trial: A Magick Bow",
+    "quest_id": 60000009,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basic tactics of Element Archer, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Capture 2 enemies within Magick Eye: Seeker",
+        "Attack an enemy with Seeker Arrow",
+        "Get to the optimum distance away from enemies while using Magick Eye: Seeker, and attack them for more than 3 seconds.",
+        "Fully charge a Seeker arrow, and loose it at an enemy.",
+        "Lock onto an ally with Magick Eye: True Aid.",
+        "Recover an ally's health with True Aid arrows.",
+        "Recover your health with Healing Shroud.",
+        "Attack an enemy with Front Kick.",
+        "Cling to the enemy in the deeper chamber and use Invigorating Magick Arrow.",
+        "While the enemy is enraged, reveal its secret core with Magick Eye: True Aid",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

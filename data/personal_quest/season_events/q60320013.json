@@ -1,0 +1,59 @@
+{
+    "type": "Personal",
+    "name": "Berserk In the Flow of Causality...",
+    "quest_id": 60320013,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Ask Wilson at the White Dragon Temple about the recent appearance of the object",
+    "steps": [
+        "Search for the Bandit in the Abandoned House Cellar",
+        "Defeat the encountered brigand",
+        "Get items dropped by thieves",
+        "Report to Wilson about the \"Behelit\"  you have obtained",
+        "Ask Gregory for information about \"Behelit\"",
+        "Say \"\u9df9\u306e\u56e3\" (Band of the Hawk) near the  Dragon's Portcrystal in the White Dragon Temple.",
+        "Say \"\u9df9\u306e\u56e3\" (Band of the Hawk)  in the central square",
+        "Say \"\u9df9\u306e\u56e3\" (Band of the Hawk)  in the Tavern",
+        "Speak to Gregory again"
+    ],
+    "variants": [
+        {
+            "level": 5,
+            "minimum_item_rank": 0,
+            "xp": 1989,
+            "gold": 1989,
+            "rift": 1989,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Tapestry - Band of the Falcon",
+                                "item_id": 21717,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

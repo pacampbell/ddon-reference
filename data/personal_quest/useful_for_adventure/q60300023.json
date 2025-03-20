@@ -1,0 +1,59 @@
+{
+    "type": "Personal",
+    "name": "To the Heroic Spirit Sleeping Path Urteca District",
+    "quest_id": 60300023,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the way to release slumbering Dragon Force",
+    "steps": [
+        "Head to <STG 1149>  to find out more about spirits",
+        "Talk to <NPC 707>",
+        "Head to <STG 1155> from <NPC 707>",
+        "Release all the monuments of the Heroic Spirits in  <STG 1155>",
+        "Conquer the Trial of the Great Heroic Spirits",
+        "Search for the Great Trial Monument",
+        "Report to <NPC 3352>",
+        "Receive the Special Skill Augmentation from the  White Dragon in the audience chamber"
+    ],
+    "variants": [
+        {
+            "level": 100,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Urteca District)",
+                                "item_id": 18826,
+                                "amount": 5
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

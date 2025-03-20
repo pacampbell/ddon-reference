@@ -1,0 +1,52 @@
+{
+    "type": "Personal",
+    "name": "Custom-Made Workshop 3: Ultimate Arms Synthesis",
+    "quest_id": 60300004,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get taught about Ultimate Synthesis of Arms at  the Custom-made Arms workshop",
+    "steps": [
+        "Ultimate Synthesis a \u26054 equipment 1 time",
+        "Tell <NPC 1047>  the results of Ultimate Synthesis"
+    ],
+    "variants": [
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 10000,
+            "gold": 10000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Craig's Worn-out Pants",
+                                "item_id": 19562,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

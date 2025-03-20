@@ -1,0 +1,70 @@
+{
+    "type": "Personal",
+    "name": "Expose the Dark Side to the One Operating behind the Scenes",
+    "quest_id": 60300032,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Receive a request from the client regarding the  restoration of the royal family.",
+    "steps": [
+        "Speak with <NPC 586>",
+        "Speak with <NPC 681>",
+        "Relax in your room",
+        "Look outside the room.",
+        "Find out who the voice is",
+        "Destroy enemies standing in your way",
+        "Escape from <STG 473>",
+        "Destroy enemies standing in your way",
+        "Speak with ??????",
+        "Head to the meeting place",
+        "Speak with ??????",
+        "Speak with Shem",
+        "Speak with ??????"
+    ],
+    "variants": [
+        {
+            "level": 94,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 3
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Flame Mushroom",
+                                "item_id": 21218,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Summer! Beach Festival ()",
+    "quest_id": 60200034,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Let's get a golden swimsuit",
+    "steps": [
+        "Obtain Golden Palm Fiber",
+        "Report to Samantha",
+        "Inquire details from Gregory in the Shopping District",
+        "Report to Samantha"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 8000,
+            "gold": 8000,
+            "rift": 1500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Golden Palm Fiber",
+                                "item_id": 18893,
+                                "amount": 5
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

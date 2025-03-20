@@ -1,0 +1,54 @@
+{
+    "type": "Personal",
+    "name": "Warrior Tactics Trial: A Strong Sword",
+    "quest_id": 60000010,
+    "area_id": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basic tactics of Warrior, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with Wilson in the Training Chapel",
+        "Attack an enemy with Hack",
+        "Attack an enemy with Aerial Hack",
+        "Attack an enemy with Savage Lash",
+        "Charge the revenge gauge with Brace.",
+        "Attack an enemy with Savage Lash with a full Revenge Gauge",
+        "Cling to the Cyclops in the deeper chamber and use Inverse Slash.",
+        "Defeat the Cyclops",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

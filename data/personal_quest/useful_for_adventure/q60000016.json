@@ -1,0 +1,64 @@
+{
+    "type": "Personal",
+    "name": "Crafted Token of the Heart",
+    "quest_id": 60000016,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": {
+        "id": 6,
+        "name": "Iris",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Accepting Iris's request, use the crafting abilities of Pawns to produce items.",
+    "steps": [
+        "Head to the Craft Room in the Temple Central Square",
+        "Speak with Sonia in the Craft Room",
+        "Obtain a Bronze Ore and a Baby Herb",
+        "Speak to Sonia and craft a \"Zephyr Ring\"",
+        "Speak to Sonia again",
+        "Deliver the Zephyr Ring to Mayleaf",
+        "Report back to Iris in the Audience Chamber"
+    ],
+    "variants": [
+        {
+            "level": 8,
+            "minimum_item_rank": 0,
+            "xp": 1800,
+            "gold": 1200,
+            "rift": 180,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Traveler's Tights",
+                                "item_id": 8662,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

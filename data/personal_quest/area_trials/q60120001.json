@@ -1,0 +1,64 @@
+{
+    "type": "Personal",
+    "name": "Mergoda Ruins Trial: The Price of the Secret Arts",
+    "quest_id": 60120001,
+    "area_id": "MergodaRuins",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 2301,
+        "name": "Beatrix",
+        "stage": {
+            "name": "Mergoda Residential Area",
+            "id": 237
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "MainQuestCompleted",
+            "param01": 23
+        },
+        {
+            "type": "AreaRank",
+            "param01": "MergodaRuins",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the problem in the ruins of Mergoda, head to the Elixir Refining Chamber and prevent the enemy alchemist's plot.",
+    "steps": [
+        "Head to the Elixir Refining Chamber to confirm the presence of enemy spellcasters.",
+        "Wipe out threatening enemies",
+        "Report to Beatrix in the Mergoda Residential Area"
+    ],
+    "variants": [
+        {
+            "level": 53,
+            "minimum_item_rank": 0,
+            "xp": 6300,
+            "gold": 7000,
+            "rift": 630,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

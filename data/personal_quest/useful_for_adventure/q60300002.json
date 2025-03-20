@@ -1,0 +1,63 @@
+{
+    "type": "Personal",
+    "name": "Custom-Made Workshop 1: Searcher's Return",
+    "quest_id": 60300002,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Learn about the  Custom-made Arms workshop facilities.",
+    "steps": [
+        "Report the return of<NPC 4>  to <NPC 1047>  at <STG 201>.",
+        "Verify the background of <NPC 1047>",
+        "Report to <NPC 1047> in <STG 202>",
+        "Hear detailed information from <NPC 1047>  (2 remaining).",
+        "Hear detailed information from <NPC 1047>  (1 remaining).",
+        "Listen to the end of the <NPC 1047> story."
+    ],
+    "variants": [
+        {
+            "level": 20,
+            "minimum_item_rank": 0,
+            "xp": 10000,
+            "gold": 10000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Craigblade",
+                                "item_id": 19389,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Custom-Made Service Ticket",
+                                "item_id": 19367,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

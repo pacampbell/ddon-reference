@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Volden Mines Trial: The Large Tunnels Exploration",
+    "quest_id": 60040001,
+    "area_id": "VoldenMines",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1604,
+        "name": "Roy",
+        "stage": {
+            "name": "Kinoza Mineral Springs",
+            "id": 80
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "VoldenMines",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the issues at Volden Mines, head to the Volden Large Tunnels and confirm the presence of the giant.",
+    "steps": [
+        "Head to the Volden Large Tunnels to confirm the presence or absence of giants.",
+        "Wipe out threatening enemies",
+        "Report to Roy in Kinoza Mineral Springs"
+    ],
+    "variants": [
+        {
+            "level": 29,
+            "minimum_item_rank": 0,
+            "xp": 3900,
+            "gold": 3000,
+            "rift": 340,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

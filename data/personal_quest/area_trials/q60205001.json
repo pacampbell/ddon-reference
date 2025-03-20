@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Dowe Valley Trial: The Cries from the Bottom of the Well",
+    "quest_id": 60205001,
+    "area_id": "DoweValley",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1508,
+        "name": "Hayden",
+        "stage": {
+            "name": "Singing Winds Inn",
+            "id": 48
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "DoweValley",
+            "param02": 14
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To resolve the issue in the Dowe Valley, investigate the Forsaken Well and check the inside.",
+    "steps": [
+        "Head to Forsaken Well and check the interior",
+        "Defeat the demon threat",
+        "Report to Hayden in Jingen village"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 2962,
+            "gold": 1121,
+            "rift": 145,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

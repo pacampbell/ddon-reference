@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Bloodbane Isle Trial: The Worn Twin Tusks",
+    "quest_id": 60213002,
+    "area_id": "BloodbaneIsle",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 549,
+        "name": "Bertrand",
+        "stage": {
+            "name": "Expedition Garrison",
+            "id": 317
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "BloodbaneIsle",
+            "param02": 14
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to solve the problem of Bloodbane Isle,  head to the Fungal Colony Caves defeat the demon threat",
+    "steps": [
+        "Investigate Fungal Colony Caves",
+        "Defeat the demon threat",
+        "Report to Bertrand in the Expedition Garrison"
+    ],
+    "variants": [
+        {
+            "level": 68,
+            "minimum_item_rank": 0,
+            "xp": 11850,
+            "gold": 4486,
+            "rift": 580,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

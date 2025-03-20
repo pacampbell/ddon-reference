@@ -1,0 +1,75 @@
+{
+    "type": "Personal",
+    "name": "Wish on a Shooting Star IV",
+    "quest_id": 60301005,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Gather information about  mysterious shooting stars",
+    "steps": [
+        "Hear the wishes of the people  of the White Dragon Temple",
+        "\"Cheer\" for Seabell with an emote",
+        "Speak to Seabell",
+        "Hear the wishes of the people  of the White Dragon Temple",
+        "Listen to the details of Craig's request",
+        "Deliver ornament samples to Craig",
+        "Hear the wishes of the people  of the White Dragon Temple",
+        "Deliver 5 Lestania Wine to Isaac",
+        "Report to Marco",
+        "Speak to Nicholas",
+        "Speak to Nicholas"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 12250,
+            "gold": 1225,
+            "rift": 1225,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Garden Ornament - Christmas",
+                                "item_id": 21185,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Red Dye",
+                                "item_id": 8135,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Color Restorer",
+                                "item_id": 8142,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

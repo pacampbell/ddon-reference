@@ -1,0 +1,67 @@
+{
+    "type": "Personal",
+    "name": "The Darkness of Halloween",
+    "quest_id": 60301000,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Resolve Angelo's problem",
+    "steps": [
+        "Examine Shelly's appearance",
+        "Speak to Angelo",
+        "Head to Gregory and inquire details about lanterns",
+        "Obtain Ghost Lantern from Appraisal Exchange",
+        "Show Angelo the lantern you obtained",
+        "Following Shelly, head to Tel village and search for information",
+        "Investigate inside Tel's Withered Well",
+        "Defeat the encountered enemy",
+        "Check Shelly's safety",
+        "Report to Angelo"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 1031,
+            "gold": 1031,
+            "rift": 1031,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Magical Night Jack-o'-Helm",
+                                "item_id": 19500,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ghost Marshmallow",
+                                "item_id": 21182,
+                                "amount": 100
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

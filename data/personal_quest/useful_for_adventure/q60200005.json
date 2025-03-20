@@ -1,0 +1,53 @@
+{
+    "type": "Personal",
+    "name": "Banging the Gates of the Clan Hall",
+    "quest_id": 60200005,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Receive a gift in return from Elliot and Gurdolin",
+    "steps": [
+        "Examine the Clan Quest Board that has been installed in the Tavern",
+        "Report to <NPC 1011> in the Relay Station District",
+        "Relay the message to <NPC 530> in the Shopping District"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 700,
+            "gold": 450,
+            "rift": 45,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Refined Paraffin",
+                                "item_id": 11784,
+                                "amount": 2
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

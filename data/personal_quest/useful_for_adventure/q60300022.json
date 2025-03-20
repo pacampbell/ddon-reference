@@ -1,0 +1,59 @@
+{
+    "type": "Personal",
+    "name": "To the Heroic Spirit Sleeping Path Megadosys District",
+    "quest_id": 60300022,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate the way to release slumbering Dragon Force",
+    "steps": [
+        "Head to <STG 1149>  to find out more about spirits",
+        "Talk to <NPC 706>",
+        "Head from Morgan to <STG 1150>",
+        "Release all the monuments of the Heroic Spirits in  <STG 1150>  and unleash the Trial of the Great Heroic Spirits",
+        "Conquer the Trial of the Great Heroic Spirits",
+        "Search for the Great Trial Monument",
+        "Report to <NPC 3266>",
+        "Receive the Special Skill Augmentation from the  White Dragon in the audience chamber"
+    ],
+    "variants": [
+        {
+            "level": 93,
+            "minimum_item_rank": 0,
+            "xp": 105000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Royal Crest Medal (Megadosys District)",
+                                "item_id": 18820,
+                                "amount": 5
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

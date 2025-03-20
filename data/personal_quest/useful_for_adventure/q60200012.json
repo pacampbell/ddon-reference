@@ -1,0 +1,48 @@
+{
+    "type": "Personal",
+    "name": "The Treasure Sleeping in the Ark",
+    "quest_id": 60200012,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Investigate newly discovered dungeons",
+    "steps": [
+        "Hear what Alfred in Tel village has to say about the investigation area",
+        "Open the Lower Level of the Ark and enter the dungeon",
+        "Investigate the treasure chest at the deepest part",
+        "Report to Isaac"
+    ],
+    "variants": [
+        {
+            "level": 57,
+            "minimum_item_rank": 0,
+            "xp": 3600,
+            "gold": 900,
+            "rift": 120,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

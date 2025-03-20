@@ -1,0 +1,55 @@
+{
+    "type": "Personal",
+    "name": "With Great Desire to Gift (Lower)",
+    "quest_id": 60200021,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Grant Mia's request",
+    "steps": [
+        "Take a photo of Little Frost in the Temple (3 left)",
+        "Take a photo of Little Frost in the Temple (2 left)",
+        "Take a photo of Little Frost in the Temple (1 left)",
+        "Report to Mia",
+        "Speak to Nicholas"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 1225,
+            "gold": 1225,
+            "rift": 1225,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Little Frost",
+                                "item_id": 21133,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

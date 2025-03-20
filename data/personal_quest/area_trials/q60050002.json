@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Dowe Valley Trial: Fear's Songstress",
+    "quest_id": 60050002,
+    "area_id": "DoweValley",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1508,
+        "name": "Hayden",
+        "stage": {
+            "name": "Singing Winds Inn",
+            "id": 48
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "DoweValley",
+            "param02": 9
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To solve the problem in Dowe Valley, defeat the Sphinx that has appeared on top of the cliff.",
+    "steps": [
+        "Find the demonic bird at the Songstress' Cliff Perch.",
+        "Defeat the demon bird, Demon Songstress Lorelei",
+        "Report to Hayden in Jingen village"
+    ],
+    "variants": [
+        {
+            "level": 40,
+            "minimum_item_rank": 0,
+            "xp": 4850,
+            "gold": 5300,
+            "rift": 460,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

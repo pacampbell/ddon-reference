@@ -1,0 +1,67 @@
+{
+    "type": "Personal",
+    "name": "Hidell Plains Trial: What Lurks in the Catacombs",
+    "quest_id": 60010001,
+    "area_id": "HidellPlains",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1313,
+        "name": "Alfred",
+        "stage": {
+            "name": "Black Grape Inn",
+            "id": 25
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "HidellPlains",
+            "param02": 4
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "To resolve the issue in the Hidell Plains, investigate the Hidell Catacombs and deal with the threatening enemies.",
+    "steps": [
+        "Investigate the Hidell Catacombs and search for threats.",
+        "Defeat the enemy threat",
+        "Report to Alfred in Tel village"
+    ],
+    "variants": [
+        {
+            "level": 13,
+            "minimum_item_rank": 0,
+            "xp": 1500,
+            "gold": 1300,
+            "rift": 220,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Riftstone Shard",
+                                "item_id": 10133,
+                                "amount": 3
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

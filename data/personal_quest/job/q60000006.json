@@ -1,0 +1,56 @@
+{
+    "type": "Personal",
+    "name": "Shield Sage TacticsA Magick Shield",
+    "quest_id": 60000006,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "In order to learn the basics of Shield Sage, challenge the trial of the Training Chapel",
+    "steps": [
+        "Speak with the White Knight at the base of the cliff before the Training Chapel",
+        "Speak with Wilson in the Training Chapel",
+        "Attack an enemy with Shield Blow",
+        "Change your current Elemental Attribute",
+        "Use the \"Attract\" skill to get the enemy's attention",
+        "Auto-block with your Greatshield",
+        "Block an enemy attack to charge your Force Gauge",
+        "Fill your Force Gauge, then attack an enemy with Force Burst",
+        "Fill in your Force Gauge and Enchant",
+        "Defeat the remaining Goblins in the inner sanctum",
+        "Collect the proof of completing the trial",
+        "Report back to Renton in the White Dragon Temple"
+    ],
+    "variants": [
+        {
+            "level": 1,
+            "minimum_item_rank": 0,
+            "xp": 480,
+            "gold": 500,
+            "rift": 130,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

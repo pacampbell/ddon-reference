@@ -1,0 +1,65 @@
+{
+    "type": "Personal",
+    "name": "Wish on a Shooting Star III",
+    "quest_id": 60301004,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Gather information about  mysterious shooting stars",
+    "steps": [
+        "Search for information on shooting stars",
+        "Visit Nikki in Tel village",
+        "Report to Lisa",
+        "Visit Mystera in Rotes",
+        "Report to Lisa",
+        "Visit Miranda in Lynwood",
+        "Report to Lisa",
+        "Report to Mia"
+    ],
+    "variants": [
+        {
+            "level": 10,
+            "minimum_item_rank": 0,
+            "xp": 12250,
+            "gold": 1225,
+            "rift": 1225,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Red Dye",
+                                "item_id": 8135,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Color Restorer",
+                                "item_id": 8142,
+                                "amount": 1
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,75 @@
+{
+    "type": "Personal",
+    "name": "Demon Army Tank Catoblepas",
+    "quest_id": 60318011,
+    "area_id": null,
+    "guide_type": "QuestUsefulForAdventure",
+    "starting_npc": null,
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Get the details of the case from the client and try to solve the problem.",
+    "steps": [
+        "Check the situation with <NPC 2900>",
+        "Ask <NPC 2904>  about the strength of the Liberation Army",
+        "Head into enemy territory and strike with a surprise attack",
+        "Destroy enemy artillery",
+        "Defeat the leader of the reinforcements",
+        "Head to the enemy's main stronghold deeper in",
+        "Defeat enemy forces in the mountains",
+        "Head to the deep stronghold again",
+        "Subdue the enemy's main unit",
+        "Report the War Situation results to <NPC 2800>"
+    ],
+    "variants": [
+        {
+            "level": 85,
+            "minimum_item_rank": 0,
+            "xp": 42000,
+            "gold": 11000,
+            "rift": 2000,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Campaign Battle Armor",
+                                "item_id": 18729,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Cobalt Alloy Ingot",
+                                "item_id": 17892,
+                                "amount": 1
+                            }
+                        ],
+                        [
+                            {
+                                "name": "Ribbon of Rich Bounty",
+                                "item_id": 17891,
+                                "amount": 1
+                            }
+                        ],
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

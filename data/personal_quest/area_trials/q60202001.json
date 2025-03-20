@@ -1,0 +1,60 @@
+{
+    "type": "Personal",
+    "name": "Breya Coast Trial: A Great White Thunder",
+    "quest_id": 60202001,
+    "area_id": "BreyaCoast",
+    "guide_type": "AreaTrialOrMission",
+    "starting_npc": {
+        "id": 1205,
+        "name": "ONeill",
+        "stage": {
+            "name": "Sea Dragon Inn",
+            "id": 26
+        }
+    },
+    "minimum_area_rank": 0,
+    "repeatable": false,
+    "quest_chain": {
+        "previous_quest_id": 0,
+        "next_quest_id": 0
+    },
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "BreyaCoast",
+            "param02": 14
+        }
+    ],
+    "unlocks": {
+        "tutorials": [],
+        "contents": []
+    },
+    "description": "Defeat the Lindwurm that has taken residence in  the Moltova Ruins to resolve  the issue at Breya Coast.",
+    "steps": [
+        "Check out Lindwurm inhabiting the Moltova ruins.",
+        "Defeat the Lindwurm",
+        "Report to O'Neill in Rotes village"
+    ],
+    "variants": [
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 1891,
+            "gold": 990,
+            "rift": 125,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        []
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+}

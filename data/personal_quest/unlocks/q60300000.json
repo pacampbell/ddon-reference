@@ -18,10 +18,15 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "SoloWithPawns"},
+        {"type": "ClearPersonalQuest", "param01": 60200000}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "YourRoomsTerrace"
+        ]
     },
     "description": "Get a request on how to expand your room  to include a terrace.",
     "steps": [

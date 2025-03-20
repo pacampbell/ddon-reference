@@ -18,10 +18,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "ClearPersonalQuest", "param01": 60000014}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "Clans"
+        ],
+        "contents": [
+            "Create and Join Clans"
+        ]
     },
     "description": "To learn the basics of the clan, listen to the story from Kibiza in the Clan Tavern.",
     "steps": [

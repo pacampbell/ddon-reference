@@ -18,10 +18,25 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "ClearPersonalQuest", "param01": 60000012}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "WorldQuests",
+            "LestaniaNews",
+            "PartyCreation",
+            "PurchasingWorldQuestInformation"
+        ],
+        "contents": [
+            "WorldQuests",
+            "LestaniaNews",
+            "PartyPlayers",
+            "MatchingProfile",
+            "QuickParty",
+            "AreaMastersWorldQuestInfo",
+            "ExtremeMissions"
+        ]
     },
     "description": "Check that the news provided by Seneka, through Iris's introduction, about Lestania is true",
     "steps": [

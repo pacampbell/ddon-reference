@@ -18,10 +18,19 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "SoloWithPawns"},
+        {"type": "ClearPersonalQuest", "param01": 60000014}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "CraftingBasicItems",
+            "MyrmidonsPledge"
+        ],
+        "contents": [
+            "Craft",
+            "MyrmidonsPledge"
+        ]
     },
     "description": "Accepting Iris's request, use the crafting abilities of Pawns to produce items.",
     "steps": [

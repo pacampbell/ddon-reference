@@ -13,8 +13,16 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "AcquiringCombatManuevers",
+            "BoardQuest",
+            "DragonsKeystoneandRiftTeleport"
+        ],
+        "contents": [
+            "ChangeVocations",
+            "QuestBoard",
+            "RiftTeleport"
+        ]
     },
     "description": "Go speak to Archibald in the Relay District to further Fabio's training.",
     "steps": [

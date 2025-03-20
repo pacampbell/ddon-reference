@@ -18,10 +18,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 6}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "DressEquipment"
+        ],
+        "contents": [
+            "DressEquipment"
+        ]
     },
     "description": "Accept Ophelia's request and investigate  the reason for the increase in fashion-savvy and stylish Arisen that have been frequently seen in the city lately.",
     "steps": [
@@ -43,14 +49,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

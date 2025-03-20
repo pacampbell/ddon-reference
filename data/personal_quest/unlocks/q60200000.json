@@ -18,10 +18,18 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "SoloWithPawns"},
+        {"type": "ClearPersonalQuest", "param01": 60000016}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "ArisensRoom"
+        ],
+        "contents": [
+            "MyRoom",
+            "PartnerPawn"
+        ]
     },
     "description": "Together with the Main Pawn obtained through the Servants' Pledge, receive an introduction to a new resting place in the Relay Station District from Julia, Barton's daughter.",
     "steps": [
@@ -54,8 +62,7 @@
                                 "item_id": 10133,
                                 "amount": 3
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

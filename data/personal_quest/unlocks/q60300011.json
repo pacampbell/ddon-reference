@@ -18,10 +18,17 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "Solo"},
+        {"type": "ClearPersonalQuest", "param01": 60200000}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "PawnSpecialSkills"
+        ],
+        "contents": [
+            "PawnsNewSpecialSkills"
+        ]
     },
     "description": "To investigate the mysterious power sensed by the  pawn, go to The Rift with Alvar.",
     "steps": [
@@ -49,14 +56,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

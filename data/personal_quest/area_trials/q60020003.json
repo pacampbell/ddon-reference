@@ -3,7 +3,7 @@
     "name": "Breya Coast Request Troubled Shores",
     "quest_id": 60020003,
     "area_id": "BreyaCoast",
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "AreaTrialOrMission",
     "starting_npc": {
         "id": 1205,
         "name": "ONeill",
@@ -15,8 +15,8 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60020001,
+        "next_quest_id": 60020002
     },
     "order_conditions": [
         {
@@ -32,7 +32,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Breya Coast AR5"
+        ]
     },
     "description": "To solve the problem at Breya Coast, head to the Seaside Cellar and defeat the enemies troubling Rotes.",
     "steps": [
@@ -61,8 +63,7 @@
                                 "item_id": 10133,
                                 "amount": 2
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

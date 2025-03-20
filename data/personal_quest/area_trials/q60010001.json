@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60010002
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Hidell Plains AR5"
+        ]
     },
     "description": "To resolve the issue in the Hidell Plains, investigate the Hidell Catacombs and deal with the threatening enemies.",
     "steps": [
@@ -56,8 +58,7 @@
                                 "item_id": 10133,
                                 "amount": 3
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

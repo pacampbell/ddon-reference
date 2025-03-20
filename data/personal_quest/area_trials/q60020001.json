@@ -3,7 +3,7 @@
     "name": "Breya Coast Request: Troubled Shores 1",
     "quest_id": 60020001,
     "area_id": "HidellPlains",
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "AreaTrialOrMission",
     "starting_npc": {
         "id": 1013,
         "name": "Seneka0",
@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60020003
     },
     "order_conditions": [
         {

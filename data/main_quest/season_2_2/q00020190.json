@@ -15,7 +15,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "KingalCanyonWorldQuests"
+        ]
     },
     "description": "Follow Cecily's father, aiming for the place they headed to",
     "steps": [

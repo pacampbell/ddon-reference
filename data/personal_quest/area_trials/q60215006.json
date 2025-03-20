@@ -14,7 +14,9 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "AreaVisualSurvey"
+        ]
     },
     "description": "Investigate the nature of the red light  as per the Area Master's request.",
     "steps": [

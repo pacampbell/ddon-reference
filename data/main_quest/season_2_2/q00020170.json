@@ -15,7 +15,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "FaranaPlainsWorldQuests"
+        ]
     },
     "description": "Cross to Phindym to search for stragglers.",
     "steps": [

@@ -15,7 +15,11 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "ElanWaterGroveWorldQuests",
+            "MorrowForestWorldQuests",
+            "Area Master for Elan Water Grove"
+        ]
     },
     "description": "While searching for clues about Cecily's father, head towards Cecily's hometown.",
     "steps": [

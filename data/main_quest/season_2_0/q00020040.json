@@ -15,7 +15,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "BloodbaneIsleWorldQuests"
+        ]
     },
     "description": "Search Bloodbane Isle for clues on Cecily's lost memories",
     "steps": [

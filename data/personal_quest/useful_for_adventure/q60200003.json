@@ -4,17 +4,30 @@
     "quest_id": 60200003,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 20140},
+        {"type": "ClearPersonalQuest", "param01": 60200002},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Phantasmic Great Dragon (EM6)"
+        ]
     },
     "description": "Visit Isaac again to receive a new mission",
     "steps": [
@@ -32,14 +45,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

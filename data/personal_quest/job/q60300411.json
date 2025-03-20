@@ -1,7 +1,7 @@
 {
     "type": "Personal",
-    "name": "Vocation Emblem Trial: Shield Sage",
-    "quest_id": 60300405,
+    "name": "Vocation Emblem Trial: Spirit Lancer",
+    "quest_id": 60300411,
     "area_id": null,
     "guide_type": "AreaTrialOrMission",
     "starting_npc": null,
@@ -40,7 +40,13 @@
                 {
                     "type": "Fixed",
                     "pools": [
-                        []
+                        [
+                            {
+                                "name": "Emblem Stone (Spirit Lancer)",
+                                "item_id": 18152,
+                                "amount": 1
+                            }
+                        ]
                     ]
                 }
             ]

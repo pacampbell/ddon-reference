@@ -4,17 +4,29 @@
     "quest_id": 60200002,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 4,
+        "name": "Joseph",
+        "stage": {
+            "name": "Audience Chamber",
+            "id": 3
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 20070},
+        {"type": "ClearPersonalQuest", "param01": 60000101}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Agent of Corruption (EM5)"
+        ]
     },
     "description": "Visit Isaac to receive a new mission",
     "steps": [
@@ -42,8 +54,7 @@
                                 "item_id": 11407,
                                 "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

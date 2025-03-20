@@ -1,6 +1,6 @@
 {
     "type": "Personal",
-    "name": "The Treasure Lying in the Frontier 2",
+    "name": "The Treasure Lying in the Frontier (2)",
     "quest_id": 60200007,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
@@ -8,10 +8,12 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60200006,
+        "next_quest_id": 60200008
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "ClearPersonalQuest", "param01": 60200006}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -32,14 +34,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

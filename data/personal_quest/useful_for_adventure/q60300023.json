@@ -11,10 +11,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 30250},
+        {"type": "ItemRank", "param01": 112}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Epitaph Road: Memory of Urteca",
+            "Unlocks Special Skill Augmentation (4)"
+        ]
     },
     "description": "Investigate the way to release slumbering Dragon Force",
     "steps": [
@@ -30,7 +36,7 @@
     "variants": [
         {
             "level": 100,
-            "minimum_item_rank": 0,
+            "minimum_item_rank": 112,
             "xp": 105000,
             "gold": 11000,
             "rift": 2000,
@@ -48,8 +54,7 @@
                                 "item_id": 18826,
                                 "amount": 5
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

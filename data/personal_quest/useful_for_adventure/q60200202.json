@@ -8,10 +8,14 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60200201,
+        "next_quest_id": 60200203
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 77},
+        {"type": "ClearPersonalQuest", "param01": 60200201},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -50,30 +54,28 @@
                                 "name": "Unappraised Moon Trinket (King)",
                                 "item_id": 13477,
                                 "amount": 5
-                            }
-                        ],
-                        [
+                            },
                             {
                                 "name": "Unappraised Star Trinket (King)",
                                 "item_id": 13481,
                                 "amount": 5
-                            }
-                        ],
-                        [
+                            },
                             {
                                 "name": "Unappraised Flower Trinket (King)",
                                 "item_id": 13485,
                                 "amount": 5
-                            }
-                        ],
-                        [
+                            },
                             {
                                 "name": "Unappraised Wind Trinket (King)",
                                 "item_id": 13489,
                                 "amount": 5
+                            },
+                            {
+                                "name": "Bloodorbs",
+                                "item_id": 7795,
+                                "amount": 2000
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

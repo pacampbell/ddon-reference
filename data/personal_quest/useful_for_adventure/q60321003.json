@@ -11,7 +11,10 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "AreaRank", "param01": "UrtecaMountains", "param02": 6},
+        {"type": "MainQuestCompleted", "param01": 30240}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -37,7 +40,13 @@
                 {
                     "type": "Fixed",
                     "pools": [
-                        []
+                        [
+                            {
+                                "name": "Winged Slayer's Stone",
+                                "item_id": 21290,
+                                "amount": 1
+                            }
+                        ]
                     ]
                 }
             ]

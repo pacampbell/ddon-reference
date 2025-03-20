@@ -14,7 +14,9 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "The Shining Gate (EM4)"
+        ]
     },
     "description": "Follow the guidance of the White Dragon to undertake the mission of destroying the Wyrmking's Ring.",
     "steps": [
@@ -31,14 +33,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

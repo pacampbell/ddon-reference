@@ -4,17 +4,29 @@
     "quest_id": 61000004,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 548,
+        "name": "Lyka1",
+        "stage": {
+            "name": "Cave Harbor",
+            "id": 5
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60300047,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "SoloWithPawns"},
+        {"type": "Message", "param01": "Complete <tt><b>Bitterblack Maze</b></tt> at least <b>1</b> time fully"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Bitterblack Maze Abyss"
+        ]
     },
     "description": "Listen to a story from Lyka about a certain place",
     "steps": [
@@ -31,14 +43,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

@@ -1,7 +1,7 @@
 {
     "type": "Personal",
-    "name": "Vocation Emblem Trial: Element Archer",
-    "quest_id": 60300408,
+    "name": "Vocation Emblem Trial: Shield Sage",
+    "quest_id": 60300405,
     "area_id": null,
     "guide_type": "AreaTrialOrMission",
     "starting_npc": null,
@@ -40,7 +40,13 @@
                 {
                     "type": "Fixed",
                     "pools": [
-                        []
+                        [
+                            {
+                                "name": "Emblem Stone (Shield Sage)",
+                                "item_id": 18147,
+                                "amount": 1
+                            }
+                        ]
                     ]
                 }
             ]

@@ -11,10 +11,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 30200},
+        {"type": "ItemRank", "param01": 102}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Epitaph Road: Memory of Megadosys",
+            "Unlocks Special Skill Augmentation (3)"
+        ]
     },
     "description": "Investigate the way to release slumbering Dragon Force",
     "steps": [
@@ -30,7 +36,7 @@
     "variants": [
         {
             "level": 93,
-            "minimum_item_rank": 0,
+            "minimum_item_rank": 102,
             "xp": 105000,
             "gold": 11000,
             "rift": 2000,
@@ -48,8 +54,7 @@
                                 "item_id": 18820,
                                 "amount": 5
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

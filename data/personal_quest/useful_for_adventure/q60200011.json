@@ -11,10 +11,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 20250},
+        {"type": "ClearPersonalQuest", "param01": 60200010},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Onset of Darkness (EM8)"
+        ]
     },
     "description": "Visit Isaac again to receive a new mission",
     "steps": [
@@ -32,14 +38,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

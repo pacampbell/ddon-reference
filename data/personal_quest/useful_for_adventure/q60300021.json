@@ -11,10 +11,16 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 30130},
+        {"type": "ItemRank", "param01": 92}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Epitaph Road: Freyana District",
+            "Unlocks Special Skill Augmentation (2)"
+        ]
     },
     "description": "Investigate the way to release slumbering Dragon Force",
     "steps": [
@@ -27,7 +33,7 @@
     "variants": [
         {
             "level": 90,
-            "minimum_item_rank": 0,
+            "minimum_item_rank": 92,
             "xp": 42000,
             "gold": 11000,
             "rift": 2000,

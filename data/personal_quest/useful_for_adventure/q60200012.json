@@ -9,9 +9,11 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60200006
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "ClearPersonalQuest", "param01": 60200002}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -34,14 +36,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

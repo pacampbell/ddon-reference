@@ -14,7 +14,9 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Extreme Missions"
+        ]
     },
     "description": "To resolve Joseph's concerns, prepare to head towards the Vortex of Dragon Force.",
     "steps": [
@@ -32,14 +34,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

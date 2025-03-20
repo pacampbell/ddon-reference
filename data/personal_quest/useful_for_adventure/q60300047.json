@@ -16,20 +16,22 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 61000004
     },
     "order_conditions": [
         {
             "type": "SoloWithPawns"
         },
         {
-            "type": "MainQuestCompleted",
-            "param01": 26
+            "type": "ClearPersonalQuest",
+            "param01": 60000014
         }
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Bitterblack Maze"
+        ]
     },
     "description": "Listen to a story from Lyka about a certain place",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

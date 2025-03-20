@@ -9,9 +9,13 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60300201
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 30250},
+        {"type": "ClearPersonalQuest", "param01": 60300044},
+        {"type": "SoloWithPawn"}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -41,7 +45,13 @@
                 {
                     "type": "Fixed",
                     "pools": [
-                        []
+                        [
+                            {
+                                "name": "Bloodorbs",
+                                "item_id": 7795,
+                                "amount": 5000
+                            }
+                        ]
                     ]
                 }
             ]

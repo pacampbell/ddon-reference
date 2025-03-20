@@ -8,10 +8,14 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60200202,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumLevel", "param01": 77},
+        {"type": "ClearPersonalQuest", "param01": 60200202},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
         "tutorials": [],
         "contents": []
@@ -20,12 +24,12 @@
     "steps": [
         "Hear what Fabio has to say in the Tavern",
         "Seek out Vanessa",
-        "Investigate <<SPOT 695>\uff1e in the Dowe Valley",
+        "Investigate &lt;Leo's Hideout&gt; in the Dowe Valley",
         "Defeat the enemy encountered",
         "Investigate inside the hideout.",
         "Head to the place marked on the map",
         "Rendezvous with Vanessa",
-        "Investigate inside <SPOT 548>",
+        "Investigate inside &lt;Howling Wind Cave&gt;",
         "Defeat the enemy encountered",
         "Search for clues left by Leo.",
         "Head to the place indicated in the message"
@@ -45,8 +49,18 @@
                 {
                     "type": "Fixed",
                     "pools": [
-                        [],
-                        []
+                        [
+                            {
+                                "name": "Music Player",
+                                "item_id": 16134,
+                                "amount": 1
+                            },
+                            {
+                                "name": "Bloodorbs",
+                                "item_id": 7795,
+                                "amount": 2000
+                            }
+                        ]
                     ]
                 }
             ]

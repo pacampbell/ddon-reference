@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60080002
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Betland Plains AR5"
+        ]
     },
     "description": "To solve the problem in the Betland Plains, head to the Betland underground crypt and investigate the presence of threats.",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

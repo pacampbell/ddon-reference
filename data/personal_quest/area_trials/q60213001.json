@@ -15,8 +15,8 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60213000,
+        "next_quest_id": 60213002
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Bloodbane Isle AR10"
+        ]
     },
     "description": "In order to solve the problem of Bloodbane Isle,  head to the Wing Wind Plateau and defeat the Infected Gorecyclops",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60213001
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Bloodbane Isle AR5"
+        ]
     },
     "description": "In order to solve the problem of Bloodbane Isle,  head to the Crypt of Murmurs  and investigate the inside",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

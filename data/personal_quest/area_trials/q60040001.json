@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60040002
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Volden Mines AR5"
+        ]
     },
     "description": "To solve the issues at Volden Mines, head to the Volden Large Tunnels and confirm the presence of the giant.",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

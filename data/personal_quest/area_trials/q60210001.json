@@ -15,7 +15,7 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60210000,
         "next_quest_id": 0
     },
     "order_conditions": [
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Zandora Wastelands AR15"
+        ]
     },
     "description": "To solve the problem in Zandora Wastelands,  investigate the Pit of Screams and  defeat the encountered demons",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

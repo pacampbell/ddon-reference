@@ -2,19 +2,27 @@
     "type": "Personal",
     "name": "Kingal Canyon Trial: Proof of Atrocities",
     "quest_id": 60217001,
-    "area_id": null,
+    "area_id": "KingalCanyon",
     "guide_type": "AreaTrialOrMission",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60217000,
+        "next_quest_id": 60217002
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "KingalCanyon",
+            "param02": 6
+        }
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Kingal Canyon AR7"
+        ]
     },
     "description": "Get the details of the case from the Area Master and try to solve the problem",
     "steps": [
@@ -46,8 +54,7 @@
                                 "item_id": 15954,
                                 "amount": 10
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

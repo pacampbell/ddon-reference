@@ -15,8 +15,8 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60110002,
+        "next_quest_id": 60211001
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Eastern Zandora AR13"
+        ]
     },
     "description": "In order to solve the problem in Eastern Zandora, investigate Weeping Corpse Ground and defeat the encountered demons",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

@@ -2,19 +2,27 @@
     "type": "Personal",
     "name": "Elan Water Grove Trial: The Howling from the Dark",
     "quest_id": 60214000,
-    "area_id": null,
+    "area_id": "ElanWaterGrove",
     "guide_type": "AreaTrialOrMission",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60214006
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "ElonWaterGrove",
+            "param02": 3
+        }
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Elan Water Grove AR4"
+        ]
     },
     "description": "Get the details of the case from the Area Master and try to solve the problem",
     "steps": [
@@ -44,8 +52,7 @@
                                 "item_id": 15947,
                                 "amount": 10
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

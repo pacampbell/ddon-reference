@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60100002
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Zandora Wastelands AR5"
+        ]
     },
     "description": "To solve the issue in the Zandora Wastelands,  defeat the Giant Warriors  that have appeared in the Banded Haunt.",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

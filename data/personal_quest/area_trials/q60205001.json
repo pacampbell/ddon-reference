@@ -15,7 +15,7 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60205000,
         "next_quest_id": 0
     },
     "order_conditions": [
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Dowe Valley AR15"
+        ]
     },
     "description": "To resolve the issue in the Dowe Valley, investigate the Forsaken Well and check the inside.",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

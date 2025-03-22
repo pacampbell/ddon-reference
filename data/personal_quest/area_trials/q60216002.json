@@ -2,19 +2,27 @@
     "type": "Personal",
     "name": "Morrow Forest Trial: An Impending Massacre",
     "quest_id": 60216002,
-    "area_id": null,
+    "area_id": "MorrowForest",
     "guide_type": "AreaTrialOrMission",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60216001,
+        "next_quest_id": 60216003
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {
+            "type": "AreaRank",
+            "param01": "MorrowForest",
+            "param02": 9
+        }
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Morrow Forest AR10"
+        ]
     },
     "description": "Get the details of the case from the Area Master and try to solve the problem",
     "steps": [
@@ -44,8 +52,7 @@
                                 "item_id": 15952,
                                 "amount": 10
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

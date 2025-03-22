@@ -15,8 +15,8 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60120002,
+        "next_quest_id": 60212001
     },
     "order_conditions": [
         {
@@ -27,7 +27,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Mergoda Ruins AR13"
+        ]
     },
     "description": "To resolve the issue in the Mergoda Ruins, search for the fanatics and eliminate them before they become a threat.",
     "steps": [
@@ -46,14 +48,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

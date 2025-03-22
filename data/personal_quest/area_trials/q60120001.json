@@ -16,7 +16,7 @@
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 60120002
     },
     "order_conditions": [
         {
@@ -31,7 +31,9 @@
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Unlocks Mergoda Ruins AR5"
+        ]
     },
     "description": "To solve the problem in the ruins of Mergoda, head to the Elixir Refining Chamber and prevent the enemy alchemist's plot.",
     "steps": [
@@ -50,14 +52,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

@@ -4,17 +4,33 @@
     "quest_id": 61000001,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1047,
+        "name": "Craig",
+        "stage": {
+            "name": "Craft Room",
+            "id": 4
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
         "previous_quest_id": 0,
-        "next_quest_id": 0
+        "next_quest_id": 61000002
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 30410},
+        {"type": "SoloWithPawns"}
+    ],
     "unlocks": {
-        "tutorials": [],
-        "contents": []
+        "tutorials": [
+            "DragonEquipmentDecomposition",
+            "EnhancementofDragonAbilities"
+        ],
+        "contents": [
+            "Apprasial and Exchange of Dragon Armor",
+            "Equipment Disassembly"
+        ]
     },
     "description": "Hear from Craig about weapons  imbued with dragon power",
     "steps": [
@@ -48,5 +64,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://youtu.be/T2DqNtuVKus?si=ME7DKHH3N0NlONYT"]
 }

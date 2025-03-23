@@ -4,22 +4,31 @@
     "quest_id": 60300003,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1047,
+        "name": "Craig",
+        "stage": {
+            "name": "Craft Room",
+            "id": 4
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60300002,
+        "next_quest_id": 60300004
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "LimitBreakingArms"
+        ],
         "contents": []
     },
-    "description": "Get taught about Limit Breaking Arms at the  Custom-made Arms workshop",
+    "description": "Get taught about Limit Breaking Arms at the Custom-made Arms workshop",
     "steps": [
         "Limit Break a \u2605 4 Equipment 1 time",
-        "Tell <NPC 1047>  the results of the Limit Break"
+        "Tell <NPC 1047> the results of the Limit Break"
     ],
     "variants": [
         {
@@ -48,5 +57,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=Cf-ulfurUpo"]
 }

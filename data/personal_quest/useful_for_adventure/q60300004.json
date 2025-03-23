@@ -4,22 +4,31 @@
     "quest_id": 60300004,
     "area_id": null,
     "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1047,
+        "name": "Craig",
+        "stage": {
+            "name": "Craft Room",
+            "id": 4
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60300003,
+        "next_quest_id": 61000001
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "UltimateSynthesisofArms"
+        ],
         "contents": []
     },
-    "description": "Get taught about Ultimate Synthesis of Arms at  the Custom-made Arms workshop",
+    "description": "Get taught about Ultimate Synthesis of Arms at the Custom-made Arms workshop",
     "steps": [
         "Ultimate Synthesis a \u26054 equipment 1 time",
-        "Tell <NPC 1047>  the results of Ultimate Synthesis"
+        "Tell <NPC 1047> the results of Ultimate Synthesis"
     ],
     "variants": [
         {
@@ -48,5 +57,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=TPLy7t_2sWU"]
 }

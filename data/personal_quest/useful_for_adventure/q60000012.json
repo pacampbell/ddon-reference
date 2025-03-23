@@ -11,7 +11,9 @@
         "previous_quest_id": 0,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MainQuestCompleted", "param01": 2}
+    ],
     "unlocks": {
         "tutorials": [
             "AcquiringCombatManuevers",

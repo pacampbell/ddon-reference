@@ -12,7 +12,7 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "ClearExtremeMission", "param01": "50400007"},
+        {"type": "ClearExtremeMission", "param01": 50400007},
         {"type": "SoloWithPawns"}
     ],
     "unlocks": {

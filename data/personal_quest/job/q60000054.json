@@ -3,18 +3,30 @@
     "name": "Seeking the Master Seeker",
     "quest_id": 60000054,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 1029,
+        "name": "Renton",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000005,
+        "next_quest_id": 60200116
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Seeker", "param02": 18},
+        {"type": "AreaRank", "param01": "DoweValley", "param02": 5}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Seeker Job Training"
+        ]
     },
     "description": "Visit Job Master Chester to request  approval for the Seeker's trial",
     "steps": [
@@ -41,8 +53,7 @@
                                 "item_id": 9381,
                                 "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

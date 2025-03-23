@@ -3,10 +3,10 @@
     "name": "Seeking the Master Fighter",
     "quest_id": 60000050,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "VocationQuest",
     "starting_npc": {
         "id": 1029,
-        "name": "Renton0",
+        "name": "Renton",
         "stage": {
             "name": "The White Dragon Temple",
             "id": 2
@@ -15,19 +15,17 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000001,
+        "next_quest_id": 60200100
     },
     "order_conditions": [
-        {
-            "type": "MinimumVocationLevel",
-            "param01": 1,
-            "param02": 18
-        }
+        {"type": "MinimumVocationLevel", "param01": "Fighter", "param02": 18}
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "FighterJobTraining"
+        ]
     },
     "description": "Visit Job Master Vanessa to request  approval for the Fighter's trial",
     "steps": [
@@ -54,8 +52,7 @@
                                 "item_id": 9381,
                                 "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

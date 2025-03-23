@@ -3,10 +3,10 @@
     "name": "Skill Augmentation Fighter Trial: I",
     "quest_id": 60200100,
     "area_id": null,
-    "guide_type": "AreaTrialOrMission",
+    "guide_type": "VocationQuest",
     "starting_npc": {
         "id": 11,
-        "name": "Vanessa0",
+        "name": "Vanessa",
         "stage": {
             "name": "Gritten Fort",
             "id": 66
@@ -15,19 +15,20 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000050,
+        "next_quest_id": 60200101
     },
     "order_conditions": [
-        {
-            "type": "MinimumVocationLevel",
-            "param01": 1,
-            "param02": 40
-        }
+        {"type": "MinimumVocationLevel", "param01": "Fighter", "param02": 40},
+        {"type": "AreaRank", "param01": "HidellPlains", "param02": 4},
+        {"type": "ClearPersonalQuest", "param01": 60200001},
+        {"type": "Solo"}
     ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Fighter Skill Augmentation I"
+        ]
     },
     "description": "To learn new Fighter tactics, challenge the trial of the Job Master",
     "steps": [
@@ -51,14 +52,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

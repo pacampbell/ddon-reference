@@ -3,18 +3,29 @@
     "name": "Seeking the Master Spirit Lancer",
     "quest_id": 60200051,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 2501,
+        "name": "Razanailt",
+        "stage": {
+            "name": "Dana Centrum",
+            "id": 341
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60200050,
+        "next_quest_id": 60200136
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "SpiritLancer", "param02": 18}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Spirit Lancer Job Training"
+        ]
     },
     "description": "Visit Job Master Adair Donnchadh to request  approval for the Spirit Lancer's trial",
     "steps": [
@@ -41,12 +52,12 @@
                                 "item_id": 9425,
                                 "amount": 5
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=yCjiZBXJU7w"]
 }

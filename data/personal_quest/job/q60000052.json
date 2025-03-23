@@ -3,18 +3,29 @@
     "name": "Seeking the Master Hunter",
     "quest_id": 60000052,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 1029,
+        "name": "Renton",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000019,
+        "next_quest_id": 60200108
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Hunter", "param02": 18}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Hunter Job Training"
+        ]
     },
     "description": "Visit Job Master Ivan to request  approval for the Hunter's trial",
     "steps": [
@@ -41,8 +52,7 @@
                                 "item_id": 9381,
                                 "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

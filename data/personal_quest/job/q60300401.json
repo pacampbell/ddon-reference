@@ -15,15 +15,12 @@
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60300400,
         "next_quest_id": 0
     },
     "order_conditions": [
-        {
-            "type": "MinimumVocationLevel",
-            "param01": 11,
-            "param02": 18
-        }
+        {"type": "MinimumVocationLevel", "param01": "HighScepter", "param02": 18},
+        {"type": "MainQuestCompleted", "param01": 30150}
     ],
     "unlocks": {
         "tutorials": [],
@@ -60,5 +57,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=yig79I70jIc"]
 }

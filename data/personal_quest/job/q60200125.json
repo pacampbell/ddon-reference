@@ -3,18 +3,31 @@
     "name": "Skill Augmentation: Element Archer Trial II",
     "quest_id": 60200125,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 4502,
+        "name": "Ringdeel",
+        "stage": {
+            "name": "Secret Bowmaker's Home",
+            "id": 105
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60200124,
+        "next_quest_id": 60200126
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "ElementArcher", "param02": 45},
+        {"type": "MainQuestCompleted", "param01": 20130},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Element Archer Skill Augmentation II"
+        ]
     },
     "description": "To learn new Element Archer tactics, challenge the trial of the Job Master",
     "steps": [
@@ -38,14 +51,7 @@
             "jp": 0,
             "pp": 0,
             "is_bounty": false,
-            "rewards": [
-                {
-                    "type": "Fixed",
-                    "pools": [
-                        []
-                    ]
-                }
-            ]
+            "rewards": []
         }
     ],
     "tags": []

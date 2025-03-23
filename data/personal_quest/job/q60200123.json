@@ -3,18 +3,31 @@
     "name": "Skill Augmentation Sorcerer Trial: IV",
     "quest_id": 60200123,
     "area_id": null,
-    "guide_type": "AreaTrialOrMission",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 4501,
+        "name": "Emerada",
+        "stage": {
+            "name": "Lone House in the Forest",
+            "id": 16
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60200122,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Sorcerer", "param02": 60},
+        {"type": "MainQuestCompleted", "param01": 20250},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Sorcerer Skill Augmentation IV"
+        ]
     },
     "description": "To learn new Sorcerer tactics, challenge the trial of the Job Master",
     "steps": [

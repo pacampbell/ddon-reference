@@ -3,18 +3,29 @@
     "name": "Seeking the Master Priest",
     "quest_id": 60000051,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+	    "id": 1029,
+	    "name": "Renton0",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000017,
+        "next_quest_id": 60200104
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Priest", "param02": 18}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "PriestJobTraining"
+        ]
     },
     "description": "Visit Job Master Camus to request  approval for the Priest's trial",
     "steps": [
@@ -41,8 +52,7 @@
                                 "item_id": 9384,
                                 "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

@@ -3,18 +3,31 @@
     "name": "Skill Augmentation Hunter Trial: IV",
     "quest_id": 60200111,
     "area_id": null,
-    "guide_type": "AreaTrialOrMission",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 4503,
+        "name": "Ivan",
+        "stage": {
+            "name": "Ivan's Lodge",
+            "id": 22
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60200110,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Hunter", "param02": 60},
+        {"type": "MainQuestCompleted", "param01": 20250},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Hunter Skill Augmentation IV"
+        ]
     },
     "description": "To learn new Hunter tactics, challenge the trial of the Job Master",
     "steps": [

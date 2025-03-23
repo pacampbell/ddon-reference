@@ -3,18 +3,30 @@
     "name": "Seeking the Master Element Archer",
     "quest_id": 60000056,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 1029,
+        "name": "Renton",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60000009,
+        "next_quest_id": 60200124
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "ElementArcher", "param02": 18},
+        {"type": "AreaRank", "param01": "DeenanWoords", "param02": 5}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Element Archer Job Training"
+        ]
     },
     "description": "Visit Job Master Ringdeel to request  approval for the Element Archer's trial",
     "steps": [

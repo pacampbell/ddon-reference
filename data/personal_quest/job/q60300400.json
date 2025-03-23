@@ -4,17 +4,29 @@
     "quest_id": 60300400,
     "area_id": null,
     "guide_type": "VocationQuest",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1029,
+        "name": "Renton",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
-        "next_quest_id": 0
+        "previous_quest_id": 60300044,
+        "next_quest_id": 60300401
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "HighScepter", "param02": 1},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "High Scepter Skill Augmentation"
+        ]
     },
     "description": "In order to learn the basics of High Scepter, challenge the trial of the Training Chapel",
     "steps": [
@@ -66,5 +78,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=lCQU8_orZwo"]
 }

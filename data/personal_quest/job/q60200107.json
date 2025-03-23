@@ -3,18 +3,31 @@
     "name": "Skill Augmentation Priest Trial: IV",
     "quest_id": 60200107,
     "area_id": null,
-    "guide_type": "AreaTrialOrMission",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 2107,
+        "name": "Camus",
+        "stage": {
+            "name": "Pawn Cathedral",
+            "id": 78
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60200106,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "Priest", "param02": 60},
+        {"type": "MainQuestCompleted", "param01": 20250},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Priest Skill Augmentation IV"
+        ]
     },
     "description": "To learn new Priest tactics, challenge the trial of the Job Master",
     "steps": [

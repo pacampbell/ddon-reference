@@ -3,18 +3,31 @@
     "name": "Skill Augmentation Spirit Lancer Trial: IV",
     "quest_id": 60200139,
     "area_id": null,
-    "guide_type": "AreaTrialOrMission",
-    "starting_npc": null,
+    "guide_type": "VocationQuest",
+    "starting_npc": {
+        "id": 4510,
+        "name": "Adair Donnchadh",
+        "stage": {
+            "name": "Spirit Arts Hut",
+            "id": 401
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60200138,
         "next_quest_id": 0
     },
-    "order_conditions": [],
+    "order_conditions": [
+        {"type": "MinimumVocationLevel", "param01": "SpiritLancer", "param02": 60},
+        {"type": "MainQuestCompleted", "param01": 20250},
+        {"type": "Solo"}
+    ],
     "unlocks": {
         "tutorials": [],
-        "contents": []
+        "contents": [
+            "Spirit Lancer Skill Augmentation IV"
+        ]
     },
     "description": "To learn new Spirit Lancer tactics, challenge the trial of the Job Master",
     "steps": [

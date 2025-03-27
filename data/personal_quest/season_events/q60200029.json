@@ -3,7 +3,7 @@
     "name": "White Day Gift Return Lise and Mayleaf",
     "quest_id": 60200029,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

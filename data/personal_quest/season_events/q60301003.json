@@ -3,7 +3,7 @@
     "name": "Wish on a Shooting Star II",
     "quest_id": 60301003,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

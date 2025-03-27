@@ -3,7 +3,7 @@
     "name": "Emergency! Not Enough Candy! (2)",
     "quest_id": 60301053,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,
@@ -49,9 +49,13 @@
                                 "name": "Halloween Petit Muffin",
                                 "item_id": 23545,
                                 "amount": 70
+                            },
+                            {
+                                "name": "Horror Night Plush",
+                                "item_id": 21664,
+                                "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

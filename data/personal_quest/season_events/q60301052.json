@@ -3,7 +3,7 @@
     "name": "Emergency! Not Enough Candy! (1)",
     "quest_id": 60301052,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

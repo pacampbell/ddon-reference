@@ -3,7 +3,7 @@
     "name": "Light a Pumpkin Lantern?",
     "quest_id": 60200016,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

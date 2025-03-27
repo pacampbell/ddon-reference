@@ -3,7 +3,7 @@
     "name": "A Merry Christmas Spreading Cheer (2)",
     "quest_id": 60301056,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,
@@ -47,9 +47,13 @@
                                 "name": "Sparkling Snow Large Crystal",
                                 "item_id": 23548,
                                 "amount": 70
+                            },
+                            {
+                                "name": "Christmas Puppet - Mandragora",
+                                "item_id": 21718,
+                                "amount": 1
                             }
-                        ],
-                        []
+                        ]
                     ]
                 }
             ]

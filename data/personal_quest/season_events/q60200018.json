@@ -1,9 +1,9 @@
 {
     "type": "Personal",
-    "name": "Path to Miracles ()",
+    "name": "Path to Miracles (2)",
     "quest_id": 60200018,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

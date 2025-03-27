@@ -3,7 +3,7 @@
     "name": "Berserk In the Flow of Causality...",
     "quest_id": 60320013,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

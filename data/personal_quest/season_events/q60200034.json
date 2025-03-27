@@ -1,9 +1,9 @@
 {
     "type": "Personal",
-    "name": "Summer! Beach Festival ()",
+    "name": "Summer! Beach Festival (2)",
     "quest_id": 60200034,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

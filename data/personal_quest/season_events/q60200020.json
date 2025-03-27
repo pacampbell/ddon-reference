@@ -3,7 +3,7 @@
     "name": "With Great Desire to Gift (Upper)",
     "quest_id": 60200020,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

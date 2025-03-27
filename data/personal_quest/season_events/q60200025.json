@@ -1,9 +1,9 @@
 {
     "type": "Personal",
-    "name": "Shape of Love for Someone ()",
+    "name": "Shape of Love for Someone (2)",
     "quest_id": 60200025,
     "area_id": null,
-    "guide_type": "QuestUsefulForAdventure",
+    "guide_type": "CollaborationOrSeasonalQuest",
     "starting_npc": null,
     "minimum_area_rank": 0,
     "repeatable": false,

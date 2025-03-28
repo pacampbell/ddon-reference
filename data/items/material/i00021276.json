@@ -10,8 +10,8 @@
     "jobs": [],
     "sell_price": 900,
     "weight": 0,
+    "item_level": 115,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": true,
-    "item_level": 3
+    "can_bazaar": true
 }

@@ -10,11 +10,11 @@
     "jobs": [],
     "sell_price": 10,
     "weight": 0,
+    "item_level": 8,
     "crest_slots": 0,
     "quality": 0,
     "can_bazaar": false,
     "level": 36,
-    "item_level": 8,
     "stats": {},
     "params": [
         {

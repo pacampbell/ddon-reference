@@ -22,11 +22,11 @@
     ],
     "sell_price": 100,
     "weight": 1,
+    "item_level": 50,
     "crest_slots": 1,
     "quality": 0,
     "can_bazaar": false,
     "level": 1,
-    "item_level": 2,
     "stats": {},
     "params": []
 }

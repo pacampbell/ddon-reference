@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 909,
+    "name": "Formula Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 396,
+        "color_id": 10
+    },
+    "sell_price": 6270,
+    "weight": 72,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 205,
+        "magic_attack": 0,
+        "magic_defense": 164,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 52
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 724
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2438,
+    "name": "Aeon Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 9,
+        "color_id": 10
+    },
+    "sell_price": 3535,
+    "weight": 23,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 52,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 197,
+        "magic_attack": 0,
+        "magic_defense": 164,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 11
+        }
+    ]
+}

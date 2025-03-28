@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9420,
+    "name": "Rare Meat Pat\u00e9",
+    "info": "A dish full of vigor using meat.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 458,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 10
+}

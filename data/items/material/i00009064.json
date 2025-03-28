@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9064,
+    "name": "Northern Oregano",
+    "info": "Floral Crafting Material: Herbs rooted in the\nbarren lands of the northern region.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19376,
+    "name": "Extreme Dash ST Consumption Reduced",
+    "info": "The amount of stamina consumed during a dash is\nfurther reduced, and the speed increases.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

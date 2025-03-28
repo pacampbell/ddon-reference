@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21326,
+    "name": "Living Room Carpet - Christmas",
+    "info": "A carpet that can be placed in the Living Room to\nfully enjoy Christmas",
+    "icon": {
+        "icon_id": 2388,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

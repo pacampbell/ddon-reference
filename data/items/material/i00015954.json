@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15954,
+    "name": "Valley Spring Water",
+    "info": "Liquid Crafting Material: Natural water rich in\nminerals polished by the valley.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

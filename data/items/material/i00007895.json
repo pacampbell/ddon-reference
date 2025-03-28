@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7895,
+    "name": "Peridot",
+    "info": "Gem Crafting Material: A yellow-green gem that is\nsaid to possess the power of protection.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 4
+}

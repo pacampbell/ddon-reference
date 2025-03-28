@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1038,
+    "name": "Key to Gardnox Fortress' Front Gate",
+    "info": "Gardnock Fortress' huge key.\nIt seems to open the main gate of the fort.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

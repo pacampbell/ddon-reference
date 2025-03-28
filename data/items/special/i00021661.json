@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21661,
+    "name": "3rd Anniversary Puppet",
+    "info": "Cute puppet that celebrates the 3rd anniversary\ncan be placed on top of the chest in a larger size",
+    "icon": {
+        "icon_id": 2431,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 32
+}

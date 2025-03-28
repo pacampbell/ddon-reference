@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4833,
+    "name": "Brute Killer",
+    "info": "",
+    "icon": {
+        "icon_id": 824,
+        "color_id": 9
+    },
+    "sell_price": 8468,
+    "weight": 80,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 984,
+        "magic_attack": 792,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 193
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

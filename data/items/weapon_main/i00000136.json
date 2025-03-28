@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 136,
+    "name": "Bastard Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 827,
+        "color_id": 7
+    },
+    "sell_price": 2308,
+    "weight": 110,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 25,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 466,
+        "magic_attack": 288,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 109
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18616,
+    "name": "Myrmidon",
+    "info": "Grant the effect beyond LV.6 of the following\naugments:\nCompanion Health, Companion Stamina, Companion\nAttack,\nCompanion Magick, Companion Defense, Companion\nMagick Defense.\nNo effect when equipped on pawn.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

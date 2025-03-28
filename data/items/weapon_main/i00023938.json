@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 23938,
+    "name": "Fire King's Magick Gauntlet",
+    "info": "",
+    "icon": {
+        "icon_id": 2710,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 84,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3298,
+        "magic_attack": 3178,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 646
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 103
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

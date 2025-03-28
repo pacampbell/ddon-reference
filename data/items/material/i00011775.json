@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11775,
+    "name": "Stalactite Tip",
+    "info": "Ore Crafting Material: Stalactite Tip",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 9
+}

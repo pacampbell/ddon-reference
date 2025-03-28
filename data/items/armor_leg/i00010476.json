@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10476,
+    "name": "Nemesis Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1090,
+        "color_id": 82
+    },
+    "sell_price": 500,
+    "weight": 54,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 34,
+        "magic_attack": 0,
+        "magic_defense": 27,
+        "crest_slot": 0,
+        "ele_slot": 2
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 16
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 187
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 20318,
+    "name": "Rousing Schlucht Cane",
+    "info": "",
+    "icon": {
+        "icon_id": 1682,
+        "color_id": 11
+    },
+    "sell_price": 45655,
+    "weight": 84,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2900,
+        "magic_attack": 3051,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 459
+        }
+    ]
+}

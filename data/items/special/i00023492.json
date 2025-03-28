@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23492,
+    "name": "Evil Eye Puppet",
+    "info": "Halloween Furniture 2019.",
+    "icon": {
+        "icon_id": 2529,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

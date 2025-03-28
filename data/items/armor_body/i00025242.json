@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25242,
+    "name": "Savage Courage Assault Mail",
+    "info": "",
+    "icon": {
+        "icon_id": 1556,
+        "color_id": 11
+    },
+    "sell_price": 25100,
+    "weight": 73,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 1000,
+        "magic_attack": 10,
+        "magic_defense": 889,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 44
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1299
+        }
+    ]
+}

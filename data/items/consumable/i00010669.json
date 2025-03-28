@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 10669,
+    "name": "Craft Master Pawn",
+    "info": "This is a Rental Ticket for \"Craft Master Pawn\".\nYou can rent the target Pawn for free from Rift\nCrystals.\n<COL ffdc78>*Please check the Pawn details at the\nRift Crystals.</COL>",
+    "icon": {
+        "icon_id": 1162,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

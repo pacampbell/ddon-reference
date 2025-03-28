@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 21042,
+    "name": "R\u00e9bellion Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 2284,
+        "color_id": 10
+    },
+    "sell_price": 4620,
+    "weight": 14,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 227,
+        "magic_attack": 0,
+        "magic_defense": 227,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 444
+        }
+    ]
+}

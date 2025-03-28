@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7778,
+    "name": "Beast Fur",
+    "info": "Fur Crafting Material: Beast Fur from common\nmagical beasts like Grimwargs and Wargs.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

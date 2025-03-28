@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 18934,
+    "name": "True Wanted Heart",
+    "info": "",
+    "icon": {
+        "icon_id": 1625,
+        "color_id": 111
+    },
+    "sell_price": 34270,
+    "weight": 100,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3548,
+        "magic_attack": 3025,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1148
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

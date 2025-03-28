@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9447,
+    "name": "Scroll of Bewitching",
+    "info": "Grimoire Crafting Material:\nScrolls with powerful magical seals.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 6
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 12
+}

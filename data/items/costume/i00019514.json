@@ -1,0 +1,65 @@
+{
+    "type": "equipment",
+    "item_id": 19514,
+    "name": "Aurora Bright Armor (Plain)",
+    "info": "",
+    "icon": {
+        "icon_id": 1972,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 80,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 2280,
+        "magic_attack": 10,
+        "magic_defense": 2280,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 260
+        },
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 30
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 30
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 30
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1500
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 850
+        }
+    ]
+}

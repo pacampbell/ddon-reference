@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 43,
+    "name": "Angel's Periapt",
+    "info": "Grants the user the\nspecified status effect.",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 1
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

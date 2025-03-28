@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24819,
+    "name": "Black and Silver Chaos Metal",
+    "info": "Metal Crafting Material.\nAn unknown lump of metal with unparalleled\nhardness and Dragon Force.",
+    "icon": {
+        "icon_id": 2933,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

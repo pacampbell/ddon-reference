@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 1018,
+    "name": "White Dragon's Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 203,
+        "color_id": 9
+    },
+    "sell_price": 1900,
+    "weight": 10,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 50,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 47,
+        "magic_attack": 0,
+        "magic_defense": 47,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

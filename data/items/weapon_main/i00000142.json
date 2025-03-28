@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 142,
+    "name": "Falcata",
+    "info": "",
+    "icon": {
+        "icon_id": 829,
+        "color_id": 8
+    },
+    "sell_price": 4628,
+    "weight": 110,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 603,
+        "magic_attack": 430,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 140
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

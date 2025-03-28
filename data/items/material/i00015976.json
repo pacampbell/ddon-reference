@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15976,
+    "name": "Giant Fossil Shell",
+    "info": "Miscellaneous Crafting Material:\nGiant Fossilized Shell",
+    "icon": {
+        "icon_id": 520,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 12
+}

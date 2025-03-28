@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 21174,
+    "name": "Supreme White Knights Male Armor (Origin)",
+    "info": "",
+    "icon": {
+        "icon_id": 2270,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 20,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 28,
+        "defense": 2980,
+        "magic_attack": 28,
+        "magic_defense": 2981,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 270
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 50
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 50
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1950
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1600
+        }
+    ]
+}

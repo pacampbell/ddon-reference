@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 17550,
+    "name": "Tucana Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 1044,
+        "color_id": 11
+    },
+    "sell_price": 34270,
+    "weight": 80,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2253,
+        "magic_attack": 2542,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 729
+        }
+    ]
+}

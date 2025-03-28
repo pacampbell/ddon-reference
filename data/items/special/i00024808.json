@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 24808,
+    "name": "",
+    "info": "Recipe for Noble Arms",
+    "icon": {
+        "icon_id": 2367,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

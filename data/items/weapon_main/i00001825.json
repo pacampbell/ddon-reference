@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1825,
+    "name": "Portal Indicator",
+    "info": "",
+    "icon": {
+        "icon_id": 1020,
+        "color_id": 8
+    },
+    "sell_price": 5785,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 435,
+        "magic_attack": 538,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 111
+        }
+    ]
+}

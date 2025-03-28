@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19563,
+    "name": "Stereoscopic Projector",
+    "info": "A projector that you can enjoy in your room.",
+    "icon": {
+        "icon_id": 2408,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

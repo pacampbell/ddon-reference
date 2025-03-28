@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17939,
+    "name": "2nd Anniversary Tapestry (Right)",
+    "info": "A tapestry (right) that can be installed in the\nStudy to celebrate the 2nd anniversary.",
+    "icon": {
+        "icon_id": 1903,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

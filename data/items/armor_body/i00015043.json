@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15043,
+    "name": "Medium Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 180,
+        "color_id": 10
+    },
+    "sell_price": 15566,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 571,
+        "magic_attack": 1,
+        "magic_defense": 507,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

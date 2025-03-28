@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17909,
+    "name": "Flesh-Eating Snail",
+    "info": "Miscellaneous Crafting Material: Carnivorous\nShellfish that devours meat in packs.",
+    "icon": {
+        "icon_id": 520,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 10
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13341,
+    "name": "AP (Elan Water Grove)",
+    "info": "You can obtain\nElan Water Grove AP.",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 255
+}

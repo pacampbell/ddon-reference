@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 20556,
+    "name": "Round Mirror of Sacrament",
+    "info": "",
+    "icon": {
+        "icon_id": 261,
+        "color_id": 10
+    },
+    "sell_price": 12300,
+    "weight": 38,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 423,
+        "magic_attack": 5,
+        "magic_defense": 677,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

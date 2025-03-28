@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3006,
+    "name": "Dissuader",
+    "info": "",
+    "icon": {
+        "icon_id": 867,
+        "color_id": 10
+    },
+    "sell_price": 15685,
+    "weight": 120,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1424,
+        "magic_attack": 1008,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 430
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

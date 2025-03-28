@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8013,
+    "name": "Scroll of Thunder",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of Lightning.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

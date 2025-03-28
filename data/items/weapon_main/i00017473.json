@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17473,
+    "name": "Nobility's Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 937,
+        "color_id": 10
+    },
+    "sell_price": 31968,
+    "weight": 55,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 3,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2157,
+        "magic_attack": 1974,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 223
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

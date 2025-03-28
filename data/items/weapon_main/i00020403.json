@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20403,
+    "name": "Rousing Schlucht Scimitar",
+    "info": "",
+    "icon": {
+        "icon_id": 2364,
+        "color_id": 11
+    },
+    "sell_price": 45655,
+    "weight": 80,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3173,
+        "magic_attack": 3173,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 616
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13889,
+    "name": "AB Acquisition_Healing_Air_Tolerance",
+    "info": "",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21221,
+    "name": "Strong Acid Sac",
+    "info": "Meat Crafting Material: Organ of the Geo Saurian,\nwhich produces a highly potent acid.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

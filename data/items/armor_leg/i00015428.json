@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 15428,
+    "name": "Enhanced Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1573,
+        "color_id": 111
+    },
+    "sell_price": 10548,
+    "weight": 42,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 313,
+        "magic_attack": 4,
+        "magic_defense": 251,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 73
+        },
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 7
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 7
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 7
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 758
+        }
+    ]
+}

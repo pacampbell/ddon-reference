@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7769,
+    "name": "Black Skull",
+    "info": "Bone Crafting Material.\nWight (Level 25~) Skull tainted with Resentment",
+    "icon": {
+        "icon_id": 473,
+        "color_id": 103
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

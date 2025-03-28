@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7938,
+    "name": "Combat Fabric",
+    "info": "Cloth Crafting Material: Thick and durable cloth\nsuitable for heavy armor.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 3
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 5
+}

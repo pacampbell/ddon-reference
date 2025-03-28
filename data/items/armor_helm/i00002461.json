@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2461,
+    "name": "General's Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 321,
+        "color_id": 9
+    },
+    "sell_price": 2690,
+    "weight": 36,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 99,
+        "magic_attack": 0,
+        "magic_defense": 159,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

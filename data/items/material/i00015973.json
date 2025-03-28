@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15973,
+    "name": "Demon Envoy's Horn",
+    "info": "Horn Crafting Material: Grigori's horn, still\nemanating a strange presence even after being\nsevered.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 13
+}

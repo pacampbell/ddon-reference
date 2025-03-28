@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 15619,
+    "name": "Knight Commander's Armor (Refined)",
+    "info": "",
+    "icon": {
+        "icon_id": 1602,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 240,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 1771,
+        "magic_attack": 0,
+        "magic_defense": 1771,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 236
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 20
+        },
+        {
+            "id": 26,
+            "name": "KIND_TYPE_EROSION_DEF",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1800
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 966
+        }
+    ]
+}

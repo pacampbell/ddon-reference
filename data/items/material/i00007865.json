@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7865,
+    "name": "Monster Gallstone",
+    "info": "Ore Crafting Material:\nA hard stone formed inside the body of a monster.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 2
+    },
+    "sell_price": 80,
+    "weight": 0,
+    "item_level": 4
+}

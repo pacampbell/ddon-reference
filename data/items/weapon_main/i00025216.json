@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 25216,
+    "name": "Solitary Ranger's Scimitar",
+    "info": "",
+    "icon": {
+        "icon_id": 2362,
+        "color_id": 11
+    },
+    "sell_price": 49000,
+    "weight": 73,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3904,
+        "magic_attack": 3904,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 741
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

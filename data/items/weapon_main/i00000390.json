@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 390,
+    "name": "D\u00e1insleif",
+    "info": "",
+    "icon": {
+        "icon_id": 872,
+        "color_id": 10
+    },
+    "sell_price": 19225,
+    "weight": 120,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1555,
+        "magic_attack": 1134,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 448
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

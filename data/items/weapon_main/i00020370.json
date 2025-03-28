@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20370,
+    "name": "Wand of Fedelt\u00e0",
+    "info": "",
+    "icon": {
+        "icon_id": 2339,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 5,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2995,
+        "magic_attack": 3307,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 939
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        }
+    ]
+}

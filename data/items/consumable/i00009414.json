@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9414,
+    "name": "Five-Herb Salad",
+    "info": "Salad abundant with herbs.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 456,
+        "color_id": 4
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

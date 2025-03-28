@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11859,
+    "name": "Constellation",
+    "info": "",
+    "icon": {
+        "icon_id": 838,
+        "color_id": 10
+    },
+    "sell_price": 19604,
+    "weight": 120,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1793,
+        "magic_attack": 1570,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 397
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

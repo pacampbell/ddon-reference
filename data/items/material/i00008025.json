@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8025,
+    "name": "Chipped Gold Lump",
+    "info": "Miscellaneous Crafting Material: A chipped metal\nstake embedded in a spell.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 5
+    },
+    "sell_price": 190,
+    "weight": 0,
+    "item_level": 10
+}

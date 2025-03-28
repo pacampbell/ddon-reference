@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2949,
+    "name": "Twisted Serpent",
+    "info": "",
+    "icon": {
+        "icon_id": 1030,
+        "color_id": 8
+    },
+    "sell_price": 4810,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 31,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 439,
+        "magic_attack": 646,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 207
+        }
+    ]
+}

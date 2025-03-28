@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25453,
+    "name": "Solitary Ranger's Bottoms",
+    "info": "",
+    "icon": {
+        "icon_id": 1961,
+        "color_id": 11
+    },
+    "sell_price": 18500,
+    "weight": 44,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 601,
+        "magic_attack": 11,
+        "magic_defense": 481,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 104
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 840
+        }
+    ]
+}

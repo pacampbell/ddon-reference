@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14249,
+    "name": "Moody Lamp - Pumpkin",
+    "info": "Room lamps that illuminate the room with a happy\nlight.",
+    "icon": {
+        "icon_id": 1537,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

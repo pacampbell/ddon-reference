@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 254,
+    "name": "Valor Glare",
+    "info": "",
+    "icon": {
+        "icon_id": 893,
+        "color_id": 8
+    },
+    "sell_price": 5188,
+    "weight": 50,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 564,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 228
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 240
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 3
+        }
+    ]
+}

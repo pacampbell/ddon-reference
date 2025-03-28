@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15612,
+    "name": "Azure Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1564,
+        "color_id": 111
+    },
+    "sell_price": 3840,
+    "weight": 10,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 133,
+        "magic_attack": 0,
+        "magic_defense": 133,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7737,
+    "name": "Saurian Gland",
+    "info": "Meat-based crafting material.\nRare poison gland of a Sulfur Lizard.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

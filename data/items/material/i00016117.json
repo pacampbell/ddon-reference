@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16117,
+    "name": "Armored Scale",
+    "info": "Pelt Crafting Material: Mysterious scales that\nhave hardened like stone.",
+    "icon": {
+        "icon_id": 1426,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 7
+}

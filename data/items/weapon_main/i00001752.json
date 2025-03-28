@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1752,
+    "name": "Captain's Soul",
+    "info": "",
+    "icon": {
+        "icon_id": 820,
+        "color_id": 8
+    },
+    "sell_price": 5188,
+    "weight": 80,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 648,
+        "magic_attack": 473,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 149
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

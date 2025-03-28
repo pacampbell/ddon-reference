@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15207,
+    "name": "Greedy Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 1548,
+        "color_id": 127
+    },
+    "sell_price": 9601,
+    "weight": 0,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 422,
+        "magic_attack": 4,
+        "magic_defense": 351,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 25015,
+    "name": "Combat Leather Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 2827,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 917,
+        "magic_attack": 9,
+        "magic_defense": 815,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 45
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 25
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1293
+        }
+    ]
+}

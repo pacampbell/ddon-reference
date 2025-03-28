@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21765,
+    "name": "Olfring Daggers (Terra Preta)",
+    "info": "",
+    "icon": {
+        "icon_id": 1465,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 50,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2624,
+        "magic_attack": 2432,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 278
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

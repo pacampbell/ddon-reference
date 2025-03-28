@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13944,
+    "name": "AB Acquisition_Avoidance_Reflection Overthrow",
+    "info": "",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

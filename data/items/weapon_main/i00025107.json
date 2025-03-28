@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 25107,
+    "name": "Savage Courage Snipe dagger",
+    "info": "",
+    "icon": {
+        "icon_id": 2317,
+        "color_id": 11
+    },
+    "sell_price": 48500,
+    "weight": 50,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3507,
+        "magic_attack": 3299,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 350
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7898,
+    "name": "Emerald",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines green.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

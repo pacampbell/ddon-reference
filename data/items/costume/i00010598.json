@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 10598,
+    "name": "Ancient Folk Maiden's Clothes (Refined)",
+    "info": "",
+    "icon": {
+        "icon_id": 1182,
+        "color_id": 84
+    },
+    "sell_price": 15000,
+    "weight": 240,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 1107,
+        "magic_attack": 0,
+        "magic_defense": 1107,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 216
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1800
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 966
+        }
+    ]
+}

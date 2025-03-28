@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7844,
+    "name": "Polishing Sand",
+    "info": "Sand Crafting Material: Fine, white, small grains\nof sand with a smooth texture.",
+    "icon": {
+        "icon_id": 484,
+        "color_id": 2
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 3
+}

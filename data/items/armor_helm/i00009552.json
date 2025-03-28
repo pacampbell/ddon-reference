@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 9552,
+    "name": "Legacy Band",
+    "info": "",
+    "icon": {
+        "icon_id": 283,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 18,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 45,
+        "magic_attack": 0,
+        "magic_defense": 73,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

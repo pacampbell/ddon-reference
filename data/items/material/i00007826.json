@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7826,
+    "name": "Stagnant Water",
+    "info": "Liquid Crafting Material: Heavy, cloudy water\nwith a higher density than regular water.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

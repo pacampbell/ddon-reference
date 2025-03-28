@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23504,
+    "name": "4th Anniversary Cake",
+    "info": "Furniture to celebrate the 4th anniversary.",
+    "icon": {
+        "icon_id": 2531,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 24802,
+    "name": "",
+    "info": "Recipe for the Refined Circlet",
+    "icon": {
+        "icon_id": 2255,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

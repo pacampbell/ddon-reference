@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 9707,
+    "name": "Smart Line Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 381,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 54,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 58,
+        "magic_attack": 0,
+        "magic_defense": 47,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 342
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21664,
+    "name": "Horror Night Plush",
+    "info": "A plush toy that's perfect for Horror Night\n",
+    "icon": {
+        "icon_id": 2424,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

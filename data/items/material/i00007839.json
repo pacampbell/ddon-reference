@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7839,
+    "name": "Unrefined Demon Wine",
+    "info": "Liquid Crafting Material: Cloudy liquor. Not\nsuitable for consumption as is.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 4
+}

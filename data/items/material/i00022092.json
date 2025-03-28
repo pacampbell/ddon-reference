@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22092,
+    "name": "Fire Force 75",
+    "info": "Adds status abnormalities [Caught Fire], [Fire\nResist Down], [Tarred].\n*[Caught Fire] is effective when attacking or\nwhen the status applies the attribute of fire.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

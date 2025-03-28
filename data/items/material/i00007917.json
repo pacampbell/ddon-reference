@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7917,
+    "name": "Animal Pelt",
+    "info": "Pelt Crafting Material: Common animal skins.\nVarious ways to use them.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

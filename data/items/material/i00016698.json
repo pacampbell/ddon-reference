@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16698,
+    "name": "Black Knight's Thoughts",
+    "info": "Crafting materials with limited availability\nMysterious jet-black Arisen being of unknown\norigin",
+    "icon": {
+        "icon_id": 1825,
+        "color_id": 23
+    },
+    "sell_price": 960,
+    "weight": 0,
+    "item_level": 11
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11867,
+    "name": "Sword of Tyrant",
+    "info": "",
+    "icon": {
+        "icon_id": 1450,
+        "color_id": 11
+    },
+    "sell_price": 19604,
+    "weight": 80,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1793,
+        "magic_attack": 1570,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 336
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 21065,
+    "name": "Tra\u00eetre Hose",
+    "info": "",
+    "icon": {
+        "icon_id": 797,
+        "color_id": 11
+    },
+    "sell_price": 3519,
+    "weight": 6,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 178,
+        "magic_attack": 0,
+        "magic_defense": 178,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 75
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 295
+        }
+    ]
+}

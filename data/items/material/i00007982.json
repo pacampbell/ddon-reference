@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7982,
+    "name": "Angelica",
+    "info": "Floral Crafting Material:\nDelicate grass that bears small vermilion flowers.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16134,
+    "name": "Music Player",
+    "info": "Furniture that can play sheet music and Secret\nAugments.",
+    "icon": {
+        "icon_id": 1741,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 14022,
+    "name": "Blessing Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 588,
+        "color_id": 110
+    },
+    "sell_price": 1000,
+    "weight": 1,
+    "level": 60,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 6
+        }
+    ]
+}

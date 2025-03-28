@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 24805,
+    "name": "",
+    "info": "Recipe for Refined Legs",
+    "icon": {
+        "icon_id": 2267,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

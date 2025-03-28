@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23702,
+    "name": "High scepter lightning damage UP",
+    "info": "The damage inflicted by the High Scepter's\nLightning attribute increases. *This effect is\nactivated when attacking or when matching the\nattribute of the status application. (Note: This\neffect is invalid during enchantment changes).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

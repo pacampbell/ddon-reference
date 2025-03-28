@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19641,
+    "name": "Horror Night Living Room Carpet",
+    "info": "A carpet that is perfect for Horror Night and can\nbe placed in the living room\n",
+    "icon": {
+        "icon_id": 1540,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

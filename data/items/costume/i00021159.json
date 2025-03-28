@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 21159,
+    "name": "Supreme Tomboy Arisen's Clothes (Origin)",
+    "info": "",
+    "icon": {
+        "icon_id": 1969,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 85,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 22,
+        "defense": 2568,
+        "magic_attack": 22,
+        "magic_defense": 2568,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 220
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 56
+        },
+        {
+            "id": 93,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 56
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1600
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1300
+        }
+    ]
+}

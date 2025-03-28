@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16102,
+    "name": "Book of Acquisition (Deft Footing: Light)",
+    "info": "Learn the secret ability 'Light Stepping'Learn\nthe Secret Augment \"Deft Footing: Light\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 16593,
+    "name": "Dragon's Supreme",
+    "info": "",
+    "icon": {
+        "icon_id": 1671,
+        "color_id": 111
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2007,
+        "magic_attack": 2178,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 301
+        }
+    ]
+}

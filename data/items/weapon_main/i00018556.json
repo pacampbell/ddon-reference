@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 18556,
+    "name": "Black Venom Spell",
+    "info": "",
+    "icon": {
+        "icon_id": 2084,
+        "color_id": 82
+    },
+    "sell_price": 30000,
+    "weight": 54,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1760,
+        "magic_attack": 1930,
+        "crest_slot": 0,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 286
+        },
+        {
+            "id": 44,
+            "name": "KIND_TYPE_SOFTBODY_SAV",
+            "value": 80
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 10
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 61,
+    "name": "Superior Gala Extract",
+    "info": "Recovers a portion of the user's stamina.",
+    "icon": {
+        "icon_id": 430,
+        "color_id": 2
+    },
+    "sell_price": 40,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 10
+}

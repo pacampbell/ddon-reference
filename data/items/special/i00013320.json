@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13320,
+    "name": "Recipe: Brick Cooking Station",
+    "info": "Recipe for a Brick Cooking Station that can be\ninstalled in the Kitchen.",
+    "icon": {
+        "icon_id": 1503,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

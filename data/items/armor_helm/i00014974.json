@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 14974,
+    "name": "Patrician Beret",
+    "info": "",
+    "icon": {
+        "icon_id": 1710,
+        "color_id": 10
+    },
+    "sell_price": 9601,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 330,
+        "magic_attack": 2,
+        "magic_defense": 528,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 3
+        }
+    ]
+}

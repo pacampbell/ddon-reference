@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20135,
+    "name": "Brave Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 2301,
+        "color_id": 11
+    },
+    "sell_price": 9388,
+    "weight": 48,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 496
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 10
+        }
+    ]
+}

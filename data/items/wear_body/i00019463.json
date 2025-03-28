@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 19463,
+    "name": "Boundless Tempest Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 2017,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 182,
+        "magic_attack": 0,
+        "magic_defense": 182,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 395
+        }
+    ]
+}

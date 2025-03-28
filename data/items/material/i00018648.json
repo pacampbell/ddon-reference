@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18648,
+    "name": "Volcanic Sand",
+    "info": "Sand Crafting Material: Sand particles containing\nvarious minerals derived from volcanoes.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 0
+}

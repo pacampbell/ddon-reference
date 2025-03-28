@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13166,
+    "name": "Holy Embrace",
+    "info": "",
+    "icon": {
+        "icon_id": 1325,
+        "color_id": 11
+    },
+    "sell_price": 2535,
+    "weight": 10,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 93,
+        "magic_attack": 0,
+        "magic_defense": 93,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

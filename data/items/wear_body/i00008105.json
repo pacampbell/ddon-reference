@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8105,
+    "name": "Coiled Wear",
+    "info": "",
+    "icon": {
+        "icon_id": 771,
+        "color_id": 5
+    },
+    "sell_price": 45,
+    "weight": 5,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 4,
+        "magic_attack": 0,
+        "magic_defense": 4,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 6
+        }
+    ]
+}

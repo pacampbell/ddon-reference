@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8596,
+    "name": "Iron Scale",
+    "info": "",
+    "icon": {
+        "icon_id": 778,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 15,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 39,
+        "magic_attack": 0,
+        "magic_defense": 39,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 210
+        }
+    ]
+}

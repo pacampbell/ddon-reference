@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14577,
+    "name": "Brachium Diabolus",
+    "info": "",
+    "icon": {
+        "icon_id": 981,
+        "color_id": 11
+    },
+    "sell_price": 32005,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2162,
+        "magic_attack": 2054,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 431
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 11714,
+    "name": "Alchemy Annihilator",
+    "info": "",
+    "icon": {
+        "icon_id": 1155,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 50,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 381,
+        "magic_attack": 579,
+        "crest_slot": 0,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 176
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 99,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 101,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        }
+    ]
+}

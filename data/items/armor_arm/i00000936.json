@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 936,
+    "name": "Virtue Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 72,
+        "color_id": 9
+    },
+    "sell_price": 3240,
+    "weight": 45,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 159,
+        "magic_attack": 0,
+        "magic_defense": 132,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

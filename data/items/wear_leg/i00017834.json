@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 17834,
+    "name": "Biyabaan Tights",
+    "info": "",
+    "icon": {
+        "icon_id": 809,
+        "color_id": 11
+    },
+    "sell_price": 2605,
+    "weight": 6,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 138,
+        "magic_attack": 0,
+        "magic_defense": 138,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 62
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 254
+        }
+    ]
+}

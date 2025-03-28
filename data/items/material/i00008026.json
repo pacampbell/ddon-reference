@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8026,
+    "name": "Mysterious Gold Lump",
+    "info": "Miscellaneous Crafting Material: Metal stake with\nintricate design.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

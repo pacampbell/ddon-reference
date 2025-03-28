@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22127,
+    "name": "Thunder Force 50",
+    "info": "Adds debilitations [Shocked], [Thunder Resist\nDown], and [Drenched].\n*[Shocked] is effective when attacking or when\nthe status applies the attribute of lightning.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15940,
+    "name": "Rare Green Tree Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nIt is a crystallization of Dragon Force that\nfills the ancient trees.",
+    "icon": {
+        "icon_id": 1725,
+        "color_id": 23
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 12789,
+    "name": "Flood Ray of Warding Evil",
+    "info": "",
+    "icon": {
+        "icon_id": 952,
+        "color_id": 84
+    },
+    "sell_price": 12000,
+    "weight": 70,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1132,
+        "magic_attack": 886,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 221
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 9858,
+    "name": "Poison Arrow",
+    "info": "Used in attacks with a Hunter's bow and arrow.\nCauses the \"Poison\" debilitation.",
+    "icon": {
+        "icon_id": 526,
+        "color_id": 1
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "level": 1,
+    "item_level": 1,
+    "stats": {},
+    "params": []
+}

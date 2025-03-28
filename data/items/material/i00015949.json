@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15949,
+    "name": "Elana Water",
+    "info": "Liquid Crafting Material: Clear water with a soft\nand smooth taste, nurtured in the water forest.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 5
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 2
+}

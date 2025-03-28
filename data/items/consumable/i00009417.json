@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9417,
+    "name": "Blue Whiskey",
+    "info": "A nutritious beverage that can also serve as a\nsubstitute for medicine, with high nutritional\nvalue. It has various beneficial effects.",
+    "icon": {
+        "icon_id": 459,
+        "color_id": 4
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

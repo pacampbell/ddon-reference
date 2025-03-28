@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7992,
+    "name": "Ent Seed",
+    "info": "Floral Crafting Material: Seeds harvested by Ents\n(Lv. 30 and above).",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 104
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

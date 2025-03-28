@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17558,
+    "name": "Nobility's Spear",
+    "info": "",
+    "icon": {
+        "icon_id": 1695,
+        "color_id": 10
+    },
+    "sell_price": 31968,
+    "weight": 110,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 3,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2270,
+        "magic_attack": 2173,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 441
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

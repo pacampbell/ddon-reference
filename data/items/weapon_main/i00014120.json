@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14120,
+    "name": "Sharp String of Heroes",
+    "info": "",
+    "icon": {
+        "icon_id": 996,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1440,
+        "magic_attack": 1600,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 230
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

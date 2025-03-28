@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1044,
+    "name": "Fully Blocked Door Key",
+    "info": "Event Blocked Item.\nOnly used Server-Side.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

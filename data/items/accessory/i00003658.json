@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 3658,
+    "name": "Great Arisen's Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 203,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 10,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 57,
+        "magic_attack": 0,
+        "magic_defense": 57,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 18
+        }
+    ]
+}

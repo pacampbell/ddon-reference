@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15934,
+    "name": "Tarasque Shell",
+    "info": "Miscellaneous Crafting Material: Thinly peeled\nfrom the shell of a Tarasque, this yellow\ndecorative material has a translucent quality.",
+    "icon": {
+        "icon_id": 1428,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 7
+}

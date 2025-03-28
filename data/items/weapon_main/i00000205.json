@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 205,
+    "name": "Dawn Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1012,
+        "color_id": 7
+    },
+    "sell_price": 2210,
+    "weight": 120,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 271,
+        "magic_attack": 320,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 75
+        }
+    ]
+}

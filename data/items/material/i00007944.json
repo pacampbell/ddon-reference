@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7944,
+    "name": "Burial Shroud",
+    "info": "Cloth Crafting Material.\nUndead-worn tainted clothes.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 1
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 2
+}

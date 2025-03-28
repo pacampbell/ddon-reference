@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 2893,
+    "name": "Zombie Grave",
+    "info": "",
+    "icon": {
+        "icon_id": 892,
+        "color_id": 8
+    },
+    "sell_price": 6088,
+    "weight": 160,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 637,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 255
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 255
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

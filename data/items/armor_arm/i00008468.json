@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8468,
+    "name": "Knuckle Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 78,
+        "color_id": 5
+    },
+    "sell_price": 80,
+    "weight": 45,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 27,
+        "magic_attack": 0,
+        "magic_defense": 22,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        }
+    ]
+}

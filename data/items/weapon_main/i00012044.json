@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 12044,
+    "name": "Wall of Tyrant",
+    "info": "",
+    "icon": {
+        "icon_id": 1459,
+        "color_id": 11
+    },
+    "sell_price": 19604,
+    "weight": 100,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1717,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 526
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 380
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 13
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

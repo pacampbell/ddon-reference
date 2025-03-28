@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 18244,
+    "name": "Aura Balaclava",
+    "info": "",
+    "icon": {
+        "icon_id": 250,
+        "color_id": 10
+    },
+    "sell_price": 11100,
+    "weight": 40,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 378,
+        "magic_attack": 4,
+        "magic_defense": 604,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

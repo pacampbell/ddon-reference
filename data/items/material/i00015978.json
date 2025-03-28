@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15978,
+    "name": "Diseased Wreath",
+    "info": "Wood Crafting Material: A wreath woven from\nbranches of wood that have been deformed by the\neffects of corruption.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12292,
+    "name": "Olfring Sei\u00f0r (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1475,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 437,
+        "magic_attack": 362,
+        "crest_slot": 4,
+        "ele_slot": 11
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 109
+        },
+        {
+            "id": 53,
+            "name": "KIND_TYPE_DOWN_THUNDER_SAV",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

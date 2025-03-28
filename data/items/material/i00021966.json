@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21966,
+    "name": "Healing Power +33",
+    "info": "Increase healing power.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

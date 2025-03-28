@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8411,
+    "name": "Shadowy Drapes",
+    "info": "",
+    "icon": {
+        "icon_id": 373,
+        "color_id": 10
+    },
+    "sell_price": 4610,
+    "weight": 54,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 177,
+        "magic_attack": 0,
+        "magic_defense": 142,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 49
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 712
+        }
+    ]
+}

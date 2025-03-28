@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 16516,
+    "name": "Roaring Blaze Scale Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1494,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1797,
+        "magic_attack": 1930,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 297
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 12
+        }
+    ]
+}

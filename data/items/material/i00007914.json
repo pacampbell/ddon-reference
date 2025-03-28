@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7914,
+    "name": "Star Sphene",
+    "info": "Gem Crafting Material:\nA gem that emits various colors depending on the\nviewing angle.\nIt holds a shimmering sparkle like that of a star.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 6
+    },
+    "sell_price": 527,
+    "weight": 0,
+    "item_level": 11
+}

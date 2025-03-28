@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16145,
+    "name": "Adel's Greatsword",
+    "info": "",
+    "icon": {
+        "icon_id": 1733,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 150,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 806,
+        "magic_attack": 618,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 167
+        },
+        {
+            "id": 52,
+            "name": "KIND_TYPE_DOWN_ICE_SAV",
+            "value": 80
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 40
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

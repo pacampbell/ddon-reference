@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 19074,
+    "name": "True Road to Hades",
+    "info": "",
+    "icon": {
+        "icon_id": 1687,
+        "color_id": 111
+    },
+    "sell_price": 34270,
+    "weight": 80,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3232,
+        "magic_attack": 3548,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 984
+        }
+    ]
+}

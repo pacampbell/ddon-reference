@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23616,
+    "name": "Hunter's strike damage UP",
+    "info": "The amount of damage inflicted by the Hunter's\nstriking attribute increases. *This effect is\nactivated when attacking or when matching the\nphysical attribute of the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

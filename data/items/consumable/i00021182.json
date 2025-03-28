@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21182,
+    "name": "Ghost Marshmallow",
+    "info": "A fluffy marshmallow in the shape of a ghost.\nIt has a mysterious flavor and eating it restores\nyour health.",
+    "icon": {
+        "icon_id": 2178,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21261,
+    "name": "Demon Dog Pelt",
+    "info": "Pelt Crafting Material: Fur of the pitch-black\nHellhound.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

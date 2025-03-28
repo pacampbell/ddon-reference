@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20962,
+    "name": "Solidarit\u00e9 Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1929,
+        "color_id": 11
+    },
+    "sell_price": 24035,
+    "weight": 74,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 853,
+        "magic_attack": 7,
+        "magic_defense": 758,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 43
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1239
+        }
+    ]
+}

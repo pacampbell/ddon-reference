@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9375,
+    "name": "Refreshing Remedy",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 435,
+        "color_id": 3
+    },
+    "sell_price": 40,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

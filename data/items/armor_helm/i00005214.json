@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 5214,
+    "name": "Gryphus Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 249,
+        "color_id": 9
+    },
+    "sell_price": 2820,
+    "weight": 45,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 119,
+        "magic_attack": 0,
+        "magic_defense": 191,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

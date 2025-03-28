@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 14190,
+    "name": "Key of Gemstones",
+    "info": "A key adorned with a relief depicting friendship.\nIt is consumed upon use.",
+    "icon": {
+        "icon_id": 1415,
+        "color_id": 100
+    },
+    "sell_price": 950,
+    "weight": 0,
+    "item_level": 14,
+    "max_stack": 99
+}

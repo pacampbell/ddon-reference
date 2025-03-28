@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11771,
+    "name": "Voldic Diamond",
+    "info": "Gem Crafting Material: High-quality diamonds that\ncan be found rarely in the Volden Mines.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 4
+}

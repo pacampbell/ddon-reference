@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 9020,
+    "name": "Sage's Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 715,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 1,
+    "level": 41,
+    "item_level": 9,
+    "stats": {},
+    "params": []
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3312,
+    "name": "Black Gaiters",
+    "info": "",
+    "icon": {
+        "icon_id": 808,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 5,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 22,
+        "magic_attack": 0,
+        "magic_defense": 22,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 106
+        }
+    ]
+}

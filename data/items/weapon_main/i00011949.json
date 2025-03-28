@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11949,
+    "name": "Phindymian Breaker",
+    "info": "",
+    "icon": {
+        "icon_id": 1627,
+        "color_id": 11
+    },
+    "sell_price": 28130,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2131,
+        "magic_attack": 1676,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 701
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

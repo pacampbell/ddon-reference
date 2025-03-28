@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18310,
+    "name": "Niloufar Padding",
+    "info": "",
+    "icon": {
+        "icon_id": 1919,
+        "color_id": 11
+    },
+    "sell_price": 19917,
+    "weight": 73,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 716,
+        "magic_attack": 5,
+        "magic_defense": 636,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 37
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1151
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9379,
+    "name": "Pill of Savages",
+    "info": "Grants the user the\nspecified status effect.",
+    "icon": {
+        "icon_id": 437,
+        "color_id": 80
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 14,
+    "max_stack": 10
+}

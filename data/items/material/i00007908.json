@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7908,
+    "name": "Smoky Quartz",
+    "info": "Gem Crafting Material: Black Crystal Orb imbued\nwith the magic of the Empress Ghost.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 106
+    },
+    "sell_price": 757,
+    "weight": 0,
+    "item_level": 11
+}

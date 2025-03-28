@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7744,
+    "name": "Mystery Organs",
+    "info": "Meat Crafting Material: Unknown organs left\nbehind by Ghouls (LV. 46~) and other corpse-eating\ndemons.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 105
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 10
+}

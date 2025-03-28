@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 4680,
+    "name": "Arbitrator's Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 208,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 10,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 42,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 42,
+        "magic_attack": 0,
+        "magic_defense": 42,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 9
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

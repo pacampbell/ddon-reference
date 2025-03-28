@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18467,
+    "name": "Casanance Hose",
+    "info": "",
+    "icon": {
+        "icon_id": 2027,
+        "color_id": 111
+    },
+    "sell_price": 3023,
+    "weight": 5,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 158,
+        "magic_attack": 0,
+        "magic_defense": 158,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 66
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 277
+        }
+    ]
+}

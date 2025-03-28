@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 20737,
+    "name": "Suiere Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1564,
+        "color_id": 11
+    },
+    "sell_price": 5040,
+    "weight": 10,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 168,
+        "magic_attack": 0,
+        "magic_defense": 168,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 22
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

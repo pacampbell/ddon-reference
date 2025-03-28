@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13241,
+    "name": "Moody Lamp - Natural",
+    "info": "Room lamps that illuminate the room with gentle\nlight.",
+    "icon": {
+        "icon_id": 1508,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

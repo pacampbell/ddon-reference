@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7738,
+    "name": "Superior Saurian Tail",
+    "info": "Meat-based crafting material.\nWell-developed tail of an advanced species of\nlizard.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

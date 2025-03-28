@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 14062,
+    "name": "Tower Shield of Heroes",
+    "info": "",
+    "icon": {
+        "icon_id": 907,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 100,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1509,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 459
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 362
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

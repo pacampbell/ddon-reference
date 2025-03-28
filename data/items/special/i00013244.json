@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13244,
+    "name": "Table",
+    "info": "Furniture installed in your room.",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

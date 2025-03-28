@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13851,
+    "name": "AB Mastery_Strong_Reinforcement_Increase",
+    "info": "",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

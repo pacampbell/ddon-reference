@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17927,
+    "name": "Goremanticore's White Beard",
+    "info": "Fur Crafting Material: Goremanticore's white,\nrough and stubbly whiskers.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 4
+}

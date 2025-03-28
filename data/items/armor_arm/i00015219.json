@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15219,
+    "name": "Executioner's Arm Covers",
+    "info": "",
+    "icon": {
+        "icon_id": 22,
+        "color_id": 10
+    },
+    "sell_price": 8439,
+    "weight": 34,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 351,
+        "magic_attack": 1,
+        "magic_defense": 292,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 3
+        }
+    ]
+}

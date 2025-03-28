@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 4988,
+    "name": "Fierce Horn",
+    "info": "",
+    "icon": {
+        "icon_id": 1029,
+        "color_id": 7
+    },
+    "sell_price": 2425,
+    "weight": 140,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 359,
+        "magic_attack": 558,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 202
+        }
+    ]
+}

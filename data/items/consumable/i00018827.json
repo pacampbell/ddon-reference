@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 18827,
+    "name": "Adventure Pass Point",
+    "info": "Currency to be used in\nAdventure Pass Shop (BP).",
+    "icon": {
+        "icon_id": 1980,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

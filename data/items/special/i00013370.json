@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13370,
+    "name": "Recipe: Bath - Vitality Hot Tub",
+    "info": "Recipe for creating a bath where you can enjoy\nthe effects of the <<Spring of Vitality>> at\nKinoza Mineral Springs.",
+    "icon": {
+        "icon_id": 1517,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

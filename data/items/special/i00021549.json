@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21549,
+    "name": "Cookie Table - Bitter",
+    "info": "A living room table with a bitter color scheme.",
+    "icon": {
+        "icon_id": 2412,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2556,
+    "name": "Hard Leather Mask",
+    "info": "",
+    "icon": {
+        "icon_id": 284,
+        "color_id": 5
+    },
+    "sell_price": 70,
+    "weight": 27,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 21,
+        "magic_attack": 0,
+        "magic_defense": 33,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

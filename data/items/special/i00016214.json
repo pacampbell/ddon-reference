@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16214,
+    "name": "Recipe: Gorgeous Bed - Berry",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1747,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

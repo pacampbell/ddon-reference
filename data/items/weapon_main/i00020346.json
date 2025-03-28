@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 20346,
+    "name": "Wand of Altura",
+    "info": "",
+    "icon": {
+        "icon_id": 1263,
+        "color_id": 10
+    },
+    "sell_price": 43670,
+    "weight": 92,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2858,
+        "magic_attack": 3165,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 886
+        }
+    ]
+}

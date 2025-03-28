@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 24669,
+    "name": "Spirit's Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 2371,
+        "color_id": 86
+    },
+    "sell_price": 0,
+    "weight": 14,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 186,
+        "magic_attack": 0,
+        "magic_defense": 186,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 22
+        }
+    ]
+}

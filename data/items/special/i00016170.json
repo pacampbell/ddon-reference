@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16170,
+    "name": "Elegant Carpet",
+    "info": "Elegant Carpet that can be set up in the Study.",
+    "icon": {
+        "icon_id": 1737,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8818,
+    "name": "Jet Black Muffler",
+    "info": "",
+    "icon": {
+        "icon_id": 206,
+        "color_id": 6
+    },
+    "sell_price": 225,
+    "weight": 10,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 12,
+        "magic_attack": 0,
+        "magic_defense": 12,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 4
+        }
+    ]
+}

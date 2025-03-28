@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 18116,
+    "name": "Wand of Ejderha",
+    "info": "",
+    "icon": {
+        "icon_id": 1389,
+        "color_id": 11
+    },
+    "sell_price": 37794,
+    "weight": 96,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2448,
+        "magic_attack": 2744,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 774
+        }
+    ]
+}

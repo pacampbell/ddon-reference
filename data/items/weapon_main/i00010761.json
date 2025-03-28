@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 10761,
+    "name": "Olfring Guard (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1230,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 100,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 556,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 27
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 218
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 232
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25431,
+    "name": "Savage Courage Ranger Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 2802,
+        "color_id": 11
+    },
+    "sell_price": 18500,
+    "weight": 46,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 554,
+        "magic_attack": 10,
+        "magic_defense": 443,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 98
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 828
+        }
+    ]
+}

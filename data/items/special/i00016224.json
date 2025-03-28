@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16224,
+    "name": "Recipe: Arisen's Loungewear (Type 2)",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1735,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 10338,
+    "name": "Flood Ray of Sparks",
+    "info": "",
+    "icon": {
+        "icon_id": 952,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 477,
+        "magic_attack": 273,
+        "crest_slot": 4,
+        "ele_slot": 19
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 119
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 32
+        }
+    ]
+}

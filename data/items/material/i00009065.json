@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9065,
+    "name": "Zandoratalis",
+    "info": "Floral Crafting Material: A special herb that\nonly grows in the Zandora region of the northern\ncontinent.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 5
+    },
+    "sell_price": 330,
+    "weight": 0,
+    "item_level": 10
+}

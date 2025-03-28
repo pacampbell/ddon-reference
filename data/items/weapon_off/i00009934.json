@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 9934,
+    "name": "Novice Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 849,
+        "color_id": 6
+    },
+    "sell_price": 244,
+    "weight": 40,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 143
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15984,
+    "name": "Clear Fine Sand",
+    "info": "Sand Crafting Material: Sand made from crushed\ncolorless highly transparent crystals.",
+    "icon": {
+        "icon_id": 484,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23641,
+    "name": "Shield Sage's Dark Attribute Damage UP",
+    "info": "The damage amount inflicted by the Shield Sage's\nDark attribute increases. *This effect is\nactivated when attacking or when matching the\nattribute of the status application. (Note: This\neffect is invalid during enchantment changes).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

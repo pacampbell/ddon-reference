@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17370,
+    "name": "Mandragora Potted Plant 1 (Normal)",
+    "info": "Mandragora Potted Plant 1 (Normal)",
+    "icon": {
+        "icon_id": 2088,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

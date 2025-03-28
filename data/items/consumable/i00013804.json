@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13804,
+    "name": "Twin Gods Talisman",
+    "info": "Grants the user the specified Status Effects.\n(Duration: Approximately 5 minutes)",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 83
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

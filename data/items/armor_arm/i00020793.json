@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20793,
+    "name": "Courage Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 3,
+        "color_id": 10
+    },
+    "sell_price": 13090,
+    "weight": 37,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 550,
+        "magic_attack": 6,
+        "magic_defense": 458,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 31
+        }
+    ]
+}

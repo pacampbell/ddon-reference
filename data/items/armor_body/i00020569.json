@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20569,
+    "name": "Robe of Sacrament",
+    "info": "",
+    "icon": {
+        "icon_id": 1322,
+        "color_id": 10
+    },
+    "sell_price": 20900,
+    "weight": 74,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 756,
+        "magic_attack": 5,
+        "magic_defense": 672,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1194
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25529,
+    "name": "Zircon",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines yellow.",
+    "icon": {
+        "icon_id": 1266,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 6
+}

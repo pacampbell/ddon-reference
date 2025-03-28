@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9437,
+    "name": "Magick Lion's Large Mane",
+    "info": "Fur Crafting Material:\nChimera Lion's Mane",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 106
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 12
+}

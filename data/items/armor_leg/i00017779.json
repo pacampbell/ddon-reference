@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 17779,
+    "name": "Acrean Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1960,
+        "color_id": 111
+    },
+    "sell_price": 13463,
+    "weight": 38,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 384,
+        "magic_attack": 5,
+        "magic_defense": 307,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 83
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 688
+        }
+    ]
+}

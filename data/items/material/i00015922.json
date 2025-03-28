@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15922,
+    "name": "Cursed Shrieking Mushroom",
+    "info": "Mushroom Crafting Material.\nA mushroom that, when subjected to pressure,\nemits a loud sound resembling a scream.",
+    "icon": {
+        "icon_id": 511,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 2
+}

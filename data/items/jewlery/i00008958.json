@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 8958,
+    "name": "Spiral Shell Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 591,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 1,
+    "level": 21,
+    "item_level": 5,
+    "stats": {},
+    "params": [
+        {
+            "id": 23,
+            "name": "KIND_TYPE_DOWN_DEFENCE",
+            "value": 2
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 15
+        }
+    ]
+}

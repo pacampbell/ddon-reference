@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9369,
+    "name": "Restorative",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 433,
+        "color_id": 1
+    },
+    "sell_price": 15,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

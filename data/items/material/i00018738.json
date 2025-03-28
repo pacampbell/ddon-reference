@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18738,
+    "name": "Eye Ore",
+    "info": "Ore Crafting Material: Ore with patterns that\nresemble eyeballs.",
+    "icon": {
+        "icon_id": 1992,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 0
+}

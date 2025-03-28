@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15374,
+    "name": "Duke Cuisses (Moonflower)",
+    "info": "",
+    "icon": {
+        "icon_id": 1768,
+        "color_id": 84
+    },
+    "sell_price": 5000,
+    "weight": 54,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 341,
+        "magic_attack": 3,
+        "magic_defense": 273,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 77
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 735
+        }
+    ]
+}

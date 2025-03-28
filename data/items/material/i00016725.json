@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16725,
+    "name": "Unidentified Dragon Trinket (Spirit Lancer)",
+    "info": "Jewelry that can be used for \"Appraisal Exchange\"\nand has augment effects for Spirit Lancers.",
+    "icon": {
+        "icon_id": 1495,
+        "color_id": 105
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9789,
+    "name": "Rare Golden Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nCrystallized Dragon Force that radiates a golden\nglow.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 23
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

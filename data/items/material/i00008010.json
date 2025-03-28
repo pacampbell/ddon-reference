@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8010,
+    "name": "Scroll of Magickal Defense",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of Divine Protection.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

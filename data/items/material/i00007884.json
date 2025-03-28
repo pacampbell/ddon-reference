@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7884,
+    "name": "Spirit Silver Ingot",
+    "info": "Metal Crafting Material:\nA mysterious metal lump synthesized from silver\ningots and Phantom Ore.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

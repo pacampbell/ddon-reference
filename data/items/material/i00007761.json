@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7761,
+    "name": "Orc's War Tusk",
+    "info": "Fang Crafting Material: Disheveled Fang of an Orc\nCommander.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 4
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 7
+}

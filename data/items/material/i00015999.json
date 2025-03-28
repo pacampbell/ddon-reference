@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15999,
+    "name": "Blue Skies Blue Opal",
+    "info": "Crafting materials with limited availability:\nA blue gem that showcases a beautiful gradient",
+    "icon": {
+        "icon_id": 1728,
+        "color_id": 28
+    },
+    "sell_price": 988,
+    "weight": 0,
+    "item_level": 11
+}

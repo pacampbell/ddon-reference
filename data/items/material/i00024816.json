@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24816,
+    "name": "Darkness-filled Black Claw",
+    "info": "Fang Crafting Material.\nLarge, twisted black dragon fang.\nFilled with dark dragon force, it gleams sharply.",
+    "icon": {
+        "icon_id": 2932,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

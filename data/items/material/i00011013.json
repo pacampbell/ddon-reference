@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11013,
+    "name": "Ancient Scale Dust",
+    "info": "Obtainable only in the \"Dragon's Nest,\" it is\nsand from a special ancient layer where dragon\nscales have weathered.\nIt can be used as a strengthening material for\ncertain equipment.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 9
+}

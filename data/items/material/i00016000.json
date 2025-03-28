@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16000,
+    "name": "Sky Dragon's Blue Opal",
+    "info": "Limited availability crafting material: A blue\ngem that radiates seven colors of light depending\non the viewing angle.",
+    "icon": {
+        "icon_id": 1728,
+        "color_id": 28
+    },
+    "sell_price": 988,
+    "weight": 0,
+    "item_level": 11
+}

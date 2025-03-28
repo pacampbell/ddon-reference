@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 48,
+    "name": "Orc General's Rusty Key",
+    "info": "A key used somewhere in Gardnox Fortress.\nBlood is rusting the metal.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 9,
+    "max_stack": 99
+}

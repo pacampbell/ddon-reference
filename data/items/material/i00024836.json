@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24836,
+    "name": "Tusk Craftwork [Phoenix]",
+    "info": "Processed items with patterns engraved on animal\nfangs.",
+    "icon": {
+        "icon_id": 2956,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

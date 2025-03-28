@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17371,
+    "name": "Mandragora Potted Plant 2 (Passport)",
+    "info": "Mandragora Potted Plant 2 (Passport)",
+    "icon": {
+        "icon_id": 2089,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3593,
+    "name": "Red Griffin Skin",
+    "info": "",
+    "icon": {
+        "icon_id": 198,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 139,
+        "magic_attack": 0,
+        "magic_defense": 124,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 16
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 724
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2493,
+    "name": "Imperious Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 200,
+        "color_id": 10
+    },
+    "sell_price": 6450,
+    "weight": 90,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 315,
+        "magic_attack": 0,
+        "magic_defense": 280,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1110
+        }
+    ]
+}

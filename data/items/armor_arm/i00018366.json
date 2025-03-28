@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18366,
+    "name": "Aura Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 17,
+        "color_id": 10
+    },
+    "sell_price": 10777,
+    "weight": 36,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 457,
+        "magic_attack": 4,
+        "magic_defense": 381,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        }
+    ]
+}

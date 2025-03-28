@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12119,
+    "name": "Broad Edge",
+    "info": "",
+    "icon": {
+        "icon_id": 929,
+        "color_id": 10
+    },
+    "sell_price": 22450,
+    "weight": 70,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 3,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1579,
+        "magic_attack": 1409,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 165
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18435,
+    "name": "Dools Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 1962,
+        "color_id": 111
+    },
+    "sell_price": 14958,
+    "weight": 44,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 423,
+        "magic_attack": 6,
+        "magic_defense": 338,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 85
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 767
+        }
+    ]
+}

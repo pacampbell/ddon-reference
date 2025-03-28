@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 21737,
+    "name": "Olfring Wand (Forest)",
+    "info": "",
+    "icon": {
+        "icon_id": 1493,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 80,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 5,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1654,
+        "magic_attack": 1921,
+        "crest_slot": 0,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 569
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

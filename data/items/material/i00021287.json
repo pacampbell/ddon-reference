@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21287,
+    "name": "Magickal Constructs Destruction Shard",
+    "info": "Fragments of a forged stone made from a special\nmaterial.\nWhen combined in item crafting, it becomes a\ncrafting material that adds additional stats.",
+    "icon": {
+        "icon_id": 1997,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 0
+}

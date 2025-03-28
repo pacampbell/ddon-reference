@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 10767,
+    "name": "Olfring Guard (Earth)",
+    "info": "",
+    "icon": {
+        "icon_id": 1233,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 100,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 235,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 34
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 118
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 176
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 2
+        }
+    ]
+}

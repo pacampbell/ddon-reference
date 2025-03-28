@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18835,
+    "name": "Survey Corps Token",
+    "info": "Survey Corps Token.\nCan be collected within a certain period of time.\nCan be used in \"Appraisal Exchange\".",
+    "icon": {
+        "icon_id": 2060,
+        "color_id": 19
+    },
+    "sell_price": 104,
+    "weight": 0,
+    "item_level": 6
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7774,
+    "name": "Supple Fur",
+    "info": "Fur Crafting Material.\nSupple Fur of Wolves (LV. 10~).",
+    "icon": {
+        "icon_id": 475,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

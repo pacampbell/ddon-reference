@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21327,
+    "name": "Carpet - Christmas",
+    "info": "Carpet to fully enjoy Christmas that can be\nplaced in the study\n",
+    "icon": {
+        "icon_id": 2388,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

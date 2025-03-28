@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15982,
+    "name": "Aged Green Leaves",
+    "info": "Floral Crafting Material: Especially the old and\nlarge leaves of the ancient Sago Palm.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 1
+}

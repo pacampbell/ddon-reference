@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21271,
+    "name": "Evil Dragon's Chin Spike",
+    "info": "Horn Crafting Material: Thorn that looks like a\nbeard growing from the jaw of a magic dragon.",
+    "icon": {
+        "icon_id": 2403,
+        "color_id": 104
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 3
+}

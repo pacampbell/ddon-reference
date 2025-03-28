@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7808,
+    "name": "Witch's Grimoire",
+    "info": "Grimoire Crafting Material: A black leather-bound\ngrimoire held by the Ghost Princess.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 6
+    },
+    "sell_price": 757,
+    "weight": 0,
+    "item_level": 11
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22740,
+    "name": "Winged Slayer +63",
+    "info": "\"Winged Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

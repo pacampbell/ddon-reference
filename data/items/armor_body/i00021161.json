@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21161,
+    "name": "Virtuoso Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1921,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 719,
+        "magic_attack": 5,
+        "magic_defense": 639,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1340
+        }
+    ]
+}

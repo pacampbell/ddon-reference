@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 9573,
+    "name": "Advent Circlet",
+    "info": "",
+    "icon": {
+        "icon_id": 260,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 18,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 33,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 70,
+        "magic_attack": 0,
+        "magic_defense": 112,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

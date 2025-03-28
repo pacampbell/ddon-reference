@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15599,
+    "name": "Bluish Purple Muffler",
+    "info": "",
+    "icon": {
+        "icon_id": 206,
+        "color_id": 10
+    },
+    "sell_price": 3840,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 124,
+        "magic_attack": 0,
+        "magic_defense": 124,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        }
+    ]
+}

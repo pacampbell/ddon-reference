@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 21406,
+    "name": "Rusted Magick Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2356,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 70,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1008,
+        "magic_attack": 1008,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 175
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19678,
+    "name": "Blade of Agitator",
+    "info": "",
+    "icon": {
+        "icon_id": 2136,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 100,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2770,
+        "magic_attack": 2280,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 920
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

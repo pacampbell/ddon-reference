@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7931,
+    "name": "Azure Dragonscale",
+    "info": "Pelt Crafting Material: Scales that shimmer in a\nradiant azure color, imbued with the chill of an\nIce Dragon. A rare item.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 106
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

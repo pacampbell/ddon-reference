@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21231,
+    "name": "Burning Magma Lump",
+    "info": "Miscellaneous Crafting Material:\nA magma that is filled with immense power, never\ncooling and continuously glowing.",
+    "icon": {
+        "icon_id": 2402,
+        "color_id": 104
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 9
+}

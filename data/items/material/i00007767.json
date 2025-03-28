@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7767,
+    "name": "Dry Bone",
+    "info": "Bone Crafting Material: Dry bones of a Skeleton.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

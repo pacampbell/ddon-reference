@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14283,
+    "name": "Fleeting Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 833,
+        "color_id": 10
+    },
+    "sell_price": 23720,
+    "weight": 60,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2122,
+        "magic_attack": 1890,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 411
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

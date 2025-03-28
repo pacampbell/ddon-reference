@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12719,
+    "name": "Coat of Gloom",
+    "info": "",
+    "icon": {
+        "icon_id": 1320,
+        "color_id": 10
+    },
+    "sell_price": 10093,
+    "weight": 70,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 389,
+        "magic_attack": 0,
+        "magic_defense": 345,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

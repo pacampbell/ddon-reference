@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12297,
+    "name": "Olfring Sei\u00f0r (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1476,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 80,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 503,
+        "magic_attack": 425,
+        "crest_slot": 4,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 123
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

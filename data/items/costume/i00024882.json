@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24882,
+    "name": "Ghosts 'n Goblins Arthur Equipment (Iron-Navy\nBlue Armor)",
+    "info": "",
+    "icon": {
+        "icon_id": 2862,
+        "color_id": 19
+    },
+    "sell_price": 50000,
+    "weight": 207,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

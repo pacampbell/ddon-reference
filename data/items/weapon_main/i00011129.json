@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11129,
+    "name": "Rigid Strain",
+    "info": "",
+    "icon": {
+        "icon_id": 959,
+        "color_id": 9
+    },
+    "sell_price": 9250,
+    "weight": 70,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 1,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 805,
+        "magic_attack": 563,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 175
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 18
+        }
+    ]
+}

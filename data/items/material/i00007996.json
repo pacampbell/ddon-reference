@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7996,
+    "name": "Stagnant Shroom",
+    "info": "Mushroom Crafting Material.\nPoisonous mushrooms that grow in damp, dark\nplaces.",
+    "icon": {
+        "icon_id": 513,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20481,
+    "name": "Maddest Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 1574,
+        "color_id": 10
+    },
+    "sell_price": 15100,
+    "weight": 44,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 423,
+        "magic_attack": 5,
+        "magic_defense": 338,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 86
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 764
+        }
+    ]
+}

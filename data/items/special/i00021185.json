@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21185,
+    "name": "Garden Ornament - Christmas",
+    "info": "An object that can be installed in your room's\ngarden.",
+    "icon": {
+        "icon_id": 2389,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

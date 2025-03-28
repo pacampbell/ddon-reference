@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17500,
+    "name": "Nobility's Gauntlet",
+    "info": "",
+    "icon": {
+        "icon_id": 977,
+        "color_id": 10
+    },
+    "sell_price": 31968,
+    "weight": 80,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2238,
+        "magic_attack": 2129,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 451
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

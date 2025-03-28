@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 1017,
+    "name": "Sergeant's Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 218,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 10,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 28,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 24,
+        "magic_attack": 0,
+        "magic_defense": 24,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

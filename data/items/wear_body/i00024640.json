@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 24640,
+    "name": "Blackshatter Underwear",
+    "info": "",
+    "icon": {
+        "icon_id": 2816,
+        "color_id": 86
+    },
+    "sell_price": 0,
+    "weight": 12,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 252,
+        "magic_attack": 0,
+        "magic_defense": 252,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 496
+        }
+    ]
+}

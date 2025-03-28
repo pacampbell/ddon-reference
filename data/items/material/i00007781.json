@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7781,
+    "name": "Transmuted Fur",
+    "info": "Fur Crafting Material: The ominous fur of a beast\nthat emits black mist.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 5
+    },
+    "sell_price": 260,
+    "weight": 0,
+    "item_level": 10
+}

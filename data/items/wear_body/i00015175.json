@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15175,
+    "name": "Dark Gray Brigandine",
+    "info": "",
+    "icon": {
+        "icon_id": 792,
+        "color_id": 10
+    },
+    "sell_price": 3360,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 168,
+        "magic_attack": 0,
+        "magic_defense": 168,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 380
+        }
+    ]
+}

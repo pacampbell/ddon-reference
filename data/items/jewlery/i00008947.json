@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 8947,
+    "name": "Soldier's Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 702,
+        "color_id": 6
+    },
+    "sell_price": 250,
+    "weight": 1,
+    "level": 16,
+    "item_level": 4,
+    "stats": {},
+    "params": []
+}

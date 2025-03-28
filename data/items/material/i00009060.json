@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9060,
+    "name": "Lead Ore",
+    "info": "Ore Crafting Material: An ore that contains a\nhigh amount of lead.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 1
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8301,
+    "name": "Battle Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 127,
+        "color_id": 6
+    },
+    "sell_price": 340,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 63,
+        "magic_attack": 0,
+        "magic_defense": 56,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 7
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 184
+        }
+    ]
+}

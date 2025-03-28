@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7979,
+    "name": "Blue Flower",
+    "info": "Floral Crafting Material: Grass flowers with blue\npetals and a faint amount of magic power.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

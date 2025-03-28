@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18412,
+    "name": "Kelsus Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 421,
+        "color_id": 10
+    },
+    "sell_price": 13463,
+    "weight": 43,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 382,
+        "magic_attack": 4,
+        "magic_defense": 306,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 81
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 716
+        }
+    ]
+}

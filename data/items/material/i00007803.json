@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7803,
+    "name": "Fine Bleached Bone",
+    "info": "Bone Crafting Material: Glossy bones from\nhigh-ranking Skeleton variants.",
+    "icon": {
+        "icon_id": 473,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

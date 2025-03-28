@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7750,
+    "name": "Small Horn",
+    "info": "Horn Crafting Material: Small Horns from\ncreatures like Goblins.",
+    "icon": {
+        "icon_id": 466,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1
+}

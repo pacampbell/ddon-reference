@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 15392,
+    "name": "Grip of Genocide",
+    "info": "",
+    "icon": {
+        "icon_id": 1574,
+        "color_id": 111
+    },
+    "sell_price": 10548,
+    "weight": 42,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 312,
+        "magic_attack": 3,
+        "magic_defense": 249,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 72
+        },
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 4
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 4
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 4
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 754
+        }
+    ]
+}

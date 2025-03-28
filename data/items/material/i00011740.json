@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11740,
+    "name": "Crest of Protection+",
+    "info": "A crest that grants defense\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 6
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 12
+}

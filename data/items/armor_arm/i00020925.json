@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20925,
+    "name": "Redoutable Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 2220,
+        "color_id": 111
+    },
+    "sell_price": 14280,
+    "weight": 34,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 595,
+        "magic_attack": 8,
+        "magic_defense": 496,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        },
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 9
+        }
+    ]
+}

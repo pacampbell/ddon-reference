@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 55,
+    "name": "Lantern Kindling",
+    "info": "Used to ignite your lantern for a time.",
+    "icon": {
+        "icon_id": 439,
+        "color_id": 1
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

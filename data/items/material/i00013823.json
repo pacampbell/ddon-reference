@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13823,
+    "name": "Extreme Jewelry Guaranteed Lottery Coin (Bliss)",
+    "info": "Extreme Jewelry Guaranteed Draw Coin.\nIt seems to be eligible for trade in \"Appraisal\nExchange\".",
+    "icon": {
+        "icon_id": 1529,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

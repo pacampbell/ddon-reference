@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 10794,
+    "name": "Olfring Rod (Earth)",
+    "info": "",
+    "icon": {
+        "icon_id": 1241,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 40,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 158,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

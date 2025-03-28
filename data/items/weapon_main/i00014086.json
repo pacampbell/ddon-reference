@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 14086,
+    "name": "Obsidian Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1246,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 30,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 618,
+        "magic_attack": 481,
+        "crest_slot": 4,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

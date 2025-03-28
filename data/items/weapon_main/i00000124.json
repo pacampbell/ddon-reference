@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 124,
+    "name": "Judge's Hammer",
+    "info": "",
+    "icon": {
+        "icon_id": 881,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 180,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 259,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 121
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

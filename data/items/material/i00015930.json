@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15930,
+    "name": "Giant Carapace",
+    "info": "Miscellaneous Crafting Material:\nA part of a giant shell that appears to have been\nleft behind by some ancient creature.",
+    "icon": {
+        "icon_id": 1427,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 7
+}

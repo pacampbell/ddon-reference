@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7876,
+    "name": "Bronze Ingot",
+    "info": "Metal Crafting Material:\nA chunk of bronze refined from bronze ore.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1
+}

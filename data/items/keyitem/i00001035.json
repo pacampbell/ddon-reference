@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1035,
+    "name": "Special Research Area Gold Key",
+    "info": "The key to the Mergoda District's \"Special\nResearch District\".\nA symbol is engraved, reminiscent of large rocks.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

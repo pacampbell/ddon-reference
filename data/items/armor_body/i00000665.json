@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 665,
+    "name": "Spirit Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 104,
+        "color_id": 9
+    },
+    "sell_price": 5925,
+    "weight": 50,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 46,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 240,
+        "magic_attack": 0,
+        "magic_defense": 213,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 922
+        }
+    ]
+}

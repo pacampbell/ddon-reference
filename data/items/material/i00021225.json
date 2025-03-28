@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21225,
+    "name": "War Demon Ancestor's Large Tusk",
+    "info": "Fang Crafting Material:\nAncestor Orc fang, which is several times larger\nthan Dwarf Orc's.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 9
+}

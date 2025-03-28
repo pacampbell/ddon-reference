@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24733,
+    "name": "The Wise Wizard's Chronicles",
+    "info": "Materials for crafting magical grimoires.\nPart of the books that are managed by priests and\nnoblemen.\nDetailed accounts of Lestania's history.",
+    "icon": {
+        "icon_id": 514,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

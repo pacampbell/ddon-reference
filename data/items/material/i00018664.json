@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18664,
+    "name": "Mandragora Twig",
+    "info": "Wood Crafting Material:\nTwig given by the Mandragora.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 5
+}

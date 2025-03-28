@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 18518,
+    "name": "Black Venom Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2076,
+        "color_id": 82
+    },
+    "sell_price": 24000,
+    "weight": 54,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2049,
+        "magic_attack": 1819,
+        "crest_slot": 0,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 401
+        },
+        {
+            "id": 44,
+            "name": "KIND_TYPE_SOFTBODY_SAV",
+            "value": 80
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

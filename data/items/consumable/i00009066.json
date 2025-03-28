@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9066,
+    "name": "Forest Dwellers' Old Key",
+    "info": "Key required to unlock the ancient ruins of the\nElven race. Consumed upon use.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 4
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 99
+}

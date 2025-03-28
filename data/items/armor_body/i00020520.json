@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20520,
+    "name": "Mehizaf Cross",
+    "info": "",
+    "icon": {
+        "icon_id": 2227,
+        "color_id": 111
+    },
+    "sell_price": 22990,
+    "weight": 72,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 828,
+        "magic_attack": 7,
+        "magic_defense": 736,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 42
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1231
+        }
+    ]
+}

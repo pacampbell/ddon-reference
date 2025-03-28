@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17554,
+    "name": "Mahasti",
+    "info": "",
+    "icon": {
+        "icon_id": 2053,
+        "color_id": 11
+    },
+    "sell_price": 35805,
+    "weight": 84,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2317,
+        "magic_attack": 2607,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 751
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

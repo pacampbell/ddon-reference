@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7919,
+    "name": "Lizardscale Pelt",
+    "info": "Pelt Crafting Material: Skin covered in the\nscales of a Saurian.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

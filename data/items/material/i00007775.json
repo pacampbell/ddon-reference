@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7775,
+    "name": "Ape Fur",
+    "info": "Fur Crafting Material.\nCoarse and rough fur from monkey-like animals.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

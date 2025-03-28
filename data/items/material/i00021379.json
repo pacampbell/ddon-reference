@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21379,
+    "name": "Relic Steel (Feryana District)",
+    "info": "Steel created by lost techniques.\nIt is said that its properties vary depending on\nthe region.",
+    "icon": {
+        "icon_id": 2440,
+        "color_id": 105
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 2
+}

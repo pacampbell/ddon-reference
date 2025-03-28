@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 23716,
+    "name": "Spirit's Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 1615,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3378,
+        "magic_attack": 3116,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 651
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 154
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

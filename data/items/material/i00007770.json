@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7770,
+    "name": "Thick Bone",
+    "info": "Bone Crafting Material: Mole Troll's sturdy femur.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

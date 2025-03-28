@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 965,
+    "name": "Folded Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 367,
+        "color_id": 6
+    },
+    "sell_price": 160,
+    "weight": 36,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 23,
+        "magic_attack": 0,
+        "magic_defense": 18,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 132
+        }
+    ]
+}

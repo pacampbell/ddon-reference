@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21168,
+    "name": "Supreme Crimson Fierce General's Battle Armor\n(Plain)",
+    "info": "",
+    "icon": {
+        "icon_id": 2274,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 24,
+        "defense": 2801,
+        "magic_attack": 24,
+        "magic_defense": 2801,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 246
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1650
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1350
+        }
+    ]
+}

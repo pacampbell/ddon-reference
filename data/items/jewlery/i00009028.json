@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9028,
+    "name": "Ceres Feather Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 589,
+        "color_id": 10
+    },
+    "sell_price": 2750,
+    "weight": 1,
+    "level": 56,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 5
+        }
+    ]
+}

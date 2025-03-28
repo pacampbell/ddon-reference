@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24721,
+    "name": "Anti-Black Dragon",
+    "info": "Crest that bestows Dragon Ability [Anti-Black\nDragon].",
+    "icon": {
+        "icon_id": 2617,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

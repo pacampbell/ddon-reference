@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 15057,
+    "name": "Ginkgo-dyed Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 1395,
+        "color_id": 11
+    },
+    "sell_price": 16802,
+    "weight": 70,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 617,
+        "magic_attack": 4,
+        "magic_defense": 549,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 7
+        },
+        {
+            "id": 41,
+            "name": "KIND_TYPE_SLEEP_SAV",
+            "value": 12
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1155
+        }
+    ]
+}

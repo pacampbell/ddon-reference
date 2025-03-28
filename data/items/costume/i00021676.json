@@ -1,0 +1,61 @@
+{
+    "type": "equipment",
+    "item_id": 21676,
+    "name": "Casca's Equipment",
+    "info": "",
+    "icon": {
+        "icon_id": 2509,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 214,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 24,
+        "defense": 2777,
+        "magic_attack": 24,
+        "magic_defense": 2777,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 253
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 50
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 50
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1650
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1050
+        }
+    ]
+}

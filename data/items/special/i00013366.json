@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13366,
+    "name": "Recipe: Light Meal Set",
+    "info": "Recipe for a meal set that can be placed on a\ntable.",
+    "icon": {
+        "icon_id": 1511,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

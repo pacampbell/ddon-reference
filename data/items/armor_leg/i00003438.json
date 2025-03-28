@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3438,
+    "name": "Old Age Shoes",
+    "info": "",
+    "icon": {
+        "icon_id": 403,
+        "color_id": 10
+    },
+    "sell_price": 6270,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 208,
+        "magic_attack": 0,
+        "magic_defense": 166,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 52
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 724
+        }
+    ]
+}

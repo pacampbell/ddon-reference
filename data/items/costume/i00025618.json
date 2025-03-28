@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 25618,
+    "name": "Guardian's Prayer Attire [Female]",
+    "info": "",
+    "icon": {
+        "icon_id": 2978,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 42,
+        "defense": 3478,
+        "magic_attack": 42,
+        "magic_defense": 3477,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 276
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 100
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 100
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1827
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1178
+        }
+    ]
+}

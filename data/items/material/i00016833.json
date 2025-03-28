@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16833,
+    "name": "Silver Authentication Orb",
+    "info": "A beautiful silver orb adorned with exquisite\nsculptures.\nCan be used for \"Appraisal Exchange\".",
+    "icon": {
+        "icon_id": 1272,
+        "color_id": 19
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 2
+}

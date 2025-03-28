@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21236,
+    "name": "Simple Purification Crystal",
+    "info": "Miscellaneous Crafting Material:\nA crystal with the ability to remove toxins and\npurify.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 18014,
+    "name": "Fort of Ferey",
+    "info": "",
+    "icon": {
+        "icon_id": 1372,
+        "color_id": 11
+    },
+    "sell_price": 37794,
+    "weight": 84,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2567,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 796
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 457
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

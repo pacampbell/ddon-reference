@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23545,
+    "name": "Halloween Petit Muffin",
+    "info": "A small muffin the size of a bite.\nIt contains a paste made from Gala potato, and\nwhen you eat it, your health and stamina will\nrecover.",
+    "icon": {
+        "icon_id": 2602,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

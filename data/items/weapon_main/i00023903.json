@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 23903,
+    "name": "Spirit's Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1663,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 77,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3344,
+        "magic_attack": 3026,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 641
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 82
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 30
+        }
+    ]
+}

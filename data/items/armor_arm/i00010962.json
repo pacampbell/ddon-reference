@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10962,
+    "name": "Gold Luna Vambraces",
+    "info": "",
+    "icon": {
+        "icon_id": 1192,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 34,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 409,
+        "magic_attack": 2,
+        "magic_defense": 341,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 130
+        }
+    ]
+}

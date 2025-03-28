@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 1316,
+    "name": "Glowworms",
+    "info": "Miscellaneous crafting material.\nA special insect that emits a pale light in dark\nplaces.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

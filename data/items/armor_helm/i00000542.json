@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 542,
+    "name": "Amilec Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 287,
+        "color_id": 10
+    },
+    "sell_price": 5760,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 210,
+        "magic_attack": 0,
+        "magic_defense": 336,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 5
+        }
+    ]
+}

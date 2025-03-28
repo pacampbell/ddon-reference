@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19907,
+    "name": "Red Dawn's Steel Arm",
+    "info": "",
+    "icon": {
+        "icon_id": 1256,
+        "color_id": 10
+    },
+    "sell_price": 39700,
+    "weight": 96,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2697,
+        "magic_attack": 2583,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 531
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

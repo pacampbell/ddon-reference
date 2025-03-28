@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 5669,
+    "name": "Endowed Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 790,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 5,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 42,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 57,
+        "magic_attack": 0,
+        "magic_defense": 57,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 301
+        }
+    ]
+}

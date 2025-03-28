@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15932,
+    "name": "Phindym Manuscript",
+    "info": "Miscellaneous Crafting Material:\nAn extremely old book that has received the\nblessings of some kind of divine protection.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 7
+}

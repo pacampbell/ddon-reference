@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7993,
+    "name": "Gala Mushroom",
+    "info": "Mushroom Crafting Material.\nA mushroom with an aphrodisiac effect.",
+    "icon": {
+        "icon_id": 512,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

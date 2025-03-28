@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8142,
+    "name": "Color Restorer",
+    "info": "Removes Dye from items",
+    "icon": {
+        "icon_id": 548,
+        "color_id": 80
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 15
+}

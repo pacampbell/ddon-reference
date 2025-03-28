@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20812,
+    "name": "Confidence Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 1958,
+        "color_id": 11
+    },
+    "sell_price": 17365,
+    "weight": 46,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 473,
+        "magic_attack": 7,
+        "magic_defense": 379,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 783
+        }
+    ]
+}

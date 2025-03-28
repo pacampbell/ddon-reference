@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17879,
+    "name": "Dragon's Inverse Scale",
+    "info": "Pelt Crafting Material:\nA single scale that grew in reverse within the\npowerful scales of a strong dragon (LV. 80~).",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 5
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 5
+}

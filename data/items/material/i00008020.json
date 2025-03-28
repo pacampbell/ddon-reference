@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8020,
+    "name": "Orc Decoration",
+    "info": "Miscellaneous Crafting Material:\nRough Ornamented Fittings Used by High-level Orcs.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

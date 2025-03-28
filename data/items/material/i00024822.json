@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24822,
+    "name": "Rare Steel [Red]",
+    "info": "Metal that is only produced in limited quantities.",
+    "icon": {
+        "icon_id": 2942,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

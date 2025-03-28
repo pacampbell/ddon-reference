@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7925,
+    "name": "Giant Tough Pelt",
+    "info": "Pelt Crafting Material: Giants' especially thick\nand sturdy skin",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 104
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

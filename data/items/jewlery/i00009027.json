@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 9027,
+    "name": "Magickal Gemstone Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 567,
+        "color_id": 10
+    },
+    "sell_price": 2750,
+    "weight": 1,
+    "level": 56,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 25,
+            "name": "KIND_TYPE_DOWN_MAGIC_DEF",
+            "value": 3
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14250,
+    "name": "Pumpkin Puppet - Giant Cyclops",
+    "info": "Through the cooperation of Lestanian artisans.\nA special puppet can now be created.\nLarge size to be put on a chest.",
+    "icon": {
+        "icon_id": 1538,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

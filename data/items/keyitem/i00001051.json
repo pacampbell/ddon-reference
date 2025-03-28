@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1051,
+    "name": "Zuhl's Vessel of Life",
+    "info": "The Vessel of Life corrupted by Zuhl.\nIt is pulsating with a violent red glow.",
+    "icon": {
+        "icon_id": 535,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

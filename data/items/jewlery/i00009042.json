@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 9042,
+    "name": "Wise Lord's Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 715,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 1,
+    "level": 51,
+    "item_level": 11,
+    "stats": {},
+    "params": []
+}

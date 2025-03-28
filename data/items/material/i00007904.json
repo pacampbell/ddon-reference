@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7904,
+    "name": "Topaz",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines orange.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 4
+    },
+    "sell_price": 375,
+    "weight": 0,
+    "item_level": 8
+}

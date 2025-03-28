@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8068,
+    "name": "Quality Defense Upgrade Rock",
+    "info": "High-quality refinement material for head, body,\narms, and leg armor.\nWhen synthesized during item production, it\nincreases the number of Crest slots by 2 (3 in the\ncase of a major success).",
+    "icon": {
+        "icon_id": 540,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 7
+}

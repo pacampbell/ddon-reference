@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9376,
+    "name": "Concoction of Light",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 433,
+        "color_id": 2
+    },
+    "sell_price": 35,
+    "weight": 0,
+    "item_level": 4,
+    "max_stack": 10
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 13520,
+    "name": "Apprentice Priest Robes (Plain)",
+    "info": "",
+    "icon": {
+        "icon_id": 1409,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 288,
+        "magic_attack": 0,
+        "magic_defense": 288,
+        "crest_slot": 0,
+        "ele_slot": 4
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 58
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 500
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 384
+        }
+    ]
+}

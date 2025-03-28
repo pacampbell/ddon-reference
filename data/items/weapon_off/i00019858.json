@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 19858,
+    "name": "Rod of Kenntnis",
+    "info": "",
+    "icon": {
+        "icon_id": 2315,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2811,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

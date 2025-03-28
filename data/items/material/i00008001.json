@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8001,
+    "name": "Troll's Blue Poisonous Moss",
+    "info": "Mushroom Crafting Material.\nCan be used as a synthesis ingredient.",
+    "icon": {
+        "icon_id": 513,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

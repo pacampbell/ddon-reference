@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21255,
+    "name": "Urteca Hot Spring Water",
+    "info": "Liquid Crafting Material: Obtained from various\nlocations in the Urteca Mountains, where hot\nsprings water flows.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

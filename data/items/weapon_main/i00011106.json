@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11106,
+    "name": "Two-Edged",
+    "info": "",
+    "icon": {
+        "icon_id": 924,
+        "color_id": 9
+    },
+    "sell_price": 8410,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 655,
+        "magic_attack": 513,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 88
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

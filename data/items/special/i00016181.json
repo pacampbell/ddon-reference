@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16181,
+    "name": "Puppet - Mandragora",
+    "info": "Through the cooperation of Lestanian artisans, a\npuppet has been created that is just the right\nsize to be placed on the bed.",
+    "icon": {
+        "icon_id": 1758,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

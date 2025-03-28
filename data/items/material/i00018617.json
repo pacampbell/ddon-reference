@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18617,
+    "name": "Inquiry",
+    "info": "Grants the following augments:\nGathering, Treasure Eye.\nGrant the effect beyond LV.6 of the following\naugments:\nExtended Springs, Safe Landing, Flow, Efficacy.\nGathering, Treasure Eye have no effect when\nequipped on pawn.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

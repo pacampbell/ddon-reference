@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 19852,
+    "name": "Rod of Ethane",
+    "info": "",
+    "icon": {
+        "icon_id": 2313,
+        "color_id": 111
+    },
+    "sell_price": 8752,
+    "weight": 46,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2935,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17893,
+    "name": "Scroll of the Starry Sky",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of the Starry Sky.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 4
+}

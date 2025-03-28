@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21276,
+    "name": "Dragon Temple's Blessed Cloth",
+    "info": "Cloth Crafting Material:\nSpecial cloth blessed at the temple of Acre\nSelund.",
+    "icon": {
+        "icon_id": 518,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 3
+}

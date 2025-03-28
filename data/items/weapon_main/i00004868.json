@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 4868,
+    "name": "Hydra's Husk",
+    "info": "",
+    "icon": {
+        "icon_id": 951,
+        "color_id": 8
+    },
+    "sell_price": 6850,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 671,
+        "magic_attack": 450,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 176
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

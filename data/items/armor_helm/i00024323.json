@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24323,
+    "name": "Blackshatter Magic Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 2793,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 34,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 513,
+        "magic_attack": 9,
+        "magic_defense": 821,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

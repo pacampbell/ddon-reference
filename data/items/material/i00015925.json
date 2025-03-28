@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15925,
+    "name": "Scarlet Plume",
+    "info": "Feather Crafting Material: Poisonously vibrant\nred feathers.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 2
+}

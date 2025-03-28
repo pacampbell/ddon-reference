@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21256,
+    "name": "Belladonna",
+    "info": "Floral Crafting Material:\nGrass and flowers that contain poison from leaves\nto roots.\nCaution is necessary when touching.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

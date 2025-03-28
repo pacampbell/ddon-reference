@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22507,
+    "name": "Beast Slayer +36",
+    "info": "\"Beast Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

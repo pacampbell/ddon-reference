@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7940,
+    "name": "Protective Cloth",
+    "info": "Cloth Crafting Material: Special cloth imbued\nwith Divine Protection.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

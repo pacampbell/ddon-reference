@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7861,
+    "name": "Hematite",
+    "info": "Ore Crafting Material: Sturdy ore containing\nreddish metal.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

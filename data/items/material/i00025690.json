@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25690,
+    "name": "Crest of Sanctity+",
+    "info": "A crest that changes the magic attribute of the\nequipped weapon to holy and further bestows an\nabnormal status effect.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 14
+}

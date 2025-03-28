@@ -1,0 +1,70 @@
+{
+    "type": "equipment",
+    "item_id": 25594,
+    "name": "Fortress Guard's Fortified Greatshield",
+    "info": "",
+    "icon": {
+        "icon_id": 2663,
+        "color_id": 86
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3789,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1119
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 542
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 12
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21229,
+    "name": "Padding",
+    "info": "Miscellaneous Crafting Material:\nResilient materials that provide cushioning\nagainst impact.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 9
+}

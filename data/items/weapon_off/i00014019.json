@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 14019,
+    "name": "Ritual Rod [Crimson]",
+    "info": "",
+    "icon": {
+        "icon_id": 1242,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 30,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1578,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

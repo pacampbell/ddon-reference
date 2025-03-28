@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23612,
+    "name": "Fighter's Lightning damage UP",
+    "info": "Increases the damage inflicted by the Fighter's\nLightning attribute. *This effect is activated\nwhen attacking or when the magic attribute matches\nthe applied status. (Note: This effect is invalid\nduring enchantment changes).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 5025,
+    "name": "D\u00e4mmerungslicht",
+    "info": "",
+    "icon": {
+        "icon_id": 1008,
+        "color_id": 9
+    },
+    "sell_price": 10585,
+    "weight": 90,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 787,
+        "magic_attack": 928,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 141
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

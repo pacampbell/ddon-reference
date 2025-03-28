@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 1798,
+    "name": "Griffinsbane",
+    "info": "",
+    "icon": {
+        "icon_id": 945,
+        "color_id": 8
+    },
+    "sell_price": 7610,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 699,
+        "magic_attack": 476,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 163
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 32
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1935,
+    "name": "Grace of Apollo",
+    "info": "",
+    "icon": {
+        "icon_id": 1037,
+        "color_id": 10
+    },
+    "sell_price": 11525,
+    "weight": 80,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 948,
+        "magic_attack": 1200,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 276
+        }
+    ]
+}

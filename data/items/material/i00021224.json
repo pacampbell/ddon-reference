@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21224,
+    "name": "War Dancing Large Feather",
+    "info": "Feather Crafting Material: Nightmare feathers\nthat have been enslaved by the Demon Army, with\nthe lingering smell of gunpowder.",
+    "icon": {
+        "icon_id": 480,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 9
+}

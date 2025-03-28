@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17865,
+    "name": "Ogre's Horn",
+    "info": "Horn Crafting Material:\nHorns made from the hardened skin of powerful\nOgres (Level 80 and above).",
+    "icon": {
+        "icon_id": 467,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 4
+}

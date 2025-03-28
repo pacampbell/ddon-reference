@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2431,
+    "name": "Roar Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 37,
+        "color_id": 8
+    },
+    "sell_price": 1850,
+    "weight": 23,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 102,
+        "magic_attack": 0,
+        "magic_defense": 85,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 7
+        }
+    ]
+}

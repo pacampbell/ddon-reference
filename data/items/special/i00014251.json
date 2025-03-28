@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14251,
+    "name": "Pumpkin Puppet - Cyclops",
+    "info": "Through the cooperation of Lestanian artisans.\nA special puppet can now be created.\nJust the right size to be put on the bed.",
+    "icon": {
+        "icon_id": 1539,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

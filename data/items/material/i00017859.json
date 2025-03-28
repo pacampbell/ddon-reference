@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17859,
+    "name": "Mark of Brute Courage",
+    "info": "Miscellaneous Crafting Material:\nThe symbol of the Demon Army which celebrates a\npowerful Dwarf Orc.",
+    "icon": {
+        "icon_id": 1983,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 0
+}

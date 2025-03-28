@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19999,
+    "name": "Intellect's Weise Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 2339,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2664,
+        "magic_attack": 2966,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 849
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

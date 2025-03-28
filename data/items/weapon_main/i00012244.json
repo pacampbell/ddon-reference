@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12244,
+    "name": "Fata Morgana",
+    "info": "",
+    "icon": {
+        "icon_id": 1381,
+        "color_id": 11
+    },
+    "sell_price": 21130,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1526,
+        "magic_attack": 1427,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 296
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

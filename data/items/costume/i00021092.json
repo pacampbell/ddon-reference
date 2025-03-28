@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 21092,
+    "name": "White Knights Male Armor (Bloom)",
+    "info": "",
+    "icon": {
+        "icon_id": 2271,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 26,
+        "defense": 2922,
+        "magic_attack": 26,
+        "magic_defense": 2922,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 300
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 10
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 10
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 2050
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1104
+        }
+    ]
+}

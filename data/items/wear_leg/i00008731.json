@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8731,
+    "name": "Sortie Hose",
+    "info": "",
+    "icon": {
+        "icon_id": 797,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 5,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 38,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 37,
+        "magic_attack": 0,
+        "magic_defense": 37,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 18
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 176
+        }
+    ]
+}

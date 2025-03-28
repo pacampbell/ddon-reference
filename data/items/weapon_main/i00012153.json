@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12153,
+    "name": "Olfring Daggers (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1467,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 226,
+        "magic_attack": 109,
+        "crest_slot": 0,
+        "ele_slot": 18
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 41
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

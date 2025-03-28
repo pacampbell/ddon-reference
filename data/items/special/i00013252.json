@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13252,
+    "name": "Bath - Abundance Hot Tub",
+    "info": "Bath where you can enjoy the effects of the\n<<Spring of Abundance>> at Kinoza Mineral Springs",
+    "icon": {
+        "icon_id": 1513,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

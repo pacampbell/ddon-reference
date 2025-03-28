@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 21397,
+    "name": "Cursed Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 2396,
+        "color_id": 15
+    },
+    "sell_price": 500,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 25,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 388,
+        "magic_attack": 2,
+        "magic_defense": 344,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1185
+        }
+    ]
+}

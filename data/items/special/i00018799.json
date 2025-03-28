@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18799,
+    "name": "Recipe: Aristocrat Bath - Griffin",
+    "info": "Aristocrat Bath - Griffin Recipe",
+    "icon": {
+        "icon_id": 1873,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

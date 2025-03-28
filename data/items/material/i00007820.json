@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7820,
+    "name": "Lindwurm Fin",
+    "info": "Feather Crafting Material: Lindwurm's Thin and\nResilient Fin.",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 104
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

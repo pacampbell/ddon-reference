@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 1704,
+    "name": "Oval Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 891,
+        "color_id": 5
+    },
+    "sell_price": 104,
+    "weight": 100,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 5,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 158,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 119
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 1
+        }
+    ]
+}

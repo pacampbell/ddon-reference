@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24728,
+    "name": "Keystone to Ruin",
+    "info": "A partially broken stone key imbued with powerful\ndark magic, capable of opening a door leading to a\ndifferent continent.",
+    "icon": {
+        "icon_id": 2931,
+        "color_id": 23
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 2
+}

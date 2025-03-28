@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20454,
+    "name": "Corail Mail",
+    "info": "",
+    "icon": {
+        "icon_id": 1559,
+        "color_id": 11
+    },
+    "sell_price": 21945,
+    "weight": 74,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 800,
+        "magic_attack": 6,
+        "magic_defense": 711,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 41
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1209
+        }
+    ]
+}

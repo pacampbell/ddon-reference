@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 5307,
+    "name": "Wanderer's Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 265,
+        "color_id": 7
+    },
+    "sell_price": 920,
+    "weight": 27,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 68,
+        "magic_attack": 0,
+        "magic_defense": 108,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

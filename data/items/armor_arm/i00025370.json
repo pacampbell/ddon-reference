@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 25370,
+    "name": "Savage Courage Magic Glove",
+    "info": "",
+    "icon": {
+        "icon_id": 1916,
+        "color_id": 11
+    },
+    "sell_price": 14400,
+    "weight": 34,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 672,
+        "magic_attack": 10,
+        "magic_defense": 560,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9407,
+    "name": "Herb Salad",
+    "info": "Salad abundant with herbs.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 456,
+        "color_id": 2
+    },
+    "sell_price": 37,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 10
+}

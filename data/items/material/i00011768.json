@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11768,
+    "name": "Ash Quartz",
+    "info": "Gem Crafting Material: A gem with a deep,\nash-like color.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 4
+}

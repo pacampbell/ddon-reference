@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 14158,
+    "name": "Night Black Swimsuit (Bottom)",
+    "info": "",
+    "icon": {
+        "icon_id": 1447,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 1,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 5,
+        "magic_attack": 0,
+        "magic_defense": 5,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        },
+        {
+            "id": 3,
+            "name": "KIND_TYPE_OIL_DEF",
+            "value": 100
+        }
+    ]
+}

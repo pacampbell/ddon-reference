@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 14602,
+    "name": "Phindymian Shooter",
+    "info": "",
+    "icon": {
+        "icon_id": 1673,
+        "color_id": 11
+    },
+    "sell_price": 28130,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1830,
+        "magic_attack": 2000,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 286
+        }
+    ]
+}

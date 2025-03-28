@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12703,
+    "name": "Morality Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 139,
+        "color_id": 10
+    },
+    "sell_price": 11786,
+    "weight": 70,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 447,
+        "magic_attack": 0,
+        "magic_defense": 397,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 29
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1140
+        }
+    ]
+}

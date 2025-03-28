@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7899,
+    "name": "Sapphire",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines blue.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

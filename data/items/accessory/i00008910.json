@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 8910,
+    "name": "Alchymia Magna",
+    "info": "",
+    "icon": {
+        "icon_id": 229,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 10,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 85,
+        "magic_attack": 0,
+        "magic_defense": 85,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 13
+        },
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 18
+        }
+    ]
+}

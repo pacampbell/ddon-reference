@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14816,
+    "name": "Spirit's Fury",
+    "info": "",
+    "icon": {
+        "icon_id": 1696,
+        "color_id": 10
+    },
+    "sell_price": 29650,
+    "weight": 100,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2134,
+        "magic_attack": 2038,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 431
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

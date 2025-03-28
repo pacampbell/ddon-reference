@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7814,
+    "name": "Griffin Feather",
+    "info": "Feather Crafting Material.\nLarge feathers that have fallen from the wings of\na giant eagle.",
+    "icon": {
+        "icon_id": 478,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

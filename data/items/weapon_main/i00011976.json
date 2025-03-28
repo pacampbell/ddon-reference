@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11976,
+    "name": "Olfring Breaker (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1455,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 120,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 297,
+        "magic_attack": 11,
+        "crest_slot": 0,
+        "ele_slot": 2
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 107
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

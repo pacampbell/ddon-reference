@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5256,
+    "name": "Dragoon Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 329,
+        "color_id": 8
+    },
+    "sell_price": 3200,
+    "weight": 72,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 113,
+        "magic_attack": 0,
+        "magic_defense": 90,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 532
+        }
+    ]
+}

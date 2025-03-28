@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 21343,
+    "name": "Midsummer Surf Pants (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 2472,
+        "color_id": 17
+    },
+    "sell_price": 10000,
+    "weight": 1,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 6,
+            "name": "KIND_TYPE_WATER_DEF",
+            "value": 100
+        }
+    ]
+}

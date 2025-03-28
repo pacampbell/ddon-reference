@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10985,
+    "name": "White Wings Radiant Crystal",
+    "info": "Item sent to the protector of Lestania.\nIt is imbued with the power of the Great White\nDragon.",
+    "icon": {
+        "icon_id": 1274,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 9
+}

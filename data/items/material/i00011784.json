@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11784,
+    "name": "Refined Paraffin",
+    "info": "Sand Crafting Material: Soft solid wax with\nenhanced purity that can be used for crafting\nspecific equipment.\nAvailable for purchase at the White Dragon Temple\nMaterial Shop.",
+    "icon": {
+        "icon_id": 1431,
+        "color_id": 6
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 12
+}

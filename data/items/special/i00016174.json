@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16174,
+    "name": "Opulent Desk",
+    "info": "Furniture with a dignified design suitable for\nsomeone of elegance to sit on.",
+    "icon": {
+        "icon_id": 1757,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

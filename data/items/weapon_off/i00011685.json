@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 11685,
+    "name": "Alchemy Inductor",
+    "info": "",
+    "icon": {
+        "icon_id": 1140,
+        "color_id": 84
+    },
+    "sell_price": 5000,
+    "weight": 20,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 664,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

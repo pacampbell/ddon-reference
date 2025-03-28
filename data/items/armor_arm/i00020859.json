@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20859,
+    "name": "Taciturne Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1912,
+        "color_id": 11
+    },
+    "sell_price": 13685,
+    "weight": 36,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 572,
+        "magic_attack": 7,
+        "magic_defense": 477,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 12951,
+    "name": "Anklets of Bravery",
+    "info": "",
+    "icon": {
+        "icon_id": 1348,
+        "color_id": 11
+    },
+    "sell_price": 7923,
+    "weight": 42,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 236,
+        "magic_attack": 0,
+        "magic_defense": 188,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 57
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 4
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 4
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 735
+        }
+    ]
+}

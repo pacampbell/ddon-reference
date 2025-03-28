@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17883,
+    "name": "Pyroclastic Rock",
+    "info": "Ore Crafting Material:\nRock formed by magma from a volcano that has\ncooled and solidified.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 5
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 5
+}

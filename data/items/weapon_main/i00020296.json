@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 20296,
+    "name": "Rousing Schlucht Shooter",
+    "info": "",
+    "icon": {
+        "icon_id": 1674,
+        "color_id": 11
+    },
+    "sell_price": 45655,
+    "weight": 66,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2995,
+        "magic_attack": 3188,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 466
+        }
+    ]
+}

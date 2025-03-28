@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7903,
+    "name": "Onyx",
+    "info": "Gem Crafting Material:\nA gem with a glossy black charm.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

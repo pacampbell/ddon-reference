@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7742,
+    "name": "Moist Black Leather",
+    "info": "Pelt Crafting Material:\nBlack leather-like skin of a wet black Griffin. A\nrare item.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 105
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 10
+}

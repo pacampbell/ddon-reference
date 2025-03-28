@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15239,
+    "name": "Northern Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 61,
+        "color_id": 10
+    },
+    "sell_price": 9601,
+    "weight": 34,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 396,
+        "magic_attack": 2,
+        "magic_defense": 330,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 3
+        }
+    ]
+}

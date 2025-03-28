@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25508,
+    "name": "Hero's Lively Top",
+    "info": "",
+    "icon": {
+        "icon_id": 2816,
+        "color_id": 82
+    },
+    "sell_price": 5100,
+    "weight": 11,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 322,
+        "magic_attack": 0,
+        "magic_defense": 322,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 541
+        }
+    ]
+}

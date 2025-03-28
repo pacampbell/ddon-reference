@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23412,
+    "name": "Bonus Dungeon Ticket (HO)",
+    "info": "Tickets required to enter each dungeon are\nconsumed upon entry in the bonus dungeon lobby\nlocated in the back of the training room.",
+    "icon": {
+        "icon_id": 2606,
+        "color_id": 101
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

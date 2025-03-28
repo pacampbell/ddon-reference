@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 14588,
+    "name": "Spell of Tribe",
+    "info": "",
+    "icon": {
+        "icon_id": 1673,
+        "color_id": 10
+    },
+    "sell_price": 25925,
+    "weight": 60,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1738,
+        "magic_attack": 1906,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 271
+        }
+    ]
+}

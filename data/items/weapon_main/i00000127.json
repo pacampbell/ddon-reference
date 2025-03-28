@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 127,
+    "name": "Mergitur",
+    "info": "",
+    "icon": {
+        "icon_id": 968,
+        "color_id": 5
+    },
+    "sell_price": 130,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 5,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 126,
+        "magic_attack": 63,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 39
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17118,
+    "name": "Woolen Carpet - Ocean",
+    "info": "You can place\nblue fur carpets in your study.",
+    "icon": {
+        "icon_id": 1895,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

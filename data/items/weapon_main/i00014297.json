@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14297,
+    "name": "Demon Slayer",
+    "info": "",
+    "icon": {
+        "icon_id": 1610,
+        "color_id": 11
+    },
+    "sell_price": 25604,
+    "weight": 60,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2234,
+        "magic_attack": 1998,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 431
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

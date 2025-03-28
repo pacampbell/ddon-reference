@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3254,
+    "name": "Talons of Garuda",
+    "info": "",
+    "icon": {
+        "icon_id": 16,
+        "color_id": 10
+    },
+    "sell_price": 5015,
+    "weight": 56,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 234,
+        "magic_attack": 0,
+        "magic_defense": 195,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        }
+    ]
+}

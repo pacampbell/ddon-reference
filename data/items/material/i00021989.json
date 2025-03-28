@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21989,
+    "name": "Blow Power +2",
+    "info": "Increase knockback power.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

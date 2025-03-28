@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7773,
+    "name": "Animal Fur",
+    "info": "Fur Crafting Material.\nFur from wild animals.\nVarious ways to use it.",
+    "icon": {
+        "icon_id": 475,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

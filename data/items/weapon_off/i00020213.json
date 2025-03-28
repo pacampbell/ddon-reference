@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 20213,
+    "name": "Flamme",
+    "info": "",
+    "icon": {
+        "icon_id": 2314,
+        "color_id": 111
+    },
+    "sell_price": 9547,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3245,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

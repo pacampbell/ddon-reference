@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 9945,
+    "name": "Alpine Pelta",
+    "info": "",
+    "icon": {
+        "icon_id": 847,
+        "color_id": 7
+    },
+    "sell_price": 1570,
+    "weight": 20,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 28,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 210
+        }
+    ]
+}

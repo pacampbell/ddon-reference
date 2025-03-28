@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7838,
+    "name": "Undead Extract",
+    "info": "Liquid Crafting Material: Undead (LV. 25+)\nImmortal Essence",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

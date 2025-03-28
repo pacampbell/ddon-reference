@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8034,
+    "name": "Goblin Gunpowder",
+    "info": "Miscellaneous Crafting Material:\nExplosives concocted by Goblin Bombers (LV. 25~)",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

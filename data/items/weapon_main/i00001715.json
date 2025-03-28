@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1715,
+    "name": "Snagdaggers",
+    "info": "",
+    "icon": {
+        "icon_id": 925,
+        "color_id": 6
+    },
+    "sell_price": 1810,
+    "weight": 90,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 19,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 296,
+        "magic_attack": 160,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 48
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

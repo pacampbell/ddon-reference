@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15951,
+    "name": "Crab Brittlegill",
+    "info": "Mushroom Crafting Material.\nA mushroom that is not fragrant but excellent in\nterms of nutrition.",
+    "icon": {
+        "icon_id": 513,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

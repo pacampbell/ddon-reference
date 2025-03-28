@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 9889,
+    "name": "Benefit Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 104,
+        "color_id": 8
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 97,
+        "magic_attack": 0,
+        "magic_defense": 89,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 500
+        }
+    ]
+}

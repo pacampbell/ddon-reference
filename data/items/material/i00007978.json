@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7978,
+    "name": "Red Sage",
+    "info": "Floral Crafting Material: Material with vibrant\nred leaves and medicinal properties.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

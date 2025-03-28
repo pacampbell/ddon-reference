@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7885,
+    "name": "Blue Steel Ingot",
+    "info": "Metal Crafting Material:\nA special alloy refined from various types of\nblue gemstones and steel.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 5
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

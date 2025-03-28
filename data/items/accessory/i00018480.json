@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18480,
+    "name": "Eastern Shade",
+    "info": "",
+    "icon": {
+        "icon_id": 1941,
+        "color_id": 111
+    },
+    "sell_price": 4813,
+    "weight": 12,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 157,
+        "magic_attack": 1,
+        "magic_defense": 157,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 19
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 12
+        }
+    ]
+}

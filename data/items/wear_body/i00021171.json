@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21171,
+    "name": "Lord Knight Leather Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 2285,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 226,
+        "magic_attack": 0,
+        "magic_defense": 226,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 22,
+            "name": "KIND_TYPE_DOWN_ATTACK",
+            "value": 25
+        },
+        {
+            "id": 24,
+            "name": "KIND_TYPE_DOWN_MAGIC_AT",
+            "value": 25
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 443
+        }
+    ]
+}

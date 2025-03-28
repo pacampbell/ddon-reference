@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 9647,
+    "name": "Dawn Drape",
+    "info": "",
+    "icon": {
+        "icon_id": 125,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 32,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 42,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 182,
+        "magic_attack": 0,
+        "magic_defense": 162,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 832
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8913,
+    "name": "Amadeus Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 223,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 10,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 53,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 52,
+        "magic_attack": 0,
+        "magic_defense": 52,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 11
+        }
+    ]
+}

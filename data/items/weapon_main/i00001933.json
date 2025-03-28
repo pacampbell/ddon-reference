@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1933,
+    "name": "Flight Lazurine",
+    "info": "",
+    "icon": {
+        "icon_id": 1041,
+        "color_id": 9
+    },
+    "sell_price": 11050,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 812,
+        "magic_attack": 1043,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 286
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

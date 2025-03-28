@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18396,
+    "name": "Magnus Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1354,
+        "color_id": 10
+    },
+    "sell_price": 13463,
+    "weight": 44,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 381,
+        "magic_attack": 4,
+        "magic_defense": 304,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 81
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 714
+        }
+    ]
+}

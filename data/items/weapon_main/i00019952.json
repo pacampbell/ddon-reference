@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19952,
+    "name": "Spell of Kenntnis",
+    "info": "",
+    "icon": {
+        "icon_id": 2331,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2730,
+        "magic_attack": 2917,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 444
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        }
+    ]
+}

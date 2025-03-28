@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10999,
+    "name": "Hidell Medal",
+    "info": "The honorable emblem that is only awarded to\nthose who have achieved great feats in the Hidell\nPlains.\nIt can be used as a crafting material for\nspecific equipment.",
+    "icon": {
+        "icon_id": 524,
+        "color_id": 20
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 8
+}

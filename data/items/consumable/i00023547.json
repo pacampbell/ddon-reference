@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23547,
+    "name": "Devil's Nougat",
+    "info": "Black nougat infused with various fruits and nuts.\nWith each bite, the flavor changes and when\nconsumed, it restores stamina.",
+    "icon": {
+        "icon_id": 2604,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

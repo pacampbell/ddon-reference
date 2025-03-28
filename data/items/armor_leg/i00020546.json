@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20546,
+    "name": "Cuivre Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 1579,
+        "color_id": 11
+    },
+    "sell_price": 15855,
+    "weight": 44,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 447,
+        "magic_attack": 6,
+        "magic_defense": 358,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 93
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 772
+        }
+    ]
+}

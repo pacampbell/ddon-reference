@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10988,
+    "name": "Large Dragon Bone",
+    "info": "A large stone imbued with Dragon Force,\nobtainable only in the Dragon's Nest.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 521,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 8
+}

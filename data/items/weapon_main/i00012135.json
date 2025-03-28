@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12135,
+    "name": "Blade of Tyrant",
+    "info": "",
+    "icon": {
+        "icon_id": 1464,
+        "color_id": 11
+    },
+    "sell_price": 24505,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1691,
+        "magic_attack": 1519,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 178
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

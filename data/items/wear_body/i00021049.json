@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 21049,
+    "name": "Tra\u00eetre Gambeson",
+    "info": "",
+    "icon": {
+        "icon_id": 1605,
+        "color_id": 11
+    },
+    "sell_price": 4830,
+    "weight": 12,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 237,
+        "magic_attack": 0,
+        "magic_defense": 237,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 463
+        }
+    ]
+}

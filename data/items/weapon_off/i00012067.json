@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 12067,
+    "name": "Polaris Drop",
+    "info": "",
+    "icon": {
+        "icon_id": 911,
+        "color_id": 10
+    },
+    "sell_price": 8980,
+    "weight": 40,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1591,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

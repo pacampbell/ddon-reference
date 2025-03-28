@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 2732,
+    "name": "Woody Magick",
+    "info": "",
+    "icon": {
+        "icon_id": 891,
+        "color_id": 6
+    },
+    "sell_price": 1160,
+    "weight": 100,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 17,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 291,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 139
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 170
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 2
+        }
+    ]
+}

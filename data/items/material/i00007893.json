@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7893,
+    "name": "Fluorite",
+    "info": "Gem Crafting Material: A relatively common pale\ngreen gem.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

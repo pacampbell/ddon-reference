@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16744,
+    "name": "Gala Potato Cookie",
+    "info": "A cookie infused with abundant Gala potato,\nproviding a rich flavor that restores stamina when\neaten.",
+    "icon": {
+        "icon_id": 1780,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 10,
+    "max_stack": 50
+}

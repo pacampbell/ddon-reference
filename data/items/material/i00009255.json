@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9255,
+    "name": "Crest of Gilding",
+    "info": "A crest that grants a debilitation effect\nto weapons when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 251,
+    "name": "Blue Kite",
+    "info": "",
+    "icon": {
+        "icon_id": 896,
+        "color_id": 7
+    },
+    "sell_price": 2708,
+    "weight": 100,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 412,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 181
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 200
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 3
+        }
+    ]
+}

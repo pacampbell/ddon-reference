@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 12709,
+    "name": "Libertas Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 186,
+        "color_id": 11
+    },
+    "sell_price": 12865,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 487,
+        "magic_attack": 0,
+        "magic_defense": 432,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 4
+        },
+        {
+            "id": 20,
+            "name": "KIND_TYPE_DOWN_SAINT",
+            "value": 4
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

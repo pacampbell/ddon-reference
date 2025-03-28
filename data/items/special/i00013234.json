@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13234,
+    "name": "Lestanian Puppet - Mogok",
+    "info": "With the cooperation of Lestanian artisans, a\npuppet has been created that can be placed on a\nkitchen chair, just the right size.",
+    "icon": {
+        "icon_id": 1515,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

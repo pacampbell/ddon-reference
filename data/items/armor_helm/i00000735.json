@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 735,
+    "name": "Prayer Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 253,
+        "color_id": 7
+    },
+    "sell_price": 1255,
+    "weight": 36,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 28,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 68,
+        "magic_attack": 0,
+        "magic_defense": 108,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17876,
+    "name": "Battle Armor Fragment",
+    "info": "Miscellaneous Crafting Material: Fragments of\nbattle armor shattered in fierce battles.",
+    "icon": {
+        "icon_id": 1985,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 0
+}

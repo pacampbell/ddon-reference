@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 18219,
+    "name": "Forehead Protector of Hope",
+    "info": "",
+    "icon": {
+        "icon_id": 270,
+        "color_id": 11
+    },
+    "sell_price": 11716,
+    "weight": 40,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 396,
+        "magic_attack": 5,
+        "magic_defense": 634,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

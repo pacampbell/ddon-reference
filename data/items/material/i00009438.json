@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9438,
+    "name": "Giant Single Pelt",
+    "info": "Pelt Crafting Material:\nSkin harvested as large as possible from armed\nGiants (Lv. 56 and above).",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 106
+    },
+    "sell_price": 700,
+    "weight": 0,
+    "item_level": 12
+}

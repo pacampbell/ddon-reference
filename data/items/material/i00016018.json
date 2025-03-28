@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16018,
+    "name": "Abrasive",
+    "info": "Sand Crafting Material: A paste used for more\nprecise cutting and polishing in crafting.\nCan be used in the crafting of certain equipment.",
+    "icon": {
+        "icon_id": 1723,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

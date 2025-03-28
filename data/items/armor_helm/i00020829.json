@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 20829,
+    "name": "Taciturne Hat",
+    "info": "",
+    "icon": {
+        "icon_id": 1945,
+        "color_id": 11
+    },
+    "sell_price": 14145,
+    "weight": 38,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 477,
+        "magic_attack": 7,
+        "magic_defense": 763,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

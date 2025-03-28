@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13227,
+    "name": "Crimson Carpet",
+    "info": "Crimson Carpet that can be set up in the Study",
+    "icon": {
+        "icon_id": 1499,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9440,
+    "name": "Cockatrice Gastrolith",
+    "info": "Ore Crafting Material:\nA powerful Cockatrice (LV. 56~) has polished this\nstone inside its stomach.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 106
+    },
+    "sell_price": 915,
+    "weight": 0,
+    "item_level": 12
+}

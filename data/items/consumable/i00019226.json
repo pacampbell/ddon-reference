@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19226,
+    "name": "Book of Acquisition (Reduce Ice)",
+    "info": "Learn the Secret Augment \"Reduce Ice\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

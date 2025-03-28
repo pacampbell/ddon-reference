@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23398,
+    "name": "Recipe: Investigator's Spectacles",
+    "info": "Recipe for the Explorer's Glasses",
+    "icon": {
+        "icon_id": 281,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

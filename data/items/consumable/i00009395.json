@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9395,
+    "name": "Poison Flask",
+    "info": "Throw this to cause damage on impact.\nCauses the \"Poison\" debilitation.",
+    "icon": {
+        "icon_id": 440,
+        "color_id": 2
+    },
+    "sell_price": 15,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 10
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 24074,
+    "name": "Spirit's Magick Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2353,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 73,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3378,
+        "magic_attack": 3378,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 646
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 103
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

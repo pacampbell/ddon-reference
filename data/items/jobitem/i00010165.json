@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 10165,
+    "name": "Gilding Elixir",
+    "info": "When an Alchemist uses \"Elixir Release\", it\ninflicts \"Golden\" abnormal status.",
+    "icon": {
+        "icon_id": 1111,
+        "color_id": 4
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "level": 36,
+    "item_level": 8,
+    "stats": {},
+    "params": []
+}

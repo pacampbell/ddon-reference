@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 52,
+    "name": "Throwblast",
+    "info": "Throw this to cause damage on impact.\nCauses the \"Caught Fire\" debilitation.",
+    "icon": {
+        "icon_id": 443,
+        "color_id": 3
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 6,
+    "max_stack": 10
+}

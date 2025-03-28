@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7883,
+    "name": "Bornite Ingot",
+    "info": "Metal Crafting Material: A lump of metal\ncontaining green copper, which is found in rock\nscales.",
+    "icon": {
+        "icon_id": 490,
+        "color_id": 4
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

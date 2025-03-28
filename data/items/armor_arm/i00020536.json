@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20536,
+    "name": "Mehizaf Glove",
+    "info": "",
+    "icon": {
+        "icon_id": 2215,
+        "color_id": 111
+    },
+    "sell_price": 13090,
+    "weight": 35,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 554,
+        "magic_attack": 7,
+        "magic_defense": 462,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 1987,
+    "name": "D D D",
+    "info": "",
+    "icon": {
+        "icon_id": 865,
+        "color_id": 10
+    },
+    "sell_price": 7610,
+    "weight": 120,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1185,
+        "magic_attack": 792,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 361
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

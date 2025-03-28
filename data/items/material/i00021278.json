@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21278,
+    "name": "Sacred Flame Steel",
+    "info": "Metal Crafting Material:\nA lump of steel that has been constantly\ninfluenced by the dragon's power in a place very\nclose to a Fire Dragon.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 8
+}

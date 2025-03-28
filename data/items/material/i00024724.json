@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24724,
+    "name": "Fine mahogany wood",
+    "info": "Wood Crafting Material.\nA popular wood with beautiful striped grain\npatterns.\nIt has excellent quality and is particularly\nsuitable as a material for furniture.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 106
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 2
+}

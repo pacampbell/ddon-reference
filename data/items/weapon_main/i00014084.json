@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14084,
+    "name": "Spear Daggers of Heroes",
+    "info": "",
+    "icon": {
+        "icon_id": 932,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1476,
+        "magic_attack": 1310,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 153
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

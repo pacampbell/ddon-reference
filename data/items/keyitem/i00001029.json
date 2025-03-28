@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1029,
+    "name": "Alchemy Research Building Key",
+    "info": "The key to Mergoda District's \"Alchemy Research\nBuilding\".\nA pattern imitating the eyeball is engraved",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 25174,
+    "name": "Hero's Magic Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 2727,
+        "color_id": 11
+    },
+    "sell_price": 49500,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3906,
+        "magic_attack": 4069,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 586
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

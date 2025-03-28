@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7976,
+    "name": "Lestania Herb",
+    "info": "Floral Crafting Material: Common herbs often seen\nin Lestania.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

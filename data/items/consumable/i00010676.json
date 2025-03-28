@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 10676,
+    "name": "Unspecified Jewelry",
+    "info": "You can obtain some \"jewelry\" items.",
+    "icon": {
+        "icon_id": 1167,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

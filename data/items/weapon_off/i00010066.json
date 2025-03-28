@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 10066,
+    "name": "Godblaze 7",
+    "info": "",
+    "icon": {
+        "icon_id": 920,
+        "color_id": 10
+    },
+    "sell_price": 7202,
+    "weight": 20,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1240,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

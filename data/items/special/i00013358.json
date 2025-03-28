@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13358,
+    "name": "Recipe: Foodstuff Storage Rack",
+    "info": "Recipe for a food storage shelf that can be\ninstalled in the kitchen.",
+    "icon": {
+        "icon_id": 1502,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

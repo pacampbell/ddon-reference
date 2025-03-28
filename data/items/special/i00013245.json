@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13245,
+    "name": "Light Meal Set",
+    "info": "Meal set that can be placed on the table",
+    "icon": {
+        "icon_id": 1511,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

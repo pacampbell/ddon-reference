@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 16887,
+    "name": "Wanted Heart",
+    "info": "",
+    "icon": {
+        "icon_id": 1625,
+        "color_id": 111
+    },
+    "sell_price": 20000,
+    "weight": 120,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2220,
+        "magic_attack": 1765,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 728
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

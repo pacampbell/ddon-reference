@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18508,
+    "name": "Natural Charcoal",
+    "info": "Wood Crafting Material: Charcoal, made by slowly\nburning wood with geothermal heat.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 5
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21331,
+    "name": "Lestanian Honey",
+    "info": "Lestania honey, with a lingering sweetness has a\ndelightful aroma of Lestania flowers, which is\nloved by both wild animals and humans.",
+    "icon": {
+        "icon_id": 2379,
+        "color_id": 17
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

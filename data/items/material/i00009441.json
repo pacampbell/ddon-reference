@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9441,
+    "name": "Sand of Reminiscence",
+    "info": "Sand Crafting Material: Sand brought by ethereal\ncreatures (LV. 55 and above) from... somewhere.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 6
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 12
+}

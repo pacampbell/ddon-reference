@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17908,
+    "name": "Monster Tissue Sample",
+    "info": "Miscellaneous Crafting Material: Pieces of\nmonster meat that have been processed for some\nkind of experimentation.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 5
+}

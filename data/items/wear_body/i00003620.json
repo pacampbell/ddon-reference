@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3620,
+    "name": "Silver Chainmail",
+    "info": "",
+    "icon": {
+        "icon_id": 791,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 10,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 47,
+        "magic_attack": 0,
+        "magic_defense": 47,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 253
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25284,
+    "name": "Hero's Assault Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1318,
+        "color_id": 11
+    },
+    "sell_price": 25100,
+    "weight": 70,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 12,
+        "defense": 1167,
+        "magic_attack": 12,
+        "magic_defense": 1037,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 49
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1338
+        }
+    ]
+}

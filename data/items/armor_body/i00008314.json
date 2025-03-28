@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8314,
+    "name": "Golden Lorica",
+    "info": "",
+    "icon": {
+        "icon_id": 119,
+        "color_id": 10
+    },
+    "sell_price": 7865,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 56,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 326,
+        "magic_attack": 0,
+        "magic_defense": 290,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

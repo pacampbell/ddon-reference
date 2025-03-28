@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7856,
+    "name": "Marble",
+    "info": "Ore Crafting Material: Stone with a moist and\nheavy texture, adorned with subtle, intricate\npatterns.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

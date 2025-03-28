@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 12056,
+    "name": "Vortex",
+    "info": "",
+    "icon": {
+        "icon_id": 1463,
+        "color_id": 11
+    },
+    "sell_price": 8452,
+    "weight": 40,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1493,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

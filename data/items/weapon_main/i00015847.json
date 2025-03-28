@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 15847,
+    "name": "Arisen's Disturber",
+    "info": "",
+    "icon": {
+        "icon_id": 1675,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1725,
+        "magic_attack": 1892,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 264
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        }
+    ]
+}

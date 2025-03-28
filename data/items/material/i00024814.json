@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24814,
+    "name": "Chaotic Dark Dragonscale",
+    "info": "Pelt Crafting Material.\nScales imbued with an incredibly powerful dark\nenergy.\nThey display a complex color reminiscent of a sky\nshrouded in darkness.",
+    "icon": {
+        "icon_id": 2628,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

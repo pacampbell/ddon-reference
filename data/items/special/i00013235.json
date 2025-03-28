@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13235,
+    "name": "Foodstuff Storage Rack",
+    "info": "Foodstuff Storage Rack that can be installed in\nthe Kitchen",
+    "icon": {
+        "icon_id": 1502,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

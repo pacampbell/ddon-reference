@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8029,
+    "name": "Dirty Sheet Metal",
+    "info": "Miscellaneous Crafting Material: Dirty Sheet\nMetal Stripped from a Giant Soldier.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 105
+    },
+    "sell_price": 505,
+    "weight": 0,
+    "item_level": 10
+}

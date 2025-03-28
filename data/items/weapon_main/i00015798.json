@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 15798,
+    "name": "Polished Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1657,
+        "color_id": 11
+    },
+    "sell_price": 1000,
+    "weight": 70,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 23,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1555,
+        "magic_attack": 1293,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 301
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

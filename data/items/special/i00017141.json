@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17141,
+    "name": "Tapestry - Ruins",
+    "info": "Tapestry (Left) that can be installed in the Study",
+    "icon": {
+        "icon_id": 1889,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

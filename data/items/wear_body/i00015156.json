@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15156,
+    "name": "Hero's Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 786,
+        "color_id": 10
+    },
+    "sell_price": 2953,
+    "weight": 10,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 151,
+        "magic_attack": 0,
+        "magic_defense": 151,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 382
+        }
+    ]
+}

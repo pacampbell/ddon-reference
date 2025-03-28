@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19511,
+    "name": "Blood Orb",
+    "info": "The crystallized blood shed by the White Dragon\nin past battles.",
+    "icon": {
+        "icon_id": 425,
+        "color_id": 1
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

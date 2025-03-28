@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7941,
+    "name": "Dragonleather",
+    "info": "Cloth Crafting Material: A highly luxurious cloth\nmade from dragon hide.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

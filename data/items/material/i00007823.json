@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7823,
+    "name": "Bright Gold Feather",
+    "info": "Feather Crafting Material:\nLarge feather that shines with golden color of an\nalchemized Griffin.",
+    "icon": {
+        "icon_id": 480,
+        "color_id": 106
+    },
+    "sell_price": 505,
+    "weight": 0,
+    "item_level": 11
+}

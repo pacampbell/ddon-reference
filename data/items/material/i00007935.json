@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7935,
+    "name": "Leather Cloth",
+    "info": "Cloth Crafting Material: Versatile cloth made\nfrom animal pelts.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 2
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

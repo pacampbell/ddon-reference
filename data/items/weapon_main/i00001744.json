@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1744,
+    "name": "Solitus",
+    "info": "",
+    "icon": {
+        "icon_id": 967,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 80,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 210,
+        "magic_attack": 144,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 63
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

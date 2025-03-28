@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9449,
+    "name": "Demon Commander's Belt",
+    "info": "Crafting materials with limited availability.\nA leather belt that has absorbed the blood of\nmany.",
+    "icon": {
+        "icon_id": 518,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

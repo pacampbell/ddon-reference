@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 10345,
+    "name": "Mark of the Wicked Vine Stalk",
+    "info": "",
+    "icon": {
+        "icon_id": 960,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 776,
+        "magic_attack": 549,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 172
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 32
+        }
+    ]
+}

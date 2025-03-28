@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13086,
+    "name": "Silver Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 1356,
+        "color_id": 11
+    },
+    "sell_price": 2218,
+    "weight": 10,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 122,
+        "magic_attack": 0,
+        "magic_defense": 122,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 382
+        }
+    ]
+}

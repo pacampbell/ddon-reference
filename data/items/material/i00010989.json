@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10989,
+    "name": "Shining Dragon Bone",
+    "info": "Obtainable only in the \"Dragon's Nest\", a\nbeautiful stone that shines with powerful Dragon\nForce.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 522,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 8
+}

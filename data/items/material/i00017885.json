@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17885,
+    "name": "Blaze Grass",
+    "info": "Floral Crafting Material: a highly flammable\nsubstance that is often referred to as the\n\"fire-starting grass\".",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 5
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 5
+}

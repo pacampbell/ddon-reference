@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 20847,
+    "name": "Mission Padding",
+    "info": "",
+    "icon": {
+        "icon_id": 2231,
+        "color_id": 111
+    },
+    "sell_price": 25080,
+    "weight": 73,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 885,
+        "magic_attack": 8,
+        "magic_defense": 786,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 44
+        },
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 6
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1259
+        }
+    ]
+}

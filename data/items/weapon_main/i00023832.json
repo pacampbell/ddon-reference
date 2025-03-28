@@ -1,0 +1,65 @@
+{
+    "type": "equipment",
+    "item_id": 23832,
+    "name": "Lost Continent's Rover Wall",
+    "info": "",
+    "icon": {
+        "icon_id": 2669,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3268,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 961
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 499
+        },
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 19
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

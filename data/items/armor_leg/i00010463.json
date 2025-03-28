@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10463,
+    "name": "Enforcer's Boots (Crimson)",
+    "info": "",
+    "icon": {
+        "icon_id": 1089,
+        "color_id": 83
+    },
+    "sell_price": 4000,
+    "weight": 54,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 114,
+        "magic_attack": 0,
+        "magic_defense": 91,
+        "crest_slot": 0,
+        "ele_slot": 19
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 772
+        }
+    ]
+}

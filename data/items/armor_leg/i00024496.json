@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24496,
+    "name": "Blackshatter Magic Leg",
+    "info": "",
+    "icon": {
+        "icon_id": 2810,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 43,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 509,
+        "magic_attack": 9,
+        "magic_defense": 407,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 101
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 824
+        }
+    ]
+}

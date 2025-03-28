@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 13536,
+    "name": "Prodigal Arisen's Clothes",
+    "info": "",
+    "icon": {
+        "icon_id": 1400,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 240,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 625,
+        "magic_attack": 0,
+        "magic_defense": 625,
+        "crest_slot": 4,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 129
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 990
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 540
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12406,
+    "name": "Dawn of Wyvern",
+    "info": "",
+    "icon": {
+        "icon_id": 1021,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 70,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1334,
+        "magic_attack": 1460,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 211
+        },
+        {
+            "id": 92,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 93,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

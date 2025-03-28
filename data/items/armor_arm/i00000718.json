@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 718,
+    "name": "Faith Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 50,
+        "color_id": 10
+    },
+    "sell_price": 7351,
+    "weight": 34,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 310,
+        "magic_attack": 0,
+        "magic_defense": 258,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

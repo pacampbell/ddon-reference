@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16753,
+    "name": "Moody Lamp - Valentine",
+    "info": "Cute Heart Shade Lamp",
+    "icon": {
+        "icon_id": 1782,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14
+}

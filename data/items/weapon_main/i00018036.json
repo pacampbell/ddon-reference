@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 18036,
+    "name": "Guillotine Edge of Resentment",
+    "info": "",
+    "icon": {
+        "icon_id": 929,
+        "color_id": 10
+    },
+    "sell_price": 35805,
+    "weight": 60,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2380,
+        "magic_attack": 2193,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 243
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

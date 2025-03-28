@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3803,
+    "name": "Biting Club",
+    "info": "",
+    "icon": {
+        "icon_id": 836,
+        "color_id": 8
+    },
+    "sell_price": 4100,
+    "weight": 120,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 576,
+        "magic_attack": 422,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 171
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

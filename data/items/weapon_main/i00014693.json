@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14693,
+    "name": "Zone of Liberty",
+    "info": "",
+    "icon": {
+        "icon_id": 1046,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1769,
+        "magic_attack": 2044,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 586
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

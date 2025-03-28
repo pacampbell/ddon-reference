@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18658,
+    "name": "Courtier's Spirit",
+    "info": "The power to venture into the depths of Heroic\nSpirit Sleeping Path: Feryana Wilderness that\nrests on The Epitaph Road.",
+    "icon": {
+        "icon_id": 1990,
+        "color_id": 105
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 15
+}

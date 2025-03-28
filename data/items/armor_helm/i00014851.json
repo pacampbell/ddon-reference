@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 14851,
+    "name": "Vicious Skull",
+    "info": "",
+    "icon": {
+        "icon_id": 254,
+        "color_id": 111
+    },
+    "sell_price": 8439,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 313,
+        "magic_attack": 4,
+        "magic_defense": 502,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 8
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 8
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 8
+        }
+    ]
+}

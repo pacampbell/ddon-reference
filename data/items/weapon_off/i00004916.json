@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 4916,
+    "name": "Hell's Pain",
+    "info": "",
+    "icon": {
+        "icon_id": 1052,
+        "color_id": 7
+    },
+    "sell_price": 884,
+    "weight": 40,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 381,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 19240,
+    "name": "Helm of the First King",
+    "info": "",
+    "icon": {
+        "icon_id": 1953,
+        "color_id": 127
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 498,
+        "magic_attack": 8,
+        "magic_defense": 797,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 25
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 25
+        }
+    ]
+}

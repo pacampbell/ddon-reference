@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19593,
+    "name": "The Seven-Tailed Serpent and the Golden Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 2341,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 80,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2448,
+        "magic_attack": 2744,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 774
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        }
+    ]
+}

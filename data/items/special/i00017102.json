@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17102,
+    "name": "Wall Paint - Brick",
+    "info": "You can repaint the walls of your room in brick\nstyle.",
+    "icon": {
+        "icon_id": 1866,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

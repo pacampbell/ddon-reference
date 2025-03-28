@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 4598,
+    "name": "Heavenly Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 84,
+        "color_id": 10
+    },
+    "sell_price": 6339,
+    "weight": 45,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 273,
+        "magic_attack": 0,
+        "magic_defense": 228,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        }
+    ]
+}

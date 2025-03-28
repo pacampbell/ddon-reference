@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 23846,
+    "name": "White Wings' Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2678,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 48,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3268,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 21
+        }
+    ]
+}

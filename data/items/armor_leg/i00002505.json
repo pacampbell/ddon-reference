@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2505,
+    "name": "Strong Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 420,
+        "color_id": 7
+    },
+    "sell_price": 1150,
+    "weight": 72,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 60,
+        "magic_attack": 0,
+        "magic_defense": 48,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 301
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25478,
+    "name": "Holy Seal's Lively Gambeson",
+    "info": "",
+    "icon": {
+        "icon_id": 1605,
+        "color_id": 82
+    },
+    "sell_price": 5100,
+    "weight": 12,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 277,
+        "magic_attack": 0,
+        "magic_defense": 277,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 3
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 506
+        }
+    ]
+}

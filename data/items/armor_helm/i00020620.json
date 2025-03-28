@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 20620,
+    "name": "Briller Head",
+    "info": "",
+    "icon": {
+        "icon_id": 1572,
+        "color_id": 11
+    },
+    "sell_price": 12915,
+    "weight": 39,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 446,
+        "magic_attack": 6,
+        "magic_defense": 713,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

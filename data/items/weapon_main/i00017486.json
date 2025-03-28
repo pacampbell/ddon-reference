@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 17486,
+    "name": "Corvus Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 965,
+        "color_id": 11
+    },
+    "sell_price": 34270,
+    "weight": 84,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2350,
+        "magic_attack": 2059,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 461
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

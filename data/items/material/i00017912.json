@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17912,
+    "name": "Acre Royal Family Intaglio",
+    "info": "Miscellaneous Crafting Material:\nAn exquisite artwork where the crest of the Acre\nroyal family and the figure of a Fire Dragon are\nintricately engraved in sunk relief.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 0
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7952,
+    "name": "Rough Thread",
+    "info": "Translation: String Crafting Material: A common\nstring spun from animal fur.",
+    "icon": {
+        "icon_id": 502,
+        "color_id": 2
+    },
+    "sell_price": 37,
+    "weight": 0,
+    "item_level": 3
+}

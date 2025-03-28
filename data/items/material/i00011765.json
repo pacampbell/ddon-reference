@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11765,
+    "name": "Foreign Scroll",
+    "info": "Grimoire crafting material.\nScroll with an unfamiliar seal.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21829,
+    "name": "Physical Attack +14",
+    "info": "Increase physical attack power.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

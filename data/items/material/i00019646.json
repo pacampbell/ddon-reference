@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19646,
+    "name": "Giant Husk",
+    "info": "Miscellaneous Crafting Material: A part of the\nexoskeleton discarded by a giant arthropod during\nmolting.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 10
+}

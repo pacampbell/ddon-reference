@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10251,
+    "name": "Dragon's Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 1129,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 40,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 156
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 15
+        }
+    ]
+}

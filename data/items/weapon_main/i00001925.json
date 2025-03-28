@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1925,
+    "name": "Valiant Horn",
+    "info": "",
+    "icon": {
+        "icon_id": 1029,
+        "color_id": 8
+    },
+    "sell_price": 5125,
+    "weight": 140,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 447,
+        "magic_attack": 655,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 234
+        }
+    ]
+}

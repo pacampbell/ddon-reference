@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21112,
+    "name": "Maestro Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1921,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 691,
+        "magic_attack": 4,
+        "magic_defense": 614,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1300
+        }
+    ]
+}

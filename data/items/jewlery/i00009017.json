@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 9017,
+    "name": "Tree Insignia Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 718,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 1,
+    "level": 41,
+    "item_level": 9,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 12
+        }
+    ]
+}

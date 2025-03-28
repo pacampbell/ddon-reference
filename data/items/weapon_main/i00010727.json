@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 10727,
+    "name": "Olfring Bow (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1251,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 279,
+        "magic_attack": 96,
+        "crest_slot": 4,
+        "ele_slot": 34
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 74
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

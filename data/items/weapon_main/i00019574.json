@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 19574,
+    "name": "Holy Night's Sled Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 2204,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1225,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 125
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 125
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 5
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

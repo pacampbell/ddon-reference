@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 19380,
+    "name": "Gloria Stole",
+    "info": "",
+    "icon": {
+        "icon_id": 2100,
+        "color_id": 28
+    },
+    "sell_price": 10000,
+    "weight": 15,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 143,
+        "magic_attack": 6,
+        "magic_defense": 143,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 19
+        }
+    ]
+}

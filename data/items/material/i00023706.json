@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23706,
+    "name": "Spirit Dragon",
+    "info": "Crest that bestows Dragon Ability [Spirit Dragon].",
+    "icon": {
+        "icon_id": 2613,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

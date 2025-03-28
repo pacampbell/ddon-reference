@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16173,
+    "name": "Classic Carpet",
+    "info": "Classic Carpet that can be installed in the Study.",
+    "icon": {
+        "icon_id": 1740,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17153,
+    "name": "Cuckoo Clock",
+    "info": "A clockwork device that tells the time",
+    "icon": {
+        "icon_id": 1870,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

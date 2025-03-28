@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19148,
+    "name": "Recipe: Cyclops Lantern",
+    "info": "Recipe for Cyclops Lantern",
+    "icon": {
+        "icon_id": 2010,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

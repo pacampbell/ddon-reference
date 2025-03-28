@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13345,
+    "name": "AP (Rathnite Foothills)",
+    "info": "You can obtain\nRathnite Foothills AP.",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 255
+}

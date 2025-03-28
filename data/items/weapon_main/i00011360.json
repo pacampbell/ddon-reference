@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11360,
+    "name": "Sword of Lightning (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1280,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 120,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 25,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1043,
+        "magic_attack": 661,
+        "crest_slot": 0,
+        "ele_slot": 26
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 334
+        },
+        {
+            "id": 56,
+            "name": "KIND_TYPE_DOWN_ATTACK_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

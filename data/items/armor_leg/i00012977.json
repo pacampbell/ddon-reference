@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12977,
+    "name": "Greaves of Gloom",
+    "info": "",
+    "icon": {
+        "icon_id": 419,
+        "color_id": 10
+    },
+    "sell_price": 7209,
+    "weight": 42,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 217,
+        "magic_attack": 0,
+        "magic_defense": 173,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 55
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 739
+        }
+    ]
+}

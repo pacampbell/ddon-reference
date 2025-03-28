@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20706,
+    "name": "Kenneby's Wear",
+    "info": "",
+    "icon": {
+        "icon_id": 1606,
+        "color_id": 11
+    },
+    "sell_price": 4410,
+    "weight": 11,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 223,
+        "magic_attack": 0,
+        "magic_defense": 223,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 435
+        }
+    ]
+}

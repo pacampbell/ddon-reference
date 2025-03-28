@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 8845,
+    "name": "Guardian's Cape",
+    "info": "",
+    "icon": {
+        "icon_id": 227,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 10,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 21,
+        "magic_attack": 0,
+        "magic_defense": 21,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 16
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 10
+        }
+    ]
+}

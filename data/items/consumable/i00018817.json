@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 18817,
+    "name": "Orb of Complete Augmentation (Dragon Force\nAugmentation)",
+    "info": "Make sure all 4 pages of the Dragon Force\nAugmentation for the Arisen are fully learned.\n<COL ffdc78>*This will be added to NPC Joseph's\nmenu.</COL>",
+    "icon": {
+        "icon_id": 2013,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 1
+}

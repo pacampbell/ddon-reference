@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7822,
+    "name": "Transmuted Gold Feather",
+    "info": "Feather Crafting Material: Feathers obtained from\nthe wings of Alchemized Harpies that shine with a\ngolden color.",
+    "icon": {
+        "icon_id": 480,
+        "color_id": 6
+    },
+    "sell_price": 405,
+    "weight": 0,
+    "item_level": 11
+}

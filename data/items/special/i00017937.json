@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17937,
+    "name": "2nd Anniversary Decoration",
+    "info": "Decoration that celebrates the second anniversary",
+    "icon": {
+        "icon_id": 1901,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

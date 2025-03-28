@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1729,
+    "name": "Mageia Kyklos",
+    "info": "",
+    "icon": {
+        "icon_id": 988,
+        "color_id": 6
+    },
+    "sell_price": 1450,
+    "weight": 30,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 17,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 227,
+        "magic_attack": 342,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 56
+        }
+    ]
+}

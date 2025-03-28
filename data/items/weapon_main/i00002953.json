@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2953,
+    "name": "Pious Roots",
+    "info": "",
+    "icon": {
+        "icon_id": 1038,
+        "color_id": 8
+    },
+    "sell_price": 6485,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 524,
+        "magic_attack": 739,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 207
+        }
+    ]
+}

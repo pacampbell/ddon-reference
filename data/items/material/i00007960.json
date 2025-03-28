@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7960,
+    "name": "Spider Thread",
+    "info": "String Crafting Material:\nString made from the silk of the Kabutomushi\nbeetle. Surprisingly durable.",
+    "icon": {
+        "icon_id": 502,
+        "color_id": 1
+    },
+    "sell_price": 7,
+    "weight": 0,
+    "item_level": 1
+}

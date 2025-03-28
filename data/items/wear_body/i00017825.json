@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 17825,
+    "name": "Acrean Tunic",
+    "info": "",
+    "icon": {
+        "icon_id": 2019,
+        "color_id": 111
+    },
+    "sell_price": 3767,
+    "weight": 8,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 190,
+        "magic_attack": 0,
+        "magic_defense": 190,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 397
+        }
+    ]
+}

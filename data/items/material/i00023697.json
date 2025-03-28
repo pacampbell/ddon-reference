@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23697,
+    "name": "High scepter strike damage UP",
+    "info": "The damage inflicted by the High Scepter's Strike\nattribute increases. *The effect is activated when\nattacking or when it matches the physical\nattribute of the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

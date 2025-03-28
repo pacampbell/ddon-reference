@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7784,
+    "name": "Giant's Horn",
+    "info": "Horn Crafting Material: Troll Tribe's Spiked Horn",
+    "icon": {
+        "icon_id": 467,
+        "color_id": 104
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

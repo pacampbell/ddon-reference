@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8136,
+    "name": "Green Dye",
+    "info": "By using it in crafting, you can change the color\nof equipment grade\nor higher to \"green\".\n(Note: Some equipment cannot have its color\nchanged)",
+    "icon": {
+        "icon_id": 542,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7862,
+    "name": "Mithril Ore",
+    "info": "Ore Crafting Material: A precious ore that emits\na shining silver color.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

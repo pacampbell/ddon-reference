@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9415,
+    "name": "Grilled Mushroom",
+    "info": "A dish using mushrooms as the main ingredient\nBestows various buffs upon eating",
+    "icon": {
+        "icon_id": 457,
+        "color_id": 4
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

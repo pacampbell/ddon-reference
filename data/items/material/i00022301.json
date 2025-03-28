@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22301,
+    "name": "Magick Atk. Down +20",
+    "info": "Debilitation \"Magick Attack Down\"\nadded.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

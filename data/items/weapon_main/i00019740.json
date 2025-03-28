@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19740,
+    "name": "Adamas Military Expedition Lance",
+    "info": "",
+    "icon": {
+        "icon_id": 2169,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 100,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2598,
+        "magic_attack": 2497,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 511
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8293,
+    "name": "Chest Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 103,
+        "color_id": 5
+    },
+    "sell_price": 140,
+    "weight": 50,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 41,
+        "magic_attack": 0,
+        "magic_defense": 36,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 147
+        }
+    ]
+}

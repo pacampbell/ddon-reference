@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17880,
+    "name": "Highly Viscous Slime Liquid",
+    "info": "Liquid Crafting Material:\nSlime fluid from a powerful slime species (LV.\n80~).",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

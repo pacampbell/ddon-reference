@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9003,
+    "name": "Holy Guard Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 549,
+        "color_id": 8
+    },
+    "sell_price": 1200,
+    "weight": 1,
+    "level": 36,
+    "item_level": 8,
+    "stats": {},
+    "params": [
+        {
+            "id": 14,
+            "name": "KIND_TYPE_SAINT_DEF",
+            "value": 3
+        }
+    ]
+}

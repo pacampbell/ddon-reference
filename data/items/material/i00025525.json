@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25525,
+    "name": "Demon Leather Tanning Solution",
+    "info": "Liquid Crafting Material.\nLiquid used by orcs to process animal skins.\nGives a unique texture and sturdiness, but leaves\na strange smell.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 1
+}

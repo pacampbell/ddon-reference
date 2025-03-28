@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16010,
+    "name": "Still-Beating Heart",
+    "info": "Meat Crafting Material: A creepy heart that\ncontinues to beat even after being extracted.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

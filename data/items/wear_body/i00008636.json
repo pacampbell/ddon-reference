@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8636,
+    "name": "Hero's Skin",
+    "info": "",
+    "icon": {
+        "icon_id": 782,
+        "color_id": 9
+    },
+    "sell_price": 1900,
+    "weight": 5,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 50,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 69,
+        "magic_attack": 0,
+        "magic_defense": 69,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 348
+        }
+    ]
+}

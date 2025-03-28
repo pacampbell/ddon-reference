@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 25028,
+    "name": "Memory Reflecting Crystal Ball",
+    "info": "Furniture that allows you to look back on your\nmemories.",
+    "icon": {
+        "icon_id": 2968,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 100
+}

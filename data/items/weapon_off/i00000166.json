@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 166,
+    "name": "Scarred Sentinel",
+    "info": "",
+    "icon": {
+        "icon_id": 855,
+        "color_id": 9
+    },
+    "sell_price": 3700,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 272
+        }
+    ]
+}

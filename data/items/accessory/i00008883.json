@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8883,
+    "name": "Brutal Cape",
+    "info": "",
+    "icon": {
+        "icon_id": 214,
+        "color_id": 9
+    },
+    "sell_price": 1900,
+    "weight": 10,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 44,
+        "magic_attack": 0,
+        "magic_defense": 44,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

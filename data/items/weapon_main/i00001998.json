@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1998,
+    "name": "Gilgamesh Lance",
+    "info": "",
+    "icon": {
+        "icon_id": 870,
+        "color_id": 10
+    },
+    "sell_price": 22450,
+    "weight": 120,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1783,
+        "magic_attack": 1348,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 553
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

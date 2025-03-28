@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25522,
+    "name": "Temple Garden Dragon Cotton",
+    "info": "Floral Crafting Material.\nA valuable commodity, cotton, grown by the\npriests in a corner of the medicinal garden inside\nthe White Dragon Temple.\nIt contains a small amount of Dragon Force.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 1
+}

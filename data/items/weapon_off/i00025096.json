@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 25096,
+    "name": "Solitary Ranger's Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2080,
+        "color_id": 11
+    },
+    "sell_price": 49000,
+    "weight": 44,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3789,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11802,
+    "name": "Strong Adhesive Paste",
+    "info": "Liquid Crafting Material: Strong adhesive\nextracted from organic materials.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 3
+}

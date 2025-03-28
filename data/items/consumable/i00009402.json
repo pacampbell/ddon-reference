@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9402,
+    "name": "Enhanced Lumber Knife",
+    "info": "Used to harvest materials from fallen logs.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 450,
+        "color_id": 4
+    },
+    "sell_price": 30,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

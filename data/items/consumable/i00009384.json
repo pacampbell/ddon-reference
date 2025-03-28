@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9384,
+    "name": "Sprite's Amulet",
+    "info": "Grants the user the\nspecified status effect.",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 3
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

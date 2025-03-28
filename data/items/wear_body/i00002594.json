@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2594,
+    "name": "Pourpoint",
+    "info": "",
+    "icon": {
+        "icon_id": 795,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 5,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 33,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 40,
+        "magic_attack": 0,
+        "magic_defense": 40,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 219
+        }
+    ]
+}

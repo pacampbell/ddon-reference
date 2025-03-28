@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11783,
+    "name": "Blessed Long Dragon Beard",
+    "info": "Crafting materials with limited availability\nLong Dragon Beard filled with powerful Dragon\nForce.",
+    "icon": {
+        "icon_id": 1423,
+        "color_id": 28
+    },
+    "sell_price": 988,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12446,
+    "name": "Reviving",
+    "info": "",
+    "icon": {
+        "icon_id": 1386,
+        "color_id": 111
+    },
+    "sell_price": 24505,
+    "weight": 50,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1596,
+        "magic_attack": 1725,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 249
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

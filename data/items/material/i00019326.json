@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19326,
+    "name": "Relief Coin (Golden Brown)",
+    "info": "Coin with a finely detailed relief.",
+    "icon": {
+        "icon_id": 1529,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

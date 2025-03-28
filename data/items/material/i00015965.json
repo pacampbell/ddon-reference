@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15965,
+    "name": "Composite Organ",
+    "info": "Meat Crafting Material:\nSpecial organs unique to Chimeras that enable the\ncoexistence of three heads.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 105
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 13
+}

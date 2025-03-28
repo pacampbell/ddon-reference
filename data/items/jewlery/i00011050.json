@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 11050,
+    "name": "Bracelet of Seizing",
+    "info": "",
+    "icon": {
+        "icon_id": 694,
+        "color_id": 29
+    },
+    "sell_price": 0,
+    "weight": 1,
+    "level": 1,
+    "item_level": 9,
+    "stats": {},
+    "params": []
+}

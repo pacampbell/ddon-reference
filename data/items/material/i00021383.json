@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21383,
+    "name": "Fruit of Inspiration (Protection)",
+    "info": "By giving it to a Pawn, this fruit allows them to\nlearn the special skill of Protection.\nIt also greatly increases the chance of a\nhigh-ranked Protection to flash into their mind.",
+    "icon": {
+        "icon_id": 2404,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

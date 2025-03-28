@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 14687,
+    "name": "Wand of Tribe",
+    "info": "",
+    "icon": {
+        "icon_id": 1688,
+        "color_id": 10
+    },
+    "sell_price": 25925,
+    "weight": 80,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1725,
+        "magic_attack": 1995,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 534
+        }
+    ]
+}

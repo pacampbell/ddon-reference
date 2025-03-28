@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24277,
+    "name": "Spirit Light Armored Leg Gear",
+    "info": "",
+    "icon": {
+        "icon_id": 2798,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 43,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 504,
+        "magic_attack": 9,
+        "magic_defense": 403,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 100
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 821
+        }
+    ]
+}

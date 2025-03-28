@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24837,
+    "name": "Hellfire Grimoire",
+    "info": "A typical Grimoire with a red cover.",
+    "icon": {
+        "icon_id": 2957,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18513,
+    "name": "Merit Medal (Peafowl)",
+    "info": "The Medal awarded to those who achieve high\nresults in the War Mission \"Dacreim Fortress\nRecapture Battle\".",
+    "icon": {
+        "icon_id": 1988,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 5
+}

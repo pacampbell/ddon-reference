@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20028,
+    "name": "Scimitar",
+    "info": "",
+    "icon": {
+        "icon_id": 2348,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 203,
+        "magic_attack": 203,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 46
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

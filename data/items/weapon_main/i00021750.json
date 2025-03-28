@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21750,
+    "name": "Olfring Sword (Iron)",
+    "info": "",
+    "icon": {
+        "icon_id": 2123,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2766,
+        "magic_attack": 2517,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 551
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

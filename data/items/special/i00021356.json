@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21356,
+    "name": "Recipe: Cyclops Lantern (Silver)",
+    "info": "Recipe for Cyclops Lantern (Silver)",
+    "icon": {
+        "icon_id": 2010,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

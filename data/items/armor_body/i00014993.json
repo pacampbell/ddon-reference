@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 14993,
+    "name": "Greedy Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 1557,
+        "color_id": 127
+    },
+    "sell_price": 16802,
+    "weight": 0,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 622,
+        "magic_attack": 2,
+        "magic_defense": 553,
+        "crest_slot": 4,
+        "ele_slot": 4
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1162
+        }
+    ]
+}

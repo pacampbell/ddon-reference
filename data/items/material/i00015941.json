@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15941,
+    "name": "Ancient Knight's Letter",
+    "info": "Limited availability crafting material:\nA letter from the time that records the legendary\nknight.",
+    "icon": {
+        "icon_id": 1726,
+        "color_id": 28
+    },
+    "sell_price": 952,
+    "weight": 0,
+    "item_level": 12
+}

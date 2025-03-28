@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 23839,
+    "name": "Spirit's Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 1647,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 42,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3268,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 90,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 51
+        }
+    ]
+}

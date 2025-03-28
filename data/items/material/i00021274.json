@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21274,
+    "name": "Ancient Wheat Ear",
+    "info": "Floral Crafting Material: An ear of ancient\nwheat, believed to have been brought in the past\nand established deep in the cave.",
+    "icon": {
+        "icon_id": 2595,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 14
+}

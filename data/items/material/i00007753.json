@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7753,
+    "name": "Cracked Black Horn",
+    "info": "Horn Crafting Material: Alchemized Goblin Horn\nthat has started to darken.",
+    "icon": {
+        "icon_id": 467,
+        "color_id": 5
+    },
+    "sell_price": 205,
+    "weight": 0,
+    "item_level": 10
+}

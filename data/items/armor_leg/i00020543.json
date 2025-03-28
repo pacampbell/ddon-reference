@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20543,
+    "name": "Capable Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 383,
+        "color_id": 10
+    },
+    "sell_price": 15100,
+    "weight": 42,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 426,
+        "magic_attack": 5,
+        "magic_defense": 341,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 87
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 768
+        }
+    ]
+}

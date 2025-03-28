@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 10299,
+    "name": "Mark of the Wicked Cursed Tomb",
+    "info": "",
+    "icon": {
+        "icon_id": 892,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 637,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 249
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 256
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

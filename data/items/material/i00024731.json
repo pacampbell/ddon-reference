@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24731,
+    "name": "Flame Apex Sacred Tree",
+    "info": "Wood Crafting Material.\nWood imbued with powerful dragon energy through\nthe royal secret technique.\nIt is only brought out during ceremonies, and the\nroyal crest is engraved discreetly in one corner.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9422,
+    "name": "Forest Royal Salad",
+    "info": "Salad abundant with herbs.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 456,
+        "color_id": 5
+    },
+    "sell_price": 450,
+    "weight": 0,
+    "item_level": 10,
+    "max_stack": 10
+}

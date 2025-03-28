@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14267,
+    "name": "Mace of Rain on Greenery",
+    "info": "",
+    "icon": {
+        "icon_id": 844,
+        "color_id": 10
+    },
+    "sell_price": 22504,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1930,
+        "magic_attack": 1701,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 406
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        }
+    ]
+}

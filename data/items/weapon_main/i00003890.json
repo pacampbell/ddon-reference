@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 3890,
+    "name": "Almighty's Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 1013,
+        "color_id": 10
+    },
+    "sell_price": 16250,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1143,
+        "magic_attack": 1216,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 176
+        }
+    ]
+}

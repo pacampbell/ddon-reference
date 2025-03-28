@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 12096,
+    "name": "Karsnaut",
+    "info": "",
+    "icon": {
+        "icon_id": 937,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 60,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1427,
+        "magic_attack": 1260,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 143
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 13
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

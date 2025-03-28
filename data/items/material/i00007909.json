@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7909,
+    "name": "Spirit Crystal",
+    "info": "Gem Crafting Material: Gems sealed with the souls\nof Death Knights (Lv. 56 and above).",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 106
+    },
+    "sell_price": 915,
+    "weight": 0,
+    "item_level": 12
+}

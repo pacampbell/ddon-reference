@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 21118,
+    "name": "Passionate Lover's Melt Dress",
+    "info": "",
+    "icon": {
+        "icon_id": 2281,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 20,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11796,
+    "name": "Phindymian Resin",
+    "info": "Miscellaneous Crafting Material:\nA resin that shines as if it has been enriched\nwith vitality.",
+    "icon": {
+        "icon_id": 519,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 3
+}

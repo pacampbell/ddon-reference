@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19632,
+    "name": "Cookware Set - Horror Night",
+    "info": "Cookware Set that can be placed in the Kitchen",
+    "icon": {
+        "icon_id": 2186,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

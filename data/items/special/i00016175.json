@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16175,
+    "name": "Dining Table - Rose",
+    "info": "Passionate-colored Dining Table",
+    "icon": {
+        "icon_id": 1752,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

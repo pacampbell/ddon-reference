@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 21170,
+    "name": "Lord Knight Leather Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 2223,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 818,
+        "magic_attack": 7,
+        "magic_defense": 728,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 43
+        },
+        {
+            "id": 22,
+            "name": "KIND_TYPE_DOWN_ATTACK",
+            "value": 25
+        },
+        {
+            "id": 24,
+            "name": "KIND_TYPE_DOWN_MAGIC_AT",
+            "value": 25
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1223
+        }
+    ]
+}

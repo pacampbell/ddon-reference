@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 9714,
+    "name": "Goddess Petticoat",
+    "info": "",
+    "icon": {
+        "icon_id": 341,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 54,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 32,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 63,
+        "magic_attack": 0,
+        "magic_defense": 50,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 412
+        }
+    ]
+}

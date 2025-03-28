@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 10786,
+    "name": "Olfring Rod (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1240,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 40,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 263,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 10
+        }
+    ]
+}

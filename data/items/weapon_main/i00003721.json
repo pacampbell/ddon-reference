@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3721,
+    "name": "Landing Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 819,
+        "color_id": 5
+    },
+    "sell_price": 104,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 5,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 205,
+        "magic_attack": 64,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 49
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21226,
+    "name": "Large Demon's Striped Pelt",
+    "info": "Pelt Crafting Material: Thick hide with Fodden's\nstriped pattern.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 9
+}

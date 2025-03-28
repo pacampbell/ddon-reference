@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1889,
+    "name": "Bardiche Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 930,
+        "color_id": 7
+    },
+    "sell_price": 2210,
+    "weight": 100,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 325,
+        "magic_attack": 187,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 51
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

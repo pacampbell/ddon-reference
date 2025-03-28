@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7946,
+    "name": "Bloodstained Red Cloth",
+    "info": "Cloth Crafting Material: Redcap (Level 20~)\nHeadcloth",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 3
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13160,
+    "name": "Expecto Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 216,
+        "color_id": 10
+    },
+    "sell_price": 2535,
+    "weight": 10,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 90,
+        "magic_attack": 0,
+        "magic_defense": 90,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 18
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7882,
+    "name": "Jewel Steel Ingot",
+    "info": "Metal Crafting Material: A chunk of metal made by\nadding components of ore to pyrite.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 3
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 5
+}

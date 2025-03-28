@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16236,
+    "name": "Recipe: Puppet - Burrowing Giant Mandragora",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1760,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

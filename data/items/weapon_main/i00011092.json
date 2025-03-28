@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 11092,
+    "name": "Tombstone",
+    "info": "",
+    "icon": {
+        "icon_id": 899,
+        "color_id": 9
+    },
+    "sell_price": 7400,
+    "weight": 100,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 722,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 265
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 268
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

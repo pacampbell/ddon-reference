@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11073,
+    "name": "Straight Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 819,
+        "color_id": 9
+    },
+    "sell_price": 6728,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 747,
+        "magic_attack": 555,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 166
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

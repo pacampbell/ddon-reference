@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 25504,
+    "name": "Trickster's Lively Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 2973,
+        "color_id": 82
+    },
+    "sell_price": 5900,
+    "weight": 11,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 225,
+        "magic_attack": 3,
+        "magic_defense": 225,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 20
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 4
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

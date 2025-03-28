@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 18536,
+    "name": "Black Venom Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2080,
+        "color_id": 82
+    },
+    "sell_price": 16000,
+    "weight": 36,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1846,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

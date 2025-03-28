@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7881,
+    "name": "Drilled Plate Sheet",
+    "info": "Metal Crafting Material:\nA special metal plate synthesized from metal\nstakes.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 3
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 5
+}

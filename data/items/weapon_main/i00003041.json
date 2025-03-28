@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 3041,
+    "name": "Animus",
+    "info": "",
+    "icon": {
+        "icon_id": 970,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1878,
+        "magic_attack": 1773,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 391
+        },
+        {
+            "id": 53,
+            "name": "KIND_TYPE_DOWN_THUNDER_SAV",
+            "value": 45
+        },
+        {
+            "id": 61,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

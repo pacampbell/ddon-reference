@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25523,
+    "name": "Kunstkette",
+    "info": "Miscellaneous Crafting Material.\nA silver chain adorned with intricate\ncraftsmanship, said to have come from a foreign\nland or to be the work of non-human hands.",
+    "icon": {
+        "icon_id": 2496,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 6
+}

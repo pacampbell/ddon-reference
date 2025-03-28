@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15180,
+    "name": "Holy Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 780,
+        "color_id": 11
+    },
+    "sell_price": 3360,
+    "weight": 10,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 172,
+        "magic_attack": 0,
+        "magic_defense": 172,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 380
+        }
+    ]
+}

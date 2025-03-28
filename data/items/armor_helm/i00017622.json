@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 17622,
+    "name": "Shahabad Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 301,
+        "color_id": 11
+    },
+    "sell_price": 10624,
+    "weight": 50,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 365,
+        "magic_attack": 4,
+        "magic_defense": 584,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

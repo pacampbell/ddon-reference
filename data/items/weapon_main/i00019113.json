@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 19113,
+    "name": "One-handed Snap Blade",
+    "info": "",
+    "icon": {
+        "icon_id": 1829,
+        "color_id": 19
+    },
+    "sell_price": 30000,
+    "weight": 5,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1836,
+        "magic_attack": 1613,
+        "crest_slot": 4,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 346
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 95,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 100
+        },
+        {
+            "id": 52,
+            "name": "KIND_TYPE_DOWN_ICE_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

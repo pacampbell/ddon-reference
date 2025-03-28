@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16775,
+    "name": "Sincere Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1816,
+        "color_id": 82
+    },
+    "sell_price": 314,
+    "weight": 50,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1509,
+        "magic_attack": 1343,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 224
+        },
+        {
+            "id": 45,
+            "name": "KIND_TYPE_STONE_SAV",
+            "value": 75
+        },
+        {
+            "id": 49,
+            "name": "KIND_TYPE_SHOCK_SAV",
+            "value": 75
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

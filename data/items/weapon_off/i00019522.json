@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 19522,
+    "name": "Olfring Rod (Iron)",
+    "info": "",
+    "icon": {
+        "icon_id": 2145,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1708,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

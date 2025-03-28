@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11800,
+    "name": "Feather Chiffon",
+    "info": "Cloth Crafting Material: Lightweight and airy\ncloth that you can't feel the weight of.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 3
+}

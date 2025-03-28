@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9405,
+    "name": "Artisan's Lumber Knife",
+    "info": "Used to harvest materials from fallen logs.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 451,
+        "color_id": 80
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 25651,
+    "name": "Play Points",
+    "info": "Currency (PP) that can be used with elements\nrelated to the further growth of each job",
+    "icon": {
+        "icon_id": 2091,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15942,
+    "name": "Ancient Knight's Book",
+    "info": "Limited availability crafting material:\nBook about the knight who is spoken of as a\nlegend in the ancient manuscripts.",
+    "icon": {
+        "icon_id": 1726,
+        "color_id": 28
+    },
+    "sell_price": 952,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15920,
+    "name": "Ancient General's Chainmail",
+    "info": "Miscellaneous Crafting Material: Chain Hauberk\nburied together in the tomb of a renowned ancient\ngeneral.",
+    "icon": {
+        "icon_id": 519,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 2
+}

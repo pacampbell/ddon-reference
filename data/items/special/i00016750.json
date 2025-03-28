@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16750,
+    "name": "Dining Table - White",
+    "info": "Sweet-colored Dining Table",
+    "icon": {
+        "icon_id": 1790,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14
+}

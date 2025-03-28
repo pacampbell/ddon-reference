@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23228,
+    "name": "Solid LV.3",
+    "info": "Gain the same effects as the target ability.\nEffects do not stack.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

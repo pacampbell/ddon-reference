@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17086,
+    "name": "Aristocrat Bath - Chimera",
+    "info": "An elegant Chimera-shaped spout that can be\ninstalled in the bath, allowing you to immerse\nyourself in a graceful atmosphere.",
+    "icon": {
+        "icon_id": 1871,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

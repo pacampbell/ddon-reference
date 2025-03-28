@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21191,
+    "name": "Puppet - Hamsuke",
+    "info": "Puppet - Hamsuke",
+    "icon": {
+        "icon_id": 2370,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

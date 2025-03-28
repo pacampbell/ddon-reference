@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 18641,
+    "name": "Carrie's Special Lunchbox",
+    "info": "Carrie's Full Bodied Bento Box.\nWhen eaten, it has various beneficial effects.",
+    "icon": {
+        "icon_id": 1982,
+        "color_id": 1
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 99
+}

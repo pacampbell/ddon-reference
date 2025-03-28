@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 4113,
+    "name": "Neophyte's Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 242,
+        "color_id": 5
+    },
+    "sell_price": 60,
+    "weight": 27,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 24,
+        "magic_attack": 0,
+        "magic_defense": 39,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

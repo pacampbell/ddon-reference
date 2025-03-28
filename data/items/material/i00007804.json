@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7804,
+    "name": "Magick-Tinged Bone",
+    "info": "Bone Crafting Material.\nBones imbued with the magic of the Mage Skeleton.",
+    "icon": {
+        "icon_id": 474,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

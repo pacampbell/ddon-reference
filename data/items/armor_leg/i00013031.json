@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13031,
+    "name": "Mail of Concealment",
+    "info": "",
+    "icon": {
+        "icon_id": 1345,
+        "color_id": 111
+    },
+    "sell_price": 9189,
+    "weight": 42,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 276,
+        "magic_attack": 0,
+        "magic_defense": 220,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 61
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 4
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 754
+        }
+    ]
+}

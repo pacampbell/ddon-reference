@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13359,
+    "name": "Recipe: Cookware Set",
+    "info": "Recipe for a Cookware Set that can be installed\nin the Kitchen.",
+    "icon": {
+        "icon_id": 1504,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

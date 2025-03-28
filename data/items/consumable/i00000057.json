@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 57,
+    "name": "Pickaxe",
+    "info": "Used to harvest materials from ore veins.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 446,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 10
+}

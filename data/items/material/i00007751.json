@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7751,
+    "name": "Corpse-Eater's Horn",
+    "info": "Horn Crafting Material:\nGhoul's eerily twisted horn",
+    "icon": {
+        "icon_id": 466,
+        "color_id": 105
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

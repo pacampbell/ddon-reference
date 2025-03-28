@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7866,
+    "name": "Golem Magickal Rock",
+    "info": "Ore Crafting Material: Magick-infused stone that\nconstitutes the magic of a Golem. A rare item.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 104
+    },
+    "sell_price": 615,
+    "weight": 0,
+    "item_level": 7
+}

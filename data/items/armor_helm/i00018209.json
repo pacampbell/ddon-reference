@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18209,
+    "name": "Dools Armet",
+    "info": "",
+    "icon": {
+        "icon_id": 1948,
+        "color_id": 111
+    },
+    "sell_price": 12387,
+    "weight": 39,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 421,
+        "magic_attack": 6,
+        "magic_defense": 675,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        }
+    ]
+}

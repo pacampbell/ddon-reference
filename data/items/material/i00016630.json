@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16630,
+    "name": "Dark Engraving",
+    "info": "Seal shaped like \u3010Netherworld\u3011.\nCannot be removed from the weapon.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

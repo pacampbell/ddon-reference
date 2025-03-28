@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24183,
+    "name": "Fire King's Heavy Armored Leg Gear",
+    "info": "",
+    "icon": {
+        "icon_id": 2796,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 42,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 505,
+        "magic_attack": 9,
+        "magic_defense": 404,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 101
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 823
+        }
+    ]
+}

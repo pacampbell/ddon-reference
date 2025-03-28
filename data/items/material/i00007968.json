@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7968,
+    "name": "Pine Lumber",
+    "info": "Wood Crafting Material: High-quality, dense\nlumber made from pine wood.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

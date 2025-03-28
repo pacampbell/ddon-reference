@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17928,
+    "name": "Harpy Breast Meat",
+    "info": "Meat Crafting Material:\nPowerful Harpy species (Lv. 80 and above).\nDespite its appearance, it is meat that is\ndensely packed with tough, muscular fibers.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

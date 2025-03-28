@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 25146,
+    "name": "Hero's Ranger Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 2713,
+        "color_id": 11
+    },
+    "sell_price": 49500,
+    "weight": 84,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4123,
+        "magic_attack": 3994,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 791
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

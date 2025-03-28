@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 12904,
+    "name": "Aquila Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 58,
+        "color_id": 11
+    },
+    "sell_price": 7351,
+    "weight": 34,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 321,
+        "magic_attack": 0,
+        "magic_defense": 268,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 3
+        },
+        {
+            "id": 20,
+            "name": "KIND_TYPE_DOWN_SAINT",
+            "value": 3
+        }
+    ]
+}

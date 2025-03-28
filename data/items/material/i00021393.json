@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21393,
+    "name": "Memento Fiber (Urteca District)",
+    "info": "Metal fibers created by lost technology.\nIt is said that their properties vary depending\non the region.",
+    "icon": {
+        "icon_id": 2549,
+        "color_id": 105
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 6
+}

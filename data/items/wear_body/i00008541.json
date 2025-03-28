@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8541,
+    "name": "Village Shirt",
+    "info": "",
+    "icon": {
+        "icon_id": 784,
+        "color_id": 5
+    },
+    "sell_price": 60,
+    "weight": 5,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 3,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 8,
+        "magic_attack": 0,
+        "magic_defense": 8,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 36
+        }
+    ]
+}

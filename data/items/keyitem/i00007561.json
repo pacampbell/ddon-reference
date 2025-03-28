@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 7561,
+    "name": "Broken key of the Sealed Palace",
+    "info": "The key of the Palace where Diamantes was sealed.\nIt needs to be restored with alchemy.",
+    "icon": {
+        "icon_id": 538,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

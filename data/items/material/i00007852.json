@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7852,
+    "name": "Sandcrystal",
+    "info": "Sand Crafting Material: Transparent particles\nformed by crushed crystals.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

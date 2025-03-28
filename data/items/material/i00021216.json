@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21216,
+    "name": "Phlogopite",
+    "info": "Ore Crafting Material: A type of ore that\npossesses elasticity and low conductivity of\nelectricity.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

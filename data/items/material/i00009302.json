@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9302,
+    "name": "Crest of Cold Warding",
+    "info": "A crest that grants ice resistance\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 3
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 6
+}

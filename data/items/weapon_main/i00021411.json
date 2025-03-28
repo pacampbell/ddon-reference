@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 21411,
+    "name": "Polished Saber",
+    "info": "",
+    "icon": {
+        "icon_id": 2357,
+        "color_id": 111
+    },
+    "sell_price": 1000,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1802,
+        "magic_attack": 1802,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 351
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

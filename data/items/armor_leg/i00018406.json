@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18406,
+    "name": "Dools High Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1963,
+        "color_id": 111
+    },
+    "sell_price": 14958,
+    "weight": 43,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 424,
+        "magic_attack": 6,
+        "magic_defense": 339,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 86
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 769
+        }
+    ]
+}

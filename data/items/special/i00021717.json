@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21717,
+    "name": "Tapestry - Band of the Falcon",
+    "info": "Tapestry - Band of the Falcon",
+    "icon": {
+        "icon_id": 2512,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 32
+}

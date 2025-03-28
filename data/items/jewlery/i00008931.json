@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 8931,
+    "name": "Fluorite Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 563,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 1,
+    "level": 6,
+    "item_level": 2,
+    "stats": {},
+    "params": [
+        {
+            "id": 25,
+            "name": "KIND_TYPE_DOWN_MAGIC_DEF",
+            "value": 1
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 5
+        }
+    ]
+}

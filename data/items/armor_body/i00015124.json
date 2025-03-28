@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 15124,
+    "name": "Forest Clothes",
+    "info": "",
+    "icon": {
+        "icon_id": 1555,
+        "color_id": 111
+    },
+    "sell_price": 14768,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 557,
+        "magic_attack": 2,
+        "magic_defense": 495,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 2
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 2
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 2
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1170
+        }
+    ]
+}

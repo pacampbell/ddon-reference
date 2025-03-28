@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 4797,
+    "name": "Doppel Sch\u00fctze",
+    "info": "",
+    "icon": {
+        "icon_id": 1001,
+        "color_id": 6
+    },
+    "sell_price": 985,
+    "weight": 60,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 14,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 227,
+        "magic_attack": 342,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 70
+        }
+    ]
+}

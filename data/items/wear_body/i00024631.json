@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 24631,
+    "name": "White Wings' Underwear",
+    "info": "",
+    "icon": {
+        "icon_id": 2812,
+        "color_id": 86
+    },
+    "sell_price": 0,
+    "weight": 13,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 249,
+        "magic_attack": 0,
+        "magic_defense": 249,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 491
+        }
+    ]
+}

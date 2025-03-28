@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 1053,
+    "name": "Weight Reduction",
+    "info": "Weight of equipped gear is reduced",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24846,
+    "name": "Cafe Coin [Five]",
+    "info": "Very small coins that can be obtained depending\non the time spent in a certain place.",
+    "icon": {
+        "icon_id": 2629,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24314,
+    "name": "Golden Magick Helmet",
+    "info": "",
+    "icon": {
+        "icon_id": 2253,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 40,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 499,
+        "magic_attack": 9,
+        "magic_defense": 798,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

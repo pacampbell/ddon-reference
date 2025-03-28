@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8565,
+    "name": "Chainmail",
+    "info": "",
+    "icon": {
+        "icon_id": 791,
+        "color_id": 6
+    },
+    "sell_price": 285,
+    "weight": 10,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 17,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 21,
+        "magic_attack": 0,
+        "magic_defense": 21,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 117
+        }
+    ]
+}

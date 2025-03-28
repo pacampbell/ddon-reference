@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 13012,
+    "name": "Stealthy Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1344,
+        "color_id": 11
+    },
+    "sell_price": 7923,
+    "weight": 42,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 237,
+        "magic_attack": 0,
+        "magic_defense": 189,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 57
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 7
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 7
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 739
+        }
+    ]
+}

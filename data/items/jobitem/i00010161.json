@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 10161,
+    "name": "Poison Elixir",
+    "info": "When an Alchemist uses \"Elixir Release\", it\ninflicts \"Poison\" abnormal status.",
+    "icon": {
+        "icon_id": 1107,
+        "color_id": 1
+    },
+    "sell_price": 2,
+    "weight": 0,
+    "level": 6,
+    "item_level": 2,
+    "stats": {},
+    "params": []
+}

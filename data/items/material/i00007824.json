@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7824,
+    "name": "Clear Water",
+    "info": "Liquid Crafting Material.\nClear water that can be used for various things.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

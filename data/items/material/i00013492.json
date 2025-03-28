@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13492,
+    "name": "Authentication Orb (Rathian)",
+    "info": "Gemstones available for Appraisal Exchange:\nCan be exchanged for Rathian Series armor\n(for Fighter/Warrior/Hunter/Seeker/Spirit Lancer)",
+    "icon": {
+        "icon_id": 524,
+        "color_id": 19
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 12
+}

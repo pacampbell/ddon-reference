@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 783,
+    "name": "Mature Works Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 133,
+        "color_id": 10
+    },
+    "sell_price": 10093,
+    "weight": 70,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 381,
+        "magic_attack": 0,
+        "magic_defense": 339,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

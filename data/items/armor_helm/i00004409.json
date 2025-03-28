@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 4409,
+    "name": "Apocalypse Crown",
+    "info": "",
+    "icon": {
+        "icon_id": 253,
+        "color_id": 10
+    },
+    "sell_price": 4665,
+    "weight": 36,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 177,
+        "magic_attack": 0,
+        "magic_defense": 284,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

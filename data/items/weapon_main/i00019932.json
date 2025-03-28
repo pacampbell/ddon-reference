@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 19932,
+    "name": "Red Dawn's Steel Shooter",
+    "info": "",
+    "icon": {
+        "icon_id": 1258,
+        "color_id": 10
+    },
+    "sell_price": 39700,
+    "weight": 69,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2598,
+        "magic_attack": 2783,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 402
+        }
+    ]
+}

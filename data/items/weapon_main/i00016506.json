@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 16506,
+    "name": "Roaring Blaze Scale Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 1373,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1930,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 601
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 400
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 12
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

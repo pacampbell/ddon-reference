@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12631,
+    "name": "Masked Gentleman's Hat",
+    "info": "",
+    "icon": {
+        "icon_id": 1337,
+        "color_id": 11
+    },
+    "sell_price": 6339,
+    "weight": 36,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 232,
+        "magic_attack": 0,
+        "magic_defense": 371,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 2
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 2
+        }
+    ]
+}

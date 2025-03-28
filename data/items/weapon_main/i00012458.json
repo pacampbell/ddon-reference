@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12458,
+    "name": "Decayed Evil Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 1031,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 80,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1407,
+        "magic_attack": 1666,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 444
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        }
+    ]
+}

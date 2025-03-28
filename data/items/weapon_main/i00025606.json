@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 25606,
+    "name": "High Ancient Saber",
+    "info": "",
+    "icon": {
+        "icon_id": 2661,
+        "color_id": 86
+    },
+    "sell_price": 50000,
+    "weight": 100,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4338,
+        "magic_attack": 3779,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1393
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 100,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

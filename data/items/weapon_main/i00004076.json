@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 4076,
+    "name": "Tenebrae de Ragel",
+    "info": "",
+    "icon": {
+        "icon_id": 984,
+        "color_id": 10
+    },
+    "sell_price": 32005,
+    "weight": 80,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2117,
+        "magic_attack": 2009,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 446
+        },
+        {
+            "id": 53,
+            "name": "KIND_TYPE_DOWN_THUNDER_SAV",
+            "value": 45
+        },
+        {
+            "id": 60,
+            "name": "KIND_TYPE_STAN_SAV",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

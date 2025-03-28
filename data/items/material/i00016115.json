@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16115,
+    "name": "Rainbow Feather",
+    "info": "Feather Crafting Material: Colorful feathers in\nvibrant rainbow hues.",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 2
+}

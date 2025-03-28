@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13807,
+    "name": "Cure-All",
+    "info": "Restores the user's health and dispels abnormal\nstatus.",
+    "icon": {
+        "icon_id": 435,
+        "color_id": 83
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

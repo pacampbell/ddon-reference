@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16002,
+    "name": "Smooth White Mud",
+    "info": "Sand Crafting Material: Fine particles of smooth\nand delicate mud.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 1
+}

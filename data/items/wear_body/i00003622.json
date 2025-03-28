@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3622,
+    "name": "Silk Bliaut",
+    "info": "",
+    "icon": {
+        "icon_id": 767,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 5,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 52,
+        "magic_attack": 0,
+        "magic_defense": 52,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 282
+        }
+    ]
+}

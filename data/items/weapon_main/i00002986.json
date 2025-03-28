@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2986,
+    "name": "Unfinished",
+    "info": "",
+    "icon": {
+        "icon_id": 997,
+        "color_id": 9
+    },
+    "sell_price": 10130,
+    "weight": 30,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 758,
+        "magic_attack": 884,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 138
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14252,
+    "name": "Pumpkin Carpet",
+    "info": "Halloween carpet that can be set up in the study.",
+    "icon": {
+        "icon_id": 1540,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

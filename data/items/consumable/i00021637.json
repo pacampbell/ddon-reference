@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21637,
+    "name": "Become LV.90 Orb (Element Archer)",
+    "info": "Raise the job level of the Elemental Archer to\nLV.90.\n<COL ffdc78>*This will be added to NPC Joseph's\nmenu.</COL>",
+    "icon": {
+        "icon_id": 2421,
+        "color_id": 82
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 1
+}

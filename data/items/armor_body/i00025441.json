@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25441,
+    "name": "Solitary Ranger's Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 1324,
+        "color_id": 11
+    },
+    "sell_price": 25100,
+    "weight": 74,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 1076,
+        "magic_attack": 11,
+        "magic_defense": 956,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 46
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1312
+        }
+    ]
+}

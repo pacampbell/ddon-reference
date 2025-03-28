@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18783,
+    "name": "Recipe: Cross Table - Forest",
+    "info": "Cross Table - Forest Recipe",
+    "icon": {
+        "icon_id": 1850,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

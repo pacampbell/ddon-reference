@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 12053,
+    "name": "Limelight",
+    "info": "",
+    "icon": {
+        "icon_id": 918,
+        "color_id": 10
+    },
+    "sell_price": 8452,
+    "weight": 40,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1476,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

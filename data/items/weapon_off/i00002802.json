@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2802,
+    "name": "Mark of the Chimera",
+    "info": "",
+    "icon": {
+        "icon_id": 853,
+        "color_id": 8
+    },
+    "sell_price": 2594,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 243
+        }
+    ]
+}

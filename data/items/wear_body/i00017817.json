@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 17817,
+    "name": "Biyabaan Mail",
+    "info": "",
+    "icon": {
+        "icon_id": 778,
+        "color_id": 11
+    },
+    "sell_price": 3605,
+    "weight": 14,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 181,
+        "magic_attack": 0,
+        "magic_defense": 181,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 377
+        }
+    ]
+}

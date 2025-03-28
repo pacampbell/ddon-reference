@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19941,
+    "name": "Jinas Shooter",
+    "info": "",
+    "icon": {
+        "icon_id": 2329,
+        "color_id": 11
+    },
+    "sell_price": 42876,
+    "weight": 72,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2780,
+        "magic_attack": 2969,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 436
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

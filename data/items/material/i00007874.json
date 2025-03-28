@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7874,
+    "name": "Iron Ingot",
+    "info": "Metal Crafting Material:\nA chunk of iron refined from iron ore.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 2
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

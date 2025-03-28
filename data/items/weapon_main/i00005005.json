@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 5005,
+    "name": "Ruthless Enforcer",
+    "info": "",
+    "icon": {
+        "icon_id": 1039,
+        "color_id": 9
+    },
+    "sell_price": 10585,
+    "weight": 40,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 842,
+        "magic_attack": 1073,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 264
+        }
+    ]
+}

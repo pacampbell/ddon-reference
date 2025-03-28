@@ -1,0 +1,80 @@
+{
+    "type": "equipment",
+    "item_id": 24696,
+    "name": "Acre Selund Arisen's Garment (Origin)",
+    "info": "",
+    "icon": {
+        "icon_id": 2872,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 36,
+        "defense": 3145,
+        "magic_attack": 36,
+        "magic_defense": 3145,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 278
+        },
+        {
+            "id": 3,
+            "name": "KIND_TYPE_OIL_DEF",
+            "value": 100
+        },
+        {
+            "id": 6,
+            "name": "KIND_TYPE_WATER_DEF",
+            "value": 100
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 50
+        },
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 50
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 100
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 50
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 40
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1810
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1162
+        }
+    ]
+}

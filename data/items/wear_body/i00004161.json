@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 4161,
+    "name": "Chain Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 783,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 5,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 27,
+        "magic_attack": 0,
+        "magic_defense": 27,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 149
+        }
+    ]
+}

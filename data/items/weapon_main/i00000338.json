@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 338,
+    "name": "Gl\u00fccksrad",
+    "info": "",
+    "icon": {
+        "icon_id": 996,
+        "color_id": 7
+    },
+    "sell_price": 3385,
+    "weight": 60,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 359,
+        "magic_attack": 482,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 88
+        }
+    ]
+}

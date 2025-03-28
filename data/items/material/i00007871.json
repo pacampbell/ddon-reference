@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7871,
+    "name": "Alchemite",
+    "info": "Ore Crafting Material: Alchemized ore with an\nextremely hard texture.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 106
+    },
+    "sell_price": 915,
+    "weight": 0,
+    "item_level": 12
+}

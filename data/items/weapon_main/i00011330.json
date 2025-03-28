@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11330,
+    "name": "Blade of Insight (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1290,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 25,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 717,
+        "magic_attack": 573,
+        "crest_slot": 4,
+        "ele_slot": 26
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 86
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

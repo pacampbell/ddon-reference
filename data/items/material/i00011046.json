@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11046,
+    "name": "Jump Height Up",
+    "info": "Increases jump height.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

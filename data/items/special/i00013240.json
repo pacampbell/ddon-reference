@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13240,
+    "name": "Lestanian Puppet - Tower",
+    "info": "Thanks to the collaboration of Lestania's\ncraftsmen, the puppets that can be created have a\nunique feature of being able to be stacked in\nmultiple layers with exquisite balance.",
+    "icon": {
+        "icon_id": 1516,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

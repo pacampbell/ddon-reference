@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5187,
+    "name": "Cotton Hose",
+    "info": "",
+    "icon": {
+        "icon_id": 797,
+        "color_id": 5
+    },
+    "sell_price": 120,
+    "weight": 5,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 9,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 11,
+        "magic_attack": 0,
+        "magic_defense": 11,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 48
+        }
+    ]
+}

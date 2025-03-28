@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 21103,
+    "name": "Cloak of Lament",
+    "info": "",
+    "icon": {
+        "icon_id": 2102,
+        "color_id": 28
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 159,
+        "magic_attack": 6,
+        "magic_defense": 159,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 21
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

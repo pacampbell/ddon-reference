@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 25065,
+    "name": "Solitary Assault Blade",
+    "info": "",
+    "icon": {
+        "icon_id": 2078,
+        "color_id": 11
+    },
+    "sell_price": 49000,
+    "weight": 110,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4020,
+        "magic_attack": 3474,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1296
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

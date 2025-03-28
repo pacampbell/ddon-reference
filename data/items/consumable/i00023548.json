@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23548,
+    "name": "Sparkling Snow Large Crystal",
+    "info": "A sparkling, large snowflake that shines\nbrightly.\nWhen you put it in your mouth, it melts\ninstantly, providing a refreshing sweetness.\nIt restores your Health Points and Stamina.",
+    "icon": {
+        "icon_id": 2605,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

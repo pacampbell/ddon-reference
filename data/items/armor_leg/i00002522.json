@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2522,
+    "name": "Virtue Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 408,
+        "color_id": 9
+    },
+    "sell_price": 4050,
+    "weight": 72,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 133,
+        "magic_attack": 0,
+        "magic_defense": 107,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 592
+        }
+    ]
+}

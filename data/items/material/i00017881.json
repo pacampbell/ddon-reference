@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17881,
+    "name": "Bone Pearl",
+    "info": "Gem Crafting Material.\nBio-minerals with bones as their core.\nThey are treated as gems due to their beautiful\nluster.",
+    "icon": {
+        "icon_id": 2098,
+        "color_id": 105
+    },
+    "sell_price": 15000,
+    "weight": 0,
+    "item_level": 5
+}

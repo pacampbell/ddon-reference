@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15986,
+    "name": "Strange Sprout",
+    "info": "Miscellaneous Crafting Material:\nA pair of misshapen leaves with distorted colors\nthat sprouted from a corrupted seed.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 1
+}

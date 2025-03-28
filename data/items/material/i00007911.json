@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7911,
+    "name": "Demonic Gem",
+    "info": "Gem Crafting Material: A deep purple gem imbued\nwith black mist and curses.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 5
+    },
+    "sell_price": 515,
+    "weight": 0,
+    "item_level": 10
+}

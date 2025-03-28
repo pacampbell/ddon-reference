@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7762,
+    "name": "Cyclops Tusk",
+    "info": "Fang Crafting Material: Cyclops' Long Fang",
+    "icon": {
+        "icon_id": 469,
+        "color_id": 3
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 5
+}

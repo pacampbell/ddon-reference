@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16121,
+    "name": "Corrupted Griffin Blood",
+    "info": "Liquid Crafting Material:\nThe blood that circulates within the body of the\nInfected Griffin.\nA fine fungal spore floats in it.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 6
+}

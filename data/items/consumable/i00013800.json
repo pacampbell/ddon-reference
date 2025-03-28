@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13800,
+    "name": "Superior White Dragon Miracle Cure",
+    "info": "Recovers a portion of the user's health.",
+    "icon": {
+        "icon_id": 429,
+        "color_id": 83
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

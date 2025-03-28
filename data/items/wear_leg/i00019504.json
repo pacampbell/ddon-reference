@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 19504,
+    "name": "Magical Night Witch Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 2108,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

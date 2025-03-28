@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15998,
+    "name": "Blue Opal",
+    "info": "Limited availability crafting material:\nA translucent gem that shines in a faint shade of\nlight blue.",
+    "icon": {
+        "icon_id": 1728,
+        "color_id": 28
+    },
+    "sell_price": 988,
+    "weight": 0,
+    "item_level": 11
+}

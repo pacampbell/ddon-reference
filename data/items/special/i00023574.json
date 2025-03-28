@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23574,
+    "name": "Light Vision: Mephis",
+    "info": "Illusory light that can be played back with a\nholographic projector.",
+    "icon": {
+        "icon_id": 2601,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 55
+}

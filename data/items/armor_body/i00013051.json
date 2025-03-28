@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 13051,
+    "name": "Red Dragon Scale Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 1319,
+        "color_id": 10
+    },
+    "sell_price": 999,
+    "weight": 70,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 513,
+        "magic_attack": 0,
+        "magic_defense": 456,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 31
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

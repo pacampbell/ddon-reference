@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9445,
+    "name": "Safeguarding Satin",
+    "info": "Cloth Crafting Material: Glossy cloth imbued with\nthe power of warding off evil.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 6
+    },
+    "sell_price": 1350,
+    "weight": 0,
+    "item_level": 12
+}

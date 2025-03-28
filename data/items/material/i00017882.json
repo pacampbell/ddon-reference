@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17882,
+    "name": "Brittle Sandstone",
+    "info": "Ore Crafting Material:\nFragile and easily crumbled small stones.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 0
+}

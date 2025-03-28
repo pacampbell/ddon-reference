@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3428,
+    "name": "Pleats of Twilight",
+    "info": "",
+    "icon": {
+        "icon_id": 339,
+        "color_id": 8
+    },
+    "sell_price": 2590,
+    "weight": 54,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 95,
+        "magic_attack": 0,
+        "magic_defense": 76,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 472
+        }
+    ]
+}

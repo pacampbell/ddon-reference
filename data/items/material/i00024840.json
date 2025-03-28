@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24840,
+    "name": "Grimoire of the Full Moon",
+    "info": "A typical Grimoire with a yellow cover.",
+    "icon": {
+        "icon_id": 2960,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

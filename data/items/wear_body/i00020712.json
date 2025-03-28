@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20712,
+    "name": "Macera Mesh",
+    "info": "",
+    "icon": {
+        "icon_id": 2289,
+        "color_id": 111
+    },
+    "sell_price": 4620,
+    "weight": 8,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 231,
+        "magic_attack": 0,
+        "magic_defense": 231,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 457
+        }
+    ]
+}

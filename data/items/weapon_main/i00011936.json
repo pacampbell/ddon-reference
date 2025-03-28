@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11936,
+    "name": "Highlanders",
+    "info": "",
+    "icon": {
+        "icon_id": 874,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 100,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2035,
+        "magic_attack": 1580,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 675
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 13
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

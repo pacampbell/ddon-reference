@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24839,
+    "name": "Grimoire of the Great Tree",
+    "info": "A typical Grimoire with a green cover.",
+    "icon": {
+        "icon_id": 2959,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

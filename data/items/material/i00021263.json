@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21263,
+    "name": "Small Flame Remains",
+    "info": "Miscellaneous Crafting Material:\nSmall Fire that Retains Thoughts",
+    "icon": {
+        "icon_id": 2596,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

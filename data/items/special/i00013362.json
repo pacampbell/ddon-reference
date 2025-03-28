@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13362,
+    "name": "Recipe: Lestanian Puppet - Tower",
+    "info": "A recipe that describes the process of creating\npuppets with an exquisite balance that can be\nstacked in multiple layers.",
+    "icon": {
+        "icon_id": 1516,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7956,
+    "name": "Strong Thread",
+    "info": "String Crafting Material:\nA resilient string twisted from the fur of large\nmonsters and leather cords.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 8
+}

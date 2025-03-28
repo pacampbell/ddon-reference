@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 18030,
+    "name": "Torch of Horos",
+    "info": "",
+    "icon": {
+        "icon_id": 1462,
+        "color_id": 11
+    },
+    "sell_price": 37794,
+    "weight": 40,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2579,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

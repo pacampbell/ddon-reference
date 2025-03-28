@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 21057,
+    "name": "R\u00e9bellion Pants",
+    "info": "",
+    "icon": {
+        "icon_id": 2291,
+        "color_id": 10
+    },
+    "sell_price": 3366,
+    "weight": 9,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 170,
+        "magic_attack": 0,
+        "magic_defense": 170,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 72
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 281
+        }
+    ]
+}

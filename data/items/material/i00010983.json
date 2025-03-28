@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10983,
+    "name": "Merit Medal (Direwolf)",
+    "info": "Medal awarded to those who achieve great results\nin the Battle for Gritten Fort.\nCan be sold at a high price.",
+    "icon": {
+        "icon_id": 1272,
+        "color_id": 20
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 8
+}

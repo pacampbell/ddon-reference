@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11774,
+    "name": "Corroded Giant Eyeball",
+    "info": "Meat Crafting Material: Eyes of the corrupt,\nInfected Gorecyclops clouded by spores.",
+    "icon": {
+        "icon_id": 1419,
+        "color_id": 101
+    },
+    "sell_price": 952,
+    "weight": 0,
+    "item_level": 4
+}

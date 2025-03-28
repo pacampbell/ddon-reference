@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 23734,
+    "name": "Blackshatter Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2634,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 63,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3536,
+        "magic_attack": 3274,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 641
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18735,
+    "name": "Steel Featherwork",
+    "info": "Feather Crafting Material: A precious item in the\nshape of a feather that has been passed down since\nancient times. It is difficult to determine\nwhether it is the product of a living creature or\na work of art.",
+    "icon": {
+        "icon_id": 2496,
+        "color_id": 28
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 5
+}

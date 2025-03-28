@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7832,
+    "name": "Magickal Potion",
+    "info": "Liquid Crafting Material: Mysterious liquid said\nto be used by witches.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

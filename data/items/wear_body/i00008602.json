@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8602,
+    "name": "Twin Cross Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 786,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 5,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 35,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 47,
+        "magic_attack": 0,
+        "magic_defense": 47,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 251
+        }
+    ]
+}

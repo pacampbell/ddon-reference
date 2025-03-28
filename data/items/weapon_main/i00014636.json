@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14636,
+    "name": "Axis",
+    "info": "",
+    "icon": {
+        "icon_id": 1677,
+        "color_id": 111
+    },
+    "sell_price": 32005,
+    "weight": 60,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2149,
+        "magic_attack": 2324,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 339
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        }
+    ]
+}

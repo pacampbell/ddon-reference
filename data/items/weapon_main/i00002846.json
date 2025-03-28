@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2846,
+    "name": "Staff of Beyond the Rift",
+    "info": "",
+    "icon": {
+        "icon_id": 1015,
+        "color_id": 8
+    },
+    "sell_price": 7225,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 38,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 512,
+        "magic_attack": 618,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 136
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7829,
+    "name": "Healing Drop",
+    "info": "Liquid Crafting Material.\nA mysterious droplet imbued with a faint life\nforce.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

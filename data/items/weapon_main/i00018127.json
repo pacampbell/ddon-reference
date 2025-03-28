@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 18127,
+    "name": "Iron Glaive of Resentment",
+    "info": "",
+    "icon": {
+        "icon_id": 1694,
+        "color_id": 10
+    },
+    "sell_price": 35805,
+    "weight": 115,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2505,
+        "magic_attack": 2405,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 486
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

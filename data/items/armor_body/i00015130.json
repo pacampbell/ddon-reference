@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15130,
+    "name": "Black Panther Padding",
+    "info": "",
+    "icon": {
+        "icon_id": 90,
+        "color_id": 10
+    },
+    "sell_price": 15566,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 576,
+        "magic_attack": 1,
+        "magic_defense": 512,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1140
+        }
+    ]
+}

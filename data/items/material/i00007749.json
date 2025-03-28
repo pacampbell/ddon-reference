@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7749,
+    "name": "Colossus Horn",
+    "info": "Horn Crafting Material.\nColossus Thick Horn.",
+    "icon": {
+        "icon_id": 467,
+        "color_id": 103
+    },
+    "sell_price": 170,
+    "weight": 0,
+    "item_level": 6
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7886,
+    "name": "Magick Gold Ingot",
+    "info": "Metal Crafting Material: A compressed metal mass\ninfused with powerful magic.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 6
+    },
+    "sell_price": 1010,
+    "weight": 0,
+    "item_level": 11
+}

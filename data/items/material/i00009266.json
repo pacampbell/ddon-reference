@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9266,
+    "name": "Crest of Twilight",
+    "info": "A crest that grants a magical dark\nattribute effect when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 9
+}

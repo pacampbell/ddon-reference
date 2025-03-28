@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 25219,
+    "name": "Hero's Ranger Scimitar",
+    "info": "",
+    "icon": {
+        "icon_id": 2752,
+        "color_id": 11
+    },
+    "sell_price": 49500,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4188,
+        "magic_attack": 4188,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 781
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9292,
+    "name": "Crest of Greater Intelligence",
+    "info": "A crest that grants magick defense\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 7
+}

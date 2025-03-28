@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 14189,
+    "name": "Key of Dragon Force",
+    "info": "Key with a Relief depicting Wisdom.\nConsumed upon use.",
+    "icon": {
+        "icon_id": 1414,
+        "color_id": 100
+    },
+    "sell_price": 950,
+    "weight": 0,
+    "item_level": 14,
+    "max_stack": 99
+}

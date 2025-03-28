@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 2015,
+    "name": "Unexpected Force",
+    "info": "",
+    "icon": {
+        "icon_id": 979,
+        "color_id": 10
+    },
+    "sell_price": 16250,
+    "weight": 80,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1224,
+        "magic_attack": 1129,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 226
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

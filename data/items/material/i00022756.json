@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22756,
+    "name": "Dragon Slayer +27",
+    "info": "\"Dragon Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

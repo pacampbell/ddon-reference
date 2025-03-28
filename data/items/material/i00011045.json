@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11045,
+    "name": "Dash ST Consumption Reduced",
+    "info": "The amount of Stamina consumed during a dash is\nreduced.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

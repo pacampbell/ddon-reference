@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 15776,
+    "name": "Rusted Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1648,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 90,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 900,
+        "magic_attack": 754,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 90
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

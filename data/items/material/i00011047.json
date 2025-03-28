@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11047,
+    "name": "Climb Speed Up",
+    "info": "Movement speed increases during climbing.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

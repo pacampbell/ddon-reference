@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2088,
+    "name": "Noble Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 91,
+        "color_id": 6
+    },
+    "sell_price": 475,
+    "weight": 90,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 13,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 63,
+        "magic_attack": 0,
+        "magic_defense": 56,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 7
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 238
+        }
+    ]
+}

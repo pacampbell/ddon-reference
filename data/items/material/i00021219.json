@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21219,
+    "name": "War Demon's Ancestor Nasal Cartilage",
+    "info": "Meat Crafting Material: Cartilage that forms the\ndeveloped nose of the Ancestor Orc.",
+    "icon": {
+        "icon_id": 1222,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

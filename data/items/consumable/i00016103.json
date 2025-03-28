@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16103,
+    "name": "Book of Acquisition (Extended Springs: Light)",
+    "info": "Learn the Secret Augment \"Extended Springs:\nLight\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

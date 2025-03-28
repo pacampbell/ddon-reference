@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8858,
+    "name": "Loftiness Cape",
+    "info": "",
+    "icon": {
+        "icon_id": 220,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 10,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 33,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 29,
+        "magic_attack": 0,
+        "magic_defense": 29,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 7
+        }
+    ]
+}

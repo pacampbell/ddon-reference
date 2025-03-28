@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21248,
+    "name": "Spirit Purifier Stone",
+    "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Spectral Slayer\" to weapons.",
+    "icon": {
+        "icon_id": 1997,
+        "color_id": 104
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 5
+}

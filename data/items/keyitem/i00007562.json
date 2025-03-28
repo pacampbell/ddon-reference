@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 7562,
+    "name": "Diamantes' Vessel of Life",
+    "info": "Diamantes Life Vessel.\nIts mighty power can shake the fate of Lestania.",
+    "icon": {
+        "icon_id": 1156,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

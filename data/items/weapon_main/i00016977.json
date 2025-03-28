@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 16977,
+    "name": "Hidden Sei\u00f0r",
+    "info": "",
+    "icon": {
+        "icon_id": 980,
+        "color_id": 111
+    },
+    "sell_price": 20000,
+    "weight": 80,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2115,
+        "magic_attack": 2010,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 411
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

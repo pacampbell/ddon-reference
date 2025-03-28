@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 12455,
+    "name": "Spectral Ivy",
+    "info": "",
+    "icon": {
+        "icon_id": 1030,
+        "color_id": 10
+    },
+    "sell_price": 19225,
+    "weight": 80,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1341,
+        "magic_attack": 1597,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 429
+        }
+    ]
+}

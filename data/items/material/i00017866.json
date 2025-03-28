@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17866,
+    "name": "Manticore Raw Pelt",
+    "info": "Pelt Crafting Material: Hairless portion of the\nrobust Manticore species (LV. 80~).\nResembles human skin, but harder and thicker.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 5
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17143,
+    "name": "Tapestry - Phindym",
+    "info": "Tapestry (Right) that can be installed in the\nStudy",
+    "icon": {
+        "icon_id": 1883,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

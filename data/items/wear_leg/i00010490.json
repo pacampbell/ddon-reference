@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10490,
+    "name": "Enforcer's Legwear (Moonflower)",
+    "info": "",
+    "icon": {
+        "icon_id": 1116,
+        "color_id": 83
+    },
+    "sell_price": 5000,
+    "weight": 5,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 90,
+        "magic_attack": 0,
+        "magic_defense": 90,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 258
+        }
+    ]
+}

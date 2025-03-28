@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7936,
+    "name": "Linen",
+    "info": "Cloth Crafting Material: Herb-infused fabric",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 3
+}

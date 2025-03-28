@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1734,
+    "name": "Greatsword",
+    "info": "",
+    "icon": {
+        "icon_id": 864,
+        "color_id": 6
+    },
+    "sell_price": 1810,
+    "weight": 120,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 20,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 456,
+        "magic_attack": 144,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 175
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

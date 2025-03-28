@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13323,
+    "name": "Recipe: Lestanian Puppet - Mogok",
+    "info": "A recipe detailing how to create a puppet, which\ncan be seated on a kitchen chair, thanks to the\ncooperation of Lestanian artisans.",
+    "icon": {
+        "icon_id": 1515,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

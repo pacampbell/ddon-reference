@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10990,
+    "name": "Lestalite",
+    "info": "A crystal that refines the Dragon Force\ncirculating in Lestania.\nThat crystal serves as a powerful material for\nthe Arisen's equipment.",
+    "icon": {
+        "icon_id": 1267,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 9
+}

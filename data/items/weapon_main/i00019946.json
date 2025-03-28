@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19946,
+    "name": "Spell of Typhoon",
+    "info": "",
+    "icon": {
+        "icon_id": 2329,
+        "color_id": 111
+    },
+    "sell_price": 43670,
+    "weight": 69,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2853,
+        "magic_attack": 3042,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 436
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 21111,
+    "name": "Merciful, Pure-White Devil's Costume",
+    "info": "",
+    "icon": {
+        "icon_id": 2277,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 235,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 20,
+        "defense": 2470,
+        "magic_attack": 20,
+        "magic_defense": 2471,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 228
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 30
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1548
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 989
+        }
+    ]
+}

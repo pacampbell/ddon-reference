@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21218,
+    "name": "Flame Mushroom",
+    "info": "Mushroom Crafting Material.\nMushroom with a vibrant red color on the inside\nof its cap.",
+    "icon": {
+        "icon_id": 512,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

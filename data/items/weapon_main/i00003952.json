@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3952,
+    "name": "Preju\u00edzo",
+    "info": "",
+    "icon": {
+        "icon_id": 925,
+        "color_id": 9
+    },
+    "sell_price": 10585,
+    "weight": 90,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 874,
+        "magic_attack": 718,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 98
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

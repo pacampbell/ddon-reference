@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9453,
+    "name": "Spectral Dragon Fang",
+    "info": "Fang Crafting Material\nA transparent fang crystallized from a spirit\ndragon.\nA rare item.",
+    "icon": {
+        "icon_id": 469,
+        "color_id": 106
+    },
+    "sell_price": 1220,
+    "weight": 0,
+    "item_level": 12
+}

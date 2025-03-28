@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17861,
+    "name": "Black Blade Fragment",
+    "info": "Miscellaneous Crafting Material:\nA black, sharp shard that the Grim Goblin was\ncarrying.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

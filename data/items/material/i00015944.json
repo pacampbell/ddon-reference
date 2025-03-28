@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15944,
+    "name": "Farana Mint",
+    "info": "Floral Crafting Material: A vibrant herb with a\nrefreshing aroma and strong vitality.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

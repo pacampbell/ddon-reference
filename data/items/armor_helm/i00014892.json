@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 14892,
+    "name": "Crimson Hat",
+    "info": "",
+    "icon": {
+        "icon_id": 274,
+        "color_id": 11
+    },
+    "sell_price": 8439,
+    "weight": 36,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 305,
+        "magic_attack": 3,
+        "magic_defense": 488,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

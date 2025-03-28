@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19147,
+    "name": "Central Tree Drop",
+    "info": "Item suitable for both appraisal exchange and a\ncrafting material.\nA bright blue drop that shines within the core of\nthe tree.\nCan only be obtained in certain locations.",
+    "icon": {
+        "icon_id": 2061,
+        "color_id": 23
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 6
+}

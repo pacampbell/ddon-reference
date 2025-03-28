@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 948,
+    "name": "Victory Covert",
+    "info": "",
+    "icon": {
+        "icon_id": 264,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 27,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 72,
+        "magic_attack": 0,
+        "magic_defense": 116,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

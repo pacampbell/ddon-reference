@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 19609,
+    "name": "Cutie Wear - Berry",
+    "info": "",
+    "icon": {
+        "icon_id": 2191,
+        "color_id": 17
+    },
+    "sell_price": 10000,
+    "weight": 1,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 5,
+        "magic_attack": 0,
+        "magic_defense": 5,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 5,
+            "name": "KIND_TYPE_SLEEP_DEF",
+            "value": 50
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 50
+        }
+    ]
+}

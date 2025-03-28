@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 12636,
+    "name": "Paladin Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 1340,
+        "color_id": 111
+    },
+    "sell_price": 6339,
+    "weight": 36,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 237,
+        "magic_attack": 0,
+        "magic_defense": 379,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 2
+        }
+    ]
+}

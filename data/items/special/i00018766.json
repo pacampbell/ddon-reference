@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18766,
+    "name": "Recipe: Goat Woolen Carpet - White",
+    "info": "Recipe: Woolen Carpet - White",
+    "icon": {
+        "icon_id": 1892,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

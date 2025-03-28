@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15957,
+    "name": "Spider Mesh",
+    "info": "Cloth Crafting Material: A net-like cloth made by\nweaving with special spiders.",
+    "icon": {
+        "icon_id": 1435,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

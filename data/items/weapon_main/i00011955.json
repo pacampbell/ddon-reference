@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11955,
+    "name": "Hauteclere",
+    "info": "",
+    "icon": {
+        "icon_id": 879,
+        "color_id": 10
+    },
+    "sell_price": 24505,
+    "weight": 120,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1904,
+        "magic_attack": 1462,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 623
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 13
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 18035,
+    "name": "Maryam Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2038,
+        "color_id": 11
+    },
+    "sell_price": 39783,
+    "weight": 40,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2662,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

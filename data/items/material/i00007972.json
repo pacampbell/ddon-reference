@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7972,
+    "name": "High Quality Wood",
+    "info": "Wood Crafting Material: High-quality wood that\nhas been easily processed.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 3
+    },
+    "sell_price": 210,
+    "weight": 0,
+    "item_level": 6
+}

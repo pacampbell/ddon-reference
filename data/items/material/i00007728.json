@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7728,
+    "name": "Rotten Lump",
+    "info": "Meat Crafting Material.\nGiant Undead's Large Rotten Flesh",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

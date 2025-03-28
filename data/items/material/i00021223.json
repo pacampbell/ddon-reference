@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21223,
+    "name": "Strong Heat-Resistant Scale",
+    "info": "Pelt Crafting Material: Scales of the Giant Geo\nSaurian, known for their exceptional resistance to\nimpact and high temperatures.",
+    "icon": {
+        "icon_id": 1428,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 9
+}

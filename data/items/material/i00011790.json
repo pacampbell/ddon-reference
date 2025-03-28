@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11790,
+    "name": "Stone Bouquet",
+    "info": "Ore Crafting Material:\nBouquet made by collecting stone-like flowers.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 14
+}

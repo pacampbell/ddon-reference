@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12089,
+    "name": "Shining Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 924,
+        "color_id": 10
+    },
+    "sell_price": 19225,
+    "weight": 60,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1369,
+        "magic_attack": 1204,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 140
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

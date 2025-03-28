@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 12969,
+    "name": "Carrion Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 1346,
+        "color_id": 111
+    },
+    "sell_price": 9189,
+    "weight": 42,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 273,
+        "magic_attack": 0,
+        "magic_defense": 218,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 60
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 2
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 747
+        }
+    ]
+}

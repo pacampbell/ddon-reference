@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17884,
+    "name": "Ashen Grass",
+    "info": "Floral Crafting Material: Grass that appears\nwhite on the surface and looks as if it is covered\nin ash.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 0
+}

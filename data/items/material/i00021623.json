@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21623,
+    "name": "Behelit",
+    "info": "Something inherent in the fate of those chosen by\ncausality.\nCan be used in \"Appraisal Exchange\" and also as a\nstrengthening material for specific equipment.",
+    "icon": {
+        "icon_id": 2510,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24841,
+    "name": "Grimoire of the Night Winds",
+    "info": "A typical Grimoire with a purple cover.",
+    "icon": {
+        "icon_id": 2961,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

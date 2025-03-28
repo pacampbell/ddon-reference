@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4564,
+    "name": "Maverick Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 413,
+        "color_id": 10
+    },
+    "sell_price": 4420,
+    "weight": 54,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 56,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 184,
+        "magic_attack": 0,
+        "magic_defense": 147,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 724
+        }
+    ]
+}

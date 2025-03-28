@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2434,
+    "name": "Victory Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 9,
+        "color_id": 9
+    },
+    "sell_price": 2690,
+    "weight": 23,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 119,
+        "magic_attack": 0,
+        "magic_defense": 99,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 9
+        }
+    ]
+}

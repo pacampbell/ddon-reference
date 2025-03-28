@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20221,
+    "name": "Daggers of Altura",
+    "info": "",
+    "icon": {
+        "icon_id": 1247,
+        "color_id": 10
+    },
+    "sell_price": 43670,
+    "weight": 50,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2930,
+        "magic_attack": 2732,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 303
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 18134,
+    "name": "Lance of Kapran",
+    "info": "",
+    "icon": {
+        "icon_id": 1702,
+        "color_id": 11
+    },
+    "sell_price": 37794,
+    "weight": 105,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2648,
+        "magic_attack": 2546,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 526
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

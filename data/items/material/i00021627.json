@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21627,
+    "name": "Demon Crystal of Atonement",
+    "info": "Crafting materials with limited availability.\nA concentrated mass of magical power left by the\nsouls of numerous sinners who have been set free\nand bestowed upon those who have unleashed\nthemselves.",
+    "icon": {
+        "icon_id": 1422,
+        "color_id": 105
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 14
+}

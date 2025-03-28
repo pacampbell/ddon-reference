@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 15635,
+    "name": "White Snow Towel (Fine)",
+    "info": "",
+    "icon": {
+        "icon_id": 1594,
+        "color_id": 84
+    },
+    "sell_price": 2600,
+    "weight": 30,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 26,
+        "magic_attack": 0,
+        "magic_defense": 26,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 3,
+            "name": "KIND_TYPE_OIL_DEF",
+            "value": 100
+        },
+        {
+            "id": 6,
+            "name": "KIND_TYPE_WATER_DEF",
+            "value": 100
+        }
+    ]
+}

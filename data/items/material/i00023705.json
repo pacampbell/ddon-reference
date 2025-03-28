@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23705,
+    "name": "Force",
+    "info": "Crest that bestows the Dragon Ability [Force].",
+    "icon": {
+        "icon_id": 2612,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

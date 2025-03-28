@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20590,
+    "name": "June Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 1552,
+        "color_id": 11
+    },
+    "sell_price": 12495,
+    "weight": 37,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 535,
+        "magic_attack": 6,
+        "magic_defense": 446,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

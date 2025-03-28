@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9194,
+    "name": "Crest of Unburdening",
+    "info": "A crest that reduces the weight of\nweapons when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 6
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 11
+}

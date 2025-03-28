@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4809,
+    "name": "Fremitu",
+    "info": "",
+    "icon": {
+        "icon_id": 969,
+        "color_id": 6
+    },
+    "sell_price": 1285,
+    "weight": 80,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 16,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 313,
+        "magic_attack": 243,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 91
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

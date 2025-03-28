@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24727,
+    "name": "Reward Medal",
+    "info": "Medals issued in recognition of daily\ncontributions to the White Dragon Temple.\nBy collecting them, you can exchange them for\ncorresponding items.",
+    "icon": {
+        "icon_id": 2940,
+        "color_id": 23
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 2
+}

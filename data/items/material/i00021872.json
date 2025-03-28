@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21872,
+    "name": "Magick Attack +27",
+    "info": "Increase magic attack power.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

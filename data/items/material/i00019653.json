@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19653,
+    "name": "Groaning Skull",
+    "info": "Bone Crafting Material: A skull that continues to\nwhisper something in a voice infused with cursed\npower.",
+    "icon": {
+        "icon_id": 2497,
+        "color_id": 28
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 4
+}

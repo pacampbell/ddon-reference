@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21264,
+    "name": "Grotesque Burning Horn",
+    "info": "Horn Crafting Material: Horn that continues to\nburn from the Blaze Chimera.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11107,
+    "name": "Quester Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 927,
+        "color_id": 9
+    },
+    "sell_price": 9250,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 679,
+        "magic_attack": 549,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 88
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

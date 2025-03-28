@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21552,
+    "name": "Bath - White Day Hot Tub",
+    "info": "A bath where you can enjoy a sweet White Day\natmosphere.",
+    "icon": {
+        "icon_id": 2415,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

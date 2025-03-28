@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16119,
+    "name": "Corroded Spine",
+    "info": "Bone Crafting Material: A spine that has been\ndistorted in shape due to the effects of\ncorruption.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 1
+}

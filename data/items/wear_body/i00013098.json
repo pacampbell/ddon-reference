@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13098,
+    "name": "Nabla Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1358,
+        "color_id": 10
+    },
+    "sell_price": 2573,
+    "weight": 10,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 131,
+        "magic_attack": 0,
+        "magic_defense": 131,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 375
+        }
+    ]
+}

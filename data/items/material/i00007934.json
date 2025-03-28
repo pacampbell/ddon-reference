@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7934,
+    "name": "Common Cloth",
+    "info": "Cloth Crafting Material: A type of material used\nfor crafting in the cloth-based category, commonly\nused for regular clothing and such.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8721,
+    "name": "Agent Tights",
+    "info": "",
+    "icon": {
+        "icon_id": 802,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 5,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 29,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 28,
+        "magic_attack": 0,
+        "magic_defense": 28,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 132
+        }
+    ]
+}

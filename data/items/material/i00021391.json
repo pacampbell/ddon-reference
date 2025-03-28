@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21391,
+    "name": "Memento Fiber (Megadosys District)",
+    "info": "Metal fibers created by lost technology.\nIt is said that their properties vary depending\non the region.",
+    "icon": {
+        "icon_id": 2439,
+        "color_id": 105
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

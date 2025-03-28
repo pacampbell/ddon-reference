@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7816,
+    "name": "Black Cockatrice Feather",
+    "info": "Feather Crafting Material.\nFeathers from a speckled stone chicken, black and\ngreen in color.",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

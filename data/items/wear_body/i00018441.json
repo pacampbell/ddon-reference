@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18441,
+    "name": "Asker Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 2015,
+        "color_id": 10
+    },
+    "sell_price": 3767,
+    "weight": 12,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 188,
+        "magic_attack": 0,
+        "magic_defense": 188,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 388
+        }
+    ]
+}

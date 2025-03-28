@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 12784,
+    "name": "Arisen Corps Medal",
+    "info": "An honorable badge sent only to those who have\nachieved great merits throughout all of Lestania\nand have been recognized by the Temple.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 1418,
+        "color_id": 20
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 4151,
+    "name": "Supply Bottoms",
+    "info": "",
+    "icon": {
+        "icon_id": 375,
+        "color_id": 5
+    },
+    "sell_price": 30,
+    "weight": 54,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 14,
+        "magic_attack": 0,
+        "magic_defense": 11,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

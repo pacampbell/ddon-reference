@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17932,
+    "name": "Puppet - Levi cleaning ver.",
+    "info": "Lestanian Puppet - Levi",
+    "icon": {
+        "icon_id": 1838,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 20
+}

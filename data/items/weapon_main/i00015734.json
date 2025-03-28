@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 15734,
+    "name": "Rusted Greatshield",
+    "info": "",
+    "icon": {
+        "icon_id": 1632,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 130,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 293,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 118
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 156
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

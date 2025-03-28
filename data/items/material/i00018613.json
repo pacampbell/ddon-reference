@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18613,
+    "name": "Purge Ring Plate",
+    "info": "A ring-shaped plate that can be exchanged for the\nSupreme Jewelry \"Purge\", which grants the\naugments:\nInfected Destroyer, Infected Safeguard, Reduced\nCorruption, Great Grasp, Hardy",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 6
+}

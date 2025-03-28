@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 23866,
+    "name": "Ancient Muse's Rod, Left Behind",
+    "info": "",
+    "icon": {
+        "icon_id": 2676,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3268,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        }
+    ]
+}

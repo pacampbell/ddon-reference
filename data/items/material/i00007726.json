@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7726,
+    "name": "Marbled Beast-Steak",
+    "info": "Meat-based crafting material.\nPremium Quality. Cannot be eaten raw.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

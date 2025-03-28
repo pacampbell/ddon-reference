@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15320,
+    "name": "Azure Mitts",
+    "info": "",
+    "icon": {
+        "icon_id": 1553,
+        "color_id": 111
+    },
+    "sell_price": 9601,
+    "weight": 45,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 416,
+        "magic_attack": 2,
+        "magic_defense": 347,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 3
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 3
+        }
+    ]
+}

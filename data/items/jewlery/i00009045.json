@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9045,
+    "name": "Cofferer's Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 549,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 1,
+    "level": 51,
+    "item_level": 11,
+    "stats": {},
+    "params": [
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 3
+        }
+    ]
+}

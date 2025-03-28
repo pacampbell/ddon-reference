@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23478,
+    "name": "Valentine Clock",
+    "info": "Valentine Furniture 2019.",
+    "icon": {
+        "icon_id": 2543,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

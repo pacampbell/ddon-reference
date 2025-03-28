@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10998,
+    "name": "Gleaming Golden Jewel",
+    "info": "The orb of Dragon Force, said to have been used\nin the alchemized secret technique that gives\nbirth to the Golden Dragon.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

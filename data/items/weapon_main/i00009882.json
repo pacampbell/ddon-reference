@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 9882,
+    "name": "Benefit Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1021,
+        "color_id": 8
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 20,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 186,
+        "magic_attack": 360,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 60
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1
+        }
+    ]
+}

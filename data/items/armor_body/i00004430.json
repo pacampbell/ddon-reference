@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4430,
+    "name": "Delusions Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 108,
+        "color_id": 10
+    },
+    "sell_price": 6185,
+    "weight": 70,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 52,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 300,
+        "magic_attack": 0,
+        "magic_defense": 267,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1051
+        }
+    ]
+}

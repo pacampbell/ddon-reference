@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 17957,
+    "name": "Champion Belt of Glory (II)",
+    "info": "",
+    "icon": {
+        "icon_id": 2057,
+        "color_id": 29
+    },
+    "sell_price": 20000,
+    "weight": 5,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 10,
+        "magic_attack": 0,
+        "magic_defense": 10,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

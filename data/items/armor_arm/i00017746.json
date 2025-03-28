@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 17746,
+    "name": "Acrean Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1912,
+        "color_id": 111
+    },
+    "sell_price": 10777,
+    "weight": 37,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 455,
+        "magic_attack": 5,
+        "magic_defense": 380,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        }
+    ]
+}

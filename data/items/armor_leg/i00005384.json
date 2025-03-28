@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5384,
+    "name": "Liberation Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 363,
+        "color_id": 10
+    },
+    "sell_price": 7923,
+    "weight": 72,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 229,
+        "magic_attack": 0,
+        "magic_defense": 183,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 57
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 739
+        }
+    ]
+}

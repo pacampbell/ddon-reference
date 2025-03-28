@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 24743,
+    "name": "Dragon Protection Talisman",
+    "info": "Grants the user a defensive status enhancement.",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 104
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

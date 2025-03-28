@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 3481,
+    "name": "Accomplished Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 324,
+        "color_id": 8
+    },
+    "sell_price": 1850,
+    "weight": 36,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 86,
+        "magic_attack": 0,
+        "magic_defense": 138,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

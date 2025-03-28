@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 23428,
+    "name": "Flower Hair Ornament (White)",
+    "info": "",
+    "icon": {
+        "icon_id": 2573,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 20
+        }
+    ]
+}

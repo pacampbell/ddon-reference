@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 25052,
+    "name": "Solitary Assault Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 2077,
+        "color_id": 11
+    },
+    "sell_price": 49000,
+    "weight": 42,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 545
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 13
+        }
+    ]
+}

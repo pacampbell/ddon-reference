@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16019,
+    "name": "Rusty Iron Lump",
+    "info": "Miscellaneous Crafting Material: Severely rusted\nlarge iron lump.\nIts contents can only be revealed through\nappraisal by an expert eye.",
+    "icon": {
+        "icon_id": 1722,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

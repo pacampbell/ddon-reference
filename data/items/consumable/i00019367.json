@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19367,
+    "name": "Custom-Made Service Ticket",
+    "info": "Currency to be used in\nCustom-Made Workshop.",
+    "icon": {
+        "icon_id": 2092,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

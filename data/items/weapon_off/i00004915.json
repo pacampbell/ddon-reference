@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 4915,
+    "name": "Twinkle Venus",
+    "info": "",
+    "icon": {
+        "icon_id": 911,
+        "color_id": 7
+    },
+    "sell_price": 1354,
+    "weight": 40,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 26,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 461,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

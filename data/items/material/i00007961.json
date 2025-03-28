@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7961,
+    "name": "Thin Wood",
+    "info": "Wood Crafting Material: Common, thin lumber.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 1
+    },
+    "sell_price": 7,
+    "weight": 0,
+    "item_level": 1
+}

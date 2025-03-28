@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 15780,
+    "name": "Polished Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1650,
+        "color_id": 11
+    },
+    "sell_price": 1000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1560,
+        "magic_attack": 1393,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 165
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

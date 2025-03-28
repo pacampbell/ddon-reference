@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18646,
+    "name": "Toadstool Sitter",
+    "info": "Mushroom Crafting Material.\nA mushroom with a color resembling the darkness\nof twilight, opening its umbrella in the dim\nlight.",
+    "icon": {
+        "icon_id": 512,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 0
+}

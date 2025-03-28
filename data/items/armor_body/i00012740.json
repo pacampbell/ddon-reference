@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 12740,
+    "name": "Coat of Certainty",
+    "info": "",
+    "icon": {
+        "icon_id": 174,
+        "color_id": 11
+    },
+    "sell_price": 12865,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 489,
+        "magic_attack": 0,
+        "magic_defense": 435,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 7
+        },
+        {
+            "id": 20,
+            "name": "KIND_TYPE_DOWN_SAINT",
+            "value": 7
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1155
+        }
+    ]
+}

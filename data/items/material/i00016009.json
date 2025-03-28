@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16009,
+    "name": "Protected Beast's Green Fur",
+    "info": "Fur Crafting Material: Animal fur with a faint\ngreenish glow.",
+    "icon": {
+        "icon_id": 475,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

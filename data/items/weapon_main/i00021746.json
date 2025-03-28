@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21746,
+    "name": "Supreme Olfring Sword (Star)",
+    "info": "",
+    "icon": {
+        "icon_id": 2124,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2917,
+        "magic_attack": 2664,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 571
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 56,
+            "name": "KIND_TYPE_DOWN_ATTACK_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

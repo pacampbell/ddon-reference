@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16004,
+    "name": "Adamas Ore",
+    "info": "Ore Crafting Material:\nAn extremely hard ore imbued with magnetism, used\nfor crafting.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 1
+}

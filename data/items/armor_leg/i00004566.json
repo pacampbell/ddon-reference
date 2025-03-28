@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4566,
+    "name": "Imperious Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 419,
+        "color_id": 10
+    },
+    "sell_price": 4610,
+    "weight": 72,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 177,
+        "magic_attack": 0,
+        "magic_defense": 142,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 49
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 712
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16749,
+    "name": "Dining Table - Bitter",
+    "info": "Bitter-colored Dining Table",
+    "icon": {
+        "icon_id": 1785,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14
+}

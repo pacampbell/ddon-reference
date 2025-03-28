@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15929,
+    "name": "Mysterious Shell Fragment",
+    "info": "Miscellaneous Crafting Material: Some part of a\nshell that seems to have fallen off from some kind\nof creature.",
+    "icon": {
+        "icon_id": 1427,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 7
+}

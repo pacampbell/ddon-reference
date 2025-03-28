@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19204,
+    "name": "Book of Acquisition (Anti-oil)",
+    "info": "Learn the Secret Augment \"Anti-oil\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

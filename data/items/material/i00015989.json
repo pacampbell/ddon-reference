@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15989,
+    "name": "Pixie Crown",
+    "info": "Miscellaneous Crafting Material:\nA small crown that gathers the respect of the\nPixie tribe.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13318,
+    "name": "Recipe: Crimson Carpet",
+    "info": "Recipe for a Crimson Carpet that can be placed in\nthe study\n",
+    "icon": {
+        "icon_id": 1499,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

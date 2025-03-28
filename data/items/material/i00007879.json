@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7879,
+    "name": "Red Chromium",
+    "info": "Metal Crafting Material:\nA chunk of metal strengthened with a base of\nHematite.",
+    "icon": {
+        "icon_id": 490,
+        "color_id": 3
+    },
+    "sell_price": 260,
+    "weight": 0,
+    "item_level": 6
+}

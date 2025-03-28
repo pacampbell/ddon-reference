@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11813,
+    "name": "Abyssal Ice of Ruin",
+    "info": "Crafting materials with limited availability:\nMysterious ice chunks that lead to destruction.",
+    "icon": {
+        "icon_id": 1425,
+        "color_id": 28
+    },
+    "sell_price": 1056,
+    "weight": 0,
+    "item_level": 13
+}

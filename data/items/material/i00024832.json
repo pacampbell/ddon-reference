@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24832,
+    "name": "Tusk Craftwork [Heroic]",
+    "info": "Processed items with patterns engraved on animal\nfangs.",
+    "icon": {
+        "icon_id": 2952,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

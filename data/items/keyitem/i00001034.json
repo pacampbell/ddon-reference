@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1034,
+    "name": "Leader's Room Key",
+    "info": "The key to the \"Military leaders' room\".\nIt might be usable somewhere in this building.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

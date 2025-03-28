@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 553,
+    "name": "Savage Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 110,
+        "color_id": 8
+    },
+    "sell_price": 2870,
+    "weight": 90,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 141,
+        "magic_attack": 0,
+        "magic_defense": 125,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 619
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7892,
+    "name": "Electrum",
+    "info": "Metal Crafting Material: A pale amber-colored\nmetal ingot refined from rare metals.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 5
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

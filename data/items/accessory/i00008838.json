@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8838,
+    "name": "Dark Plume Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 223,
+        "color_id": 6
+    },
+    "sell_price": 370,
+    "weight": 10,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 20,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 17,
+        "magic_attack": 0,
+        "magic_defense": 17,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

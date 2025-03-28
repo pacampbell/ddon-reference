@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15917,
+    "name": "Ancient Iron Ore",
+    "info": "Ore Crafting Material: A rare mineral that is\nrarely found in modern times and serves as the\nbase for a metal similar to iron.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 13
+}

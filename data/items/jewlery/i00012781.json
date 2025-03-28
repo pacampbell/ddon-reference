@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 12781,
+    "name": "Health Augite Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 582,
+        "color_id": 83
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 1,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        }
+    ]
+}

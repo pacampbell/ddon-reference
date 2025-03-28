@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13232,
+    "name": "Dinner Set",
+    "info": "Meal set that can be placed in the kitchen",
+    "icon": {
+        "icon_id": 1501,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

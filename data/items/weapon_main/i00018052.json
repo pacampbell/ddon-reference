@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 18052,
+    "name": "Shortbow of Resentment",
+    "info": "",
+    "icon": {
+        "icon_id": 946,
+        "color_id": 10
+    },
+    "sell_price": 35805,
+    "weight": 80,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2496,
+        "magic_attack": 2202,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 486
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 24
+        }
+    ]
+}

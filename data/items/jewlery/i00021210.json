@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 21210,
+    "name": "Ring of Evil Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 731,
+        "color_id": 101
+    },
+    "sell_price": 34464,
+    "weight": 1,
+    "level": 1,
+    "item_level": 4,
+    "stats": {},
+    "params": [
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 30
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

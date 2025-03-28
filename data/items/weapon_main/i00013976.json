@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 13976,
+    "name": "Ceremonial Daggers (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1125,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1541,
+        "magic_attack": 1326,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 271
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18729,
+    "name": "Campaign Battle Armor",
+    "info": "Miscellaneous Crafting Material:\nSpecial armor worn by the monsters commanded by\nthe Demon Army.",
+    "icon": {
+        "icon_id": 1985,
+        "color_id": 105
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 0
+}

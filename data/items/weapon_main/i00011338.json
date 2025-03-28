@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11338,
+    "name": "Sword of Lightning (Earth)",
+    "info": "",
+    "icon": {
+        "icon_id": 1276,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 436,
+        "magic_attack": 129,
+        "crest_slot": 4,
+        "ele_slot": 10
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 156
+        },
+        {
+            "id": 56,
+            "name": "KIND_TYPE_DOWN_ATTACK_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

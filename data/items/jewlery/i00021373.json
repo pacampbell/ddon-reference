@@ -1,0 +1,32 @@
+{
+    "type": "jewlery",
+    "item_id": 21373,
+    "name": "Earrings of Dashing - Extreme (Sorcerer)",
+    "info": "",
+    "icon": {
+        "icon_id": 580,
+        "color_id": 129
+    },
+    "sell_price": 34464,
+    "weight": 1,
+    "level": 1,
+    "item_level": 0,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 150
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 150
+        }
+    ]
+}

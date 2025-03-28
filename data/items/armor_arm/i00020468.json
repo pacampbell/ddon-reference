@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20468,
+    "name": "Maddest Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 22,
+        "color_id": 10
+    },
+    "sell_price": 11900,
+    "weight": 34,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 511,
+        "magic_attack": 5,
+        "magic_defense": 426,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

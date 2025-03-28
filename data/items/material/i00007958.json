@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7958,
+    "name": "Dr\u00f3mi",
+    "info": "String Crafting Material:\nA strong string that boasts the strength to bind\neven powerful enemies.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

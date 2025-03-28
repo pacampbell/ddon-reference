@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7743,
+    "name": "Gold Thread",
+    "info": "String Crafting Material:\nFilament that is crafted through the application\nof alchemy, with a golden color.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 6
+    },
+    "sell_price": 757,
+    "weight": 0,
+    "item_level": 11
+}

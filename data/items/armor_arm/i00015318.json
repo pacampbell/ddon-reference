@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15318,
+    "name": "Dark Red Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1313,
+        "color_id": 11
+    },
+    "sell_price": 9601,
+    "weight": 45,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 411,
+        "magic_attack": 4,
+        "magic_defense": 343,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 8
+        },
+        {
+            "id": 41,
+            "name": "KIND_TYPE_SLEEP_SAV",
+            "value": 12
+        }
+    ]
+}

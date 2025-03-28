@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9304,
+    "name": "Crest of Snowstorm Warding",
+    "info": "A crest that grants ice resistance\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 83
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 15
+}

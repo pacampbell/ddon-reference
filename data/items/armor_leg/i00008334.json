@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8334,
+    "name": "Gold Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 343,
+        "color_id": 9
+    },
+    "sell_price": 4230,
+    "weight": 72,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 46,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 134,
+        "magic_attack": 0,
+        "magic_defense": 107,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 41
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 604
+        }
+    ]
+}

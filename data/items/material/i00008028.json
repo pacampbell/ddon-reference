@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8028,
+    "name": "Large Metal Plate",
+    "info": "Miscellaneous Crafting Material: Gold shards from\nthe thick armor worn by Giants.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22149,
+    "name": "Light Force 60",
+    "info": "Adds debilitations [Holy Drain], [Holy Resist\nDown], [Skills Stifled].\n*[Holy Drain] is effective when attacking or when\nthe status applies the attribute of Holy.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

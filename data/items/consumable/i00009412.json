@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9412,
+    "name": "Wild Steak",
+    "info": "A dish full of vigor using meat.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 458,
+        "color_id": 3
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

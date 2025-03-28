@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 24778,
+    "name": "Recipe: Light Vision: Camus",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 2601,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

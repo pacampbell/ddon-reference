@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 9018,
+    "name": "Lion Insignia Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 700,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 1,
+    "level": 51,
+    "item_level": 11,
+    "stats": {},
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24725,
+    "name": "Lestania Marble",
+    "info": "Ore Crafting Material.\nLestanian marble, mined in Lestania.\nAlso used for decoration in certain temple\ninteriors.",
+    "icon": {
+        "icon_id": 1431,
+        "color_id": 106
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 2
+}

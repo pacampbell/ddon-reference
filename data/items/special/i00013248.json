@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13248,
+    "name": "Closet",
+    "info": "Closet that can be placed next to a Chest",
+    "icon": {
+        "icon_id": 1512,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 12783,
+    "name": "Abundant Augite Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 586,
+        "color_id": 83
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 1,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 2
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 50
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 24013,
+    "name": "Frozen Crystal Elga Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 2728,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3248,
+        "magic_attack": 3400,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 474
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

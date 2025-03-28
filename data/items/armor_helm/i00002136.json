@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2136,
+    "name": "Battle Sallet",
+    "info": "",
+    "icon": {
+        "icon_id": 255,
+        "color_id": 7
+    },
+    "sell_price": 1080,
+    "weight": 36,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 26,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 65,
+        "magic_attack": 0,
+        "magic_defense": 104,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

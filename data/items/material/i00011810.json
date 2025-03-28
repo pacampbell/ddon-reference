@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11810,
+    "name": "Rare Vortex Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nIt is a crystallization of Dragon Force that\nswirls within powerful stagnation.",
+    "icon": {
+        "icon_id": 1424,
+        "color_id": 23
+    },
+    "sell_price": 1014,
+    "weight": 0,
+    "item_level": 13
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7858,
+    "name": "Bronze Ore",
+    "info": "Ore Crafting Material:\nThe ore that serves as the foundation for bronze\nproducts.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 1
+    },
+    "sell_price": 7,
+    "weight": 0,
+    "item_level": 1
+}

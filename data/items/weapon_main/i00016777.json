@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 16777,
+    "name": "Sincere Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1817,
+        "color_id": 82
+    },
+    "sell_price": 314,
+    "weight": 70,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1605,
+        "magic_attack": 1343,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 442
+        },
+        {
+            "id": 45,
+            "name": "KIND_TYPE_STONE_SAV",
+            "value": 75
+        },
+        {
+            "id": 49,
+            "name": "KIND_TYPE_SHOCK_SAV",
+            "value": 75
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 32
+        }
+    ]
+}

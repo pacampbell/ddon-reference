@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7995,
+    "name": "High Quality Gala Mushroom",
+    "info": "Mushroom Crafting Material.\nA superior mushroom with the power to boost\nvitality",
+    "icon": {
+        "icon_id": 512,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7768,
+    "name": "Animal Bone",
+    "info": "Bone Crafting Material: Animal bones. Various\nways to use them.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21630,
+    "name": "Bitterblack Deed Box",
+    "info": "An item that can only be obtained in the\nBitterblack Maze.\nA sturdy box with a strong seal.\nSpecial techniques are required to open it.",
+    "icon": {
+        "icon_id": 2423,
+        "color_id": 115
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

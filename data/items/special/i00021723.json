@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21723,
+    "name": "Christmas Wall Clock",
+    "info": "Christmas furniture",
+    "icon": {
+        "icon_id": 2519,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

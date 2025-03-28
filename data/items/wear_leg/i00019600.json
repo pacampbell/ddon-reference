@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 19600,
+    "name": "Ghosts 'n Goblins Underwear (Female)",
+    "info": "",
+    "icon": {
+        "icon_id": 2120,
+        "color_id": 19
+    },
+    "sell_price": 50000,
+    "weight": 15,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 15,
+        "magic_attack": 0,
+        "magic_defense": 15,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 15
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 15
+        }
+    ]
+}

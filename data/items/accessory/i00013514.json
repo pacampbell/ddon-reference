@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13514,
+    "name": "Mantle of Domination",
+    "info": "",
+    "icon": {
+        "icon_id": 1398,
+        "color_id": 28
+    },
+    "sell_price": 5555,
+    "weight": 10,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 80,
+        "magic_attack": 3,
+        "magic_defense": 80,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 13
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

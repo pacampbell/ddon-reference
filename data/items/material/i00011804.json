@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11804,
+    "name": "Glitter Mohair",
+    "info": "Cloth Crafting Material: Luxurious fabric that\nshimmers with light depending on the angle.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 3
+}

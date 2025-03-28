@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 25621,
+    "name": "Lost Ancient Costume [Male]",
+    "info": "",
+    "icon": {
+        "icon_id": 2981,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 50,
+        "defense": 4036,
+        "magic_attack": 50,
+        "magic_defense": 4035,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 301
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 100
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 100
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1897
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1218
+        }
+    ]
+}

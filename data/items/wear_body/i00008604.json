@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8604,
+    "name": "Honorary Knight's Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 770,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 10,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 42,
+        "magic_attack": 0,
+        "magic_defense": 42,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 226
+        }
+    ]
+}

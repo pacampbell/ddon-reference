@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 7560,
+    "name": "Mysterious Ancient Texts",
+    "info": "An esoteric document of considerable age.\nAncient words written with complicated figures,\ntoo damaged to read.",
+    "icon": {
+        "icon_id": 537,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

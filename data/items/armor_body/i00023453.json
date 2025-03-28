@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 23453,
+    "name": "Santa's Robe Coat (White)",
+    "info": "",
+    "icon": {
+        "icon_id": 2585,
+        "color_id": 82
+    },
+    "sell_price": 100,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 10,
+        "magic_attack": 0,
+        "magic_defense": 10,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": []
+}

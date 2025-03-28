@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19510,
+    "name": "Rift Crystal",
+    "info": "Rift Crystal that has crystallized further.",
+    "icon": {
+        "icon_id": 424,
+        "color_id": 1
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

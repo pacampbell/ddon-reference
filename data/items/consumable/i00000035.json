@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 35,
+    "name": "Superior Healing Potion",
+    "info": "Recovers a portion of the user's health.",
+    "icon": {
+        "icon_id": 427,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 10
+}

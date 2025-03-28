@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21333,
+    "name": "Merit Medal (Orangutan)",
+    "info": "Medal awarded to those who achieve high results\nin the War Mission \"Resurrection of the Flame of\nDespair\".",
+    "icon": {
+        "icon_id": 2381,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

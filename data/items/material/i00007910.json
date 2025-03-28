@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7910,
+    "name": "Pigeon Blood",
+    "info": "Gem Crafting Material: A vivid ruby that looks\nlike blood.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13176,
+    "name": "Beast Lord's Cape",
+    "info": "",
+    "icon": {
+        "icon_id": 214,
+        "color_id": 10
+    },
+    "sell_price": 2694,
+    "weight": 10,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 93,
+        "magic_attack": 0,
+        "magic_defense": 93,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

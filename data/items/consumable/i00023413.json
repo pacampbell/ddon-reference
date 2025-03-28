@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23413,
+    "name": "Job Point",
+    "info": "In order to acquire further skills in a specific\njob,",
+    "icon": {
+        "icon_id": 2608,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

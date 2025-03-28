@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15369,
+    "name": "Duke Cuisses (Dark Night)",
+    "info": "",
+    "icon": {
+        "icon_id": 1767,
+        "color_id": 84
+    },
+    "sell_price": 5000,
+    "weight": 54,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 304,
+        "magic_attack": 2,
+        "magic_defense": 243,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 72
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 735
+        }
+    ]
+}

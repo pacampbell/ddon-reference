@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2990,
+    "name": "Krifo Proseuch\u00e9",
+    "info": "",
+    "icon": {
+        "icon_id": 1002,
+        "color_id": 10
+    },
+    "sell_price": 11525,
+    "weight": 60,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 955,
+        "magic_attack": 1102,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 154
+        }
+    ]
+}

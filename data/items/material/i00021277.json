@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21277,
+    "name": "Royal Blazing Rock",
+    "info": "Ore Crafting Material:\nA rock imbued with the power of intense fire,\npreviously only held by members of the royal\nfamily.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 16
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 8
+}

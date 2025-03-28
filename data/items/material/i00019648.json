@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19648,
+    "name": "Smelted Ore Stone",
+    "info": "Ore Crafting Material:\nAt first glance, it may seem like a simple stone,\nbut it holds intense heat within, turning it into\na molten projectile.",
+    "icon": {
+        "icon_id": 484,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23709,
+    "name": "The Golden Dragon",
+    "info": "Crest that bestows Dragon Ability [Golden Dragon].",
+    "icon": {
+        "icon_id": 2616,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

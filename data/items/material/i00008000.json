@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8000,
+    "name": "Troll's Poisonous Moss",
+    "info": "Mushroom Crafting Material.\nToxic moss that grows on the body of a Troll.",
+    "icon": {
+        "icon_id": 513,
+        "color_id": 102
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

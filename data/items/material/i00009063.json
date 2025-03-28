@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9063,
+    "name": "Coconut-Scented Milkcap",
+    "info": "Mushroom Crafting Material.\nA mushroom with a deep purple color similar to\nthe darkness of night.",
+    "icon": {
+        "icon_id": 513,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

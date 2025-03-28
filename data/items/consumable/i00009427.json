@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9427,
+    "name": "Spring of Vitality Key",
+    "info": "Key to Enter Kinoza Mineral Springs \"Spring of\nVitality\".\nRecommended for when you want to experience a\nresort-like atmosphere.",
+    "icon": {
+        "icon_id": 460,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 99
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 15896,
+    "name": "Rusted Spirit Lance",
+    "info": "",
+    "icon": {
+        "icon_id": 1698,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 130,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 990,
+        "magic_attack": 912,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 175
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4422,
+    "name": "Elder's Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 148,
+        "color_id": 8
+    },
+    "sell_price": 2870,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 153,
+        "magic_attack": 0,
+        "magic_defense": 136,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 619
+        }
+    ]
+}

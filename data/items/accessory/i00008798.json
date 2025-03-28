@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8798,
+    "name": "Feather Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 222,
+        "color_id": 5
+    },
+    "sell_price": 125,
+    "weight": 10,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 7,
+        "magic_attack": 0,
+        "magic_defense": 7,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        }
+    ]
+}

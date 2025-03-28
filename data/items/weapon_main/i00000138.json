@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 138,
+    "name": "Tight Cinquedea",
+    "info": "",
+    "icon": {
+        "icon_id": 824,
+        "color_id": 8
+    },
+    "sell_price": 3848,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 31,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 550,
+        "magic_attack": 381,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 130
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

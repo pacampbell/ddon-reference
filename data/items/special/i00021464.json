@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21464,
+    "name": "Recipe: Aristocrat Bath - Cockatrice",
+    "info": "Recipe for Aristocrat Bath Cockatrice",
+    "icon": {
+        "icon_id": 1875,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

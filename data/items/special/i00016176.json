@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16176,
+    "name": "Dining Table - Ocean",
+    "info": "A dining table with mysterious colors",
+    "icon": {
+        "icon_id": 1753,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

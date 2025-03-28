@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 24873,
+    "name": "Rival Schools: Batsu Ichimonji D",
+    "info": "",
+    "icon": {
+        "icon_id": 2856,
+        "color_id": 19
+    },
+    "sell_price": 50000,
+    "weight": 207,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

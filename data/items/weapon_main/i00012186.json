@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 12186,
+    "name": "Woge",
+    "info": "",
+    "icon": {
+        "icon_id": 1379,
+        "color_id": 11
+    },
+    "sell_price": 21130,
+    "weight": 70,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1539,
+        "magic_attack": 1277,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 281
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

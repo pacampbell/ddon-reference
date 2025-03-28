@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19363,
+    "name": "Crest of War-Ready Break I",
+    "info": "A crest that grants a slayer effect\nwhen equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 2
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 10
+}

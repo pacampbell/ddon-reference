@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 290,
+    "name": "Total Engravers",
+    "info": "",
+    "icon": {
+        "icon_id": 931,
+        "color_id": 9
+    },
+    "sell_price": 10130,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 775,
+        "magic_attack": 629,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 92
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13229,
+    "name": "Bookshelves",
+    "info": "Bookshelves that can be installed in the Study",
+    "icon": {
+        "icon_id": 1500,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

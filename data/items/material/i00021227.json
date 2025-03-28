@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21227,
+    "name": "Low-Grade Reinforced Armor",
+    "info": "Miscellaneous Crafting Material:\nA new and improved version of war-ready armor.",
+    "icon": {
+        "icon_id": 1985,
+        "color_id": 105
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 9
+}

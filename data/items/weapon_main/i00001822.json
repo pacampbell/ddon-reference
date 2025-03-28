@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1822,
+    "name": "Palm's Treetop",
+    "info": "",
+    "icon": {
+        "icon_id": 1017,
+        "color_id": 8
+    },
+    "sell_price": 4810,
+    "weight": 35,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 31,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 386,
+        "magic_attack": 469,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 103
+        }
+    ]
+}

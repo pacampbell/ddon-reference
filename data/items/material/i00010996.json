@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10996,
+    "name": "Golden Wedge",
+    "info": "The wedge said to have been used in the\nalchemized secret technique that gives birth to\nthe Golden Dragon. Can be used as a crafting\nmaterial for specific equipment.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

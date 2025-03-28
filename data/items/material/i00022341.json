@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22341,
+    "name": "Magick Def. Down +20",
+    "info": "Debilitation \"Magick Defense Down\"\nadded.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

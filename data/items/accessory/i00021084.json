@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 21084,
+    "name": "Revanche Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 2242,
+        "color_id": 111
+    },
+    "sell_price": 5760,
+    "weight": 11,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 184,
+        "magic_attack": 2,
+        "magic_defense": 184,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 18
+        }
+    ]
+}

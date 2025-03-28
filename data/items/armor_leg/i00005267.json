@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5267,
+    "name": "Faith Sabatons",
+    "info": "",
+    "icon": {
+        "icon_id": 329,
+        "color_id": 10
+    },
+    "sell_price": 9189,
+    "weight": 72,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 263,
+        "magic_attack": 0,
+        "magic_defense": 211,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 61
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 739
+        }
+    ]
+}

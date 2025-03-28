@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19592,
+    "name": "Green Light War Axe",
+    "info": "",
+    "icon": {
+        "icon_id": 2308,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 100,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2744,
+        "magic_attack": 2255,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 938
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

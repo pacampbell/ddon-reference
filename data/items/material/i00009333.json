@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9333,
+    "name": "Crest of Sleep Warding",
+    "info": "A crest that grants debilitation resistance\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 2
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 3
+}

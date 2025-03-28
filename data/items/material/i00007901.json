@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7901,
+    "name": "Crystal",
+    "info": "Gem Crafting Material: Colorless transparent gems\nwith various uses.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

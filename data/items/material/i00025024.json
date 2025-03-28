@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25024,
+    "name": "Passion Papyrus",
+    "info": "Floral Crafting Material.\nA fibrous plant suitable for making paper.\nThere is a rumor that when you write your\nthoughts on the paper made from it, they are\neasier to convey to others.",
+    "icon": {
+        "icon_id": 2963,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 18736,
+    "name": "Depth Opal Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 731,
+        "color_id": 101
+    },
+    "sell_price": 34464,
+    "weight": 1,
+    "level": 1,
+    "item_level": 10,
+    "stats": {},
+    "params": [
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 30
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

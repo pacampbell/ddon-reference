@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23708,
+    "name": "The White Dragon",
+    "info": "Crest that bestows Dragon Ability [White Dragon].",
+    "icon": {
+        "icon_id": 2615,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

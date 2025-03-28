@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7971,
+    "name": "Ent Branch",
+    "info": "Wood Crafting Material: Ent Branch, a rare branch\nthat still pulsates with life.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 25121,
+    "name": "Savage Courage Snipe Arrow",
+    "info": "",
+    "icon": {
+        "icon_id": 2321,
+        "color_id": 11
+    },
+    "sell_price": 48500,
+    "weight": 73,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3615,
+        "magic_attack": 3289,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 691
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

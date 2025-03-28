@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18805,
+    "name": "Recipe: Aristocrat Bath - Drake",
+    "info": "Aristocrat Bath - Drake Recipe",
+    "icon": {
+        "icon_id": 1879,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

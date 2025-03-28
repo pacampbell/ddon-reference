@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19859,
+    "name": "Red Dawn's Steel Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1246,
+        "color_id": 10
+    },
+    "sell_price": 39700,
+    "weight": 60,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2631,
+        "magic_attack": 2439,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 268
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

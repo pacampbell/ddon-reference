@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14754,
+    "name": "Raging Red Spear",
+    "info": "",
+    "icon": {
+        "icon_id": 1694,
+        "color_id": 8
+    },
+    "sell_price": 6485,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 725,
+        "magic_attack": 649,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 161
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

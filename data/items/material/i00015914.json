@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15914,
+    "name": "Pottery Charm",
+    "info": "Miscellaneous Crafting Material:\nAn old charm made of pottery.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 13
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7830,
+    "name": "Energy Liquid",
+    "info": "Liquid Crafting Material.\nMysterious droplets imbued with a faint energy.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

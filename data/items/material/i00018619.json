@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18619,
+    "name": "Night Emperor",
+    "info": "Grant the effect beyond LV.6 of the following\naugments:\nRakshasa, Yasha, Sky Annihilation,\nEgression, Holy Body.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

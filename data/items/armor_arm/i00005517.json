@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 5517,
+    "name": "Mythological Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 9,
+        "color_id": 10
+    },
+    "sell_price": 5760,
+    "weight": 23,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 237,
+        "magic_attack": 0,
+        "magic_defense": 197,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 13
+        }
+    ]
+}

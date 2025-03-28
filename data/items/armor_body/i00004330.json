@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 4330,
+    "name": "Amilec Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 176,
+        "color_id": 10
+    },
+    "sell_price": 10080,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 385,
+        "magic_attack": 0,
+        "magic_defense": 343,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1185
+        }
+    ]
+}

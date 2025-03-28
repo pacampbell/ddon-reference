@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 14931,
+    "name": "Fortress Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 1567,
+        "color_id": 111
+    },
+    "sell_price": 8439,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 312,
+        "magic_attack": 3,
+        "magic_defense": 499,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 2,
+            "name": "KIND_TYPE_SLOW_DEF",
+            "value": 5
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 5
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 5
+        }
+    ]
+}

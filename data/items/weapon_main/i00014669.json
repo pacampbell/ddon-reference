@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14669,
+    "name": "Green Light's Nail Freed",
+    "info": "",
+    "icon": {
+        "icon_id": 1018,
+        "color_id": 10
+    },
+    "sell_price": 32005,
+    "weight": 70,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1944,
+        "magic_attack": 2081,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 331
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 13
+        }
+    ]
+}

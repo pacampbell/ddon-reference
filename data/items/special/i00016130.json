@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16130,
+    "name": "Servant's Bathing Clothes (Type 3)",
+    "info": "Loungewear for Partner Pawns to relax in the bath",
+    "icon": {
+        "icon_id": 1736,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

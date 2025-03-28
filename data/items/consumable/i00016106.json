@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16106,
+    "name": "Book of Acquisition (Effect Extension: Light)",
+    "info": "Learn the Secret Augment \"Effect Extension:\nLight\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13319,
+    "name": "Recipe: Bookshelves",
+    "info": "A recipe for creating Bookshelves that can be\ninstalled in the Study",
+    "icon": {
+        "icon_id": 1500,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

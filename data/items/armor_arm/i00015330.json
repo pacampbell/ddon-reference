@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15330,
+    "name": "Ocean's Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 56,
+        "color_id": 11
+    },
+    "sell_price": 8439,
+    "weight": 34,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 361,
+        "magic_attack": 1,
+        "magic_defense": 301,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

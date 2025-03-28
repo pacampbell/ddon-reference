@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 18913,
+    "name": "True Rose Tones",
+    "info": "",
+    "icon": {
+        "icon_id": 1609,
+        "color_id": 111
+    },
+    "sell_price": 27416,
+    "weight": 60,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 5,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3216,
+        "magic_attack": 2955,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 631
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

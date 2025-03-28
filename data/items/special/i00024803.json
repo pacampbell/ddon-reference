@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 24803,
+    "name": "",
+    "info": "Recipe for Refined Bijoux",
+    "icon": {
+        "icon_id": 2234,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

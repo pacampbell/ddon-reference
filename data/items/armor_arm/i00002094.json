@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2094,
+    "name": "Entry Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 77,
+        "color_id": 5
+    },
+    "sell_price": 30,
+    "weight": 45,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 3,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 18,
+        "magic_attack": 0,
+        "magic_defense": 15,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3410,
+    "name": "Ancient Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 185,
+        "color_id": 10
+    },
+    "sell_price": 8780,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 374,
+        "magic_attack": 0,
+        "magic_defense": 332,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7780,
+    "name": "Pure White Mane",
+    "info": "Fur Crafting Material:\nA pure white mane that shines like snow. A rare\nitem.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19652,
+    "name": "Silver Eye Ore",
+    "info": "Ore Crafting Material: A fine white-silver\nmineral with patterns that resemble eyes floating\non its surface.",
+    "icon": {
+        "icon_id": 2181,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 10
+}

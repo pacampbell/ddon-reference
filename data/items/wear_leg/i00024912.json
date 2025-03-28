@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 24912,
+    "name": "Southern Country Glamorous Pants (Purple)",
+    "info": "",
+    "icon": {
+        "icon_id": 2903,
+        "color_id": 17
+    },
+    "sell_price": 10000,
+    "weight": 5,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

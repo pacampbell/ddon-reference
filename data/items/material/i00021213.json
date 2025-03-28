@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21213,
+    "name": "Waterweed",
+    "info": "Floral Crafting Material: Inconspicuous colored\nwater grass that thrives at the bottom of water.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

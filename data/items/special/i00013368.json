@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13368,
+    "name": "Recipe: Closet",
+    "info": "Recipe for making a closet that can be placed\nnext to a chest.",
+    "icon": {
+        "icon_id": 1512,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

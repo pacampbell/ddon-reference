@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 16502,
+    "name": "Roaring Blaze Scale Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 1364,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 30,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2026,
+        "magic_attack": 1797,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 396
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 12
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21268,
+    "name": "Howling Blaze Lump",
+    "info": "Miscellaneous Crafting Material:\nFlames that continue to burn with a roaring sound.",
+    "icon": {
+        "icon_id": 1430,
+        "color_id": 105
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 3
+}

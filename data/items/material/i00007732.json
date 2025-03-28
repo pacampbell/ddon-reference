@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7732,
+    "name": "Ape Pelt",
+    "info": "Pelt Crafting Material.\nDurable skin from monkey-like animals.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

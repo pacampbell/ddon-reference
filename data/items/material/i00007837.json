@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7837,
+    "name": "Strong Acid Slime Piece",
+    "info": "Liquid Crafting Material: Gelatinous Shard with\ntraces of Wurm's acid.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

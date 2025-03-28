@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9010,
+    "name": "Beast Leather Bracelet",
+    "info": "",
+    "icon": {
+        "icon_id": 661,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 1,
+    "level": 41,
+    "item_level": 9,
+    "stats": {},
+    "params": [
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

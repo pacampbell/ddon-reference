@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4003,
+    "name": "Metempsychosis",
+    "info": "",
+    "icon": {
+        "icon_id": 989,
+        "color_id": 8
+    },
+    "sell_price": 6485,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 605,
+        "magic_attack": 742,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 141
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

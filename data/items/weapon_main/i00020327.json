@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20327,
+    "name": "Genereux Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 2334,
+        "color_id": 11
+    },
+    "sell_price": 46846,
+    "weight": 70,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3042,
+        "magic_attack": 3194,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 489
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

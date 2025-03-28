@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11794,
+    "name": "Bristly Felt",
+    "info": "Cloth Crafting Material: Thick cloth created by\nthe tangled fur of various enemies.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 14
+}

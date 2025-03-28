@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 19596,
+    "name": "Ghosts 'n Goblins Arthur Equipment (Gold Armor)",
+    "info": "",
+    "icon": {
+        "icon_id": 2116,
+        "color_id": 19
+    },
+    "sell_price": 50000,
+    "weight": 120,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 2170,
+        "magic_attack": 10,
+        "magic_defense": 2170,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 232
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 80
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1900
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1000
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17888,
+    "name": "Dragon Head Tile Fragment",
+    "info": "Miscellaneous Crafting Material: Tile fragment\nwith a dragon's head depicted.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

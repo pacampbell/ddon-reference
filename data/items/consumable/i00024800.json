@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 24800,
+    "name": "Hand-knitted knitwear",
+    "info": "A meticulously knitted sweater.\nJust the right size for various uses.\nWearing it on the battlefield has various\nbeneficial effects.",
+    "icon": {
+        "icon_id": 2925,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 99
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 38,
+    "name": "Key Insignia Potion",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 433,
+        "color_id": 5
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 9,
+    "max_stack": 10
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25527,
+    "name": "Spirit Resonance Mudsand",
+    "info": "Sand Crafting Material\nMud inhabited by spirits.\nSometimes, faces appear on it, and with bursting\nbubbles, sounds like voices can be heard.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 12
+}

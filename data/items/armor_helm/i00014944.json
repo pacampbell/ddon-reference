@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 14944,
+    "name": "Dark Red Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 1342,
+        "color_id": 11
+    },
+    "sell_price": 9601,
+    "weight": 36,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 338,
+        "magic_attack": 2,
+        "magic_defense": 542,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 3
+        },
+        {
+            "id": 41,
+            "name": "KIND_TYPE_SLEEP_SAV",
+            "value": 12
+        }
+    ]
+}

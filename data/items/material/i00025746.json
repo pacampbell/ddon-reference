@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25746,
+    "name": "Crest of Shock Immunity+",
+    "info": "A crest that increases the resistance to abnormal\nstatus effects of the equipped armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 14
+}

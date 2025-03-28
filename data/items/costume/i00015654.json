@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 15654,
+    "name": "Ancient Folk Soldier's Armor (Dazzling)",
+    "info": "",
+    "icon": {
+        "icon_id": 1583,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 1162,
+        "magic_attack": 6,
+        "magic_defense": 1162,
+        "crest_slot": 0,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 142
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 20
+        },
+        {
+            "id": 26,
+            "name": "KIND_TYPE_EROSION_DEF",
+            "value": 12
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1050
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 816
+        }
+    ]
+}

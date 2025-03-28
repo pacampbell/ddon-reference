@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7833,
+    "name": "Alkahest",
+    "info": "Liquid Crafting Material:\nA mysterious liquid created through alchemy.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 6
+    },
+    "sell_price": 280,
+    "weight": 0,
+    "item_level": 11
+}

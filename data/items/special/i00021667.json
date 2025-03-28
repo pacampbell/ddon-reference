@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21667,
+    "name": "Bath - Horror Night Hot Tub",
+    "info": "A bath with a Horror Night atmosphere",
+    "icon": {
+        "icon_id": 2427,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

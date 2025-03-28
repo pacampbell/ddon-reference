@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13061,
+    "name": "Admire Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 1306,
+        "color_id": 10
+    },
+    "sell_price": 999,
+    "weight": 34,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 342,
+        "magic_attack": 0,
+        "magic_defense": 285,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

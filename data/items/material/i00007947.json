@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7947,
+    "name": "Sinister Black Cloth",
+    "info": "Cloth Crafting Material.\nBlack Magic Cloth worn by Witch (LV. 41~).",
+    "icon": {
+        "icon_id": 1436,
+        "color_id": 5
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

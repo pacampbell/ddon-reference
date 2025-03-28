@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 4517,
+    "name": "Sublime Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 240,
+        "color_id": 10
+    },
+    "sell_price": 4495,
+    "weight": 36,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 52,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 167,
+        "magic_attack": 0,
+        "magic_defense": 267,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

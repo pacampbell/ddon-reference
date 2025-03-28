@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 1860,
+    "name": "Brilliance",
+    "info": "",
+    "icon": {
+        "icon_id": 893,
+        "color_id": 7
+    },
+    "sell_price": 1768,
+    "weight": 50,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 335,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 155
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 183
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 3
+        }
+    ]
+}

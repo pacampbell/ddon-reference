@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 16784,
+    "name": "Melty Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 1809,
+        "color_id": 82
+    },
+    "sell_price": 214,
+    "weight": 80,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1473,
+        "magic_attack": 1732,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 671
+        },
+        {
+            "id": 46,
+            "name": "KIND_TYPE_GOLD_SAV",
+            "value": 75
+        },
+        {
+            "id": 51,
+            "name": "KIND_TYPE_DOWN_FIRE_SAV",
+            "value": 75
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21196,
+    "name": "Gem of Devastation",
+    "info": "A sinister mass of power that can only be\nobtained during a specific period.\nIt seems that there are people who desire it,\neven though it has no use.",
+    "icon": {
+        "icon_id": 2369,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14
+}

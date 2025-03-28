@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 20826,
+    "name": "Hardy Mask",
+    "info": "",
+    "icon": {
+        "icon_id": 309,
+        "color_id": 10
+    },
+    "sell_price": 13530,
+    "weight": 36,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 463,
+        "magic_attack": 6,
+        "magic_defense": 741,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

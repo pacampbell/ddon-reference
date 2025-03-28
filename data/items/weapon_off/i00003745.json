@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 3745,
+    "name": "Bronze Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 909,
+        "color_id": 5
+    },
+    "sell_price": 4,
+    "weight": 40,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 145,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

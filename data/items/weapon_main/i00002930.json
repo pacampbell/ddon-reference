@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 2930,
+    "name": "Rising Sun",
+    "info": "",
+    "icon": {
+        "icon_id": 942,
+        "color_id": 10
+    },
+    "sell_price": 11525,
+    "weight": 90,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 989,
+        "magic_attack": 836,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 115
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

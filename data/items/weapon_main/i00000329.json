@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 329,
+    "name": "D\u00e9but de la Vie",
+    "info": "",
+    "icon": {
+        "icon_id": 1036,
+        "color_id": 10
+    },
+    "sell_price": 14050,
+    "weight": 80,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1043,
+        "magic_attack": 1240,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 292
+        }
+    ]
+}

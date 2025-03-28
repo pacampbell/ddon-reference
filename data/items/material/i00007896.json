@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7896,
+    "name": "Garnet",
+    "info": "Gem Crafting Material.\nA beautiful gem with a deep red color.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

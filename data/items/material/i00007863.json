@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7863,
+    "name": "Drilled Ore",
+    "info": "Ore Crafting Material: Mysterious ore containing\nmetallic geometric patterns.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

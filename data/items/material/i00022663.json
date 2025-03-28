@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22663,
+    "name": "Formless Slayer +84",
+    "info": "\"Formless Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

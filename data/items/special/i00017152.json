@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17152,
+    "name": "Chatting Bell",
+    "info": "When teaching tactics to Pawns, use the Summoning\nBell.",
+    "icon": {
+        "icon_id": 1898,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

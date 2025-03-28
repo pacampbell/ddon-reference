@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10528,
+    "name": "Gold Raptor",
+    "info": "",
+    "icon": {
+        "icon_id": 352,
+        "color_id": 9
+    },
+    "sell_price": 5620,
+    "weight": 54,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 46,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 133,
+        "magic_attack": 0,
+        "magic_defense": 106,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 604
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17097,
+    "name": "Wall Paint - White",
+    "info": "You can repaint the walls of your room in white\ncolor.",
+    "icon": {
+        "icon_id": 1861,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

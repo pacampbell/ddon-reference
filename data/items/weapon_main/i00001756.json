@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 1756,
+    "name": "Sense of Wound",
+    "info": "",
+    "icon": {
+        "icon_id": 821,
+        "color_id": 8
+    },
+    "sell_price": 6088,
+    "weight": 80,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 723,
+        "magic_attack": 579,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 163
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

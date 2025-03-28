@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 8615,
+    "name": "Virgo Camisole",
+    "info": "",
+    "icon": {
+        "icon_id": 776,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 5,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 43,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 58,
+        "magic_attack": 0,
+        "magic_defense": 58,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 297
+        }
+    ]
+}

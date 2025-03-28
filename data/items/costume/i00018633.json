@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 18633,
+    "name": "Rival Schools: Hinata Wakaba B",
+    "info": "",
+    "icon": {
+        "icon_id": 1842,
+        "color_id": 19
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 1360,
+        "magic_attack": 3,
+        "magic_defense": 1360,
+        "crest_slot": 0,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 158
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 30
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1500
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1159
+        }
+    ]
+}

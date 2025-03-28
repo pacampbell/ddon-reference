@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8878,
+    "name": "Raptor Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 213,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 10,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 44,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 43,
+        "magic_attack": 0,
+        "magic_defense": 43,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 9
+        }
+    ]
+}

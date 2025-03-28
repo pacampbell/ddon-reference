@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3045,
+    "name": "Centuria",
+    "info": "",
+    "icon": {
+        "icon_id": 984,
+        "color_id": 10
+    },
+    "sell_price": 19225,
+    "weight": 100,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1413,
+        "magic_attack": 1316,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 266
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

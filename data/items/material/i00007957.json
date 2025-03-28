@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7957,
+    "name": "Demon Thread",
+    "info": "String Crafting Material: Strong thread woven\nfrom a material imbued with powerful magic.",
+    "icon": {
+        "icon_id": 503,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

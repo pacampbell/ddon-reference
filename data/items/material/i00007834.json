@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7834,
+    "name": "Slime Liquid",
+    "info": "Liquid Crafting Material: Slime Type Slime Mucus",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

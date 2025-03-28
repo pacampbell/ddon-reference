@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13168,
+    "name": "Benediction Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1326,
+        "color_id": 111
+    },
+    "sell_price": 2535,
+    "weight": 10,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 91,
+        "magic_attack": 0,
+        "magic_defense": 91,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        }
+    ]
+}

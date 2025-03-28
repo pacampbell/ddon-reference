@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 13352,
+    "name": "12_07_JP_obtain_05",
+    "info": "",
+    "icon": {
+        "icon_id": 439,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 255
+}

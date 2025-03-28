@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7752,
+    "name": "Goblin Horn",
+    "info": "Horn Crafting Material: Fine horns from the\nGoblin tribe.",
+    "icon": {
+        "icon_id": 466,
+        "color_id": 2
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 3
+}

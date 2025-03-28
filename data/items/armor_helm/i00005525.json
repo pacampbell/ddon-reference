@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 5525,
+    "name": "Guardian Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 288,
+        "color_id": 7
+    },
+    "sell_price": 1440,
+    "weight": 36,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 84,
+        "magic_attack": 0,
+        "magic_defense": 134,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

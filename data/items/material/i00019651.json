@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19651,
+    "name": "Cursed Spine",
+    "info": "Bone Crafting Material: A large spine with cursed\nmarkings engraved on it.\nJudging from its size, it does not belong to a\nhuman.",
+    "icon": {
+        "icon_id": 474,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 4
+}

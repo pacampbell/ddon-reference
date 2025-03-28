@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21230,
+    "name": "Fireproof Cord",
+    "info": "String Crafting Material: Materials made by\nfurther processing fire-resistant materials, used\nfor crafting.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 9
+}

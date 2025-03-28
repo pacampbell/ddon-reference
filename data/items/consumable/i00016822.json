@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16822,
+    "name": "Experience Crystal",
+    "info": "A crystal infused with the memory of trainingA\ncrystal imbued with the memories of training.",
+    "icon": {
+        "icon_id": 2090,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

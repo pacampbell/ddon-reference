@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23687,
+    "name": "Spirit Lancer's slash damage UP",
+    "info": "The damage inflicted by the Spirit Lancer's Slash\nattribute increases. *Effective when attacking or\nwhen matching the physical attribute of the status\napplication.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7970,
+    "name": "Black Wood",
+    "info": "Wood Crafting Material.\nRare lumber with a jet-black, hard surface.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

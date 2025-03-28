@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18326,
+    "name": "Emine Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 1906,
+        "color_id": 11
+    },
+    "sell_price": 11375,
+    "weight": 36,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 479,
+        "magic_attack": 5,
+        "magic_defense": 399,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        }
+    ]
+}

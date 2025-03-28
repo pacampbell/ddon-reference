@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17099,
+    "name": "Wall Paint - Red",
+    "info": "You can repaint the walls of your room in red\ncolor.",
+    "icon": {
+        "icon_id": 1863,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

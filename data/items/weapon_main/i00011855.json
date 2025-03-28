@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11855,
+    "name": "Tempered Francisca",
+    "info": "",
+    "icon": {
+        "icon_id": 845,
+        "color_id": 10
+    },
+    "sell_price": 17960,
+    "weight": 80,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1713,
+        "magic_attack": 1493,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 331
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

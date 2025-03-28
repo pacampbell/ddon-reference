@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9361,
+    "name": "Quality Gala Extract",
+    "info": "Recovers a portion of the user's stamina.",
+    "icon": {
+        "icon_id": 431,
+        "color_id": 3
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

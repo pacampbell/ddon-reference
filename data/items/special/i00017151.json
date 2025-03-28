@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17151,
+    "name": "Basic Living Room Carpet",
+    "info": "A basic carpet that can be installed in the\nLiving Room.",
+    "icon": {
+        "icon_id": 1897,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

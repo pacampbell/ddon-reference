@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 2000,
+    "name": "Chestbreaker",
+    "info": "",
+    "icon": {
+        "icon_id": 886,
+        "color_id": 9
+    },
+    "sell_price": 14050,
+    "weight": 180,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1110,
+        "magic_attack": 737,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 426
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

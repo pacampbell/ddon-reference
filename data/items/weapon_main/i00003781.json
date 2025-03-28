@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3781,
+    "name": "Iraklis",
+    "info": "",
+    "icon": {
+        "icon_id": 866,
+        "color_id": 6
+    },
+    "sell_price": 985,
+    "weight": 120,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 14,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 387,
+        "magic_attack": 91,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 150
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

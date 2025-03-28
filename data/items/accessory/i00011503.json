@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 11503,
+    "name": "Finnegan's Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1563,
+        "color_id": 27
+    },
+    "sell_price": 3840,
+    "weight": 0,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 129,
+        "magic_attack": 0,
+        "magic_defense": 129,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

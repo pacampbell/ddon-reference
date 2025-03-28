@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9788,
+    "name": "Rare Greenleaf Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nIt is a crystallization of Dragon Force that\ncontains the vitality of the great tree.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 23
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

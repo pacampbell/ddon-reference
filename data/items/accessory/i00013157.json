@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 13157,
+    "name": "Victor's Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 1496,
+        "color_id": 10
+    },
+    "sell_price": 2307,
+    "weight": 10,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 83,
+        "magic_attack": 0,
+        "magic_defense": 83,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

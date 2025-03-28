@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 3057,
+    "name": "Horned Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 246,
+        "color_id": 5
+    },
+    "sell_price": 30,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 3,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 17,
+        "magic_attack": 0,
+        "magic_defense": 27,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

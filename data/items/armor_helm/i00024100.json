@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24100,
+    "name": "Spirit's Heavy Armored Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 2780,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 39,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 500,
+        "magic_attack": 9,
+        "magic_defense": 801,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

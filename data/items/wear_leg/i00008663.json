@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8663,
+    "name": "Village Pants",
+    "info": "",
+    "icon": {
+        "icon_id": 810,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 5,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 7,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 6,
+        "magic_attack": 0,
+        "magic_defense": 6,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 4
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 28
+        }
+    ]
+}

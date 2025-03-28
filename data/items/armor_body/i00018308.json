@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18308,
+    "name": "Aura Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 1314,
+        "color_id": 10
+    },
+    "sell_price": 18869,
+    "weight": 70,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 691,
+        "magic_attack": 4,
+        "magic_defense": 614,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1122
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14050,
+    "name": "Dynastes of Heroes",
+    "info": "",
+    "icon": {
+        "icon_id": 866,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 120,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1699,
+        "magic_attack": 1270,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 535
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

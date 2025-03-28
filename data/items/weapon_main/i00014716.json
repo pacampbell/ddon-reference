@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 14716,
+    "name": "Warping Soul",
+    "info": "",
+    "icon": {
+        "icon_id": 1039,
+        "color_id": 10
+    },
+    "sell_price": 29650,
+    "weight": 80,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1982,
+        "magic_attack": 2262,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 654
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 24801,
+    "name": "Romantic Letter",
+    "info": "A letter written in beautifully decorated\ncharacters.\nWords carefully chosen are lined up.\nWhen read again by oneself, there are various\nbeneficial Effects.",
+    "icon": {
+        "icon_id": 2926,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 99
+}

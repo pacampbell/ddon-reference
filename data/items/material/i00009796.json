@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9796,
+    "name": "Pearl Shell",
+    "info": "Miscellaneous Crafting Material:\nA rare shell that shines like a pearl with a\nmilky white color.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 21785,
+    "name": "Aurum Garment+",
+    "info": "",
+    "icon": {
+        "icon_id": 1720,
+        "color_id": 19
+    },
+    "sell_price": 20000,
+    "weight": 203,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 30,
+        "defense": 2882,
+        "magic_attack": 30,
+        "magic_defense": 2882,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 265
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 100
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 100
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 100
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1706
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1092
+        }
+    ]
+}

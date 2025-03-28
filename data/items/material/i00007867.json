@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7867,
+    "name": "Magick Medal",
+    "info": "Ore Crafting Material: Magic Stone crafted for\nGolem powering.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 4
+    },
+    "sell_price": 615,
+    "weight": 0,
+    "item_level": 7
+}

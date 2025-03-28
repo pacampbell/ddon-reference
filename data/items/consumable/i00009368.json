@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9368,
+    "name": "Absorbent Cloth",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 434,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

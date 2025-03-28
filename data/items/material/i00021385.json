@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21385,
+    "name": "Fruit of Inspiration (Attraction)",
+    "info": "A fruit that, when given to a Pawn, allows them\nto learn the special skill of Attraction.\nIt also greatly increases the chance of a\nhigh-ranked Attraction to flash into their mind.",
+    "icon": {
+        "icon_id": 2404,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

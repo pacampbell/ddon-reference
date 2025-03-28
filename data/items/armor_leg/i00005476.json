@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5476,
+    "name": "Paradise Waistcloth",
+    "info": "",
+    "icon": {
+        "icon_id": 371,
+        "color_id": 9
+    },
+    "sell_price": 3360,
+    "weight": 54,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 41,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 103,
+        "magic_attack": 0,
+        "magic_defense": 82,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 544
+        }
+    ]
+}

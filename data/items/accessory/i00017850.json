@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 17850,
+    "name": "Albasiyyah",
+    "info": "",
+    "icon": {
+        "icon_id": 229,
+        "color_id": 11
+    },
+    "sell_price": 4147,
+    "weight": 10,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 138,
+        "magic_attack": 0,
+        "magic_defense": 138,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 19
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

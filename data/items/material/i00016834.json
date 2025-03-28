@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16834,
+    "name": "Gold Authentication Orb",
+    "info": "A beautiful Orb adorned with intricately carved\ngold sculptures. Can be used for \"Appraisal\nExchange\".",
+    "icon": {
+        "icon_id": 1273,
+        "color_id": 19
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 2
+}

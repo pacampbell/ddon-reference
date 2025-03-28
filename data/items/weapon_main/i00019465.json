@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19465,
+    "name": "Olfring Sword (Radiance)",
+    "info": "",
+    "icon": {
+        "icon_id": 2125,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2315,
+        "magic_attack": 2079,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 446
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

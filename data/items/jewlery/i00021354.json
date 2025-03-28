@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 21354,
+    "name": "Emblem Stone (High Scepter)",
+    "info": "",
+    "icon": {
+        "icon_id": 2392,
+        "color_id": 30
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "level": 1,
+    "item_level": 11,
+    "stats": {},
+    "params": []
+}

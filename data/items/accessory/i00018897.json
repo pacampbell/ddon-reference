@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18897,
+    "name": "Mantle of Battle Supremacy",
+    "info": "",
+    "icon": {
+        "icon_id": 1397,
+        "color_id": 28
+    },
+    "sell_price": 1600,
+    "weight": 15,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 130,
+        "magic_attack": 5,
+        "magic_defense": 130,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 40
+        }
+    ]
+}

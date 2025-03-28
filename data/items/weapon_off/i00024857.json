@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 24857,
+    "name": "Ultra-Rich Chocolate Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2679,
+        "color_id": 17
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 214,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

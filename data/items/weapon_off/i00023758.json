@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 23758,
+    "name": "Golden Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 2301,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 44,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 502
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 21
+        }
+    ]
+}

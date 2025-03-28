@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 9982,
+    "name": "Supernova",
+    "info": "",
+    "icon": {
+        "icon_id": 916,
+        "color_id": 8
+    },
+    "sell_price": 2314,
+    "weight": 40,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 33,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 564,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

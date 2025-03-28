@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 14071,
+    "name": "Salvation Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 1244,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 20,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 788,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

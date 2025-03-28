@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7967,
+    "name": "Cedar Wood",
+    "info": "Wood Crafting Material: Sturdy lumber from\nnorthern robust coniferous trees.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

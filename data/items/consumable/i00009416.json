@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9416,
+    "name": "Exquisite Fried Meat",
+    "info": "A dish full of vigor using meat.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 458,
+        "color_id": 4
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

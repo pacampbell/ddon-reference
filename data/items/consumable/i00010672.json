@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 10672,
+    "name": "Unspecified Material",
+    "info": "You can obtain some \"material\" items.",
+    "icon": {
+        "icon_id": 1163,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

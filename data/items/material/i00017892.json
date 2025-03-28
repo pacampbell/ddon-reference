@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17892,
+    "name": "Cobalt Alloy Ingot",
+    "info": "Metal Crafting Material: A metallic mass with\nmagnetic properties and high corrosion resistance.",
+    "icon": {
+        "icon_id": 1432,
+        "color_id": 5
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16857,
+    "name": "Elegant Table - Forest",
+    "info": "An elegant dining table adorned with a graceful\ncloth, Set of chairs upholstered in matching\nfabric.",
+    "icon": {
+        "icon_id": 1845,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

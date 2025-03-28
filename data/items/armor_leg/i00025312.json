@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 25312,
+    "name": "Savage Courage Snipe Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 2976,
+        "color_id": 11
+    },
+    "sell_price": 18500,
+    "weight": 45,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 555,
+        "magic_attack": 10,
+        "magic_defense": 444,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 98
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 830
+        }
+    ]
+}

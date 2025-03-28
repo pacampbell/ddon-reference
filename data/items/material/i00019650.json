@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19650,
+    "name": "Cursed Bone Fragment",
+    "info": "Bone Crafting Material: Fragment of Bone with\nCursed Seal",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 4
+}

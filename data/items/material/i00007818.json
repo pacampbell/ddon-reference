@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7818,
+    "name": "Glossy Black Feather",
+    "info": "Feather Crafting Material: The enigmatic,\npoisonous, and lustrous black feathers of a giant\nblack eagle.",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 105
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 10
+}

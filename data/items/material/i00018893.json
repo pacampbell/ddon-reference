@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18893,
+    "name": "Golden Palm Fiber",
+    "info": "Appraisal Exchange Material.\nFiber obtained from golden shining coconuts.\nIn addition to its dazzling color, it is supple\nand sturdy.",
+    "icon": {
+        "icon_id": 503,
+        "color_id": 17
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 6
+}

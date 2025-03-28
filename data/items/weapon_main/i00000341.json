@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 341,
+    "name": "Gunvoltzeit",
+    "info": "",
+    "icon": {
+        "icon_id": 1006,
+        "color_id": 8
+    },
+    "sell_price": 7610,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 507,
+        "magic_attack": 639,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 112
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8003,
+    "name": "Scroll of Power",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of power.",
+    "icon": {
+        "icon_id": 514,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 4
+}

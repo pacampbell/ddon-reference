@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23499,
+    "name": "Aristocrat Bath - Christmas",
+    "info": "Christmas Furniture 2019.",
+    "icon": {
+        "icon_id": 2538,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 10931,
+    "name": "Rathian Mail",
+    "info": "",
+    "icon": {
+        "icon_id": 1194,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 304,
+        "magic_attack": 0,
+        "magic_defense": 271,
+        "crest_slot": 0,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1151
+        }
+    ]
+}

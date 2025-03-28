@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19221,
+    "name": "Book of Acquisition (Reduce Subdue)",
+    "info": "Learn the Secret Augment \"Reduce Subdue\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

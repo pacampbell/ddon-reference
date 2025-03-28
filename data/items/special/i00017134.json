@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17134,
+    "name": "Large Bookshelf (Left)",
+    "info": "Bookshelf (Left) that can be installed in the\nStudy",
+    "icon": {
+        "icon_id": 1500,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

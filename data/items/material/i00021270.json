@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21270,
+    "name": "Flicker Gem",
+    "info": "Metal Crafting Material: Artificial metal that\nshines from within, having sealed the power of\nfire.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14518,
+    "name": "Abridged Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 943,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 70,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1909,
+        "magic_attack": 1631,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 386
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

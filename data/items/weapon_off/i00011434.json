@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 11434,
+    "name": "Evening Sun",
+    "info": "",
+    "icon": {
+        "icon_id": 912,
+        "color_id": 10
+    },
+    "sell_price": 6274,
+    "weight": 40,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1368,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

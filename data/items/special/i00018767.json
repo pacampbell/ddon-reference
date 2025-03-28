@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18767,
+    "name": "Recipe: Goat Woolen Carpet - Black",
+    "info": "Recipe: Woolen Carpet - Black",
+    "icon": {
+        "icon_id": 1893,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

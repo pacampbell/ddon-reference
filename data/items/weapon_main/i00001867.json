@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 1867,
+    "name": "Bastion",
+    "info": "",
+    "icon": {
+        "icon_id": 895,
+        "color_id": 8
+    },
+    "sell_price": 4100,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 520,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 210
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 225
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 3
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3048,
+    "name": "Portae Lucis",
+    "info": "",
+    "icon": {
+        "icon_id": 983,
+        "color_id": 10
+    },
+    "sell_price": 15130,
+    "weight": 80,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1178,
+        "magic_attack": 1085,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 221
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

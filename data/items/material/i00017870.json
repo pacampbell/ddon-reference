@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17870,
+    "name": "Rock Leather",
+    "info": "Pelt Crafting Material: Rough and still workable\nleather with a rough texture unique to Little\nCrag.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

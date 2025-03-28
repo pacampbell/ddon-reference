@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8030,
+    "name": "Exquisite Metal Plate",
+    "info": "Miscellaneous Crafting Material:\nGeometric-patterned sheet metal stripped from a\nGiant Soldier.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 106
+    },
+    "sell_price": 505,
+    "weight": 0,
+    "item_level": 11
+}

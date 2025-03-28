@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2944,
+    "name": "Eclipse",
+    "info": "",
+    "icon": {
+        "icon_id": 1035,
+        "color_id": 7
+    },
+    "sell_price": 3385,
+    "weight": 140,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 390,
+        "magic_attack": 611,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 192
+        }
+    ]
+}

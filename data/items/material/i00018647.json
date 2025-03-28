@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18647,
+    "name": "Mandragora Mushroom",
+    "info": "Mushroom Crafting Material.\nMushrooms given by the Mandragora.",
+    "icon": {
+        "icon_id": 511,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 5
+}

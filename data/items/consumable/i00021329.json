@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21329,
+    "name": "Sweet Honey Cake",
+    "info": "A honey cake that is irresistibly sweet, like\nmelting away.\nAlthough it appears simple, it is rich in flavor\nand moist.\nThe yellow batter is a masterpiece that makes\nhearts leap with joy.",
+    "icon": {
+        "icon_id": 2377,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

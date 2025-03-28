@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16007,
+    "name": "Scroll of True Shadow",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of Shadows.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 5
+    },
+    "sell_price": 980,
+    "weight": 0,
+    "item_level": 1
+}

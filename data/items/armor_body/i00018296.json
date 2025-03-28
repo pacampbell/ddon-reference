@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18296,
+    "name": "Kier Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 1925,
+        "color_id": 11
+    },
+    "sell_price": 19917,
+    "weight": 72,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 718,
+        "magic_attack": 5,
+        "magic_defense": 638,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 38
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1153
+        }
+    ]
+}

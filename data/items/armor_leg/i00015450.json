@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15450,
+    "name": "Continent Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 335,
+        "color_id": 10
+    },
+    "sell_price": 10548,
+    "weight": 42,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 292,
+        "magic_attack": 1,
+        "magic_defense": 234,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 71
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 2
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 728
+        }
+    ]
+}

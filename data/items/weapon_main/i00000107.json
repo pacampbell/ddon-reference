@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 107,
+    "name": "Magician's Thought",
+    "info": "",
+    "icon": {
+        "icon_id": 1038,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 40,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 136,
+        "magic_attack": 310,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 94
+        }
+    ]
+}

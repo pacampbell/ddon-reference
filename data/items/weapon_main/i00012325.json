@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12325,
+    "name": "Sk\u00e1ld",
+    "info": "",
+    "icon": {
+        "icon_id": 999,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 60,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 5,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1423,
+        "magic_attack": 1584,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 226
+        },
+        {
+            "id": 51,
+            "name": "KIND_TYPE_DOWN_FIRE_SAV",
+            "value": 25
+        }
+    ]
+}

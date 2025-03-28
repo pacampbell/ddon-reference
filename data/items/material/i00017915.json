@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17915,
+    "name": "Underworld Drop",
+    "info": "Liquid Crafting Material: A substance formed by\nthe accumulation of countless lost souls.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 4
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 15
+}

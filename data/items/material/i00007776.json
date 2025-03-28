@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7776,
+    "name": "Ogre Fur",
+    "info": "Fur Crafting Material: Durable fur from the body\nof a Man-Eating Demon.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

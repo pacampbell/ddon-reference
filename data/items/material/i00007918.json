@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7918,
+    "name": "Strong Animal Leather",
+    "info": "Pelt Crafting Material: Durable animal pelts such\nas Direwolf.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16800,
+    "name": "2017 New Year Jumbo Draw Ticket",
+    "info": "Lottery Ticket to Win Luxurious Prizes in the\n2017 New Year's Celebration",
+    "icon": {
+        "icon_id": 1823,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 1
+}

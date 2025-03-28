@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 16723,
+    "name": "Dragon Skill Bracelet (Spirit Lancer)",
+    "info": "",
+    "icon": {
+        "icon_id": 694,
+        "color_id": 110
+    },
+    "sell_price": 100,
+    "weight": 1,
+    "level": 1,
+    "item_level": 2,
+    "stats": {},
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7779,
+    "name": "Beast's Mane",
+    "info": "Fur Crafting Material.\nChimera Lion's Mane.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 5
+}

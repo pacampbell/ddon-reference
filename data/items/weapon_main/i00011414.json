@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11414,
+    "name": "Sky Hatchet",
+    "info": "",
+    "icon": {
+        "icon_id": 823,
+        "color_id": 10
+    },
+    "sell_price": 12548,
+    "weight": 80,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1280,
+        "magic_attack": 1070,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 231
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 20290,
+    "name": "Spell of Altura",
+    "info": "",
+    "icon": {
+        "icon_id": 1259,
+        "color_id": 10
+    },
+    "sell_price": 43670,
+    "weight": 69,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2858,
+        "magic_attack": 3047,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 440
+        }
+    ]
+}

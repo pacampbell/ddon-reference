@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15926,
+    "name": "Demon Scraps",
+    "info": "Miscellaneous Crafting Material: The carcass of a\nbeast that fell victim to the Corruption's\ninfection.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 17681,
+    "name": "Shahabad Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 165,
+        "color_id": 11
+    },
+    "sell_price": 18060,
+    "weight": 105,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 655,
+        "magic_attack": 4,
+        "magic_defense": 582,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 35
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 800
+        }
+    ]
+}

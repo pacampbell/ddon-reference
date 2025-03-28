@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19730,
+    "name": "Magicka Shapur",
+    "info": "",
+    "icon": {
+        "icon_id": 2052,
+        "color_id": 111
+    },
+    "sell_price": 50000,
+    "weight": 84,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2618,
+        "magic_attack": 2916,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 819
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

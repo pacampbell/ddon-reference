@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1985,
+    "name": "Elfenkrieger",
+    "info": "",
+    "icon": {
+        "icon_id": 875,
+        "color_id": 9
+    },
+    "sell_price": 5785,
+    "weight": 120,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 893,
+        "magic_attack": 521,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 312
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

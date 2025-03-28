@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 12084,
+    "name": "Conscience Torch",
+    "info": "",
+    "icon": {
+        "icon_id": 1462,
+        "color_id": 111
+    },
+    "sell_price": 9802,
+    "weight": 40,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1751,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

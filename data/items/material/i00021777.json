@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21777,
+    "name": "Fluffly Ghost Cloth",
+    "info": "Cloth that floats like a ghost, fluffy and light.\nWhen worn by a Mandragora, it transforms into the\ncute yet eerie \"Ghost Mandragora\".",
+    "icon": {
+        "icon_id": 1434,
+        "color_id": 20
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 5
+}

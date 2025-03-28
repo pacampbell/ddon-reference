@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15963,
+    "name": "Bloodied Giant Tusk",
+    "info": "Fang Crafting Material: Giant Fang of the\nGorecyclops, soaked in the blood of numerous\nbeasts.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 5
+    },
+    "sell_price": 320,
+    "weight": 0,
+    "item_level": 13
+}

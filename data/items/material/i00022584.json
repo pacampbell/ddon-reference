@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22584,
+    "name": "War-Ready Slayer +15",
+    "info": "\"War-Ready Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

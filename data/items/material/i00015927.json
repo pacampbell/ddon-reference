@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15927,
+    "name": "Infected Giant Ulna",
+    "info": "Bone Crafting Material:\nThe arm bone that supports the immense strength\nof the Severely Infected Gorecyclops.",
+    "icon": {
+        "icon_id": 1221,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 2
+}

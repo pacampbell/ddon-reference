@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24444,
+    "name": "Blackshatter Battle Dress",
+    "info": "",
+    "icon": {
+        "icon_id": 2774,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 73,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 911,
+        "magic_attack": 9,
+        "magic_defense": 810,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 44
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1289
+        }
+    ]
+}

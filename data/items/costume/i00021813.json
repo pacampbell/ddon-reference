@@ -1,0 +1,61 @@
+{
+    "type": "equipment",
+    "item_id": 21813,
+    "name": "Griffith's Equipment (White Falcon)",
+    "info": "",
+    "icon": {
+        "icon_id": 2508,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 200,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 1314,
+        "magic_attack": 3,
+        "magic_defense": 1314,
+        "crest_slot": 0,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 133
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 20
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 20
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1430
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 910
+        }
+    ]
+}

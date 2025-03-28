@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14255,
+    "name": "1st Anniversary Cake",
+    "info": "Gorgeous cake that celebrates the first\nanniversary.",
+    "icon": {
+        "icon_id": 1542,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

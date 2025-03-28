@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9246,
+    "name": "Crest of Drowning",
+    "info": "A crest that grants a debilitation effect\nto weapons when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 8
+}

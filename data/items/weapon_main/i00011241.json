@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 11241,
+    "name": "Poterich Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 1283,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 20,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 174,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 18
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 71
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 272
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 2
+        }
+    ]
+}

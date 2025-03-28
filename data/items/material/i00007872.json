@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7872,
+    "name": "Dull Iron Ingot",
+    "info": "Metal Crafting Material: A lump of alloy refined\nfrom lead and iron.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 3
+}

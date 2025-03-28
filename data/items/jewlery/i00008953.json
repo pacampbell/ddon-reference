@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8953,
+    "name": "Wildflower Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 708,
+        "color_id": 6
+    },
+    "sell_price": 250,
+    "weight": 1,
+    "level": 16,
+    "item_level": 4,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 20
+        }
+    ]
+}

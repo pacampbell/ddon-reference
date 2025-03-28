@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16132,
+    "name": "Servant's Sleepwear (Type 2)",
+    "info": "Sleepwear for Partner Pawns to relax in the bed",
+    "icon": {
+        "icon_id": 1736,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15980,
+    "name": "Spirit's Tapestry",
+    "info": "Cloth Crafting Material: Tapestry adorned with\ndragon-infused sap.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 12
+}

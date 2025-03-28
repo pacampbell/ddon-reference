@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 25390,
+    "name": "Solitary Magic Bracer",
+    "info": "",
+    "icon": {
+        "icon_id": 1545,
+        "color_id": 11
+    },
+    "sell_price": 14400,
+    "weight": 34,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 725,
+        "magic_attack": 11,
+        "magic_defense": 604,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        }
+    ]
+}

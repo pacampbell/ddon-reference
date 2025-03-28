@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7819,
+    "name": "Demonic Fowl Feather",
+    "info": "Feather Crafting Material: Nightmare's large\nblack and white two-tone feathers.",
+    "icon": {
+        "icon_id": 478,
+        "color_id": 106
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

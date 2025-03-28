@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11919,
+    "name": "Breaker of Tribe",
+    "info": "",
+    "icon": {
+        "icon_id": 1627,
+        "color_id": 10
+    },
+    "sell_price": 25925,
+    "weight": 100,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2032,
+        "magic_attack": 1582,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 666
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

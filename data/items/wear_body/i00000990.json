@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 990,
+    "name": "King Bliaut",
+    "info": "",
+    "icon": {
+        "icon_id": 767,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 5,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 80,
+        "magic_attack": 0,
+        "magic_defense": 80,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 363
+        }
+    ]
+}

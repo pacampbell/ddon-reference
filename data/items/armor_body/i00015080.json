@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15080,
+    "name": "Continent Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 92,
+        "color_id": 10
+    },
+    "sell_price": 14768,
+    "weight": 70,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 529,
+        "magic_attack": 1,
+        "magic_defense": 470,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 3
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1140
+        }
+    ]
+}

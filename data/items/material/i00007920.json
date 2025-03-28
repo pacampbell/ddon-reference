@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7920,
+    "name": "Strong Lizardscale Pelt",
+    "info": "Pelt Crafting Material: Sturdy skin of a Sulfur\nSaurian.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

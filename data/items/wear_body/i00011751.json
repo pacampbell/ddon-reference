@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 11751,
+    "name": "Invisible Underwear",
+    "info": "",
+    "icon": {
+        "icon_id": 1296,
+        "color_id": 1
+    },
+    "sell_price": 6000,
+    "weight": 0,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

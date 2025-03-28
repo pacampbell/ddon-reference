@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8708,
+    "name": "Strong Banded",
+    "info": "",
+    "icon": {
+        "icon_id": 811,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 5,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 18,
+        "magic_attack": 0,
+        "magic_defense": 18,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 87
+        }
+    ]
+}

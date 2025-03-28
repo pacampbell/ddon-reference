@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 21096,
+    "name": "White Smoke Leather Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 2286,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 238,
+        "magic_attack": 0,
+        "magic_defense": 238,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 467
+        }
+    ]
+}

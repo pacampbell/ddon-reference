@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 13795,
+    "name": "Brilliant Gem Bracelet",
+    "info": "",
+    "icon": {
+        "icon_id": 672,
+        "color_id": 110
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 60,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 60
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17856,
+    "name": "Stone-Curser's Tears",
+    "info": "Liquid Crafting Material:\nCatoblepas's tears, condensed with the curse of\npetrification.\nHandle with caution.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 4
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 5
+}

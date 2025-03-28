@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7842,
+    "name": "Cockatrice Liquor",
+    "info": "Liquid Crafting Material: Cockatrice's bodily\nfluid with petrification resistance.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

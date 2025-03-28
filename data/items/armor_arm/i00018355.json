@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18355,
+    "name": "Kier Gauntlets",
+    "info": "",
+    "icon": {
+        "icon_id": 1307,
+        "color_id": 11
+    },
+    "sell_price": 11375,
+    "weight": 37,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 477,
+        "magic_attack": 5,
+        "magic_defense": 397,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        }
+    ]
+}

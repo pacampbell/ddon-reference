@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20981,
+    "name": "Solidarit\u00e9 Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 1914,
+        "color_id": 11
+    },
+    "sell_price": 13685,
+    "weight": 34,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 576,
+        "magic_attack": 7,
+        "magic_defense": 480,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        }
+    ]
+}

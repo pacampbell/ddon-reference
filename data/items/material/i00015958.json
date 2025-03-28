@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15958,
+    "name": "Scroll of Dream and Reality",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of illusion.",
+    "icon": {
+        "icon_id": 514,
+        "color_id": 5
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 13
+}

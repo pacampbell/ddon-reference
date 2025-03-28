@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21237,
+    "name": "Scroll of Tribute",
+    "info": "Grimoire Crafting Material:\nScroll with words praising the royal family.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 16
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

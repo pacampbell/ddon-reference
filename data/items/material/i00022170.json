@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22170,
+    "name": "Dark Force 65",
+    "info": "Adds debilitations [Blinded], [Dark Resist Down],\n[Poison].\n*[Blinded] is effective when attacking or when\nthe status applies the attribute of dark.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

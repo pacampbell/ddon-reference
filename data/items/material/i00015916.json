@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15916,
+    "name": "Purple Algae Seed",
+    "info": "Floral Crafting Material:\nA grass seed with vibrant purple flowers and\nlarge thorns, known for its distinctive style.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 13
+}

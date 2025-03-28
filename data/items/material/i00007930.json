@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7930,
+    "name": "Amber Dragonscale",
+    "info": "Pelt Crafting Material: Scales that shimmer in a\nglowing amber color, imbued with the heat of a\nFlame Dragon. A rare item.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 106
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

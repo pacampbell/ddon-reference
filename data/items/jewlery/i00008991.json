@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 8991,
+    "name": "Sentinel's Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 702,
+        "color_id": 8
+    },
+    "sell_price": 900,
+    "weight": 1,
+    "level": 31,
+    "item_level": 7,
+    "stats": {},
+    "params": []
+}

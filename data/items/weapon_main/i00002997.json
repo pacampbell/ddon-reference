@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2997,
+    "name": "Finalen Schlag",
+    "info": "",
+    "icon": {
+        "icon_id": 994,
+        "color_id": 10
+    },
+    "sell_price": 16250,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1142,
+        "magic_attack": 1295,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 226
+        }
+    ]
+}

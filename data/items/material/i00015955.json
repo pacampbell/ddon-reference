@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15955,
+    "name": "Kingalite",
+    "info": "Gem Crafting Material:\nA gem with distinctive striped patterns that\nappear on Kingal Canyon.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 5
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 2
+}

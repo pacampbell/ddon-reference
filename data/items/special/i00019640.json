@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19640,
+    "name": "Wall Paint - Christmas",
+    "info": "You can paint the walls of your room in a\nChristmas style\n",
+    "icon": {
+        "icon_id": 2387,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

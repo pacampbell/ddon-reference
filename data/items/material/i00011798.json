@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11798,
+    "name": "Light Green Moss Paper",
+    "info": "Miscellaneous Crafting Material:\nFine paper made from moss.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 3
+}

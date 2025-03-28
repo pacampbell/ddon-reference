@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 23419,
+    "name": "Demon's Damaged Knee Boots (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 2580,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 25
+        }
+    ]
+}

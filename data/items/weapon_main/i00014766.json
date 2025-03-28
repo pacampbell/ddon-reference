@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14766,
+    "name": "Elfin Thrust",
+    "info": "",
+    "icon": {
+        "icon_id": 1696,
+        "color_id": 9
+    },
+    "sell_price": 15130,
+    "weight": 100,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 21,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1316,
+        "magic_attack": 1230,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 228
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

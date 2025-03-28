@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 9860,
+    "name": "Sleeper Arrow",
+    "info": "Used in attacks with a Hunter's bow and arrow.\nCauses the \"Sleep\" debilitation.",
+    "icon": {
+        "icon_id": 528,
+        "color_id": 2
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "level": 8,
+    "item_level": 4,
+    "stats": {},
+    "params": []
+}

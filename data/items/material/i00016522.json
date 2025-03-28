@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16522,
+    "name": "Spiritual Flame",
+    "info": "Miscellaneous Crafting Material:\nStrange Ember found scattered throughout Phindym.\nMysterious sparks of fire.",
+    "icon": {
+        "icon_id": 439,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

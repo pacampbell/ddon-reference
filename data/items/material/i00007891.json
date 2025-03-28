@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7891,
+    "name": "Electrum Plate",
+    "info": "Metal Crafting Material: A secret metal that is\nfurther processed with alchemized electrum.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 6
+    },
+    "sell_price": 1010,
+    "weight": 0,
+    "item_level": 11
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15971,
+    "name": "Murky Dragon Fang",
+    "info": "Fang Crafting Material: Dragonkin fangs tainted\nfrom within, with murky patterns floating upon\nthem.",
+    "icon": {
+        "icon_id": 471,
+        "color_id": 105
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 13
+}

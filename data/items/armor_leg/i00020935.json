@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20935,
+    "name": "Charit\u00e9 Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1960,
+        "color_id": 11
+    },
+    "sell_price": 17365,
+    "weight": 43,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 478,
+        "magic_attack": 7,
+        "magic_defense": 383,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 97
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 789
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 15651,
+    "name": "Ancient Folk Soldier's Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1582,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 240,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 2000,
+        "magic_attack": 8,
+        "magic_defense": 2000,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 252
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 20
+        },
+        {
+            "id": 26,
+            "name": "KIND_TYPE_EROSION_DEF",
+            "value": 12
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1800
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 966
+        }
+    ]
+}

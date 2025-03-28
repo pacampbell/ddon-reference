@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 23739,
+    "name": "Frozen Crystal Elga Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2635,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3510,
+        "magic_attack": 3248,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 631
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18725,
+    "name": "Dull Blue Pearl",
+    "info": "A mysterious pearl with a pale blue color. It is\nsaid to bring happiness to those who possess it,\npossibly due to its extreme rarity.",
+    "icon": {
+        "icon_id": 2111,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

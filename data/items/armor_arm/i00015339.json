@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15339,
+    "name": "Black Panther Sleeves",
+    "info": "",
+    "icon": {
+        "icon_id": 65,
+        "color_id": 10
+    },
+    "sell_price": 8895,
+    "weight": 34,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 380,
+        "magic_attack": 1,
+        "magic_defense": 317,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        }
+    ]
+}

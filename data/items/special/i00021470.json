@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21470,
+    "name": "Sheet Music - Protection of the Five Dragons",
+    "info": "Sheet Music that allows you to listen to music in\nyour room.",
+    "icon": {
+        "icon_id": 2420,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 55
+}

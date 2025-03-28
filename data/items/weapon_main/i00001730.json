@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1730,
+    "name": "Quellenkraft",
+    "info": "",
+    "icon": {
+        "icon_id": 991,
+        "color_id": 6
+    },
+    "sell_price": 1810,
+    "weight": 30,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 19,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 241,
+        "magic_attack": 372,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 70
+        }
+    ]
+}

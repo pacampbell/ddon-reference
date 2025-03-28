@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17053,
+    "name": "Conspicuous Rusted Spirit Lance",
+    "info": "",
+    "icon": {
+        "icon_id": 1698,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 130,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1558,
+        "magic_attack": 1471,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 235
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

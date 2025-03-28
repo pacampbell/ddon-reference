@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9457,
+    "name": "Rare Ancient Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nIt is a crystallization of Dragon Force that\nswirls in the Ritual Hall.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 23
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

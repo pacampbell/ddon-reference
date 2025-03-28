@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7937,
+    "name": "Hard Leather Cloth",
+    "info": "Cloth Crafting Material: Strong animal leather, a\nsturdy leather cloth made by combining tough\nanimal hides.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 3
+    },
+    "sell_price": 260,
+    "weight": 0,
+    "item_level": 6
+}

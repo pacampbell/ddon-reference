@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7877,
+    "name": "Gold Ingot",
+    "info": "Metal Crafting Material:\nA chunk of gold refined from gold ore.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 5
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

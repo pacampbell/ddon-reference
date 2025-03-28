@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 10891,
+    "name": "Fancy Dress: Blanka B",
+    "info": "",
+    "icon": {
+        "icon_id": 1205,
+        "color_id": 19
+    },
+    "sell_price": 1991,
+    "weight": 6,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 185,
+        "magic_attack": 0,
+        "magic_defense": 296,
+        "crest_slot": 0,
+        "ele_slot": 27
+    },
+    "params": []
+}

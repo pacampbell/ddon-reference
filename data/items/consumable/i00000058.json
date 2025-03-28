@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 58,
+    "name": "Lumber Knife",
+    "info": "Used to harvest materials from fallen logs.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 449,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 10
+}

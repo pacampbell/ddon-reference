@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25237,
+    "name": "Savage Courage Assault Skull",
+    "info": "",
+    "icon": {
+        "icon_id": 254,
+        "color_id": 11
+    },
+    "sell_price": 15000,
+    "weight": 39,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 555,
+        "magic_attack": 10,
+        "magic_defense": 889,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

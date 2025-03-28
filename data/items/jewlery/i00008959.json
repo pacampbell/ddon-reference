@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 8959,
+    "name": "Floral Insignia Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 701,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 1,
+    "level": 21,
+    "item_level": 5,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 15
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 9
+        }
+    ]
+}

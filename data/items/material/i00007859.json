@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7859,
+    "name": "Gold Ore",
+    "info": "Ore Crafting Material: Precious ore that contains\ngold.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 5
+    },
+    "sell_price": 487,
+    "weight": 0,
+    "item_level": 9
+}

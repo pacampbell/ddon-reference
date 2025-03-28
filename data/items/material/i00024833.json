@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24833,
+    "name": "Tusk Craftwork [Stream]",
+    "info": "Processed items with patterns engraved on animal\nfangs.",
+    "icon": {
+        "icon_id": 2953,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

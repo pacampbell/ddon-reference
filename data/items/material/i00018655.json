@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18655,
+    "name": "Demon Beast's Liver",
+    "info": "Meat Crafting Material:\nPowerful Wolf (LV. 80~) Organ",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

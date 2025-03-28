@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24869,
+    "name": "Ultra-Rich White Chocolate Dress (Limited Edition)",
+    "info": "",
+    "icon": {
+        "icon_id": 2882,
+        "color_id": 17
+    },
+    "sell_price": 50000,
+    "weight": 207,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

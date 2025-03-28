@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7948,
+    "name": "Cursed Cloth",
+    "info": "Crafting Material: Cloth for crafting\nCloth imbued with sinister curse power.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 5
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 10324,
+    "name": "Parrying Daggers of Sparks",
+    "info": "",
+    "icon": {
+        "icon_id": 936,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 468,
+        "magic_attack": 335,
+        "crest_slot": 4,
+        "ele_slot": 27
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 69
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 30
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

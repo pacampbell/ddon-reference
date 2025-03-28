@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 21172,
+    "name": "Lord Knight Leather Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 2256,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 42,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 454,
+        "magic_attack": 7,
+        "magic_defense": 364,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 94
+        },
+        {
+            "id": 22,
+            "name": "KIND_TYPE_DOWN_ATTACK",
+            "value": 25
+        },
+        {
+            "id": 24,
+            "name": "KIND_TYPE_DOWN_MAGIC_AT",
+            "value": 25
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 25
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 778
+        }
+    ]
+}

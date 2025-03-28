@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15992,
+    "name": "Fleshed Animal Pelt",
+    "info": "Pelt Crafting Material:\nA strange animal pelt that has become a single\npiece of leather without any blemishes.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 6
+}

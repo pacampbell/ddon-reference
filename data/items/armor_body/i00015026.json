@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15026,
+    "name": "Royal Guardsman's Surcoat",
+    "info": "",
+    "icon": {
+        "icon_id": 154,
+        "color_id": 10
+    },
+    "sell_price": 15566,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 579,
+        "magic_attack": 2,
+        "magic_defense": 514,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 33
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

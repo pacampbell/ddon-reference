@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13364,
+    "name": "Recipe: Moody Lamp - Ice",
+    "info": "Recipe for making a room lamp that illuminates\nthe interior with a refreshing light",
+    "icon": {
+        "icon_id": 1509,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

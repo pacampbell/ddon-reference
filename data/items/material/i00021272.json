@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21272,
+    "name": "Old Brick Material",
+    "info": "Miscellaneous Crafting Material:\nBricks that are widely used in Acre Selund.\nOld ones were made using a unique method and are\nparticularly strong.",
+    "icon": {
+        "icon_id": 490,
+        "color_id": 16
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 14
+}

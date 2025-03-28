@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21466,
+    "name": "Recipe: Tapestry - Wild",
+    "info": "Recipe for Tapestry Wild",
+    "icon": {
+        "icon_id": 1890,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

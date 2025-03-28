@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 17597,
+    "name": "Acrean Circlet",
+    "info": "",
+    "icon": {
+        "icon_id": 1946,
+        "color_id": 111
+    },
+    "sell_price": 11100,
+    "weight": 36,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 381,
+        "magic_attack": 5,
+        "magic_defense": 610,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

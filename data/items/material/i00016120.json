@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16120,
+    "name": "Crystal-Encrusted Twig",
+    "info": "Wood Crafting Material: A small branch embedded\nwith blue shining ore.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 6
+}

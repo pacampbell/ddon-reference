@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8965,
+    "name": "Darkness Gem Choker",
+    "info": "",
+    "icon": {
+        "icon_id": 1053,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 1,
+    "level": 26,
+    "item_level": 6,
+    "stats": {},
+    "params": [
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 3
+        }
+    ]
+}

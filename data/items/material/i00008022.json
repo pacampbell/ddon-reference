@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8022,
+    "name": "Demon Arming Points",
+    "info": "Miscellaneous Crafting Material: Armor Fastener\nfor Living Armor",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 6
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 11
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19654,
+    "name": "Unrefined Alloy Lump",
+    "info": "Metal Crafting Material: Fragments of some alloy\nprocessed item, deformed as if melted, the\noriginal form is unknown.",
+    "icon": {
+        "icon_id": 492,
+        "color_id": 105
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 15
+}

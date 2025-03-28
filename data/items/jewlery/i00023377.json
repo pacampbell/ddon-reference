@@ -1,0 +1,37 @@
+{
+    "type": "jewlery",
+    "item_id": 23377,
+    "name": "Ring of the First King",
+    "info": "",
+    "icon": {
+        "icon_id": 2609,
+        "color_id": 127
+    },
+    "sell_price": 0,
+    "weight": 1,
+    "level": 1,
+    "item_level": 8,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 15
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 15
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 300
+        }
+    ]
+}

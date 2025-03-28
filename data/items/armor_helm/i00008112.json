@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8112,
+    "name": "Kykl\u00f4ps Head",
+    "info": "",
+    "icon": {
+        "icon_id": 251,
+        "color_id": 6
+    },
+    "sell_price": 270,
+    "weight": 45,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 13,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 37,
+        "magic_attack": 0,
+        "magic_defense": 59,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

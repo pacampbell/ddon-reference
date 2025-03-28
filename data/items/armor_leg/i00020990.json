@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20990,
+    "name": "Positivit\u00e9 Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 408,
+        "color_id": 10
+    },
+    "sell_price": 16610,
+    "weight": 43,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 462,
+        "magic_attack": 6,
+        "magic_defense": 369,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 95
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 781
+        }
+    ]
+}

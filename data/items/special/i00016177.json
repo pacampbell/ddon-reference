@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16177,
+    "name": "Dining - Flower Pot",
+    "info": "Flower pots that adorn the dining area",
+    "icon": {
+        "icon_id": 1751,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

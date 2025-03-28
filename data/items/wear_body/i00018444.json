@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18444,
+    "name": "Krall Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 1356,
+        "color_id": 11
+    },
+    "sell_price": 4029,
+    "weight": 14,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 196,
+        "magic_attack": 0,
+        "magic_defense": 196,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 399
+        }
+    ]
+}

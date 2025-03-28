@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 47,
+    "name": "Small Butterfly Key",
+    "info": "A small silver key with a butterfly design.\nElven characters are inscribed.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 9,
+    "max_stack": 99
+}

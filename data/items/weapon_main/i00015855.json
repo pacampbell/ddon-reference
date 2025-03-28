@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 15855,
+    "name": "Rusted Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1678,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 100,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 476,
+        "magic_attack": 574,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        }
+    ]
+}

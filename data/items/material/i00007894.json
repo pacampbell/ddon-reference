@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7894,
+    "name": "Agate",
+    "info": "Gem Crafting Material: A gem with opaque stripes\nof deep red.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

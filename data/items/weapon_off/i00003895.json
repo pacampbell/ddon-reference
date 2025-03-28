@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 3895,
+    "name": "Fury Rondeau",
+    "info": "",
+    "icon": {
+        "icon_id": 920,
+        "color_id": 8
+    },
+    "sell_price": 3202,
+    "weight": 20,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 712,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

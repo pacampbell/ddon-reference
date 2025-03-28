@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 11718,
+    "name": "Rookie's Ring of Blessing",
+    "info": "",
+    "icon": {
+        "icon_id": 682,
+        "color_id": 29
+    },
+    "sell_price": 0,
+    "weight": 1,
+    "level": 1,
+    "item_level": 12,
+    "stats": {},
+    "params": []
+}

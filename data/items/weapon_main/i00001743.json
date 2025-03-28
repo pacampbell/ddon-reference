@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1743,
+    "name": "Locus Solus",
+    "info": "",
+    "icon": {
+        "icon_id": 970,
+        "color_id": 8
+    },
+    "sell_price": 6485,
+    "weight": 80,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 598,
+        "magic_attack": 516,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 151
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25526,
+    "name": "Elegant Harp Steel Ingot",
+    "info": "Metal Crafting Material.\nA metal that produces a beautiful tone when\nstruck.\nHandle with care.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 6
+}

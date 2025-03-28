@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 20940,
+    "name": "Redoutable Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 2265,
+        "color_id": 111
+    },
+    "sell_price": 18120,
+    "weight": 42,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 496,
+        "magic_attack": 8,
+        "magic_defense": 397,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 99
+        },
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 9
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 801
+        }
+    ]
+}

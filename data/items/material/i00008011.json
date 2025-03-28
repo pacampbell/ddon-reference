@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8011,
+    "name": "Scroll of Fire",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of Fire.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16116,
+    "name": "Discolored Organs",
+    "info": "Meat Crafting Material: Animal organs that have\nbeen discolored due to the corruption's influence.",
+    "icon": {
+        "icon_id": 465,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 2
+}

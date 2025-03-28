@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 10835,
+    "name": "Fancy Dress: M. Bison A",
+    "info": "",
+    "icon": {
+        "icon_id": 1200,
+        "color_id": 19
+    },
+    "sell_price": 1991,
+    "weight": 12,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 41,
+        "magic_attack": 0,
+        "magic_defense": 66,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": []
+}

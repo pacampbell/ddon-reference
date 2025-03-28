@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21095,
+    "name": "White Smoke Leather Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 2224,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 70,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 864,
+        "magic_attack": 7,
+        "magic_defense": 768,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 45
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1247
+        }
+    ]
+}

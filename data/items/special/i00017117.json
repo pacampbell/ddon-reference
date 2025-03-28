@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17117,
+    "name": "Woolen Carpet - Rose",
+    "info": "You can place\nred fur carpets in your study.",
+    "icon": {
+        "icon_id": 1894,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7951,
+    "name": "Filament",
+    "info": "String Crafting Material: Thin threads spun from\nspider thread and bird feathers.",
+    "icon": {
+        "icon_id": 502,
+        "color_id": 1
+    },
+    "sell_price": 15,
+    "weight": 0,
+    "item_level": 2
+}

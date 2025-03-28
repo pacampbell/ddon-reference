@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15382,
+    "name": "Executioner's Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 350,
+        "color_id": 10
+    },
+    "sell_price": 10548,
+    "weight": 42,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 295,
+        "magic_attack": 2,
+        "magic_defense": 236,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 72
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 4
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 735
+        }
+    ]
+}

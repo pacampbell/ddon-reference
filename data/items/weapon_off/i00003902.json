@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 3902,
+    "name": "Gaia Scepter",
+    "info": "",
+    "icon": {
+        "icon_id": 918,
+        "color_id": 9
+    },
+    "sell_price": 4610,
+    "weight": 70,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1059,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

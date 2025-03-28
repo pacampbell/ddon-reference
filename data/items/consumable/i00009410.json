@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9410,
+    "name": "Three-Herb Salad",
+    "info": "Salad abundant with herbs.\nEating has various beneficial effects.",
+    "icon": {
+        "icon_id": 456,
+        "color_id": 3
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

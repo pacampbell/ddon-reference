@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 16509,
+    "name": "Tyrant Daggers of Torn Light",
+    "info": "",
+    "icon": {
+        "icon_id": 1464,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2126,
+        "magic_attack": 1944,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 225
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 12
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

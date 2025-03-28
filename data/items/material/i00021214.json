@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21214,
+    "name": "Rose Megadosys",
+    "info": "Floral Crafting Material: A plant native to the\nMegadosys Plateau that produces beautiful flowers\nresembling roses.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

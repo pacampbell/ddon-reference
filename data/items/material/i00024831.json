@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24831,
+    "name": "Ancient Wood [Purple]",
+    "info": "Wood harvested from trees that grow naturally,\nwith an unchanged appearance from ancient times.",
+    "icon": {
+        "icon_id": 2951,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

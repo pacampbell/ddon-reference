@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 10526,
+    "name": "Dark Crystal Dragon Necklace",
+    "info": "",
+    "icon": {
+        "icon_id": 620,
+        "color_id": 83
+    },
+    "sell_price": 1500,
+    "weight": 1,
+    "level": 1,
+    "item_level": 1,
+    "stats": {},
+    "params": [
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 2
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 5
+        }
+    ]
+}

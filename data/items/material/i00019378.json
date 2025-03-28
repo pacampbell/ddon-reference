@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19378,
+    "name": "Extreme Jump Height Up",
+    "info": "Increases jump height even further.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

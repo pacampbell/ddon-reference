@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 18562,
+    "name": "Black Venom Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 2085,
+        "color_id": 82
+    },
+    "sell_price": 30000,
+    "weight": 63,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1771,
+        "magic_attack": 1904,
+        "crest_slot": 4,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 286
+        },
+        {
+            "id": 44,
+            "name": "KIND_TYPE_SOFTBODY_SAV",
+            "value": 80
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 10
+        }
+    ]
+}

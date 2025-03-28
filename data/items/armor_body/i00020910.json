@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 20910,
+    "name": "Redoutable Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 2232,
+        "color_id": 111
+    },
+    "sell_price": 25080,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 893,
+        "magic_attack": 8,
+        "magic_defense": 794,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 45
+        },
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 9
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1265
+        }
+    ]
+}

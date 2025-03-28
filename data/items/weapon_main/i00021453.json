@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 21453,
+    "name": "True Crimson Firangi",
+    "info": "",
+    "icon": {
+        "icon_id": 2357,
+        "color_id": 111
+    },
+    "sell_price": 27416,
+    "weight": 70,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2683,
+        "magic_attack": 2435,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 531
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

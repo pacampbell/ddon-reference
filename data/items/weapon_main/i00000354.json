@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 354,
+    "name": "Phytosp\u00f3ros",
+    "info": "",
+    "icon": {
+        "icon_id": 1003,
+        "color_id": 10
+    },
+    "sell_price": 18005,
+    "weight": 30,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 21,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1188,
+        "magic_attack": 1344,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 209
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 48
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 63
+        }
+    ]
+}

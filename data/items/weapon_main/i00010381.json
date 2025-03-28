@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 10381,
+    "name": "Dragon's Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1147,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 40,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 148,
+        "magic_attack": 235,
+        "crest_slot": 4,
+        "ele_slot": 4
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 59
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 100
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7981,
+    "name": "Moonglow",
+    "info": "Floral Crafting Material: Grass and Flower-based\ncrafting material that only grows in dark places\nsuch as caves.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

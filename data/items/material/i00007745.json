@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7745,
+    "name": "Cockatrice Poison Gland",
+    "info": "Meat Crafting Material.\nCockatrice (LV. 43~) Poison Gland.",
+    "icon": {
+        "icon_id": 465,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

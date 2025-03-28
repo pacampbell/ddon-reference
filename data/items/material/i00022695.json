@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22695,
+    "name": "Demon Slayer +12",
+    "info": "\"Demon Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

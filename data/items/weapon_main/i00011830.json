@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11830,
+    "name": "Clunky Beak",
+    "info": "",
+    "icon": {
+        "icon_id": 840,
+        "color_id": 10
+    },
+    "sell_price": 16904,
+    "weight": 120,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1584,
+        "magic_attack": 1367,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 352
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        }
+    ]
+}

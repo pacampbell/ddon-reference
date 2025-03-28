@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7966,
+    "name": "Rosewood",
+    "info": "Wood Crafting Material:\nA high-quality lumber with a beautiful deep\nreddish-purple wood grain.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 4
+    },
+    "sell_price": 375,
+    "weight": 0,
+    "item_level": 8
+}

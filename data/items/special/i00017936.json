@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17936,
+    "name": "2nd Anniversary Cake",
+    "info": "A luxurious cake that celebrates the second\nanniversary",
+    "icon": {
+        "icon_id": 1900,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

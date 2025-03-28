@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8132,
+    "name": "Howl of Garuda",
+    "info": "",
+    "icon": {
+        "icon_id": 249,
+        "color_id": 10
+    },
+    "sell_price": 5015,
+    "weight": 45,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 195,
+        "magic_attack": 0,
+        "magic_defense": 312,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

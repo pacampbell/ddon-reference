@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15271,
+    "name": "Medium Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 70,
+        "color_id": 10
+    },
+    "sell_price": 8895,
+    "weight": 34,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 386,
+        "magic_attack": 2,
+        "magic_defense": 321,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        }
+    ]
+}

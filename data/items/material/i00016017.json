@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16017,
+    "name": "Soldier's Loyalty",
+    "info": "Miscellaneous Crafting Material:\nA special substance gifted by Myrmidons who have\nformed a deep bond with their master.",
+    "icon": {
+        "icon_id": 1724,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

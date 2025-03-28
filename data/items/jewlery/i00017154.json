@@ -1,0 +1,32 @@
+{
+    "type": "jewlery",
+    "item_id": 17154,
+    "name": "Ancient Clear Shell Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 1836,
+        "color_id": 101
+    },
+    "sell_price": 10000,
+    "weight": 300,
+    "level": 80,
+    "item_level": 11,
+    "stats": {},
+    "params": [
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 39
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 39
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 39
+        }
+    ]
+}

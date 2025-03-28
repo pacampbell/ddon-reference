@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7836,
+    "name": "Insect Venom",
+    "info": "Liquid Crafting Material: Dangerous venom\nextracted from winged insects and ground-dwelling\ncreatures.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

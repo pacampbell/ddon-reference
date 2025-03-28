@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12431,
+    "name": "Seeker's Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1019,
+        "color_id": 10
+    },
+    "sell_price": 24505,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 4,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1545,
+        "magic_attack": 1674,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 287
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 13
+        }
+    ]
+}

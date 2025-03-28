@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 12078,
+    "name": "Rod of Tyrant",
+    "info": "",
+    "icon": {
+        "icon_id": 1461,
+        "color_id": 11
+    },
+    "sell_price": 9802,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1725,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

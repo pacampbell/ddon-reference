@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7942,
+    "name": "Blow-Resistant Cloth",
+    "info": "Cloth Crafting Material: Sturdy and resilient\nfabric that can absorb strong impacts.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 5
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

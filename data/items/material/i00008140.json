@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8140,
+    "name": "Black Dye",
+    "info": "By using Crafting, you can change the color of\nequipment of a certain Grade or higher to \"Black\".\n(Note: Some equipment cannot be color-changed).",
+    "icon": {
+        "icon_id": 546,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

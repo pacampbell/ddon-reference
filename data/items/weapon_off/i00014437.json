@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 14437,
+    "name": "Verdant Star",
+    "info": "",
+    "icon": {
+        "icon_id": 1646,
+        "color_id": 111
+    },
+    "sell_price": 11252,
+    "weight": 40,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1968,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

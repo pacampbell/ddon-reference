@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21258,
+    "name": "Volcanic Tuff",
+    "info": "Ore Crafting Material:\nA stone formed from solidified volcanic ash that\nhas accumulated.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

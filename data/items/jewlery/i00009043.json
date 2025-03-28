@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 9043,
+    "name": "Mother Goddess' Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 745,
+        "color_id": 9
+    },
+    "sell_price": 1900,
+    "weight": 1,
+    "level": 46,
+    "item_level": 10,
+    "stats": {},
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 2
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 25
+        }
+    ]
+}

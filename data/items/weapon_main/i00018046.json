@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 18046,
+    "name": "Sanaz Scramaseax",
+    "info": "",
+    "icon": {
+        "icon_id": 2040,
+        "color_id": 11
+    },
+    "sell_price": 39783,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2564,
+        "magic_attack": 2372,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 268
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

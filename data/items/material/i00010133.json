@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10133,
+    "name": "Riftstone Shard",
+    "info": "Mystic stone fragments required for a contract\nwith Myrmidons.\nA certain number is necessary for a new contract.",
+    "icon": {
+        "icon_id": 532,
+        "color_id": 104
+    },
+    "sell_price": 320,
+    "weight": 0,
+    "item_level": 8
+}

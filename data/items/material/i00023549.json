@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23549,
+    "name": "Pure Black Jade",
+    "info": "A jewel with the color of the dark night sky,\ndevoid of light, and imbued with wicked magic.",
+    "icon": {
+        "icon_id": 2621,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 3
+}

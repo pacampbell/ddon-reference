@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 25290,
+    "name": "Hero's Assault Gauntlets",
+    "info": "",
+    "icon": {
+        "icon_id": 1302,
+        "color_id": 11
+    },
+    "sell_price": 14400,
+    "weight": 32,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 12,
+        "defense": 780,
+        "magic_attack": 12,
+        "magic_defense": 650,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 37
+        }
+    ]
+}

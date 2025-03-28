@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9459,
+    "name": "Lestania Amber",
+    "info": "Crafting materials with limited availability.\nAn amber made from the power of the earth\ndwelling within a mighty tree.",
+    "icon": {
+        "icon_id": 525,
+        "color_id": 28
+    },
+    "sell_price": 180,
+    "weight": 0,
+    "item_level": 9
+}

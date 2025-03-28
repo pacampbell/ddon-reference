@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19631,
+    "name": "Dinner Set - Horror Night",
+    "info": "Meal Set that can be installed in the kitchen\nHorror Night Menu",
+    "icon": {
+        "icon_id": 2185,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

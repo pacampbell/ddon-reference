@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 14511,
+    "name": "The Colonel",
+    "info": "",
+    "icon": {
+        "icon_id": 1655,
+        "color_id": 111
+    },
+    "sell_price": 32005,
+    "weight": 50,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2189,
+        "magic_attack": 2007,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 228
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

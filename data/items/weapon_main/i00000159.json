@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 159,
+    "name": "Gold Sting",
+    "info": "",
+    "icon": {
+        "icon_id": 826,
+        "color_id": 10
+    },
+    "sell_price": 10408,
+    "weight": 50,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 53,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1132,
+        "magic_attack": 931,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 207
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

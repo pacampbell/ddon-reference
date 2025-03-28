@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21658,
+    "name": "3rd Anniversary Moody Lamp",
+    "info": "Room lamp that celebrates the 3rd anniversary",
+    "icon": {
+        "icon_id": 2428,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 32
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18752,
+    "name": "Recipe: Wall Paint - Red",
+    "info": "Recipe for Wall Paint - Red",
+    "icon": {
+        "icon_id": 1863,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

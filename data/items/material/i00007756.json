@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7756,
+    "name": "Angules Horn",
+    "info": "Horn Crafting Material: The Glittering Horn of\nAngules",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 105
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

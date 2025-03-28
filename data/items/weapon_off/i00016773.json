@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 16773,
+    "name": "Sincere Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 1815,
+        "color_id": 82
+    },
+    "sell_price": 314,
+    "weight": 40,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 1,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1542,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

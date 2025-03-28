@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 17812,
+    "name": "Arabesque Wear",
+    "info": "",
+    "icon": {
+        "icon_id": 2021,
+        "color_id": 10
+    },
+    "sell_price": 3363,
+    "weight": 14,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 172,
+        "magic_attack": 0,
+        "magic_defense": 172,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 377
+        }
+    ]
+}

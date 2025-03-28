@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2852,
+    "name": "Spellcasting",
+    "info": "",
+    "icon": {
+        "icon_id": 1016,
+        "color_id": 8
+    },
+    "sell_price": 6485,
+    "weight": 120,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 478,
+        "magic_attack": 591,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 117
+        }
+    ]
+}

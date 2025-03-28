@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23502,
+    "name": "Tapestry - 4th Anniversary",
+    "info": "Furniture to celebrate the 4th anniversary.",
+    "icon": {
+        "icon_id": 2535,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

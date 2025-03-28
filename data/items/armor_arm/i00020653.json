@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20653,
+    "name": "Briller Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 1553,
+        "color_id": 11
+    },
+    "sell_price": 12495,
+    "weight": 34,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 541,
+        "magic_attack": 6,
+        "magic_defense": 450,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        }
+    ]
+}

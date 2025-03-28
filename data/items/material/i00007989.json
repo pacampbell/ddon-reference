@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7989,
+    "name": "Small Nut",
+    "info": "Floral Crafting Material: High-nutrient seeds\nfrom small yet nutritious nuts of a woody plant.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

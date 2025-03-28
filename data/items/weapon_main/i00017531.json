@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 17531,
+    "name": "Ara Cane",
+    "info": "",
+    "icon": {
+        "icon_id": 1025,
+        "color_id": 11
+    },
+    "sell_price": 34270,
+    "weight": 84,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2142,
+        "magic_attack": 2281,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 346
+        }
+    ]
+}

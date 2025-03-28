@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 18258,
+    "name": "Dools Sallet",
+    "info": "",
+    "icon": {
+        "icon_id": 1949,
+        "color_id": 111
+    },
+    "sell_price": 12387,
+    "weight": 34,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 427,
+        "magic_attack": 6,
+        "magic_defense": 684,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        }
+    ]
+}

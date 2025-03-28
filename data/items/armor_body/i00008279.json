@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8279,
+    "name": "Vigorous Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 192,
+        "color_id": 6
+    },
+    "sell_price": 910,
+    "weight": 90,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 18,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 82,
+        "magic_attack": 0,
+        "magic_defense": 73,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 9
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 336
+        }
+    ]
+}

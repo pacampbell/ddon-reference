@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7870,
+    "name": "High Quality Magick Medal",
+    "info": "Ore Crafting Material: Particularly high-quality\nGolem Powering Magic Device Stone.\nA rare item.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 105
+    },
+    "sell_price": 757,
+    "weight": 0,
+    "item_level": 10
+}

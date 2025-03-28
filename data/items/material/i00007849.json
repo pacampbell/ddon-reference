@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7849,
+    "name": "Magick Silt",
+    "info": "Sand Crafting Material: Mud secreted by Mudman\n(LV. 25~)",
+    "icon": {
+        "icon_id": 484,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

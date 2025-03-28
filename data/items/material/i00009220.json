@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9220,
+    "name": "Crest of Mutilation II",
+    "info": "A crest that grants a slayer effect\nwhen equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 83
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 15
+}

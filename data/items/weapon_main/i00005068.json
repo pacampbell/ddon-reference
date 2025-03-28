@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 5068,
+    "name": "Hartenklinger",
+    "info": "",
+    "icon": {
+        "icon_id": 877,
+        "color_id": 10
+    },
+    "sell_price": 18005,
+    "weight": 120,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1472,
+        "magic_attack": 1056,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 426
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 63
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

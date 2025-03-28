@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19670,
+    "name": "Adamas Military Expedition Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 2129,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 448
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 5
+        }
+    ]
+}

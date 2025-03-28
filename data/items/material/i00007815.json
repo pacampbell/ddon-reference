@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7815,
+    "name": "Sphinx Azure Pinion",
+    "info": "Feather Crafting Material: Vibrant blue Sphinx\nfeathers",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 2
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 4
+}

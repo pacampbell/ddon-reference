@@ -1,0 +1,65 @@
+{
+    "type": "equipment",
+    "item_id": 19519,
+    "name": "Apprentice Priest Robes (Bloom)",
+    "info": "",
+    "icon": {
+        "icon_id": 1966,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 85,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 12,
+        "defense": 2492,
+        "magic_attack": 12,
+        "magic_defense": 2492,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 260
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 30
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 30
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 30
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1600
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 900
+        }
+    ]
+}

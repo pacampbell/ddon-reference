@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9443,
+    "name": "Demon's Prized Liquor",
+    "info": "Liquid Crafting Material: Potent liquor with a\nstrong odor believed to be of considerable age,\nfrom the hoard of a powerful Orc (Level 55~).",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 6
+    },
+    "sell_price": 320,
+    "weight": 0,
+    "item_level": 12
+}

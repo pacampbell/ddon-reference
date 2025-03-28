@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8016,
+    "name": "White Seashell",
+    "info": "Miscellaneous Crafting Material:\nShells commonly found near water.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

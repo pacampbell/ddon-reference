@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 5030,
+    "name": "Religious Beyond",
+    "info": "",
+    "icon": {
+        "icon_id": 999,
+        "color_id": 8
+    },
+    "sell_price": 8005,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 690,
+        "magic_attack": 832,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 138
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

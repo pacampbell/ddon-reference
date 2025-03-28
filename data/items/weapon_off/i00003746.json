@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 3746,
+    "name": "Spike Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 910,
+        "color_id": 5
+    },
+    "sell_price": 74,
+    "weight": 40,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 209,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

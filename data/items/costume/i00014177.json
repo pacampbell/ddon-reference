@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 14177,
+    "name": "Trickster Suit",
+    "info": "",
+    "icon": {
+        "icon_id": 1532,
+        "color_id": 19
+    },
+    "sell_price": 25000,
+    "weight": 55,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 40,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 1555,
+        "magic_attack": 0,
+        "magic_defense": 1555,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 155
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 100
+        },
+        {
+            "id": 21,
+            "name": "KIND_TYPE_DOWN_BLIND",
+            "value": 100
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 100
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1555
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1155
+        }
+    ]
+}

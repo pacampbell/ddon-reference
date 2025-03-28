@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 12577,
+    "name": "Bishop Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 1341,
+        "color_id": 111
+    },
+    "sell_price": 6339,
+    "weight": 36,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 238,
+        "magic_attack": 0,
+        "magic_defense": 382,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 3
+        }
+    ]
+}

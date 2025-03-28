@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 2756,
+    "name": "Claymore",
+    "info": "",
+    "icon": {
+        "icon_id": 874,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 120,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 333,
+        "magic_attack": 44,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 126
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

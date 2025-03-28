@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8007,
+    "name": "Scroll of Great Strength",
+    "info": "Grimoire Crafting Material:\nScroll with the mark of Herculean Strength.",
+    "icon": {
+        "icon_id": 515,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

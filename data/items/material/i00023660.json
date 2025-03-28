@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23660,
+    "name": "Element Archer's slash damage UP",
+    "info": "The damage inflicted by the Element Archer's\nSlash attribute increases. *This effect is\nactivated when attacking or when it matches the\nphysical attribute of the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

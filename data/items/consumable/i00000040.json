@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 40,
+    "name": "Petrification Cure",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 435,
+        "color_id": 5
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 9,
+    "max_stack": 10
+}

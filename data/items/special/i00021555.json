@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21555,
+    "name": "Sweets Set - White Day",
+    "info": "Meal set that can be installed in the kitchen\nWhite Day menu",
+    "icon": {
+        "icon_id": 2418,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

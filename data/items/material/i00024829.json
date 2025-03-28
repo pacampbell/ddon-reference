@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24829,
+    "name": "Ancient Wood [Green]",
+    "info": "Wood harvested from trees that grow naturally,\nwith an unchanged appearance from ancient times.",
+    "icon": {
+        "icon_id": 2949,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

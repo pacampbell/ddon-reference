@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 638,
+    "name": "Faith Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 295,
+        "color_id": 10
+    },
+    "sell_price": 7351,
+    "weight": 27,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 258,
+        "magic_attack": 0,
+        "magic_defense": 413,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": []
+}

@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 21744,
+    "name": "Supreme Olfring Daggers (Green)",
+    "info": "",
+    "icon": {
+        "icon_id": 1470,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 50,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 5,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2541,
+        "magic_attack": 2350,
+        "crest_slot": 0,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 288
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 50,
+    "name": "Dungeon Key",
+    "info": "A key to the prison underneath Dreed Castle.\nYou don't know what happened to the prisoners.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 4
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 99
+}

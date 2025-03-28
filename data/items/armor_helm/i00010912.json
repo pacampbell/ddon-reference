@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10912,
+    "name": "Rathian Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 1214,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 27,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 205,
+        "magic_attack": 0,
+        "magic_defense": 328,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 100
+        }
+    ]
+}

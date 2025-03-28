@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23126,
+    "name": "Clan Hall - Halloween Cuisine",
+    "info": "",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

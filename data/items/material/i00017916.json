@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17916,
+    "name": "Misleading Twig",
+    "info": "Wood Crafting Material:\nBranches of a tree that grow into a specific\nshape.\nThose who use them as markers will become lost on\nthe path.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 4
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 15
+}

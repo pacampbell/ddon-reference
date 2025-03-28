@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 19459,
+    "name": "Boundless Tempest Padding",
+    "info": "",
+    "icon": {
+        "icon_id": 1922,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 660,
+        "magic_attack": 4,
+        "magic_defense": 587,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 36
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1185
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7922,
+    "name": "Spectral Dragonscale",
+    "info": "Pelt Crafting Material: Semi-transparent scales\nimbued with the spiritual energy of a spirit\ndragon.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

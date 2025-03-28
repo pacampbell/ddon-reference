@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16008,
+    "name": "Fine Femur",
+    "info": "Bone Crafting Material: The delicate yet strong\nbones of the High Pixie.",
+    "icon": {
+        "icon_id": 1222,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

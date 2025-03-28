@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8138,
+    "name": "Yellow Dye",
+    "info": "By using Crafting, you can change the color of\nequipment of a certain grade or higher to\n\"Yellow\". (Note: Some equipment cannot be\ncolor-changed.)",
+    "icon": {
+        "icon_id": 544,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

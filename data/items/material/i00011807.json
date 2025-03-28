@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11807,
+    "name": "High Quality Slimy Leather",
+    "info": "Pelt Crafting Material: The skin of a beast that\nhas been placed in a special environment,\nresulting in an extremely smooth texture.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 8
+}

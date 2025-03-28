@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7927,
+    "name": "Smooth Dragonleather",
+    "info": "Pelt Crafting Material:\nSmooth skin from the abdomen of a one-horned\ndragon. A rare item.",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

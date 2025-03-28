@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16628,
+    "name": "Lightning Engraving",
+    "info": "Seal shaped like Lightning.\nCannot be removed from the weapon.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

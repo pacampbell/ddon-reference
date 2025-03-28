@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24221,
+    "name": "Blackshatter Light Helmet",
+    "info": "",
+    "icon": {
+        "icon_id": 2923,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 37,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 509,
+        "magic_attack": 9,
+        "magic_defense": 815,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

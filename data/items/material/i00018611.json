@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18611,
+    "name": "Myrmidon Ring Plate",
+    "info": "A ring-shaped plate that can be exchanged for the\nSupreme Jewelry \"Myrmidon\", which grants the\naugments:\nCompanion Health, Companion Stamina, Companion\nAttack, Companion Magick, Companion Defense,\nCompanion Magick Defense",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 6
+}

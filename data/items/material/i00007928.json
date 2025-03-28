@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7928,
+    "name": "Dragon Hide",
+    "info": "Pelt Crafting Material: Dragon Tribe's strong and\nsupple Lizardscale Pelt",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

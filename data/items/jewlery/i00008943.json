@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8943,
+    "name": "Sapphire Ornamental Pin",
+    "info": "",
+    "icon": {
+        "icon_id": 560,
+        "color_id": 6
+    },
+    "sell_price": 150,
+    "weight": 1,
+    "level": 11,
+    "item_level": 3,
+    "stats": {},
+    "params": [
+        {
+            "id": 40,
+            "name": "KIND_TYPE_BLIND_SAV",
+            "value": 2
+        }
+    ]
+}

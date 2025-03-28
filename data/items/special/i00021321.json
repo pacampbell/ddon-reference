@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21321,
+    "name": "Tapestry - Election 1st Place",
+    "info": "Tapestry (Left) that can be placed in the study\n1st place in the DDON General Election: Cecily",
+    "icon": {
+        "icon_id": 2383,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

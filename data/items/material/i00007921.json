@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7921,
+    "name": "Smooth Leather",
+    "info": "Pelt Crafting Material: Smooth and resilient skin\nof the Blue Newt.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

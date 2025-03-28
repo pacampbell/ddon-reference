@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19990,
+    "name": "Garip's Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 2337,
+        "color_id": 11
+    },
+    "sell_price": 42876,
+    "weight": 92,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2795,
+        "magic_attack": 3101,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 886
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 2776,
+    "name": "Bud of Destruction",
+    "info": "",
+    "icon": {
+        "icon_id": 838,
+        "color_id": 8
+    },
+    "sell_price": 5480,
+    "weight": 120,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 657,
+        "magic_attack": 499,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 190
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

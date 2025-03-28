@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9205,
+    "name": "Crest of Dazzling",
+    "info": "A crest that grants knockout power\nwhen equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 3
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 6
+}

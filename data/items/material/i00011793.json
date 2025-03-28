@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11793,
+    "name": "Ancient Beast Pelt",
+    "info": "Pelt Crafting Material: The skin of a large beast\nthat has been lurking for many years, undergoing\ntremendous growth.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 14
+}

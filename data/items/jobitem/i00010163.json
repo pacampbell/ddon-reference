@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 10163,
+    "name": "Disorienting Elixir",
+    "info": "When an Alchemist uses \"Elixir Release\", it\ninflicts \"Stun\" abnormal status.",
+    "icon": {
+        "icon_id": 1109,
+        "color_id": 3
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "level": 21,
+    "item_level": 5,
+    "stats": {},
+    "params": []
+}

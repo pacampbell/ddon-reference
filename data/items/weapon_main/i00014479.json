@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14479,
+    "name": "Phindymian Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1651,
+        "color_id": 11
+    },
+    "sell_price": 28130,
+    "weight": 50,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1886,
+        "magic_attack": 1710,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 198
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

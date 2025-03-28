@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 21671,
+    "name": "Skull Knight's Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2514,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2957,
+        "magic_attack": 2702,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 781
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5254,
+    "name": "Red Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 344,
+        "color_id": 7
+    },
+    "sell_price": 970,
+    "weight": 72,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 22,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 63,
+        "magic_attack": 0,
+        "magic_defense": 50,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 274
+        }
+    ]
+}

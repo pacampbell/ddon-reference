@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15952,
+    "name": "Wijnruit",
+    "info": "Floral Crafting Material: Herb with a refreshing\nscent that repels insects.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 5
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15434,
+    "name": "Garrisoner's Shoes",
+    "info": "",
+    "icon": {
+        "icon_id": 403,
+        "color_id": 10
+    },
+    "sell_price": 12001,
+    "weight": 42,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 328,
+        "magic_attack": 2,
+        "magic_defense": 263,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 1
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 724
+        }
+    ]
+}

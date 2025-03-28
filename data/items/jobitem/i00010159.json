@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 10159,
+    "name": "Purification Elixir",
+    "info": "When an Alchemist uses \"Elixir Release\", it\ninflicts \"Holy Resist Down\" abnormal status.",
+    "icon": {
+        "icon_id": 1105,
+        "color_id": 2
+    },
+    "sell_price": 2,
+    "weight": 0,
+    "level": 16,
+    "item_level": 4,
+    "stats": {},
+    "params": []
+}

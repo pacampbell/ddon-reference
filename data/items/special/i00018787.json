@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18787,
+    "name": "Recipe: Cross Table - Charcoal",
+    "info": "Cross Table - Charcoal Recipe",
+    "icon": {
+        "icon_id": 1854,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

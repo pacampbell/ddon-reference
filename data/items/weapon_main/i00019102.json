@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 19102,
+    "name": "Snap Blade",
+    "info": "",
+    "icon": {
+        "icon_id": 1840,
+        "color_id": 19
+    },
+    "sell_price": 30000,
+    "weight": 10,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1138,
+        "magic_attack": 979,
+        "crest_slot": 0,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 113
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        },
+        {
+            "id": 95,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 52,
+            "name": "KIND_TYPE_DOWN_ICE_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

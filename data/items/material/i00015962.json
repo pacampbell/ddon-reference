@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15962,
+    "name": "Bronze Tail Feather",
+    "info": "Feather Crafting Material:\nStymphal\u00eddes' long, gracefully flowing tail\nfeathers",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 5
+    },
+    "sell_price": 235,
+    "weight": 0,
+    "item_level": 13
+}

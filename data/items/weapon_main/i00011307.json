@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11307,
+    "name": "Blade of Insight (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1286,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 10,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 212,
+        "magic_attack": 96,
+        "crest_slot": 4,
+        "ele_slot": 2
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 39
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7777,
+    "name": "Necrophagous Bristle",
+    "info": "Fur Crafting Material:\nFortified Fur of a powerful Man-Eating Demon (LV.\n30~)",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 104
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

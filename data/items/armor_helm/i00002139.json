@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2139,
+    "name": "Fiend's Helmet",
+    "info": "",
+    "icon": {
+        "icon_id": 277,
+        "color_id": 8
+    },
+    "sell_price": 1640,
+    "weight": 45,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 81,
+        "magic_attack": 0,
+        "magic_defense": 129,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

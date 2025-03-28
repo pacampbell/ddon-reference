@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17429,
+    "name": "Taurus Breaker",
+    "info": "",
+    "icon": {
+        "icon_id": 880,
+        "color_id": 11
+    },
+    "sell_price": 34270,
+    "weight": 105,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2530,
+        "magic_attack": 2052,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 841
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

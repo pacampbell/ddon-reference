@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 3915,
+    "name": "Angelskin",
+    "info": "",
+    "icon": {
+        "icon_id": 897,
+        "color_id": 9
+    },
+    "sell_price": 8104,
+    "weight": 170,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 826,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 283
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 280
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

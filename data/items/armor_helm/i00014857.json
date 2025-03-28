@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 14857,
+    "name": "Northern Horn",
+    "info": "",
+    "icon": {
+        "icon_id": 247,
+        "color_id": 10
+    },
+    "sell_price": 9601,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 328,
+        "magic_attack": 2,
+        "magic_defense": 526,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 2
+        }
+    ]
+}

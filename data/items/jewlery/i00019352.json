@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 19352,
+    "name": "Battlefield Amethyst Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 746,
+        "color_id": 29
+    },
+    "sell_price": 50000,
+    "weight": 1,
+    "level": 1,
+    "item_level": 6,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 300
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 300
+        }
+    ]
+}

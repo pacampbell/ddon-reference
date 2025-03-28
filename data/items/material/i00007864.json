@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7864,
+    "name": "Rock Scale",
+    "info": "Ore Crafting Material: A scale-like stone\nobtained from Rock Lizards. A rare item.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

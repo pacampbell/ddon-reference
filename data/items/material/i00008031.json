@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8031,
+    "name": "Alchemized Armor Plate",
+    "info": "Miscellaneous Crafting Material: Beautiful and\ndurable armor plates that cover the surface of the\nGiant's body.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 6
+    },
+    "sell_price": 505,
+    "weight": 0,
+    "item_level": 11
+}

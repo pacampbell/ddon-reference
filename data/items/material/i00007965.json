@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7965,
+    "name": "Red Lumber",
+    "info": "Wood Crafting Material:\nWood with a red grain pattern and a strong\ntexture.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 4
+}

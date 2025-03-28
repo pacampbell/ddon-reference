@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9403,
+    "name": "Enhanced Lockpick",
+    "info": "Used to open locked treasure chests.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 453,
+        "color_id": 4
+    },
+    "sell_price": 60,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

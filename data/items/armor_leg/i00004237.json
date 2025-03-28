@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4237,
+    "name": "Savage Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 353,
+        "color_id": 8
+    },
+    "sell_price": 2050,
+    "weight": 72,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 86,
+        "magic_attack": 0,
+        "magic_defense": 69,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 31
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 412
+        }
+    ]
+}

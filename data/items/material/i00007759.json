@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7759,
+    "name": "Sharp Claw",
+    "info": "Fang Crafting Material:\nSharp Claws from Monkey-like Animals",
+    "icon": {
+        "icon_id": 469,
+        "color_id": 4
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

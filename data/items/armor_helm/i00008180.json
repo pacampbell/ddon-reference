@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8180,
+    "name": "Throne's Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 322,
+        "color_id": 9
+    },
+    "sell_price": 4665,
+    "weight": 27,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 153,
+        "magic_attack": 0,
+        "magic_defense": 244,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

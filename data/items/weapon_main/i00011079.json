@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11079,
+    "name": "Hoplite Makhaira",
+    "info": "",
+    "icon": {
+        "icon_id": 830,
+        "color_id": 9
+    },
+    "sell_price": 7400,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 43,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 815,
+        "magic_attack": 627,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 175
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

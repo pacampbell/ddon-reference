@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7758,
+    "name": "Griffin Beak",
+    "info": "Horn Crafting Material: A flawless beak of a rare\ngiant eagle.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 3
+    },
+    "sell_price": 260,
+    "weight": 0,
+    "item_level": 6
+}

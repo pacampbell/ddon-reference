@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 12980,
+    "name": "Over-Knee Boots of Wisemen",
+    "info": "",
+    "icon": {
+        "icon_id": 1351,
+        "color_id": 11
+    },
+    "sell_price": 7923,
+    "weight": 42,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 234,
+        "magic_attack": 0,
+        "magic_defense": 187,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 56
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 3
+        },
+        {
+            "id": 16,
+            "name": "KIND_TYPE_CURSE_DEF",
+            "value": 3
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 732
+        }
+    ]
+}

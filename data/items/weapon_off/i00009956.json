@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 9956,
+    "name": "Shield of the Crest of Light",
+    "info": "",
+    "icon": {
+        "icon_id": 856,
+        "color_id": 9
+    },
+    "sell_price": 4052,
+    "weight": 25,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 285
+        }
+    ]
+}

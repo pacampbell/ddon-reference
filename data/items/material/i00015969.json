@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15969,
+    "name": "Sharp Back Spine",
+    "info": "Horn Crafting Material: Spineback's back spines,\nwhich are formed by the hardened skin.",
+    "icon": {
+        "icon_id": 466,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 13
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 10445,
+    "name": "Nemesis Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 1086,
+        "color_id": 82
+    },
+    "sell_price": 500,
+    "weight": 70,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 162,
+        "magic_attack": 0,
+        "magic_defense": 144,
+        "crest_slot": 0,
+        "ele_slot": 34
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 18
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 750
+        }
+    ]
+}

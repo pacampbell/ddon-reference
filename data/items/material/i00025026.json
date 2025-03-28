@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25026,
+    "name": "2019 New Year Jumbo Draw Ticket (White)",
+    "info": "Lottery Ticket to Win Luxurious Prizes in the\n2019 New Year's Celebration",
+    "icon": {
+        "icon_id": 2966,
+        "color_id": 4
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

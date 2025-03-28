@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19345,
+    "name": "Battlefield Ring Plate (Blue)",
+    "info": "A ring-shaped plate made for those who run on the\nbattlefield.\nA precious item forged by combining various\nmaterials.\nIt seems to be eligible for \"Appraisal Exchange\"\nas a trading object.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 50000,
+    "weight": 0,
+    "item_level": 2
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23484,
+    "name": "White Day Clock",
+    "info": "White Day Furniture 2019.",
+    "icon": {
+        "icon_id": 2544,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

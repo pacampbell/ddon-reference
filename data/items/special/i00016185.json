@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16185,
+    "name": "Unsealed Crystal Tree",
+    "info": "The replica of the Monolith, installed in the\nPhindym Hall, houses a powerful force.",
+    "icon": {
+        "icon_id": 1762,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

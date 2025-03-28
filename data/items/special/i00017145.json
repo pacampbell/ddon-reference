@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17145,
+    "name": "Wall Clock",
+    "info": "A classic clock that can be installed in the\nliving room.",
+    "icon": {
+        "icon_id": 1869,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

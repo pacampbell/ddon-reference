@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 10517,
+    "name": "Enforcer's Sacred Clothing (Dark Night)",
+    "info": "",
+    "icon": {
+        "icon_id": 1113,
+        "color_id": 83
+    },
+    "sell_price": 5000,
+    "weight": 5,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 141,
+        "magic_attack": 0,
+        "magic_defense": 141,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 397
+        }
+    ]
+}

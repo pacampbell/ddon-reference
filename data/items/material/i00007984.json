@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7984,
+    "name": "Deenan Hyssop",
+    "info": "Floral Crafting Material: Plants that grow\nnaturally in the Deenan region.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

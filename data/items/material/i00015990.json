@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15990,
+    "name": "Sancto Sap",
+    "info": "Liquid Crafting Material: Phindymian Ent's\nslightly bluish sap",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 1
+}

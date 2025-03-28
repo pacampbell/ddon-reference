@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13316,
+    "name": "Recipe: Mini Table",
+    "info": "Recipe for a Mini Table that can be placed next\nto the study desk\n",
+    "icon": {
+        "icon_id": 1497,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

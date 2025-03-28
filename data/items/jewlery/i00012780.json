@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 12780,
+    "name": "Will Augite Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 584,
+        "color_id": 83
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 1,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 3
+        }
+    ]
+}

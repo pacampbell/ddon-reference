@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 10051,
+    "name": "Cathedral Fire",
+    "info": "",
+    "icon": {
+        "icon_id": 919,
+        "color_id": 6
+    },
+    "sell_price": 340,
+    "weight": 20,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 13,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 277,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

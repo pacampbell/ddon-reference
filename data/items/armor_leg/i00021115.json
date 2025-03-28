@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21115,
+    "name": "Maestro Cuisses",
+    "info": "",
+    "icon": {
+        "icon_id": 1955,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 42,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 383,
+        "magic_attack": 4,
+        "magic_defense": 307,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 82
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 810
+        }
+    ]
+}

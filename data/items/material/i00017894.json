@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17894,
+    "name": "Bright Purple Steel Ingot",
+    "info": "Metal Crafting Material: A malleable metal mass\nwith a mysterious purple shimmer.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 11996,
+    "name": "Protect Frame",
+    "info": "",
+    "icon": {
+        "icon_id": 893,
+        "color_id": 10
+    },
+    "sell_price": 15380,
+    "weight": 100,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1368,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 384
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 344
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

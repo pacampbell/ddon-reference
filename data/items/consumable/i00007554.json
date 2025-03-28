@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 7554,
+    "name": "Healing Remedy",
+    "info": "Recovers a portion of the user's health.",
+    "icon": {
+        "icon_id": 429,
+        "color_id": 5
+    },
+    "sell_price": 400,
+    "weight": 0,
+    "item_level": 9,
+    "max_stack": 10
+}

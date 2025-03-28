@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 209,
+    "name": "Pilgrim's Cane",
+    "info": "",
+    "icon": {
+        "icon_id": 1009,
+        "color_id": 7
+    },
+    "sell_price": 3925,
+    "weight": 70,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 29,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 347,
+        "magic_attack": 445,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        }
+    ]
+}

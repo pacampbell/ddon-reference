@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7945,
+    "name": "Orcish Cloth",
+    "info": "Cloth Crafting Material: Rough cloth worn by Orcs.",
+    "icon": {
+        "icon_id": 501,
+        "color_id": 4
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

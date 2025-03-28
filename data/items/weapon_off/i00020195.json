@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 20195,
+    "name": "Rod of Altura",
+    "info": "",
+    "icon": {
+        "icon_id": 1245,
+        "color_id": 10
+    },
+    "sell_price": 8752,
+    "weight": 48,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2930,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

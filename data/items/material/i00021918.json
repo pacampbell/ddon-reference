@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21918,
+    "name": "Magick Defense +26",
+    "info": "Increase magic defense.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

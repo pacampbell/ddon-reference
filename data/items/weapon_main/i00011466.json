@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 11466,
+    "name": "Pioneer's Guide Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 1028,
+        "color_id": 10
+    },
+    "sell_price": 15685,
+    "weight": 80,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1172,
+        "magic_attack": 1424,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 407
+        }
+    ]
+}

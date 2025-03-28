@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10993,
+    "name": "Blessed Lestalite",
+    "info": "A crystal that refines the Dragon Force revolving\naround Lestania.\nThe crystal blessed by the White Dragon is a\npowerful material for the equipment of the Arisen.",
+    "icon": {
+        "icon_id": 1270,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

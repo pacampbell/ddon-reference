@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16172,
+    "name": "Gorgeous Carpet",
+    "info": "Gorgeous Carpet that can be installed in the\nStudy.",
+    "icon": {
+        "icon_id": 1739,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18612,
+    "name": "Inquiry Ring Plate",
+    "info": "A ring-shaped plate that can be exchanged for the\nSupreme Jewelry \"Inquiry\", which grants the\naugments:\nGathering, Treasure Eye, Extended Springs, Safe\nLanding, Flow, Efficacy",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 6
+}

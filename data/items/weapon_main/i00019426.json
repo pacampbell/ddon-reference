@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19426,
+    "name": "Ablaze Twin Spell",
+    "info": "",
+    "icon": {
+        "icon_id": 1673,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2338,
+        "magic_attack": 2517,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 361
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

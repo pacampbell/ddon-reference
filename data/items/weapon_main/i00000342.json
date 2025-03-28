@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 342,
+    "name": "Zauberkraft",
+    "info": "",
+    "icon": {
+        "icon_id": 995,
+        "color_id": 8
+    },
+    "sell_price": 5125,
+    "weight": 30,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 439,
+        "magic_attack": 567,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 89
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25542,
+    "name": "Tricksters' Trust Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 2974,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

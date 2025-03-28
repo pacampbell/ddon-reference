@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23378,
+    "name": "Tapestry - Overlord III (B)",
+    "info": "Tapestry - Overlord III (B)",
+    "icon": {
+        "icon_id": 2624,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

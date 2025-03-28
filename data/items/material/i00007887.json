@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7887,
+    "name": "Dark Metal",
+    "info": "Metal Crafting Material:\nA solid mass of jet-black ultra-hard metal,\ncontained in the armor of Gigant Machina.",
+    "icon": {
+        "icon_id": 1432,
+        "color_id": 106
+    },
+    "sell_price": 1220,
+    "weight": 0,
+    "item_level": 12
+}

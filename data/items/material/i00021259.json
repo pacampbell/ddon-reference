@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21259,
+    "name": "Volcanic Mountain Ash",
+    "info": "Sand Crafting Material: Volcanic ash imbued with\na faint Dragon Force, spewing from Firefall\nMountain.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14256,
+    "name": "1st Anniversary Decoration",
+    "info": "Decoration that celebrates the first anniversary.",
+    "icon": {
+        "icon_id": 1543,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

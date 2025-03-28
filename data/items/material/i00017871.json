@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17871,
+    "name": "Rock-Cutter",
+    "info": "Fang Crafting Material:\nThe sharp claws of the Cragger, capable of\ncutting through even rock.",
+    "icon": {
+        "icon_id": 471,
+        "color_id": 5
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 5
+}

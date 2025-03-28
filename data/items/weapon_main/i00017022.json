@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 17022,
+    "name": "Conspicuous Rusted Archistaff",
+    "info": "",
+    "icon": {
+        "icon_id": 1685,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 110,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 967,
+        "magic_attack": 1197,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 281
+        }
+    ]
+}

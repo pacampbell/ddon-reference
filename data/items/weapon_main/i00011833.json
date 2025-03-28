@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11833,
+    "name": "Thu\u00e2n Thi\u00ean",
+    "info": "",
+    "icon": {
+        "icon_id": 831,
+        "color_id": 10
+    },
+    "sell_price": 16904,
+    "weight": 80,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1567,
+        "magic_attack": 1351,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 291
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

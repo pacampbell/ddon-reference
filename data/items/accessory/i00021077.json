@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 21077,
+    "name": "Tra\u00eetre Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1940,
+        "color_id": 11
+    },
+    "sell_price": 5520,
+    "weight": 14,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 176,
+        "magic_attack": 0,
+        "magic_defense": 176,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 21
+        }
+    ]
+}

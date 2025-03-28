@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21320,
+    "name": "Tapestry - Election 3rd Place",
+    "info": "Tapestry (Right) that can be placed in the study\n3rd place in the DDON General Election: Lise",
+    "icon": {
+        "icon_id": 2385,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

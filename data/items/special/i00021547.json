@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21547,
+    "name": "Wall Paint - Valentine",
+    "info": "You can repaint your room's walls in a\nValentine's Day theme\n",
+    "icon": {
+        "icon_id": 2410,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

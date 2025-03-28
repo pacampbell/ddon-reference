@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16218,
+    "name": "Recipe: Table - Rose",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1755,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

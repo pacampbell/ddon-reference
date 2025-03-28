@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 498,
+    "name": "Combat Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 4,
+        "color_id": 5
+    },
+    "sell_price": 90,
+    "weight": 34,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 19,
+        "magic_attack": 0,
+        "magic_defense": 16,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        }
+    ]
+}

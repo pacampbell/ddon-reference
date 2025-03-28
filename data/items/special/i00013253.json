@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13253,
+    "name": "Bath - Vitality Hot Tub",
+    "info": "Bath where you can enjoy the effects of the\n\u226aSpring of Vitality\u226b at Kinoza Mineral Springs",
+    "icon": {
+        "icon_id": 1517,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

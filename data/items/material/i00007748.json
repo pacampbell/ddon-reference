@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7748,
+    "name": "Sinister Horn",
+    "info": "Horn Crafting Material: Horn that releases black\nmist from the Shadow Chimera.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 105
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16071,
+    "name": "Crest of Firm Protection (Endurance)",
+    "info": "A Crest that strengthens the performance of\nequipped armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

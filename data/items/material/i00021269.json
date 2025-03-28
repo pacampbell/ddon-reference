@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21269,
+    "name": "Soul Siphoning Cloth",
+    "info": "Cloth Crafting Material: A cloth with a\nreputation for gathering wandering souls.",
+    "icon": {
+        "icon_id": 1436,
+        "color_id": 4
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 14
+}

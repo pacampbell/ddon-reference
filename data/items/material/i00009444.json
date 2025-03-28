@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9444,
+    "name": "Diorite Steel Ingot",
+    "info": "Metal Crafting Material: A solid mass of\nsynthetic metal that shines with a powerful green\ncolor.",
+    "icon": {
+        "icon_id": 1433,
+        "color_id": 6
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 12
+}

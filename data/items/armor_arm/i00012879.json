@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12879,
+    "name": "Scholarly Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 1307,
+        "color_id": 111
+    },
+    "sell_price": 7351,
+    "weight": 45,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 328,
+        "magic_attack": 0,
+        "magic_defense": 273,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 3
+        }
+    ]
+}

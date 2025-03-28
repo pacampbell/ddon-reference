@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17046,
+    "name": "Everlance",
+    "info": "",
+    "icon": {
+        "icon_id": 1700,
+        "color_id": 111
+    },
+    "sell_price": 20000,
+    "weight": 100,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2044,
+        "magic_attack": 1950,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 401
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

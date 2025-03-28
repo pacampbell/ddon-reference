@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25753,
+    "name": "Crest of Dark Protection+",
+    "info": "A Crest that strengthens the performance of\nequipped armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 14
+}

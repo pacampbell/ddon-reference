@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 3820,
+    "name": "Feathery Pelta",
+    "info": "",
+    "icon": {
+        "icon_id": 848,
+        "color_id": 7
+    },
+    "sell_price": 884,
+    "weight": 20,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 185
+        }
+    ]
+}

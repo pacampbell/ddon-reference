@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 8940,
+    "name": "Shieldbearer's Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 706,
+        "color_id": 6
+    },
+    "sell_price": 150,
+    "weight": 1,
+    "level": 11,
+    "item_level": 3,
+    "stats": {},
+    "params": []
+}

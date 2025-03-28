@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14599,
+    "name": "Kenn-brecher of Thirst",
+    "info": "",
+    "icon": {
+        "icon_id": 997,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1778,
+        "magic_attack": 1948,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 294
+        },
+        {
+            "id": 64,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 66,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        }
+    ]
+}

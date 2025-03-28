@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 14876,
+    "name": "Finnegan's Mask",
+    "info": "",
+    "icon": {
+        "icon_id": 1566,
+        "color_id": 27
+    },
+    "sell_price": 9601,
+    "weight": 0,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 337,
+        "magic_attack": 4,
+        "magic_defense": 539,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": []
+}

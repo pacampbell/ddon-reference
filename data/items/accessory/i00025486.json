@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 25486,
+    "name": "Holy Seal's Lively Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 1326,
+        "color_id": 82
+    },
+    "sell_price": 5900,
+    "weight": 14,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 206,
+        "magic_attack": 0,
+        "magic_defense": 206,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 22
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 1
+        },
+        {
+            "id": 91,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 10
+        }
+    ]
+}

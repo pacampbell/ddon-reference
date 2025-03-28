@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23663,
+    "name": "Element Archer's Non-Attribute Damage UP",
+    "info": "The damage dealt by the Element Archer's\nnon-elemental magic attacks increases.\n*This effect is activated when attacking or when\nmatching the attribute of the status application.\n(Note: This effect is invalid during enchantment\nchanges).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

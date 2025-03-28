@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21666,
+    "name": "Cookware Set - Horror Night",
+    "info": "A\ncookware set perfect for Horror Night.",
+    "icon": {
+        "icon_id": 2426,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4811,
+    "name": "Benedico Sole",
+    "info": "",
+    "icon": {
+        "icon_id": 973,
+        "color_id": 8
+    },
+    "sell_price": 4810,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 31,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 550,
+        "magic_attack": 471,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 144
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

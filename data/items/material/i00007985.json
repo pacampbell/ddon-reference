@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7985,
+    "name": "Goblin's Leaf",
+    "info": "Floral Crafting Material: String Grass wrapped\naround the body of a Forest Goblin.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

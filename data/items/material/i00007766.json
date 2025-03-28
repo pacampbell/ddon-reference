@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7766,
+    "name": "Ogre Claw",
+    "info": "Fang Crafting Material: Unbroken claw of an Ogre.\nA rare item.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 103
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 6
+}

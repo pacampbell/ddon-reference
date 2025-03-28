@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 4907,
+    "name": "Arpaktiko",
+    "info": "",
+    "icon": {
+        "icon_id": 1023,
+        "color_id": 10
+    },
+    "sell_price": 18005,
+    "weight": 35,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 21,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1166,
+        "magic_attack": 1288,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 183
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 48
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 63
+        }
+    ]
+}

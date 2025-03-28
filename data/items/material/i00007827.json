@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7827,
+    "name": "Red Liquor",
+    "info": "Liquid Crafting Material: Alcohol starter made\nfrom fruits. The base for wine.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

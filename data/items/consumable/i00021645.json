@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21645,
+    "name": "Season 1\uff5e2 War Skill/Job Training Full Unlock\n(Sorcerer)",
+    "info": "Unlock all the skills and abilities of the\nSorcerer from Season 1 to 2.\n<COL ffdc78>*This will be added to NPC Joseph's\nmenu.</COL>",
+    "icon": {
+        "icon_id": 2422,
+        "color_id": 82
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 1
+}

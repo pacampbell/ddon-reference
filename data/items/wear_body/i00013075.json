@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13075,
+    "name": "Correct Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 783,
+        "color_id": 10
+    },
+    "sell_price": 2018,
+    "weight": 10,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 108,
+        "magic_attack": 0,
+        "magic_defense": 108,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 380
+        }
+    ]
+}

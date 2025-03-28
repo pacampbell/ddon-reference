@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3628,
+    "name": "Silent Walker",
+    "info": "",
+    "icon": {
+        "icon_id": 802,
+        "color_id": 9
+    },
+    "sell_price": 1900,
+    "weight": 5,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 47,
+        "magic_attack": 0,
+        "magic_defense": 47,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 21
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 211
+        }
+    ]
+}

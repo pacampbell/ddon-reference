@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 19692,
+    "name": "Rod of Agitator",
+    "info": "",
+    "icon": {
+        "icon_id": 2144,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 40,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2553,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

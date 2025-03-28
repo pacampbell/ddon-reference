@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7729,
+    "name": "Orb of Darkness",
+    "info": "Gem Crafting Material.\nWights sometimes use it as a medium for curses.\nRare item.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 3
+}

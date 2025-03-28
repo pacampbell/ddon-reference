@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17929,
+    "name": "Fluttering Rags",
+    "info": "Cloth Crafting Material: A cloth that sways\ngently even without wind, perfect for crafting.",
+    "icon": {
+        "icon_id": 1435,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 15
+}

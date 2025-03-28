@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 1074,
+    "name": "Beast-Steak",
+    "info": "Basic crafting material.\nSimple meat that can be found on many beasts.\nCannot be eaten raw.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

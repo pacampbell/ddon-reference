@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 379,
+    "name": "Egg of Agony",
+    "info": "",
+    "icon": {
+        "icon_id": 884,
+        "color_id": 10
+    },
+    "sell_price": 24505,
+    "weight": 180,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1870,
+        "magic_attack": 1428,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 677
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

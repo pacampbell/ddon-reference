@@ -1,0 +1,27 @@
+{
+    "type": "jewlery",
+    "item_id": 21395,
+    "name": "Ring of the Wise Dragon",
+    "info": "",
+    "icon": {
+        "icon_id": 739,
+        "color_id": 101
+    },
+    "sell_price": 34464,
+    "weight": 1,
+    "level": 1,
+    "item_level": 8,
+    "stats": {},
+    "params": [
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 10
+        }
+    ]
+}

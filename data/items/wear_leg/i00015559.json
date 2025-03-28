@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15559,
+    "name": "Duke Legs (Dark Night)",
+    "info": "",
+    "icon": {
+        "icon_id": 1772,
+        "color_id": 84
+    },
+    "sell_price": 5000,
+    "weight": 1,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 116,
+        "magic_attack": 0,
+        "magic_defense": 116,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 55
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 254
+        }
+    ]
+}

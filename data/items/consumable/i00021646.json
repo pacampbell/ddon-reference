@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21646,
+    "name": "Season 1\uff5e2 War Skill/Job Training Full Unlock\n(Seeker)",
+    "info": "Unlock all skills and abilities for Seeker from\nSeason 1-2.\n<COL ffdc78>*Added to NPC Joseph's menu.</COL>",
+    "icon": {
+        "icon_id": 2422,
+        "color_id": 82
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 1
+}

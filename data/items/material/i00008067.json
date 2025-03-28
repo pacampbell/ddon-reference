@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8067,
+    "name": "Defense Upgrade Rock",
+    "info": "Refining Material to Enhance Equipment Quality.\nBy synthesizing during Item Crafting, the number\nof Mount Crest slots increases by 1 (2 on a great\nsuccess)\n\u203b Does not result in a great success when\nchanging equipment quality.",
+    "icon": {
+        "icon_id": 540,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

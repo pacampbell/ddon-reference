@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 18623,
+    "name": "Rival Schools: Batsu Ichimonji A",
+    "info": "",
+    "icon": {
+        "icon_id": 1834,
+        "color_id": 19
+    },
+    "sell_price": 20000,
+    "weight": 240,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 10,
+        "defense": 2157,
+        "magic_attack": 10,
+        "magic_defense": 2157,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 230
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 50
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 100
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 2000
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 966
+        }
+    ]
+}

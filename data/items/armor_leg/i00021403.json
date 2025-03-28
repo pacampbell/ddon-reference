@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 21403,
+    "name": "Chaos Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 2401,
+        "color_id": 15
+    },
+    "sell_price": 500,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 25,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 215,
+        "magic_attack": 2,
+        "magic_defense": 172,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 53
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 772
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 3580,
+    "name": "Trouv\u00e8re Band",
+    "info": "",
+    "icon": {
+        "icon_id": 283,
+        "color_id": 5
+    },
+    "sell_price": 50,
+    "weight": 18,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 19,
+        "magic_attack": 0,
+        "magic_defense": 31,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

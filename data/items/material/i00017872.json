@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17872,
+    "name": "Giant Apophyllite",
+    "info": "Ore Crafting Material:\nA blue stone formed within the bodies of powerful\nLizards (Level 80 and above) over many years.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 5
+}

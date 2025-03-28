@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9002,
+    "name": "Lightning Protector's Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 549,
+        "color_id": 8
+    },
+    "sell_price": 1200,
+    "weight": 1,
+    "level": 36,
+    "item_level": 8,
+    "stats": {},
+    "params": [
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 3
+        }
+    ]
+}

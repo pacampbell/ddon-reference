@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23625,
+    "name": "Priest's strike damage UP",
+    "info": "The amount of damage inflicted by the Priest's\nStrike attribute increases. *The effect is\nactivated when attacking or when it matches the\nphysical attribute of the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

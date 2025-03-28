@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7785,
+    "name": "Goat Horn",
+    "info": "Horn Crafting Material:\nPowerful Goat Horns from a Chimera species (Lv.\n35 and above).",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 104
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

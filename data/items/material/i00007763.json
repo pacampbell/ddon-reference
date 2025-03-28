@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7763,
+    "name": "Dragon Fang",
+    "info": "Fang Crafting Material\nA rare fang that exudes a special power from the\nDragonkin.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 106
+    },
+    "sell_price": 1220,
+    "weight": 0,
+    "item_level": 12
+}

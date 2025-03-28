@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19796,
+    "name": "Blade of Vermilion",
+    "info": "",
+    "icon": {
+        "icon_id": 1630,
+        "color_id": 11
+    },
+    "sell_price": 41685,
+    "weight": 110,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3033,
+        "magic_attack": 2530,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1008
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

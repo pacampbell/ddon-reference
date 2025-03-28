@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20577,
+    "name": "June Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 1561,
+        "color_id": 11
+    },
+    "sell_price": 21945,
+    "weight": 71,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 808,
+        "magic_attack": 6,
+        "magic_defense": 719,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 42
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1215
+        }
+    ]
+}

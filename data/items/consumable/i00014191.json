@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 14191,
+    "name": "Key of Treasures",
+    "info": "Key with a Relief depicting Prosperity.\nConsumed upon use.",
+    "icon": {
+        "icon_id": 1416,
+        "color_id": 100
+    },
+    "sell_price": 950,
+    "weight": 0,
+    "item_level": 14,
+    "max_stack": 99
+}

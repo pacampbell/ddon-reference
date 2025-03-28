@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7889,
+    "name": "Spiritual Will Fragment",
+    "info": "Ore Crafting Material:\nGhost Mail-infused Armor Fragment",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 105
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

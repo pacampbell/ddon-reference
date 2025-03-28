@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16220,
+    "name": "Recipe: Table - Flower Pot",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1754,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

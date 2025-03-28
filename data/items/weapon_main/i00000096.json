@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 96,
+    "name": "Scutum",
+    "info": "",
+    "icon": {
+        "icon_id": 906,
+        "color_id": 6
+    },
+    "sell_price": 1448,
+    "weight": 170,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 19,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 291,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 139
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 172
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 3
+        }
+    ]
+}

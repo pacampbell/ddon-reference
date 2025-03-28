@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11792,
+    "name": "Strong Silk Thread",
+    "info": "Miscellaneous Crafting Material:\nStrong thread made from the cocoon of the Cave\nSilkworm.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 14
+}

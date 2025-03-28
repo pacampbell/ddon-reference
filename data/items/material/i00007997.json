@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7997,
+    "name": "Fiend's Perch",
+    "info": "Mushroom Crafting Material.\nLarge mushrooms that only grow deep in the heart\nof the forest.",
+    "icon": {
+        "icon_id": 511,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

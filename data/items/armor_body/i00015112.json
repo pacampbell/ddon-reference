@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 15112,
+    "name": "Azure Preventer",
+    "info": "",
+    "icon": {
+        "icon_id": 1562,
+        "color_id": 111
+    },
+    "sell_price": 16802,
+    "weight": 70,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 633,
+        "magic_attack": 4,
+        "magic_defense": 562,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 7
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 7
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1192
+        }
+    ]
+}

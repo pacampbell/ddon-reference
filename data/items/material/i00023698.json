@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23698,
+    "name": "High scepter shooting attribute damage UP",
+    "info": "High Scepter's damage is increased by their\npiercing attribute.\n*This effect is activated when attacking or when\nmatching the physical attribute of the status\napplication.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

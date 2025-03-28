@@ -1,0 +1,16 @@
+{
+    "type": "jobitem",
+    "item_id": 9862,
+    "name": "Asininity Arrow",
+    "info": "Used in attacks with a Hunter's bow and arrow.\nCauses the \"Slow\" debilitation.",
+    "icon": {
+        "icon_id": 530,
+        "color_id": 3
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "level": 15,
+    "item_level": 6,
+    "stats": {},
+    "params": []
+}

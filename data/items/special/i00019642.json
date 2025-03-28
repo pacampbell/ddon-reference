@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19642,
+    "name": "Heart's Living Room Carpet - Valentine",
+    "info": "A cute carpet with hearts that can be placed in\nthe living room\n",
+    "icon": {
+        "icon_id": 1784,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

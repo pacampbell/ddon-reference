@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15956,
+    "name": "Bright Titanium",
+    "info": "Metal Crafting Material: Rust-proof metal ingot\nwith a glossy shine.",
+    "icon": {
+        "icon_id": 1431,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

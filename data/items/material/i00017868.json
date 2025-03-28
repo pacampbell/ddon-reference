@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17868,
+    "name": "Blood Drinking Vessel",
+    "info": "Miscellaneous Crafting Material:\nA blood-stained jar that the Greater Goblin was\ncarrying.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 15
+}

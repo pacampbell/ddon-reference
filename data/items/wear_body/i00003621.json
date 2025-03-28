@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3621,
+    "name": "Noblewoman's Corset",
+    "info": "",
+    "icon": {
+        "icon_id": 789,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 5,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 38,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 49,
+        "magic_attack": 0,
+        "magic_defense": 49,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 1
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 260
+        }
+    ]
+}

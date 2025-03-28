@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 18741,
+    "name": "Cyclops Lantern (Gold)",
+    "info": "",
+    "icon": {
+        "icon_id": 2119,
+        "color_id": 82
+    },
+    "sell_price": 0,
+    "weight": 1,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_LANTERN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

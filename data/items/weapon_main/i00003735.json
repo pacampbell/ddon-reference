@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 3735,
+    "name": "Custom Longbow",
+    "info": "",
+    "icon": {
+        "icon_id": 948,
+        "color_id": 6
+    },
+    "sell_price": 985,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 14,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 322,
+        "magic_attack": 121,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 88
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 18
+        }
+    ]
+}

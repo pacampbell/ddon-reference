@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13224,
+    "name": "Medusa's Serpent Hair",
+    "info": "Fur Crafting Material: Snakes that grow on the\nhead of Medusa.\nWhen cut off, they gradually dissolve into\nfibrous strands.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 101
+    },
+    "sell_price": 1014,
+    "weight": 0,
+    "item_level": 3
+}

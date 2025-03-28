@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 24742,
+    "name": "Dragon Fighting Talisman",
+    "info": "Grants the user an increase in attack-related\nstatus effects.",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 104
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

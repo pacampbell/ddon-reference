@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 5488,
+    "name": "Amilec Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 412,
+        "color_id": 10
+    },
+    "sell_price": 7200,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 215,
+        "magic_attack": 0,
+        "magic_defense": 172,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 53
+        },
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 5
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 772
+        }
+    ]
+}

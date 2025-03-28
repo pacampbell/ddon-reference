@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18288,
+    "name": "Dools Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 1932,
+        "color_id": 111
+    },
+    "sell_price": 20965,
+    "weight": 68,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 770,
+        "magic_attack": 6,
+        "magic_defense": 684,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1207
+        }
+    ]
+}

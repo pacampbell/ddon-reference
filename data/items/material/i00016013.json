@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16013,
+    "name": "Deformed Horn of Misfortune",
+    "info": "Horn Crafting Material: Fiends' horn, which emits\na strong miasma.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

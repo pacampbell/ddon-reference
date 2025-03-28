@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7847,
+    "name": "Hematite Sand",
+    "info": "Sand Crafting Material: Hard sand containing iron\nwith a reddish hue.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

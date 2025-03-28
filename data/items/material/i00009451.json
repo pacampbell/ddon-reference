@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9451,
+    "name": "Elfin Extract",
+    "info": "A substance created in an attempt to reproduce\nancient race equipment.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 1274,
+        "color_id": 106
+    },
+    "sell_price": 750,
+    "weight": 0,
+    "item_level": 12
+}

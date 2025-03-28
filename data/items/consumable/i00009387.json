@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9387,
+    "name": "Conqueror's Talisman",
+    "info": "Grants the user the\nspecified status effect.",
+    "icon": {
+        "icon_id": 436,
+        "color_id": 4
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 10
+}

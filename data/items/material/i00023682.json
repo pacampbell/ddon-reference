@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23682,
+    "name": "Alchemist's flame damage UP",
+    "info": "The damage inflicted by the Alchemist's fire\nattribute is increased.\n*This effect is activated when attacking or when\nmatching the attribute of the status application.\n(Note: This effect is invalid during enchantment\nchanges).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

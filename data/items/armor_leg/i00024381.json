@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24381,
+    "name": "Fire King's Magick Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 2801,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 44,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 502,
+        "magic_attack": 9,
+        "magic_defense": 401,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 100
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 819
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10648,
+    "name": "Olfring Cane (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1152,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 214,
+        "magic_attack": 306,
+        "crest_slot": 0,
+        "ele_slot": 34
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 73
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 20
+        }
+    ]
+}

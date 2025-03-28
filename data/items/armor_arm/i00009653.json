@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 9653,
+    "name": "Greed Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 41,
+        "color_id": 7
+    },
+    "sell_price": 400,
+    "weight": 56,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 57,
+        "magic_attack": 0,
+        "magic_defense": 48,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18507,
+    "name": "Rathnite Local Hardwood",
+    "info": "Wood Crafting Material:\nHigh-quality wood that grows straight, native to\nthe Rathnite Foothills region.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 0
+}

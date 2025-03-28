@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20005,
+    "name": "Red Dawn's Steel Lance",
+    "info": "",
+    "icon": {
+        "icon_id": 2345,
+        "color_id": 10
+    },
+    "sell_price": 39700,
+    "weight": 110,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2769,
+        "magic_attack": 2666,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 541
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

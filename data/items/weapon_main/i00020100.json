@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 20100,
+    "name": "Scimitar of Altesch",
+    "info": "",
+    "icon": {
+        "icon_id": 2362,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 75,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3036,
+        "magic_attack": 3036,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 591
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 40
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 40
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

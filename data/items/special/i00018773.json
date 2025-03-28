@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18773,
+    "name": "Recipe: Tapestry - Dragon",
+    "info": "Tapestry - Dragon Recipe",
+    "icon": {
+        "icon_id": 1885,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

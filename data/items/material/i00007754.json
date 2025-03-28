@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7754,
+    "name": "Dragon Horn",
+    "info": "Horn Crafting Material: Dragonkin's sharp and\nhard horns.",
+    "icon": {
+        "icon_id": 468,
+        "color_id": 106
+    },
+    "sell_price": 1220,
+    "weight": 0,
+    "item_level": 12
+}

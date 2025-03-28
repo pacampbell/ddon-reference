@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17088,
+    "name": "Aristocrat Bath - Griffin",
+    "info": "A Griffin-shaped spout that can be installed in\nthe bath, allowing you to immerse yourself in an\nelegant atmosphere.",
+    "icon": {
+        "icon_id": 1873,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

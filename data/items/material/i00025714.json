@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25714,
+    "name": "Crest of Increased Attack+",
+    "info": "A crest that grants a debilitation effect to\nweapons when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 9
+}

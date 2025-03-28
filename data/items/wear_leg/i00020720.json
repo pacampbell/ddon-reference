@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20720,
+    "name": "Kenneby's Pants",
+    "info": "",
+    "icon": {
+        "icon_id": 1607,
+        "color_id": 11
+    },
+    "sell_price": 3213,
+    "weight": 7,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 166,
+        "magic_attack": 0,
+        "magic_defense": 166,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 71
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 278
+        }
+    ]
+}

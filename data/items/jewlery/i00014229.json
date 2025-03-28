@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 14229,
+    "name": "Earrings of Thunder Resist 2",
+    "info": "",
+    "icon": {
+        "icon_id": 552,
+        "color_id": 110
+    },
+    "sell_price": 500,
+    "weight": 1,
+    "level": 1,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 41,
+            "name": "KIND_TYPE_SLEEP_SAV",
+            "value": 12
+        }
+    ]
+}

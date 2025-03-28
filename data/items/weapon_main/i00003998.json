@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 3998,
+    "name": "Vortex Flow",
+    "info": "",
+    "icon": {
+        "icon_id": 993,
+        "color_id": 8
+    },
+    "sell_price": 4810,
+    "weight": 90,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 31,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 447,
+        "magic_attack": 576,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 115
+        }
+    ]
+}

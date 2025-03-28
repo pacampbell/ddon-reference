@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 16464,
+    "name": "AB Mastery_Strong_Attachment",
+    "info": "",
+    "icon": {
+        "icon_id": 0,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

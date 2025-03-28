@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 5046,
+    "name": "Warblade",
+    "info": "",
+    "icon": {
+        "icon_id": 868,
+        "color_id": 7
+    },
+    "sell_price": 2210,
+    "weight": 120,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 541,
+        "magic_attack": 221,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 211
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

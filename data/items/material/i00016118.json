@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16118,
+    "name": "Jet Black Pelt",
+    "info": "Pelt Crafting Material: Cursed fur that is\nincredibly dark and black.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 1
+}

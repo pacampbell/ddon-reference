@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14090,
+    "name": "Writhing Daggers of Legacy",
+    "info": "",
+    "icon": {
+        "icon_id": 942,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1691,
+        "magic_attack": 1519,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 178
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

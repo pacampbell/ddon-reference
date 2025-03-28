@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16114,
+    "name": "Little Frost",
+    "info": "Christmas furniture",
+    "icon": {
+        "icon_id": 1744,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

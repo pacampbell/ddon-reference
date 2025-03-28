@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24815,
+    "name": "Transformed black wing membrane",
+    "info": "Feather Crafting Material.\nWing membrane of a black dragon deformed by vast\nand unstable dragon force.",
+    "icon": {
+        "icon_id": 2930,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

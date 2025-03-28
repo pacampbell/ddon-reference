@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23487,
+    "name": "White Day Cookware",
+    "info": "White Day Furniture 2019.",
+    "icon": {
+        "icon_id": 2525,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

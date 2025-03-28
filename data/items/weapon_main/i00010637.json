@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10637,
+    "name": "Olfring Cane (Red)",
+    "info": "",
+    "icon": {
+        "icon_id": 1153,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 4,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 378,
+        "magic_attack": 478,
+        "crest_slot": 4,
+        "ele_slot": 27
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 101
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 20
+        }
+    ]
+}

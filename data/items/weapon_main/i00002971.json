@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2971,
+    "name": "Mondnacht Sch\u00fctteln",
+    "info": "",
+    "icon": {
+        "icon_id": 995,
+        "color_id": 7
+    },
+    "sell_price": 2425,
+    "weight": 30,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 313,
+        "magic_attack": 450,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 83
+        }
+    ]
+}

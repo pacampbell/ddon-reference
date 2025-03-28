@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 10682,
+    "name": "Silver Ticket",
+    "info": "You can obtain Silver Ticket.",
+    "icon": {
+        "icon_id": 426,
+        "color_id": 1
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

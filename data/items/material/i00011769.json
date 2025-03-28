@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11769,
+    "name": "Vision Quartz",
+    "info": "Gem Crafting Material: A gem said to seal the\nmemories of a bygone era.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 4
+}

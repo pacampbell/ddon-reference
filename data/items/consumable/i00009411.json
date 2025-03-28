@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9411,
+    "name": "Wine-Boiled Mushroom",
+    "info": "A dish using mushrooms as the main ingredient\nBestows various buffs upon eating",
+    "icon": {
+        "icon_id": 457,
+        "color_id": 3
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 5,
+    "max_stack": 10
+}

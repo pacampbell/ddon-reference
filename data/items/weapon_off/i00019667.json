@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19667,
+    "name": "Epic Sohrab",
+    "info": "",
+    "icon": {
+        "icon_id": 2031,
+        "color_id": 111
+    },
+    "sell_price": 39783,
+    "weight": 42,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 23,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 462
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 21
+        }
+    ]
+}

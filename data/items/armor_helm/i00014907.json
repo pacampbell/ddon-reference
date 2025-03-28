@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 14907,
+    "name": "Garrisoner's Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 311,
+        "color_id": 10
+    },
+    "sell_price": 9601,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 334,
+        "magic_attack": 4,
+        "magic_defense": 535,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 8
+        }
+    ]
+}

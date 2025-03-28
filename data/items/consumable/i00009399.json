@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9399,
+    "name": "Dragon's Spit",
+    "info": "Throw this to cause damage on impact.\nCauses the \"Caught Fire\" debilitation.",
+    "icon": {
+        "icon_id": 443,
+        "color_id": 4
+    },
+    "sell_price": 35,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 10
+}

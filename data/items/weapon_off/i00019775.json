@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 19775,
+    "name": "Guard of Vermilion",
+    "info": "",
+    "icon": {
+        "icon_id": 1622,
+        "color_id": 11
+    },
+    "sell_price": 8354,
+    "weight": 42,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 477
+        }
+    ]
+}

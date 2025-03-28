@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 9963,
+    "name": "Sanction Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 910,
+        "color_id": 6
+    },
+    "sell_price": 650,
+    "weight": 40,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 18,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 277,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 3969,
+    "name": "Soul Harvest",
+    "info": "",
+    "icon": {
+        "icon_id": 1039,
+        "color_id": 8
+    },
+    "sell_price": 5785,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 498,
+        "magic_attack": 730,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 200
+        }
+    ]
+}

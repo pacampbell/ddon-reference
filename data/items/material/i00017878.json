@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17878,
+    "name": "Cursed Letter",
+    "info": "Grimoire Crafting Material:\nA letter imbued with magic, on which cursed words\nwritten by a powerful Witch (LV. 80 and above) are\ninscribed.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 5
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 5
+}

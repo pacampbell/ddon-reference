@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9462,
+    "name": "Water of Chaos",
+    "info": "Crafting materials with limited availability:\nMysterious water that induces disorder in the\norder.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 28
+    },
+    "sell_price": 180,
+    "weight": 0,
+    "item_level": 11
+}

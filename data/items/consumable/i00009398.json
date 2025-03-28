@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9398,
+    "name": "Throwing Knife",
+    "info": "Inflicts damage on the target when thrown.",
+    "icon": {
+        "icon_id": 444,
+        "color_id": 4
+    },
+    "sell_price": 30,
+    "weight": 0,
+    "item_level": 7,
+    "max_stack": 10
+}

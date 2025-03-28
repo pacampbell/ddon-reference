@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20076,
+    "name": "Red Dawn's Steel Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 2358,
+        "color_id": 111
+    },
+    "sell_price": 39700,
+    "weight": 73,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2802,
+        "magic_attack": 2802,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 546
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

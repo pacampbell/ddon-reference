@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11803,
+    "name": "Gold-Stained Animal Fur",
+    "info": "Fur Crafting Material: Strange fur with tiny\nspecks of gold mixed in each strand.",
+    "icon": {
+        "icon_id": 476,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 3
+}

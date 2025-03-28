@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 16579,
+    "name": "Conspicuous Rusted Magick Gauntlet",
+    "info": "",
+    "icon": {
+        "icon_id": 1669,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 110,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1051,
+        "magic_attack": 963,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 182
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

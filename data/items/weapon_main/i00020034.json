@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20034,
+    "name": "Iriketh",
+    "info": "",
+    "icon": {
+        "icon_id": 2349,
+        "color_id": 8
+    },
+    "sell_price": 2382,
+    "weight": 77,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 648,
+        "magic_attack": 648,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 168
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

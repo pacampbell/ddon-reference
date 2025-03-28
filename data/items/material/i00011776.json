@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11776,
+    "name": "Luminescent Stalactite",
+    "info": "Ore Crafting Material: Stalactite containing\nluminescent microorganisms that emit a gentle blue\nlight.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 9
+}

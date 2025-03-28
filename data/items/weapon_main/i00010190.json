@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10190,
+    "name": "Olfring Sword (Earth)",
+    "info": "",
+    "icon": {
+        "icon_id": 1124,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 120,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 550,
+        "magic_attack": 365,
+        "crest_slot": 0,
+        "ele_slot": 34
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 126
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

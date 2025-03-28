@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15953,
+    "name": "Ringing Ore",
+    "info": "Ore Crafting Material:\nA stone that emits sound when multiple pieces\ncome into contact. It vibrates ever so slightly.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

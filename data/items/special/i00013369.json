@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13369,
+    "name": "Recipe: Bath - Abundance Hot Tub",
+    "info": "Recipe for creating a bath where you can enjoy\nthe effects of the <<Spring of Abundance>> at\nKinoza Mineral Springs.",
+    "icon": {
+        "icon_id": 1513,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

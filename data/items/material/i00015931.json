@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15931,
+    "name": "Ancient Manuscript Scrap",
+    "info": "Miscellaneous Crafting Material:\nA fragment of an old book with the words of\nPhindym inscribed on it.",
+    "icon": {
+        "icon_id": 514,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 7
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 950,
+    "name": "Black Leather Circlet",
+    "info": "",
+    "icon": {
+        "icon_id": 272,
+        "color_id": 8
+    },
+    "sell_price": 1150,
+    "weight": 27,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 75,
+        "magic_attack": 0,
+        "magic_defense": 120,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

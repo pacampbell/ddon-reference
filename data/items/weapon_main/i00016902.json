@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16902,
+    "name": "Conspicuous Rusted Greatshield",
+    "info": "",
+    "icon": {
+        "icon_id": 1632,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 130,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1029,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 281
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 280
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

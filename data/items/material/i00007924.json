@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7924,
+    "name": "Rugged Leather",
+    "info": "Pelt Crafting Material: Rough, gray skin of a\nCyclops.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

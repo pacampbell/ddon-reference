@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4120,
+    "name": "Leather Shoes",
+    "info": "",
+    "icon": {
+        "icon_id": 338,
+        "color_id": 5
+    },
+    "sell_price": 37,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 3,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 19,
+        "magic_attack": 0,
+        "magic_defense": 15,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 36
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18662,
+    "name": "Cursed Withered Grass",
+    "info": "Floral Crafting Material: Grass that retains its\nform while being withered by the power of curses.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 4
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 15
+}

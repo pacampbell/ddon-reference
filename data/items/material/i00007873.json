@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7873,
+    "name": "Copper Ingot",
+    "info": "Metal Crafting Material:\nA chunk of copper refined from copper ore.",
+    "icon": {
+        "icon_id": 490,
+        "color_id": 1
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 2
+}

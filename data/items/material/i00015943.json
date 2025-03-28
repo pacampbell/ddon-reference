@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15943,
+    "name": "Ancient Knight's Scripture",
+    "info": "Limited availability crafting material:\nA thick book meticulously recorded by the hands\nof legendary knights.",
+    "icon": {
+        "icon_id": 1726,
+        "color_id": 28
+    },
+    "sell_price": 988,
+    "weight": 0,
+    "item_level": 12
+}

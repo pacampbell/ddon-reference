@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14347,
+    "name": "Dynastes Horn",
+    "info": "",
+    "icon": {
+        "icon_id": 866,
+        "color_id": 10
+    },
+    "sell_price": 29650,
+    "weight": 100,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2214,
+        "magic_attack": 1754,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 710
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

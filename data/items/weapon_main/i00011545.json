@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 11545,
+    "name": "Marquis Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1255,
+        "color_id": 82
+    },
+    "sell_price": 20000,
+    "weight": 70,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1151,
+        "magic_attack": 905,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 214
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 13054,
+    "name": "Ornament Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 1305,
+        "color_id": 10
+    },
+    "sell_price": 999,
+    "weight": 34,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 228,
+        "magic_attack": 0,
+        "magic_defense": 190,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        }
+    ]
+}

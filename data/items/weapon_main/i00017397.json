@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17397,
+    "name": "Lupus Savior",
+    "info": "",
+    "icon": {
+        "icon_id": 835,
+        "color_id": 11
+    },
+    "sell_price": 27416,
+    "weight": 69,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2393,
+        "magic_attack": 2153,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 466
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

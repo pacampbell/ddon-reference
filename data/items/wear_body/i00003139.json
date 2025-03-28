@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3139,
+    "name": "Composite Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 785,
+        "color_id": 5
+    },
+    "sell_price": 75,
+    "weight": 5,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 5,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 9,
+        "magic_attack": 0,
+        "magic_defense": 9,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 42
+        }
+    ]
+}

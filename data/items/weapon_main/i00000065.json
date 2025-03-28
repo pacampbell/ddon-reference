@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 65,
+    "name": "Makhaira",
+    "info": "",
+    "icon": {
+        "icon_id": 830,
+        "color_id": 6
+    },
+    "sell_price": 488,
+    "weight": 80,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 244,
+        "magic_attack": 99,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

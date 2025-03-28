@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 25482,
+    "name": "Holy Seal's Lively Hose",
+    "info": "",
+    "icon": {
+        "icon_id": 2026,
+        "color_id": 82
+    },
+    "sell_price": 4000,
+    "weight": 8,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 105,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 207,
+        "magic_attack": 0,
+        "magic_defense": 207,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 75
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 2
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 326
+        }
+    ]
+}

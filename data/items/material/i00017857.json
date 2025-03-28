@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17857,
+    "name": "Demonic Beast Snakeskin",
+    "info": "Pelt Crafting Material: High-quality Snake Skin\nobtained by skinning powerful Chimera species (Lv.\n80 and above).",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 5
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 5
+}

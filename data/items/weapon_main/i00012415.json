@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12415,
+    "name": "Vortices",
+    "info": "",
+    "icon": {
+        "icon_id": 1494,
+        "color_id": 11
+    },
+    "sell_price": 21130,
+    "weight": 70,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1384,
+        "magic_attack": 1509,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 264
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        }
+    ]
+}

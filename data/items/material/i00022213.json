@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22213,
+    "name": "Sleep +80",
+    "info": "Debilitation \"Sleep\"\nadded.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

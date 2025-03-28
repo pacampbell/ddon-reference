@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11988,
+    "name": "Olfring Breaker (Red)",
+    "info": "",
+    "icon": {
+        "icon_id": 1457,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 120,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 4,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1065,
+        "magic_attack": 691,
+        "crest_slot": 4,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 315
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

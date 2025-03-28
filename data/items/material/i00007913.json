@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7913,
+    "name": "Flame Crystal",
+    "info": "Gem Crafting Material: A scorching gem that\nserves as the power source for the Flame Golem.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 106
+    },
+    "sell_price": 915,
+    "weight": 0,
+    "item_level": 12
+}

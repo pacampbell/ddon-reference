@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16006,
+    "name": "Elemental Lace",
+    "info": "Cloth Crafting Material:\nDelicate lace with intricate patterns woven using\nthe power of nature.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 5
+    },
+    "sell_price": 980,
+    "weight": 0,
+    "item_level": 1
+}

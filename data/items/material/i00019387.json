@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19387,
+    "name": "Extreme Wind-Wrought Fragment",
+    "info": "A fragment with a coat of arms resembling the\nwind.\nIt appears to be eligible for an Appraisal\nExchange.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

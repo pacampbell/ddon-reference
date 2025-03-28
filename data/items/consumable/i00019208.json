@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19208,
+    "name": "Book of Acquisition (Anti-goldify)",
+    "info": "Learn the Secret Augment \"Anti-goldify\".",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

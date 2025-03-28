@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18141,
+    "name": "Warm Mud",
+    "info": "Sand Crafting Material: Warm and muddy mud from a\nhot spring area.",
+    "icon": {
+        "icon_id": 484,
+        "color_id": 4
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 21183,
+    "name": "Skull Gummy",
+    "info": "A plump gummy in the shape of a skull,\nwith a hard texture that, when eaten, restores\nstamina.",
+    "icon": {
+        "icon_id": 2179,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

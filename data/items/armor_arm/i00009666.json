@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 9666,
+    "name": "Shiny Hands",
+    "info": "",
+    "icon": {
+        "icon_id": 4,
+        "color_id": 8
+    },
+    "sell_price": 500,
+    "weight": 34,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 90,
+        "magic_attack": 0,
+        "magic_defense": 75,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 7
+        }
+    ]
+}

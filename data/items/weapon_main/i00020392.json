@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 20392,
+    "name": "Avalanche",
+    "info": "",
+    "icon": {
+        "icon_id": 2343,
+        "color_id": 111
+    },
+    "sell_price": 47640,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3344,
+        "magic_attack": 3236,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 651
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

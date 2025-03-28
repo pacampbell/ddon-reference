@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 7559,
+    "name": "Supplies for the Fort",
+    "info": "Materials prepared to reinforce Gritten Fort.\nDeliver this to Lieutenant Vanessa.",
+    "icon": {
+        "icon_id": 536,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

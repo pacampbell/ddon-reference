@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7949,
+    "name": "Witch's Velvet",
+    "info": "Cloth Crafting Material: Part of the Empress\nGhost's dress.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 6
+    },
+    "sell_price": 1220,
+    "weight": 0,
+    "item_level": 12
+}

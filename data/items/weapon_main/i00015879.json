@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 15879,
+    "name": "Polished Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 1687,
+        "color_id": 11
+    },
+    "sell_price": 1000,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 23,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1473,
+        "magic_attack": 1733,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 476
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 12523,
+    "name": "Olfring Wand (Blue)",
+    "info": "",
+    "icon": {
+        "icon_id": 1491,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 80,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 10,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 449,
+        "magic_attack": 655,
+        "crest_slot": 4,
+        "ele_slot": 20
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 202
+        }
+    ]
+}

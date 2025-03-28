@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9393,
+    "name": "Water Flask",
+    "info": "Throw this to cause damage on impact.\nCauses the \"Drenched\" debilitation.",
+    "icon": {
+        "icon_id": 440,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 10
+}

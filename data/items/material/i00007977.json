@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7977,
+    "name": "Yellow Thyme",
+    "info": "Floral Crafting Material: Yellow herb with\ndelicate leaves and effects.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

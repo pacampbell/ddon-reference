@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11773,
+    "name": "Broken Stone Manacles",
+    "info": "Miscellaneous Crafting Material:\nHeavy iron shackles that were used by criminals.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 4
+}

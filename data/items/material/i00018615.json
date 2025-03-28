@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18615,
+    "name": "Supreme Merit Medal",
+    "info": "The production material for the ring plate, which\nserves as the foundation for exquisite jewelry.",
+    "icon": {
+        "icon_id": 1843,
+        "color_id": 29
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

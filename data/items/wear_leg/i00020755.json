@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 20755,
+    "name": "Crimson Leather Bottom",
+    "info": "",
+    "icon": {
+        "icon_id": 2292,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 5,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 168,
+        "magic_attack": 0,
+        "magic_defense": 168,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 72
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 5
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 282
+        }
+    ]
+}

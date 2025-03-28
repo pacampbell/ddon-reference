@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4783,
+    "name": "Snake Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 927,
+        "color_id": 6
+    },
+    "sell_price": 985,
+    "weight": 60,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 14,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 239,
+        "magic_attack": 134,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 54
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

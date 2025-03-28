@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 3739,
+    "name": "Blue Cane",
+    "info": "",
+    "icon": {
+        "icon_id": 1011,
+        "color_id": 5
+    },
+    "sell_price": 130,
+    "weight": 120,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 5,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 123,
+        "magic_attack": 183,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 62
+        }
+    ]
+}

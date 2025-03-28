@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 10772,
+    "name": "Olfring Guard (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 1235,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 100,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 5,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 381,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 171
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 196
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

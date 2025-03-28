@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13792,
+    "name": "Bath - Premium Hot Tub",
+    "info": "A special bath where you can enjoy the effects of\nKinoza Mineral Springs' \"Spring of Abundance\" and\n\"Spring of Vitality\" all at once.",
+    "icon": {
+        "icon_id": 1528,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

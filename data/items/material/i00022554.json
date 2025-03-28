@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 22554,
+    "name": "Human Slayer +9",
+    "info": "\"Human Slayer\" added.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

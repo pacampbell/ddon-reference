@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19655,
+    "name": "Reinforced Battle Armor",
+    "info": "Miscellaneous Crafting Material:\nUsed against strong-willed enemies.\nWar Ready armor strengthened with enhanced\ndominance.",
+    "icon": {
+        "icon_id": 1985,
+        "color_id": 105
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 15
+}

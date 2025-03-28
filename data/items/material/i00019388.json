@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19388,
+    "name": "Extreme Weightless Fragment",
+    "info": "It seems to be a fragment that feels as if it has\nno weight.\nIt appears to be eligible for an Appraisal\nExchange.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

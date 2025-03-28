@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8161,
+    "name": "Pope's Cap",
+    "info": "",
+    "icon": {
+        "icon_id": 245,
+        "color_id": 10
+    },
+    "sell_price": 3685,
+    "weight": 36,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 56,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 184,
+        "magic_attack": 0,
+        "magic_defense": 294,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15950,
+    "name": "Rotten Tree",
+    "info": "Wood Crafting Material: Soft wood that easily\ndecays and becomes a source of nutrients.",
+    "icon": {
+        "icon_id": 506,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

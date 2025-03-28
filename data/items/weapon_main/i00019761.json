@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19761,
+    "name": "Flamberge of Grail",
+    "info": "",
+    "icon": {
+        "icon_id": 2296,
+        "color_id": 111
+    },
+    "sell_price": 34980,
+    "weight": 60,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 23,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3079,
+        "magic_attack": 2824,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 596
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

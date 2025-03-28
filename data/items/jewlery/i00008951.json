@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8951,
+    "name": "Ice Gem Choker",
+    "info": "",
+    "icon": {
+        "icon_id": 1057,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 1,
+    "level": 26,
+    "item_level": 6,
+    "stats": {},
+    "params": [
+        {
+            "id": 40,
+            "name": "KIND_TYPE_BLIND_SAV",
+            "value": 3
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12282,
+    "name": "Olfring Sei\u00f0r (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 1473,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 80,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 25,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 681,
+        "magic_attack": 597,
+        "crest_slot": 0,
+        "ele_slot": 11
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 158
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

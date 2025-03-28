@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21732,
+    "name": "Olfring Sei\u00f0r (Sea)",
+    "info": "",
+    "icon": {
+        "icon_id": 1476,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 80,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2436,
+        "magic_attack": 2325,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 501
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

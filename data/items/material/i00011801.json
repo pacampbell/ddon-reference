@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11801,
+    "name": "Viscous Meat",
+    "info": "Meat Crafting Material: Meat that develops a\nstrong stickiness as it rots.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 3
+}

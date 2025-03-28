@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7974,
+    "name": "Baby Herb",
+    "info": "Floral Crafting Material: Young Herbs in the\nmidst of growth",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

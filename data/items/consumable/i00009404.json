@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9404,
+    "name": "Artisan's Pickaxe",
+    "info": "Used to harvest materials from ore veins.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 448,
+        "color_id": 80
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

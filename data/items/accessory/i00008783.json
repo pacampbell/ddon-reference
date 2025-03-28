@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8783,
+    "name": "Shoulder Cape",
+    "info": "",
+    "icon": {
+        "icon_id": 219,
+        "color_id": 5
+    },
+    "sell_price": 75,
+    "weight": 10,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 4,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 4,
+        "magic_attack": 0,
+        "magic_defense": 4,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7731,
+    "name": "Rainbow Eye Gem",
+    "info": "Gem Crafting Material.\nGems that shine in the seven colors of the\nAlchemy Eye.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 6
+    },
+    "sell_price": 915,
+    "weight": 0,
+    "item_level": 12
+}

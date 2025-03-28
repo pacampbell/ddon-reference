@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18472,
+    "name": "Desert Stole",
+    "info": "",
+    "icon": {
+        "icon_id": 1937,
+        "color_id": 10
+    },
+    "sell_price": 4332,
+    "weight": 11,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 141,
+        "magic_attack": 0,
+        "magic_defense": 141,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 19
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

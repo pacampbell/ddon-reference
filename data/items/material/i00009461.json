@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9461,
+    "name": "Disordering Drop",
+    "info": "Crafting materials with limited availability:\nMysterious droplets that induce a disturbance of\norder.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 28
+    },
+    "sell_price": 180,
+    "weight": 0,
+    "item_level": 11
+}

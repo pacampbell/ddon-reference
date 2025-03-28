@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1931,
+    "name": "Release of Fortune",
+    "info": "",
+    "icon": {
+        "icon_id": 1046,
+        "color_id": 9
+    },
+    "sell_price": 10585,
+    "weight": 140,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 765,
+        "magic_attack": 993,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 278
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

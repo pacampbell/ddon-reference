@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9448,
+    "name": "Fiend Wing Membrane",
+    "info": "Crafting materials with limited availability:\nWing membranes with a spooky and eerie texture.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

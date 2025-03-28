@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8118,
+    "name": "Wolverine Head",
+    "info": "",
+    "icon": {
+        "icon_id": 276,
+        "color_id": 6
+    },
+    "sell_price": 410,
+    "weight": 36,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 16,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 46,
+        "magic_attack": 0,
+        "magic_defense": 73,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

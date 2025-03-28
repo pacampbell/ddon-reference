@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 5316,
+    "name": "Shooter's Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 266,
+        "color_id": 9
+    },
+    "sell_price": 2960,
+    "weight": 27,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 45,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 132,
+        "magic_attack": 0,
+        "magic_defense": 212,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 23496,
+    "name": "Christmas Gift (Left)",
+    "info": "Christmas Furniture 2019.",
+    "icon": {
+        "icon_id": 2541,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 34
+}

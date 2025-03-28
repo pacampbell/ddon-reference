@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7943,
+    "name": "Sacred Blessed Cloth",
+    "info": "Cloth Crafting Material:\nSacred cloth imbued with a powerful Divine\nProtection.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 5
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 3058,
+    "name": "Wolf Head",
+    "info": "",
+    "icon": {
+        "icon_id": 276,
+        "color_id": 5
+    },
+    "sell_price": 80,
+    "weight": 36,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 26,
+        "magic_attack": 0,
+        "magic_defense": 42,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": []
+}

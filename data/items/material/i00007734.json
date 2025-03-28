@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7734,
+    "name": "Blob Flesh",
+    "info": "Meat Crafting Material.\nBlobs of wriggling, eerie flesh.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

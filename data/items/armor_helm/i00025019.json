@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25019,
+    "name": "Golden Circlet",
+    "info": "",
+    "icon": {
+        "icon_id": 2822,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 1,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 1,
+        "magic_attack": 0,
+        "magic_defense": 1,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

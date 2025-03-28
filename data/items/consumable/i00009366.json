@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9366,
+    "name": "Waking Draught",
+    "info": "Cures the user of the specified\nstatus debilitations.",
+    "icon": {
+        "icon_id": 433,
+        "color_id": 1
+    },
+    "sell_price": 20,
+    "weight": 0,
+    "item_level": 2,
+    "max_stack": 10
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10044,
+    "name": "Power Beak",
+    "info": "",
+    "icon": {
+        "icon_id": 840,
+        "color_id": 7
+    },
+    "sell_price": 1940,
+    "weight": 120,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 434,
+        "magic_attack": 288,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 135
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        }
+    ]
+}

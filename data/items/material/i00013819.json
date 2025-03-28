@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13819,
+    "name": "Extreme Jewelry Lottery Coin (Climbing Speed)",
+    "info": "Extreme Jewelry Lottery Coin.\nIt seems to be eligible for trade in \"Appraisal\nExchange\".",
+    "icon": {
+        "icon_id": 1529,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

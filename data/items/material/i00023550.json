@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23550,
+    "name": "Gem of Great Evil",
+    "info": "A cluster of ominous power accumulated to its\nutmost limit,\na strengthening material resembling one who\npossesses immense strength.",
+    "icon": {
+        "icon_id": 2620,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 3
+}

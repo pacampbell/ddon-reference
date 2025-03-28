@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17864,
+    "name": "Magickal Giant Bones",
+    "info": "Bone Crafting Material: A giant bone that exudes\nthe mana of bone manipulation.",
+    "icon": {
+        "icon_id": 1221,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 4
+}

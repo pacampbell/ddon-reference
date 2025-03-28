@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7954,
+    "name": "Spun Yarn",
+    "info": "String Crafting Material:\nThread spun by adding a strong material to fine\nfilament.",
+    "icon": {
+        "icon_id": 503,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

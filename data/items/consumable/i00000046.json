@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 46,
+    "name": "Dreed Treasury Key",
+    "info": "A key that opens the treasury in Dreed Castle.\nVarious tresures were gathered there.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 4
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 99
+}

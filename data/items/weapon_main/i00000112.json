@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 112,
+    "name": "Magick Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 988,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 60,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 23,
+        "magic_attack": 121,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        }
+    ]
+}

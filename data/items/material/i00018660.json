@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18660,
+    "name": "Retainer's Spirit",
+    "info": "The power to venture into the depths of the\nMemory of Urteca that rests on The Epitaph Road.",
+    "icon": {
+        "icon_id": 2093,
+        "color_id": 104
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 3
+}

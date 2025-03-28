@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14569,
+    "name": "Phindymian Sei\u00f0r",
+    "info": "",
+    "icon": {
+        "icon_id": 1664,
+        "color_id": 11
+    },
+    "sell_price": 28130,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1948,
+        "magic_attack": 1843,
+        "crest_slot": 4,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 391
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

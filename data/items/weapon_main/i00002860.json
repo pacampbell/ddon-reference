@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2860,
+    "name": "Staff of the Pathfinder",
+    "info": "",
+    "icon": {
+        "icon_id": 1015,
+        "color_id": 9
+    },
+    "sell_price": 11050,
+    "weight": 70,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 847,
+        "magic_attack": 961,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 168
+        }
+    ]
+}

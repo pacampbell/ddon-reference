@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 11262,
+    "name": "Currency for resetting craft P",
+    "info": "Test item for CP reset currency.",
+    "icon": {
+        "icon_id": 425,
+        "color_id": 1
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 255
+}

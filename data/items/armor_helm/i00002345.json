@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2345,
+    "name": "Wyrm's Will",
+    "info": "",
+    "icon": {
+        "icon_id": 297,
+        "color_id": 8
+    },
+    "sell_price": 2560,
+    "weight": 36,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 102,
+        "magic_attack": 0,
+        "magic_defense": 164,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

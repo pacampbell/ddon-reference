@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 19382,
+    "name": "Fresh Sangria",
+    "info": "A drink made by soaking fruit in Lestania Wine.\nIt has various beneficial effects.",
+    "icon": {
+        "icon_id": 459,
+        "color_id": 17
+    },
+    "sell_price": 150,
+    "weight": 0,
+    "item_level": 10,
+    "max_stack": 99
+}

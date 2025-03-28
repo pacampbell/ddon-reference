@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15996,
+    "name": "Black Claw of Misfortune",
+    "info": "Fang Crafting Material: Jet-black claws exuding a\nsinister aura.",
+    "icon": {
+        "icon_id": 471,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 6
+}

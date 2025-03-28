@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17889,
+    "name": "Dragon Tail Tile Fragment",
+    "info": "Miscellaneous Crafting Material:\nTile fragment with a dragon's tail depicted.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 5
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 0
+}

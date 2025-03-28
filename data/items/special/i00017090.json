@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17090,
+    "name": "Aristocrat Bath - Cockatrice",
+    "info": "A Cockatrice-shaped spout that can be installed\nin the bath, allowing you to immerse yourself in\nan elegant atmosphere.",
+    "icon": {
+        "icon_id": 1875,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

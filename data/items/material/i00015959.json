@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15959,
+    "name": "Pixie Mock Wing",
+    "info": "Feather Crafting Material: Material for crafting\nmade from the wings that grow on the backs of\nPixies, although they cannot fly.",
+    "icon": {
+        "icon_id": 478,
+        "color_id": 5
+    },
+    "sell_price": 235,
+    "weight": 0,
+    "item_level": 13
+}

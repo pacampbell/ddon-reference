@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 17617,
+    "name": "Coif of Warm Winds",
+    "info": "",
+    "icon": {
+        "icon_id": 257,
+        "color_id": 10
+    },
+    "sell_price": 9910,
+    "weight": 49,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 346,
+        "magic_attack": 3,
+        "magic_defense": 554,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

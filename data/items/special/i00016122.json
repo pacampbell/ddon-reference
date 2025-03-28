@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16122,
+    "name": "Arisen's Loungewear (Type 1)",
+    "info": "Loungewear for the Arisen to relax in their own\nroom",
+    "icon": {
+        "icon_id": 1735,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

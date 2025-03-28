@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21239,
+    "name": "Void's Heartbeat",
+    "info": "Miscellaneous Crafting Material: Dark power\ncompressed and released in pulses.",
+    "icon": {
+        "icon_id": 2498,
+        "color_id": 28
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 14
+}

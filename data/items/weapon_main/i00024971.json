@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 24971,
+    "name": "",
+    "info": "",
+    "icon": {
+        "icon_id": 2703,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 70,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2995,
+        "magic_attack": 2685,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 601
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

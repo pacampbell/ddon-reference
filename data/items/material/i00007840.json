@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7840,
+    "name": "Strong Viscous Liquid",
+    "info": "Liquid Crafting Material: A sticky, viscous\nliquid that is expelled from the body of a\nsoft-bodied creature.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

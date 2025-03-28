@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 17505,
+    "name": "Circinus Arm",
+    "info": "",
+    "icon": {
+        "icon_id": 987,
+        "color_id": 11
+    },
+    "sell_price": 34270,
+    "weight": 80,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2358,
+        "magic_attack": 2247,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 481
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

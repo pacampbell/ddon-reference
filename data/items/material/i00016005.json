@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16005,
+    "name": "Silvery Snow Steel Ingot",
+    "info": "Metal Crafting Material: A mass of steel that\nshines with a silver color as cold as ice.",
+    "icon": {
+        "icon_id": 1432,
+        "color_id": 5
+    },
+    "sell_price": 980,
+    "weight": 0,
+    "item_level": 1
+}

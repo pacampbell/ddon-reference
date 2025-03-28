@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7801,
+    "name": "Beast Claw",
+    "info": "Fang Crafting Material: Terrifying Fangs of the\nGrimwarg",
+    "icon": {
+        "icon_id": 471,
+        "color_id": 4
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

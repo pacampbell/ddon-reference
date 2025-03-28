@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7810,
+    "name": "Sphinx Hair",
+    "info": "Fur Crafting Material: Glossy and sturdy Sphinx\nhair.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 102
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 19460,
+    "name": "Boundless Tempest Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 1909,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 34,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 440,
+        "magic_attack": 4,
+        "magic_defense": 367,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 27
+        }
+    ]
+}

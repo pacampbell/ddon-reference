@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 17751,
+    "name": "Brigand Sabatons",
+    "info": "",
+    "icon": {
+        "icon_id": 1954,
+        "color_id": 10
+    },
+    "sell_price": 12020,
+    "weight": 63,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 345,
+        "magic_attack": 3,
+        "magic_defense": 276,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 362
+        }
+    ]
+}

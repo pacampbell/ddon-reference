@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 1359,
+    "name": "Promotion Exam B",
+    "info": "Craft promotion test item",
+    "icon": {
+        "icon_id": 537,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11504,
+    "name": "Ice Cube Fragment",
+    "info": "Ore Crafting Material:\nFragments of jagged and brittle mineral infused\nwith cold energy.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 15
+}

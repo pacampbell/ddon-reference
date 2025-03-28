@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9455,
+    "name": "Enlightened Ring Plate",
+    "info": "A ring-shaped plate imbued with the blessing of\nthe dragon, a valuable item that resonates with\nthe power of the Arisen.\nIt seems to be eligible for an \"Appraisal\nExchange\" transaction.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 777,
+    "weight": 0,
+    "item_level": 12
+}

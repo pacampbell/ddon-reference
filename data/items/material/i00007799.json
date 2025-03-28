@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7799,
+    "name": "Behemoth Fang",
+    "info": "Fang Crafting Material:\nGiant fang in the shape of a crescent moon from\nthe Behemoth.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 105
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

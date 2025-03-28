@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7855,
+    "name": "Iron Ore",
+    "info": "Ore Crafting Material:\nThe ore that serves as the foundation for iron\nproducts.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 4
+}

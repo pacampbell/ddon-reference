@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21215,
+    "name": "Giant Caterpillar",
+    "info": "Miscellaneous Crafting Material:\nA large caterpillar that grows inside fallen trees",
+    "icon": {
+        "icon_id": 518,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23696,
+    "name": "High scepter slash damage UP",
+    "info": "The damage inflicted by the High Scepter's Slash\nattribute increases.\n*The effect is activated when attacking or when\nit matches the physical attribute of the status\napplication.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

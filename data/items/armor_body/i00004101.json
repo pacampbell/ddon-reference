@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4101,
+    "name": "Copper Lorica",
+    "info": "",
+    "icon": {
+        "icon_id": 117,
+        "color_id": 5
+    },
+    "sell_price": 105,
+    "weight": 70,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 44,
+        "magic_attack": 0,
+        "magic_defense": 39,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 108
+        }
+    ]
+}

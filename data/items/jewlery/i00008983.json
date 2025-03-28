@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8983,
+    "name": "Solid Fang Earrings",
+    "info": "",
+    "icon": {
+        "icon_id": 591,
+        "color_id": 8
+    },
+    "sell_price": 900,
+    "weight": 1,
+    "level": 31,
+    "item_level": 7,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 3
+        }
+    ]
+}

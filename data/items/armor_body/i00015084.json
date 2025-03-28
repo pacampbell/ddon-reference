@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15084,
+    "name": "Coat of Keen Insight",
+    "info": "",
+    "icon": {
+        "icon_id": 182,
+        "color_id": 11
+    },
+    "sell_price": 14768,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 542,
+        "magic_attack": 1,
+        "magic_defense": 481,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1132
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10997,
+    "name": "Gold Ritual Instrument",
+    "info": "The sacred artifact said to have been used in the\nalchemized secret technique that births the Golden\nDragon. Can be used as a crafting material for\nspecific equipment.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 28
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

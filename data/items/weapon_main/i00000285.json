@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 285,
+    "name": "Triskele",
+    "info": "",
+    "icon": {
+        "icon_id": 935,
+        "color_id": 8
+    },
+    "sell_price": 5785,
+    "weight": 30,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 502,
+        "magic_attack": 367,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 56
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

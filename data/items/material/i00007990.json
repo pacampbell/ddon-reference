@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7990,
+    "name": "Bluecurrant",
+    "info": "Floral Crafting Material: Small fruits filled\nwith blue juice and beneficial properties.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11509,
+    "name": "Black Gunpowder",
+    "info": "Miscellaneous Crafting Material:\nTraditionally used gunpowder widely used for\ncrafting.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 15
+}

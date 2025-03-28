@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19779,
+    "name": "Irade of Pavese",
+    "info": "",
+    "icon": {
+        "icon_id": 2300,
+        "color_id": 11
+    },
+    "sell_price": 8592,
+    "weight": 44,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 482
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 12
+        }
+    ]
+}

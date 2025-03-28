@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7739,
+    "name": "White Lion Pelt",
+    "info": "Pelt Crafting Material\nA pure white fur from a white lion, without any\nblemishes.\nA rare item.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

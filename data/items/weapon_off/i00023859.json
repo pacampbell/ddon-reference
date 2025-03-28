@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 23859,
+    "name": "Blackshatter Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 2680,
+        "color_id": 86
+    },
+    "sell_price": 48000,
+    "weight": 40,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 3438,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

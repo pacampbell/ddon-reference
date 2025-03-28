@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 20131,
+    "name": "Rousing Schlucht Shield",
+    "info": "",
+    "icon": {
+        "icon_id": 1620,
+        "color_id": 11
+    },
+    "sell_price": 9149,
+    "weight": 46,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 98,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 491
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 19816,
+    "name": "Red Dawn's Steel Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 1236,
+        "color_id": 10
+    },
+    "sell_price": 31900,
+    "weight": 84,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2697,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 826
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 465
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

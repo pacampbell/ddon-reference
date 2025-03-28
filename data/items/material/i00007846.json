@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7846,
+    "name": "Forest Chernozem",
+    "info": "Sand Crafting Material: Soft soil that can be\nfound in the depths of the forest.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

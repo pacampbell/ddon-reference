@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19647,
+    "name": "Scorpion Tail's Husk",
+    "info": "Miscellaneous Crafting Material: Shed exoskeleton\nin the shape of a giant scorpion tail.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 10
+}

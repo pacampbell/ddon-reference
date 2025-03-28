@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 11052,
+    "name": "Net Cafe Privilege",
+    "info": "You can obtain Net Cafe Privilege.",
+    "icon": {
+        "icon_id": 1265,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

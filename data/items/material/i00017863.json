@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17863,
+    "name": "Evil Eye Lens",
+    "info": "Miscellaneous Crafting Material:\nOrgan that glows with a tainted and radiant\nenergy extracted from a defeated Evil Eye.",
+    "icon": {
+        "icon_id": 2180,
+        "color_id": 104
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 21324,
+    "name": "Rem's Maid Clothes",
+    "info": "",
+    "icon": {
+        "icon_id": 2374,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 80,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 30,
+        "defense": 2647,
+        "magic_attack": 20,
+        "magic_defense": 2647,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 240
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 60
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1646
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1062
+        }
+    ]
+}

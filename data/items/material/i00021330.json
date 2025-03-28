@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21330,
+    "name": "Premium Cocoa Powder",
+    "info": "A cocoa powder with a delicate and vibrant aroma.\nOptimal quality for confectionery ingredients.",
+    "icon": {
+        "icon_id": 2378,
+        "color_id": 17
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18514,
+    "name": "Merit Medal (Large Bear)",
+    "info": "Medal awarded to those who achieve high results\nin the War Missions \"Jifule Fortress Capture\nBattle\".",
+    "icon": {
+        "icon_id": 1987,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 5
+}

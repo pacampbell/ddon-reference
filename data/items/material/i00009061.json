@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9061,
+    "name": "Pyrite",
+    "info": "Ore Crafting Material: Hard iron ore with a\nyellowish tint.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 3
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 5
+}

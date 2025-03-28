@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8084,
+    "name": "White Dragon Defense Upgrade Rock",
+    "info": "The highest quality refinement material for head,\nbody, arms, and leg armor.\nIt has a high success rate and, when synthesized\nduring item production, increases the number of\nCrest slots by 2 (3 in the case of a major\nsuccess).",
+    "icon": {
+        "icon_id": 540,
+        "color_id": 80
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 8
+}

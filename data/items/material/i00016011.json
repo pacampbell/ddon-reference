@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16011,
+    "name": "Seabird Syrinx",
+    "info": "Meat Crafting Material: Siren's Vocal Cords,\nimbued with magic.",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

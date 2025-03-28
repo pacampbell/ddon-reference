@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4429,
+    "name": "Faith Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 160,
+        "color_id": 10
+    },
+    "sell_price": 12865,
+    "weight": 70,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 472,
+        "magic_attack": 0,
+        "magic_defense": 420,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

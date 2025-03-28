@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11767,
+    "name": "Luminescent Silver Moss",
+    "info": "Mushroom Crafting Material.\nMoss that absorbs magic and glows silver in dark\nplaces.",
+    "icon": {
+        "icon_id": 511,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 4
+}

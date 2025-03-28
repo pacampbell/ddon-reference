@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17886,
+    "name": "Plankton Liquid",
+    "info": "Liquid Crafting Material: A liquid that contains\na large amount of aquatic microorganisms.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 5
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 0
+}

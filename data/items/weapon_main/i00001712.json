@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1712,
+    "name": "Brise-\u00e9p\u00e9\u00e9",
+    "info": "",
+    "icon": {
+        "icon_id": 936,
+        "color_id": 6
+    },
+    "sell_price": 610,
+    "weight": 30,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 173,
+        "magic_attack": 60,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

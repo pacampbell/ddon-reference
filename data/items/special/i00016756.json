@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16756,
+    "name": "White Fountain",
+    "info": "A White Chocolate Fountain with Mandragora\ngarnish.",
+    "icon": {
+        "icon_id": 1786,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 10942,
+    "name": "Gold Luna Mail",
+    "info": "",
+    "icon": {
+        "icon_id": 1196,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 591,
+        "magic_attack": 2,
+        "magic_defense": 526,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 1,
+            "name": "KIND_TYPE_POISON_DEF",
+            "value": 50
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1265
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21891,
+    "name": "Physical Defense +32",
+    "info": "Increase physical defense power.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

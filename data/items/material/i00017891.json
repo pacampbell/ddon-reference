@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17891,
+    "name": "Ribbon of Rich Bounty",
+    "info": "Cloth Crafting Material: Wide ribbon adorned with\nprayers for abundance.",
+    "icon": {
+        "icon_id": 1434,
+        "color_id": 5
+    },
+    "sell_price": 3000,
+    "weight": 0,
+    "item_level": 5
+}

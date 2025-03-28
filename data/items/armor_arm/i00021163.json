@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 21163,
+    "name": "Virtuoso Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1908,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 34,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 480,
+        "magic_attack": 5,
+        "magic_defense": 400,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        },
+        {
+            "id": 103,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9213,
+    "name": "Crest of Demon Slaying",
+    "info": "A crest that grants a slayer effect\nwhen equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 3
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 6
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 10987,
+    "name": "Dragon Bone",
+    "info": "A stone fragment imbued with a trace amount of\nDragon Force, obtainable only in the Dragon's\nNest.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 520,
+        "color_id": 28
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 5700,
+    "name": "Saudade Muffler",
+    "info": "",
+    "icon": {
+        "icon_id": 206,
+        "color_id": 8
+    },
+    "sell_price": 850,
+    "weight": 10,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 34,
+        "magic_attack": 0,
+        "magic_defense": 34,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 32
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 20
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10662,
+    "name": "Olfring Cane (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 1149,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 738,
+        "magic_attack": 848,
+        "crest_slot": 4,
+        "ele_slot": 27
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 138
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 20
+        }
+    ]
+}

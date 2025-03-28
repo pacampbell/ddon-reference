@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7875,
+    "name": "Silver Ingot",
+    "info": "Metal Crafting Material:\nA chunk of silver refined from silver ore.",
+    "icon": {
+        "icon_id": 1431,
+        "color_id": 4
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

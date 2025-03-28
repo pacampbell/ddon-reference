@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15186,
+    "name": "Azure Gambeson",
+    "info": "",
+    "icon": {
+        "icon_id": 1605,
+        "color_id": 111
+    },
+    "sell_price": 3360,
+    "weight": 10,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 178,
+        "magic_attack": 0,
+        "magic_defense": 178,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 395
+        }
+    ]
+}

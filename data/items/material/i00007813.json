@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7813,
+    "name": "Harpy Pinion",
+    "info": "Feather Crafting Material: Feathers obtained from\nthe wings of Harpies.",
+    "icon": {
+        "icon_id": 478,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

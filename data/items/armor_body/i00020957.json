@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20957,
+    "name": "Positivit\u00e9 Robe",
+    "info": "",
+    "icon": {
+        "icon_id": 200,
+        "color_id": 10
+    },
+    "sell_price": 22990,
+    "weight": 74,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 822,
+        "magic_attack": 6,
+        "magic_defense": 731,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 42
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1224
+        }
+    ]
+}

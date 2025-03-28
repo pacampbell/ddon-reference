@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9062,
+    "name": "Cerussite",
+    "info": "Ore Crafting Material: Ore containing special\nlead that is smooth and white.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 4
+    },
+    "sell_price": 375,
+    "weight": 0,
+    "item_level": 8
+}

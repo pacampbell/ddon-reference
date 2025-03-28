@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1052,
+    "name": "Vessel of Life",
+    "info": "The Vessel of Life created by Theodore.\nUsed to accomodate Diamantes.",
+    "icon": {
+        "icon_id": 533,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

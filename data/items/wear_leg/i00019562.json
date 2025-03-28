@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 19562,
+    "name": "Craig's Worn-out Pants",
+    "info": "",
+    "icon": {
+        "icon_id": 796,
+        "color_id": 10
+    },
+    "sell_price": 10,
+    "weight": 20,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 20,
+        "magic_attack": 1,
+        "magic_defense": 20,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 20
+        }
+    ]
+}

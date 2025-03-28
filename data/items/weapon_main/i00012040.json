@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 12040,
+    "name": "Corpse's Groan",
+    "info": "",
+    "icon": {
+        "icon_id": 904,
+        "color_id": 10
+    },
+    "sell_price": 19604,
+    "weight": 100,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1708,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 534
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 382
+        },
+        {
+            "id": 45,
+            "name": "KIND_TYPE_STONE_SAV",
+            "value": 20
+        },
+        {
+            "id": 48,
+            "name": "KIND_TYPE_FREEZE_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 4
+        }
+    ]
+}

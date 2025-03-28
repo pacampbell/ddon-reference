@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23364,
+    "name": "Bitterblack Orb",
+    "info": "Items that can only be obtained in the\nBitterblack Maze.\nSomething is sealed within the gem.\nSpecial techniques are required to extract it.",
+    "icon": {
+        "icon_id": 2114,
+        "color_id": 115
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

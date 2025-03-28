@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16190,
+    "name": "Table - Flower Pot",
+    "info": "Flower pot that adorns the table",
+    "icon": {
+        "icon_id": 1754,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 7578,
+    "name": "Lake Cera Detached Pavillion Key",
+    "info": "A key to the Temple of Purification, located\nacross Lake Cera.\nIt is engraved with the White Dragon.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

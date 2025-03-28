@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 19061,
+    "name": "True Polished Wand",
+    "info": "",
+    "icon": {
+        "icon_id": 1687,
+        "color_id": 11
+    },
+    "sell_price": 32005,
+    "weight": 80,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 5,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2253,
+        "magic_attack": 2542,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 729
+        }
+    ]
+}

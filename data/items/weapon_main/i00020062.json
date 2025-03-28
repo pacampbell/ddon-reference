@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 20062,
+    "name": "Bozorg Kaldo",
+    "info": "",
+    "icon": {
+        "icon_id": 2355,
+        "color_id": 10
+    },
+    "sell_price": 38906,
+    "weight": 84,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2706,
+        "magic_attack": 2706,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 531
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

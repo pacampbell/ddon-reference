@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 17593,
+    "name": "Duarev Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 303,
+        "color_id": 11
+    },
+    "sell_price": 10624,
+    "weight": 47,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 367,
+        "magic_attack": 4,
+        "magic_defense": 587,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

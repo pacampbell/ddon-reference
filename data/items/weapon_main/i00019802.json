@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19802,
+    "name": "Firash Blade",
+    "info": "",
+    "icon": {
+        "icon_id": 2304,
+        "color_id": 11
+    },
+    "sell_price": 42876,
+    "weight": 105,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3131,
+        "magic_attack": 2624,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 1051
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

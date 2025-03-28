@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 11344,
+    "name": "Sword of Lightning (Green)",
+    "info": "",
+    "icon": {
+        "icon_id": 1277,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 120,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 1,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 567,
+        "magic_attack": 239,
+        "crest_slot": 0,
+        "ele_slot": 18
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 253
+        },
+        {
+            "id": 56,
+            "name": "KIND_TYPE_DOWN_ATTACK_SAV",
+            "value": 20
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

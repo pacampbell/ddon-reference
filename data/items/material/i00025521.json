@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25521,
+    "name": "Madness Amulet",
+    "info": "Crafting material for Grimoires of Magic.\nAn amulet inscribed with a magical seal designed\nto steal the rationality of soldiers.",
+    "icon": {
+        "icon_id": 514,
+        "color_id": 23
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 12
+}

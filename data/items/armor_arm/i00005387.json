@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 5387,
+    "name": "Striker Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 30,
+        "color_id": 7
+    },
+    "sell_price": 920,
+    "weight": 34,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 81,
+        "magic_attack": 0,
+        "magic_defense": 68,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

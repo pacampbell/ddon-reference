@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17911,
+    "name": "Delicate Intaglio",
+    "info": "Miscellaneous Crafting Material: Artwork with\ndelicate carvings.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 0
+}

@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 14433,
+    "name": "Rod of the Departed",
+    "info": "",
+    "icon": {
+        "icon_id": 913,
+        "color_id": 11
+    },
+    "sell_price": 11252,
+    "weight": 40,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 1925,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

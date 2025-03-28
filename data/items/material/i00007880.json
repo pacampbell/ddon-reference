@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7880,
+    "name": "Mithril Ingot",
+    "info": "Metal Crafting Material:\nA chunk of mithril refined from mithril ore.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 5
+    },
+    "sell_price": 650,
+    "weight": 0,
+    "item_level": 9
+}

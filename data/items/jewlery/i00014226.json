@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 14226,
+    "name": "Earrings of Ice Resist 1",
+    "info": "",
+    "icon": {
+        "icon_id": 552,
+        "color_id": 110
+    },
+    "sell_price": 500,
+    "weight": 1,
+    "level": 1,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 40,
+            "name": "KIND_TYPE_BLIND_SAV",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7828,
+    "name": "White Liquor",
+    "info": "Liquid Crafting Material.\nA alcohol starter made from grains and other\ncrops.\nThe base for ale.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 5
+}

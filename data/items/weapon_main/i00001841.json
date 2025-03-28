@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 1841,
+    "name": "Para Regi Ptero",
+    "info": "",
+    "icon": {
+        "icon_id": 1022,
+        "color_id": 10
+    },
+    "sell_price": 18005,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 3,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1142,
+        "magic_attack": 1264,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 179
+        },
+        {
+            "id": 97,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 63
+        }
+    ]
+}

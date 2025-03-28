@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9428,
+    "name": "Spring of Abundance Key",
+    "info": "Key to Enter Kinoza Mineral Springs \"Spring of\nAbundance\".\nAlso serves as a gathering place for the elite.",
+    "icon": {
+        "icon_id": 460,
+        "color_id": 2
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 99
+}

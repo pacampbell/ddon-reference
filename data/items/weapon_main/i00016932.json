@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 16932,
+    "name": "Conspicuous Rusted Daggers",
+    "info": "",
+    "icon": {
+        "icon_id": 1648,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 90,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 23,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1000,
+        "magic_attack": 852,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 93
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

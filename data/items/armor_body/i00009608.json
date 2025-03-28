@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 9608,
+    "name": "Trooper's Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 126,
+        "color_id": 6
+    },
+    "sell_price": 170,
+    "weight": 50,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 12,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 57,
+        "magic_attack": 0,
+        "magic_defense": 51,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 219
+        }
+    ]
+}

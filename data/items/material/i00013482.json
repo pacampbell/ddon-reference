@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13482,
+    "name": "Unappraised Star Trinket (Emperor)",
+    "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
+    "icon": {
+        "icon_id": 1495,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 14
+}

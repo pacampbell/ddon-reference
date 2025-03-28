@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19649,
+    "name": "Red Hot Smelted Ore",
+    "info": "Ore Crafting Material:\nAn ore with intense heat, its interior is often\nmolten.\nOccasionally cracked, it shines with a red glow.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 15
+}

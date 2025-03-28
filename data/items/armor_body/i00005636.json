@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5636,
+    "name": "Power Tracer",
+    "info": "",
+    "icon": {
+        "icon_id": 196,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 50,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 109,
+        "magic_attack": 0,
+        "magic_defense": 97,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 514
+        }
+    ]
+}

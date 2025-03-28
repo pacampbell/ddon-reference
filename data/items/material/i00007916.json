@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7916,
+    "name": "Apophyllite",
+    "info": "Gem Crafting Material: Stones generated inside\nthe body of Lizards (Level 15 and above), suitable\nfor crafting.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 2
+    },
+    "sell_price": 75,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13367,
+    "name": "Recipe: Lestanian Puppet - Giant Cyclops",
+    "info": "Recipe for making a large puppet that can be\nplaced on top of a chest.",
+    "icon": {
+        "icon_id": 1507,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

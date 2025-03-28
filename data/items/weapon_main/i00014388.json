@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 14388,
+    "name": "Phindymian Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 1635,
+        "color_id": 11
+    },
+    "sell_price": 22504,
+    "weight": 80,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1913,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 586
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 397
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 11
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8139,
+    "name": "Pink Dye",
+    "info": "By using Crafting, you can change the color of\nequipment to \"Pink\" if it is of a certain grade or\nhigher.\n(Note: Some equipment cannot be color-changed.)",
+    "icon": {
+        "icon_id": 545,
+        "color_id": 1
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1
+}

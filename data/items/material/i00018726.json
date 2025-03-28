@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18726,
+    "name": "Scarred Lizardscale Pelt",
+    "info": "Meat Crafting Material:\nSkin of the battle-ready Saurian, covered in old\nscars.\nThe fibers have become dense through healing the\nwounds.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 15
+}

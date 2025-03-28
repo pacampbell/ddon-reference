@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18779,
+    "name": "Recipe: Tapestry - Phindym",
+    "info": "Recipe: Tapestry - Phindym's",
+    "icon": {
+        "icon_id": 1883,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

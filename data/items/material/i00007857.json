@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7857,
+    "name": "Silver Ore",
+    "info": "Ore Crafting Material: Silver ore, which is used\nas a raw material for crafting silver products.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

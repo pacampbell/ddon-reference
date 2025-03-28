@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7825,
+    "name": "Clear Spring Water",
+    "info": "Liquid Crafting Material:\nEspecially pure and pristine water.",
+    "icon": {
+        "icon_id": 481,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

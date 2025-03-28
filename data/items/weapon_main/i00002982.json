@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2982,
+    "name": "Siegstra\u00dfe",
+    "info": "",
+    "icon": {
+        "icon_id": 996,
+        "color_id": 8
+    },
+    "sell_price": 7225,
+    "weight": 30,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 38,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 542,
+        "magic_attack": 695,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 120
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7860,
+    "name": "Black Ore",
+    "info": "Ore Crafting Material:\nAn extremely heavy and hard, jet-black metal ore.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 5
+    },
+    "sell_price": 504,
+    "weight": 0,
+    "item_level": 10
+}

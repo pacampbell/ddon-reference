@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20717,
+    "name": "Rahatz Tied",
+    "info": "",
+    "icon": {
+        "icon_id": 806,
+        "color_id": 10
+    },
+    "sell_price": 3060,
+    "weight": 5,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 158,
+        "magic_attack": 0,
+        "magic_defense": 158,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 67
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 274
+        }
+    ]
+}

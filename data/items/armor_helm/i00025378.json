@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25378,
+    "name": "Solitary Magic Head",
+    "info": "",
+    "icon": {
+        "icon_id": 2975,
+        "color_id": 11
+    },
+    "sell_price": 15000,
+    "weight": 38,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 601,
+        "magic_attack": 11,
+        "magic_defense": 962,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

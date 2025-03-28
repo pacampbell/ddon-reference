@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 10230,
+    "name": "Olfring Shell (Green)",
+    "info": "",
+    "icon": {
+        "icon_id": 1136,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 40,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 324
+        }
+    ]
+}

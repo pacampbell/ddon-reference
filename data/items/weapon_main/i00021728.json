@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21728,
+    "name": "Olfring Daggers (Sunlight)",
+    "info": "",
+    "icon": {
+        "icon_id": 1469,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 50,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2371,
+        "magic_attack": 2184,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 253
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

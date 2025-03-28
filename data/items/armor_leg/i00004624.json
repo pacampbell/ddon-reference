@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4624,
+    "name": "Maiden's Petticoat",
+    "info": "",
+    "icon": {
+        "icon_id": 341,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 54,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 28,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 61,
+        "magic_attack": 0,
+        "magic_defense": 48,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 355
+        }
+    ]
+}

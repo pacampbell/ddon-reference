@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 12641,
+    "name": "Sentinel Beret",
+    "info": "",
+    "icon": {
+        "icon_id": 1338,
+        "color_id": 10
+    },
+    "sell_price": 6735,
+    "weight": 36,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 245,
+        "magic_attack": 0,
+        "magic_defense": 393,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

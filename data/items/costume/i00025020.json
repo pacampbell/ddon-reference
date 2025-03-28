@@ -1,0 +1,101 @@
+{
+    "type": "equipment",
+    "item_id": 25020,
+    "name": "Arisen of the Dark Continent (Gold)",
+    "info": "",
+    "icon": {
+        "icon_id": 2877,
+        "color_id": 85
+    },
+    "sell_price": 50000,
+    "weight": 80,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 36,
+        "defense": 3145,
+        "magic_attack": 36,
+        "magic_defense": 3145,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 278
+        },
+        {
+            "id": 4,
+            "name": "KIND_TYPE_BLIND_DEF",
+            "value": 50
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 50
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 50
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 50
+        },
+        {
+            "id": 14,
+            "name": "KIND_TYPE_SAINT_DEF",
+            "value": 50
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 50
+        },
+        {
+            "id": 40,
+            "name": "KIND_TYPE_BLIND_SAV",
+            "value": 50
+        },
+        {
+            "id": 41,
+            "name": "KIND_TYPE_SLEEP_SAV",
+            "value": 50
+        },
+        {
+            "id": 42,
+            "name": "KIND_TYPE_WATER_SAV",
+            "value": 50
+        },
+        {
+            "id": 43,
+            "name": "KIND_TYPE_SEAL_SAV",
+            "value": 50
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 40
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1810
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1162
+        }
+    ]
+}

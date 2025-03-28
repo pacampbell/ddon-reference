@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7912,
+    "name": "Mist Gem",
+    "info": "Gem Crafting Material:\nA milky white spirit stone tinged with a pale\nmist.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 2
+    },
+    "sell_price": 127,
+    "weight": 0,
+    "item_level": 4
+}

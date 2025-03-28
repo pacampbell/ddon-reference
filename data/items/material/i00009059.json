@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9059,
+    "name": "Gold-Striped Hardwood",
+    "info": "Wood Crafting Material: Wood with a pattern of\ngold that has grown by absorbing refined metal.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 5
+    },
+    "sell_price": 515,
+    "weight": 0,
+    "item_level": 10
+}

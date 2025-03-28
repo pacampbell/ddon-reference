@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1026,
+    "name": "Riftstone Ore",
+    "info": "Mysterious crystals that are found in the Rift.\nUsed to sign a contract with a new Pawn.",
+    "icon": {
+        "icon_id": 532,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

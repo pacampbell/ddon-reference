@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24740,
+    "name": "Dark Clouds Smoky Quartz",
+    "info": "Gem crafting material.\nSharply pointed smoky quartz.\nYou can constantly see some kind of power\nswirling inside.",
+    "icon": {
+        "icon_id": 2626,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

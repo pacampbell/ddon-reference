@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8027,
+    "name": "Training Stakes",
+    "info": "Miscellaneous Crafting Material:\nA control metal stake that was embedded in a\nspell.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 6
+    },
+    "sell_price": 220,
+    "weight": 0,
+    "item_level": 11
+}

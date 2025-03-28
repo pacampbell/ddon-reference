@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8014,
+    "name": "Scroll of Holy",
+    "info": "Grimoire Crafting Material:\nScrolls imbued with the mark of Holy.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

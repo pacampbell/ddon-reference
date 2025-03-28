@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7975,
+    "name": "Wild Herb",
+    "info": "Floral Crafting Material: A vibrant herb with a\nstrong vitality.",
+    "icon": {
+        "icon_id": 508,
+        "color_id": 2
+    },
+    "sell_price": 25,
+    "weight": 0,
+    "item_level": 3
+}

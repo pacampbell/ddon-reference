@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19379,
+    "name": "Extreme Weight Reduction",
+    "info": "Reduces the weight of equipped weapons/armor even\nfurther.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

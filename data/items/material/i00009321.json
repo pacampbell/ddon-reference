@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9321,
+    "name": "Crest of Shock Prevention",
+    "info": "A crest that grants magical attribute\nresistance when equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 9
+}

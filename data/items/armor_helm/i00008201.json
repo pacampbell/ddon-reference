@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 8201,
+    "name": "Plate Coif",
+    "info": "",
+    "icon": {
+        "icon_id": 250,
+        "color_id": 6
+    },
+    "sell_price": 195,
+    "weight": 36,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 11,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 35,
+        "magic_attack": 0,
+        "magic_defense": 56,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": []
+}

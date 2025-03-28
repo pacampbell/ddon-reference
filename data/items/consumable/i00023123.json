@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23123,
+    "name": "Orb of Growth (LV.80)",
+    "info": "Reach level 80 for one job type while\nsimultaneously leveling up the skills to level 6\nand abilities to level 4.\n<COL ffdc78>This will be added to NPC Joseph's\nmenu</COL>",
+    "icon": {
+        "icon_id": 2012,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 1
+}

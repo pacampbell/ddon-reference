@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 4576,
+    "name": "Strong Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 83,
+        "color_id": 7
+    },
+    "sell_price": 920,
+    "weight": 45,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 78,
+        "magic_attack": 0,
+        "magic_defense": 65,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

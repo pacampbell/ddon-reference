@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7932,
+    "name": "Bluish Gray Dragonscale",
+    "info": "Pelt Crafting Material: Thin and strong Ashen\nScales from Sea Dragons (LV. 41~)",
+    "icon": {
+        "icon_id": 498,
+        "color_id": 105
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

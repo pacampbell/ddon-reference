@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 18812,
+    "name": "Recipe: Dining Table - Charcoal",
+    "info": "Dining Table - Charcoal Recipe",
+    "icon": {
+        "icon_id": 1849,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

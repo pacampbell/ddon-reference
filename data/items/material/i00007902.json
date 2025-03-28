@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7902,
+    "name": "Lapis Lazuli",
+    "info": "Gem Crafting Material:\nA gem that holds magic, blue with golden stripes.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 4
+    },
+    "sell_price": 375,
+    "weight": 0,
+    "item_level": 8
+}

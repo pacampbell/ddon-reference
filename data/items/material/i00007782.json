@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7782,
+    "name": "Silver Bristle",
+    "info": "Fur Crafting Material:\nThe strong fur of a silver monkey demon. A rare\nitem.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 105
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 9
+}

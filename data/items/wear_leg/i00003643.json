@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3643,
+    "name": "Secret of Muse",
+    "info": "",
+    "icon": {
+        "icon_id": 803,
+        "color_id": 10
+    },
+    "sell_price": 2500,
+    "weight": 5,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 56,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 58,
+        "magic_attack": 0,
+        "magic_defense": 58,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 235
+        }
+    ]
+}

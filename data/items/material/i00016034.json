@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16034,
+    "name": "Crest of Herculean Power (Blinding)",
+    "info": "A crest that changes the magic attribute of the\nequipped weapon to dark, and further strengthens\nits performance.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

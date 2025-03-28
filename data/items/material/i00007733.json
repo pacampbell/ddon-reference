@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7733,
+    "name": "Large Simian Thick Pelt",
+    "info": "Pelt Crafting Material.\nThick and sturdy skin of a large ape beast.",
+    "icon": {
+        "icon_id": 497,
+        "color_id": 102
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 4
+}

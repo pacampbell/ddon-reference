@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15918,
+    "name": "Ancient Iron Ingot",
+    "info": "Metal Crafting Material: A lump of metal that\nclosely resembles iron, but is not easily found in\nthe modern era.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 13
+}

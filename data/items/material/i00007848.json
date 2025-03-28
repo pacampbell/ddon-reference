@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7848,
+    "name": "Blue Alluvial Gold",
+    "info": "Sand Crafting Material: Fine sand containing a\nmetallic blue tint.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 3
+    },
+    "sell_price": 85,
+    "weight": 0,
+    "item_level": 6
+}

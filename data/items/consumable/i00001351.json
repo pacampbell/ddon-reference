@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 1351,
+    "name": "Mushroom Saut\u00e9",
+    "info": "A dish using mushrooms as the main ingredient\nBestows various buffs upon eating",
+    "icon": {
+        "icon_id": 457,
+        "color_id": 2
+    },
+    "sell_price": 37,
+    "weight": 0,
+    "item_level": 3,
+    "max_stack": 10
+}

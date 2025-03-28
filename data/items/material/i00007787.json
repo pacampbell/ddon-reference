@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7787,
+    "name": "Large Fang",
+    "info": "Fang Crafting Material: Fangs of large\ncarnivorous animals such as Direwolves.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 3
+    },
+    "sell_price": 260,
+    "weight": 0,
+    "item_level": 5
+}

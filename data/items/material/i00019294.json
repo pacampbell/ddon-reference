@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19294,
+    "name": "Cloth of Ambition",
+    "info": "Cloth Crafting Material: Cloth filled with\nambition.",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 28
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 1
+}

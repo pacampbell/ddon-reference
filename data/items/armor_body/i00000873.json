@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 873,
+    "name": "Tracer's Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 195,
+        "color_id": 8
+    },
+    "sell_price": 3630,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 36,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 161,
+        "magic_attack": 0,
+        "magic_defense": 143,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 16
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 703
+        }
+    ]
+}

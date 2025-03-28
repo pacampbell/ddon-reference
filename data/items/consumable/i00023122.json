@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23122,
+    "name": "Bitterblack Maze Reset Ticket",
+    "info": "Reset the progress of Bitterblack Maze.",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 15
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

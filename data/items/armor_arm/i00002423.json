@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2423,
+    "name": "Sacred Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 51,
+        "color_id": 6
+    },
+    "sell_price": 640,
+    "weight": 23,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 20,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 60,
+        "magic_attack": 0,
+        "magic_defense": 50,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

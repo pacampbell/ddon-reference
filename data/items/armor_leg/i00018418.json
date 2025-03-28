@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18418,
+    "name": "Kier Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1350,
+        "color_id": 11
+    },
+    "sell_price": 14402,
+    "weight": 42,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 402,
+        "magic_attack": 5,
+        "magic_defense": 321,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 85
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 738
+        }
+    ]
+}

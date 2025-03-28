@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 11510,
+    "name": "Superior Anti-Corruption Medicine",
+    "info": "Grants the user the\nspecified status effect.",
+    "icon": {
+        "icon_id": 1412,
+        "color_id": 1
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 4,
+    "max_stack": 50
+}

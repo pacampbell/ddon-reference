@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15947,
+    "name": "Old Geranium",
+    "info": "Floral Crafting Material: Has a pleasant scent\nand can also be used as an ingredient for\nperfumes.",
+    "icon": {
+        "icon_id": 509,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

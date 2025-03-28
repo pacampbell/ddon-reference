@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 13796,
+    "name": "Shining Bangle",
+    "info": "",
+    "icon": {
+        "icon_id": 661,
+        "color_id": 110
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 60,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 36
+        }
+    ]
+}

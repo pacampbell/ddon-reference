@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19737,
+    "name": "Hoshang's Scythe",
+    "info": "",
+    "icon": {
+        "icon_id": 2055,
+        "color_id": 111
+    },
+    "sell_price": 50000,
+    "weight": 105,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 23,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2779,
+        "magic_attack": 2677,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 541
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

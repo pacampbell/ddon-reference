@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 368,
+    "name": "Flamberge",
+    "info": "",
+    "icon": {
+        "icon_id": 869,
+        "color_id": 8
+    },
+    "sell_price": 3385,
+    "weight": 120,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 32,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 646,
+        "magic_attack": 303,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 242
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

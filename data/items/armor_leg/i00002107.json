@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2107,
+    "name": "Leather High Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 381,
+        "color_id": 5
+    },
+    "sell_price": 110,
+    "weight": 54,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 7,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 19,
+        "magic_attack": 0,
+        "magic_defense": 15,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 84
+        }
+    ]
+}

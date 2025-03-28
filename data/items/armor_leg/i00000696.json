@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 696,
+    "name": "Slayer's Bottoms",
+    "info": "",
+    "icon": {
+        "icon_id": 333,
+        "color_id": 9
+    },
+    "sell_price": 4420,
+    "weight": 72,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 150,
+        "magic_attack": 0,
+        "magic_defense": 120,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 43
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 640
+        }
+    ]
+}

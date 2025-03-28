@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14292,
+    "name": "Old Warpick",
+    "info": "",
+    "icon": {
+        "icon_id": 843,
+        "color_id": 10
+    },
+    "sell_price": 25604,
+    "weight": 60,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2162,
+        "magic_attack": 1926,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 456
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        }
+    ]
+}

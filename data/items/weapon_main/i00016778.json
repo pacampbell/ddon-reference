@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16778,
+    "name": "Melty Sei\u00f0r",
+    "info": "",
+    "icon": {
+        "icon_id": 1806,
+        "color_id": 82
+    },
+    "sell_price": 214,
+    "weight": 80,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 0,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1567,
+        "magic_attack": 1468,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 442
+        },
+        {
+            "id": 46,
+            "name": "KIND_TYPE_GOLD_SAV",
+            "value": 75
+        },
+        {
+            "id": 51,
+            "name": "KIND_TYPE_DOWN_FIRE_SAV",
+            "value": 75
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

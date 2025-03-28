@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23546,
+    "name": "Angelic Wafer",
+    "info": "A charming wafer with an adorable appearance that\nbrings healing even to the eyes.\nWith a gentle and light flavor, when consumed, it\nreplenishes your Health Points.",
+    "icon": {
+        "icon_id": 2603,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 24667,
+    "name": "Blackshatter Underpants",
+    "info": "",
+    "icon": {
+        "icon_id": 2821,
+        "color_id": 86
+    },
+    "sell_price": 0,
+    "weight": 5,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 190,
+        "magic_attack": 0,
+        "magic_defense": 190,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 77
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 322
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 21154,
+    "name": "Sauveur Mantle of the Royal Family",
+    "info": "",
+    "icon": {
+        "icon_id": 2241,
+        "color_id": 27
+    },
+    "sell_price": 0,
+    "weight": 10,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 21,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 184,
+        "magic_attack": 0,
+        "magic_defense": 184,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 105,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 17457,
+    "name": "Khidir's Torch",
+    "info": "",
+    "icon": {
+        "icon_id": 922,
+        "color_id": 11
+    },
+    "sell_price": 6854,
+    "weight": 46,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2292,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

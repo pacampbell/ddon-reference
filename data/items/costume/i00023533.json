@@ -1,0 +1,60 @@
+{
+    "type": "equipment",
+    "item_id": 23533,
+    "name": "Ultramarine Hard Shell Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 2618,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 214,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Male"
+    ],
+    "stats": {
+        "attack": 28,
+        "defense": 2980,
+        "magic_attack": 28,
+        "magic_defense": 2981,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 300
+        },
+        {
+            "id": 13,
+            "name": "KIND_TYPE_SHOCK_DEF",
+            "value": 30
+        },
+        {
+            "id": 89,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 20
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1733
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1350
+        }
+    ]
+}

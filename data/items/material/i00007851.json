@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7851,
+    "name": "White Shining Sand",
+    "info": "Sand Crafting Material: A very fine sand that\nshines white.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 25023,
+    "name": "Fluffy Yarn",
+    "info": "String Crafting Material.\nFluffy and soft to the touch.\nWell-renowned for being easy to handle even for\nbeginners in knitting.",
+    "icon": {
+        "icon_id": 2962,
+        "color_id": 17
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 15
+}

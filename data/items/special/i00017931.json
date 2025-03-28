@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17931,
+    "name": "Puppet - Mikasa",
+    "info": "Puppet - Mikasa",
+    "icon": {
+        "icon_id": 1837,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 20
+}

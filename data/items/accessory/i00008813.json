@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8813,
+    "name": "Knight's Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 208,
+        "color_id": 6
+    },
+    "sell_price": 180,
+    "weight": 10,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 12,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 10,
+        "magic_attack": 0,
+        "magic_defense": 10,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 3
+        }
+    ]
+}

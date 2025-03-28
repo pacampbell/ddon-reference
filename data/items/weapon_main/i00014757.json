@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14757,
+    "name": "Spiculum",
+    "info": "",
+    "icon": {
+        "icon_id": 1693,
+        "color_id": 9
+    },
+    "sell_price": 10585,
+    "weight": 100,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 44,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 902,
+        "magic_attack": 823,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 182
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7800,
+    "name": "Shadowy Claw",
+    "info": "Fang Crafting Material: Eerie Claw of the Shadow\nChimera.",
+    "icon": {
+        "icon_id": 469,
+        "color_id": 105
+    },
+    "sell_price": 820,
+    "weight": 0,
+    "item_level": 10
+}

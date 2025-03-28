@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 486,
+    "name": "Benefit Muffler",
+    "info": "",
+    "icon": {
+        "icon_id": 221,
+        "color_id": 8
+    },
+    "sell_price": 0,
+    "weight": 10,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 8,
+        "magic_attack": 0,
+        "magic_defense": 8,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 4
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 5
+        }
+    ]
+}

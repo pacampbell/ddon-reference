@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2161,
+    "name": "Dragon Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 87,
+        "color_id": 8
+    },
+    "sell_price": 4480,
+    "weight": 90,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 185,
+        "magic_attack": 0,
+        "magic_defense": 164,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 18
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 787
+        }
+    ]
+}

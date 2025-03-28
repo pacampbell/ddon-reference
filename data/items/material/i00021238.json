@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21238,
+    "name": "Royal Family Chants Grimoire",
+    "info": "Grimoire Crafting Material: A spellbook that\ncontains magic woven for the royal family.",
+    "icon": {
+        "icon_id": 537,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 14
+}

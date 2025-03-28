@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15977,
+    "name": "Gnarled Branch",
+    "info": "Wood Crafting Material: A small branch that has\ndeveloped a knot due to the effects of corruption.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 12
+}

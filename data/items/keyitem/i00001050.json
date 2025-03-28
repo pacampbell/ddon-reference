@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1050,
+    "name": "Kieshildt's Vessel of Life",
+    "info": "The legendary Vessel of Life.\nSeems to be filled with light.",
+    "icon": {
+        "icon_id": 534,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

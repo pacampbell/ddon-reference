@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18649,
+    "name": "Volcanic Glass",
+    "info": "Sand Crafting Material: Fine glass particles that\nhave rained down from the volcano.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 5
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 5
+}

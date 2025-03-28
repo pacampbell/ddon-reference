@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13236,
+    "name": "Cookware Set",
+    "info": "Cookware Set that can be placed in the Kitchen",
+    "icon": {
+        "icon_id": 1504,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

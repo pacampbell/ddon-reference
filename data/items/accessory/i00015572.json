@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15572,
+    "name": "Crimson Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 218,
+        "color_id": 10
+    },
+    "sell_price": 3111,
+    "weight": 10,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 72,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 109,
+        "magic_attack": 0,
+        "magic_defense": 109,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 23
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

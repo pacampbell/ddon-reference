@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1031,
+    "name": "Water Flow Control Room Key",
+    "info": "A key to the \"Water Flow Control Room\" in the\nTemple of Purification.\nDraconic markings are apparent.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

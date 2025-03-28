@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7788,
+    "name": "Crooked Fang",
+    "info": "Fang Crafting Material.\nWrenching Fangs of the Rampaging Ape, capable of\ncrushing anything.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 2
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

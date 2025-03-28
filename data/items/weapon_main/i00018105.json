@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 18105,
+    "name": "Staff of Younes",
+    "info": "",
+    "icon": {
+        "icon_id": 1386,
+        "color_id": 11
+    },
+    "sell_price": 37794,
+    "weight": 70,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 1,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2435,
+        "magic_attack": 2579,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 399
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7890,
+    "name": "Phantom Metal",
+    "info": "Metal Crafting Material: Mysterious metal refined\nfrom fragments of Spirit Iron Stone.",
+    "icon": {
+        "icon_id": 491,
+        "color_id": 6
+    },
+    "sell_price": 1010,
+    "weight": 0,
+    "item_level": 11
+}

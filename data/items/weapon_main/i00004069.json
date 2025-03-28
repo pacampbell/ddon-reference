@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 4069,
+    "name": "Adamant",
+    "info": "",
+    "icon": {
+        "icon_id": 968,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 100,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1509,
+        "magic_attack": 1410,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 296
+        },
+        {
+            "id": 53,
+            "name": "KIND_TYPE_DOWN_THUNDER_SAV",
+            "value": 45
+        },
+        {
+            "id": 59,
+            "name": "KIND_TYPE_DOWN_MAGIC_DEF_SAV",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

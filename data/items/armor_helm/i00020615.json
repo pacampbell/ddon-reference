@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 20615,
+    "name": "Pundit Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 1333,
+        "color_id": 10
+    },
+    "sell_price": 12300,
+    "weight": 39,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 5,
+        "defense": 421,
+        "magic_attack": 5,
+        "magic_defense": 675,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

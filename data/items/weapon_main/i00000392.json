@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 392,
+    "name": "Another Dimension",
+    "info": "",
+    "icon": {
+        "icon_id": 880,
+        "color_id": 10
+    },
+    "sell_price": 18005,
+    "weight": 120,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1472,
+        "magic_attack": 1056,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 413
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 102,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 80
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

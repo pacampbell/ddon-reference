@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24838,
+    "name": "Tidal Grimoire",
+    "info": "A typical Grimoire with a blue cover.",
+    "icon": {
+        "icon_id": 2958,
+        "color_id": 20
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

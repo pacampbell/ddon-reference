@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15995,
+    "name": "Griffin Spinel",
+    "info": "Gem Crafting Material: A pitch-black stone formed\nfrom the coagulated blood of an Infected Griffin.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 105
+    },
+    "sell_price": 1200,
+    "weight": 0,
+    "item_level": 6
+}

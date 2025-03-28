@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11944,
+    "name": "Silver Stakes",
+    "info": "",
+    "icon": {
+        "icon_id": 883,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 100,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2061,
+        "magic_attack": 1606,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 791
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

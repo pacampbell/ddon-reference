@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9456,
+    "name": "Rare Netherworld Crystal",
+    "info": "Crafting Material that can only be obtained in\nspecific locations.\nIt is a crystallization of Dragon Force that has\nbeen tainted by exposure to miasma.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 23
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 12
+}

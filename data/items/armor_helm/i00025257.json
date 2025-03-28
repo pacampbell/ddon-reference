@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25257,
+    "name": "Solitary Assault Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 249,
+        "color_id": 11
+    },
+    "sell_price": 15000,
+    "weight": 39,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 599,
+        "magic_attack": 11,
+        "magic_defense": 959,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

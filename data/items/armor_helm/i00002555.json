@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 2555,
+    "name": "Incognito Mask",
+    "info": "",
+    "icon": {
+        "icon_id": 285,
+        "color_id": 6
+    },
+    "sell_price": 180,
+    "weight": 27,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 13,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 28,
+        "magic_attack": 0,
+        "magic_defense": 45,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": []
+}

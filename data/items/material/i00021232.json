@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21232,
+    "name": "Giant Animal Skull",
+    "info": "Bone Crafting Material:\nLarge bones that are of a certain size and easy\nto process.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 16
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 4
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12836,
+    "name": "Bishop Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1312,
+        "color_id": 111
+    },
+    "sell_price": 6339,
+    "weight": 34,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 289,
+        "magic_attack": 0,
+        "magic_defense": 241,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 14
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 5
+        }
+    ]
+}

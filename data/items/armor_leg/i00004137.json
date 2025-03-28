@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4137,
+    "name": "Garrison's Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 417,
+        "color_id": 5
+    },
+    "sell_price": 75,
+    "weight": 54,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 24,
+        "magic_attack": 0,
+        "magic_defense": 19,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 72
+        }
+    ]
+}

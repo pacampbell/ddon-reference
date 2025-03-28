@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 21727,
+    "name": "Olfring Breaker (Radiance)",
+    "info": "",
+    "icon": {
+        "icon_id": 1455,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 100,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2621,
+        "magic_attack": 2140,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 885
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 15
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

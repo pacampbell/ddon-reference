@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4751,
+    "name": "Strength",
+    "info": "",
+    "icon": {
+        "icon_id": 858,
+        "color_id": 6
+    },
+    "sell_price": 340,
+    "weight": 40,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 13,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 156
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 10
+        }
+    ]
+}

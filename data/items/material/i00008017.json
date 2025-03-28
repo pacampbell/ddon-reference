@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8017,
+    "name": "Beautiful Conch Shell",
+    "info": "Miscellaneous Crafting Material: Slightly rare\nspiral shell with beautiful five-layered patterns.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 3
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 5
+}

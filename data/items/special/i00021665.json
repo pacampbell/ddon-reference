@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21665,
+    "name": "Horror Night Cushion",
+    "info": "A\ncushion perfect for Horror Night.",
+    "icon": {
+        "icon_id": 2425,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 33
+}

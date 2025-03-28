@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24729,
+    "name": "Tree Core Grass",
+    "info": "Floral Crafting Material.\nWhile it only grows a few centimeters tall, this\nmysterious plant shines with the same color as the\ncore tree.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

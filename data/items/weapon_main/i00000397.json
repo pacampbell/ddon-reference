@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 397,
+    "name": "Memento Mori",
+    "info": "",
+    "icon": {
+        "icon_id": 975,
+        "color_id": 9
+    },
+    "sell_price": 12010,
+    "weight": 80,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 49,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 968,
+        "magic_attack": 879,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 193
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

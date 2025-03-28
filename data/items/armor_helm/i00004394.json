@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 4394,
+    "name": "Bellwether Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 296,
+        "color_id": 7
+    },
+    "sell_price": 1440,
+    "weight": 27,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 30,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 81,
+        "magic_attack": 0,
+        "magic_defense": 129,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": []
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7736,
+    "name": "Saurian Tail",
+    "info": "Meat-based crafting material.\nTip of a Lizardman's tail.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 2
+}

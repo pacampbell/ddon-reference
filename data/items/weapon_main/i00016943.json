@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 16943,
+    "name": "Conspicuous Rusted Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1656,
+        "color_id": 101
+    },
+    "sell_price": 200,
+    "weight": 100,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 23,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1550,
+        "magic_attack": 1294,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 235
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

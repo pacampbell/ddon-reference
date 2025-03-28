@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 21685,
+    "name": "Bear's Cap (Brown)",
+    "info": "",
+    "icon": {
+        "icon_id": 2464,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 1,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 351,
+        "magic_attack": 4,
+        "magic_defense": 562,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

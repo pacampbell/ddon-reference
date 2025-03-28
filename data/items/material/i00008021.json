@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8021,
+    "name": "Ancient Knight's Emblem",
+    "info": "Miscellaneous Crafting Material:\nGold fittings with a crest worn by the Knight of\nthe Netherworld.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 106
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

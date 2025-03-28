@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 467,
+    "name": "Tiger Bangles",
+    "info": "",
+    "icon": {
+        "icon_id": 37,
+        "color_id": 5
+    },
+    "sell_price": 60,
+    "weight": 23,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 6,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 22,
+        "magic_attack": 0,
+        "magic_defense": 19,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 2
+        }
+    ]
+}

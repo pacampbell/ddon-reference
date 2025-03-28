@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 15166,
+    "name": "Phindymian Breastplate",
+    "info": "",
+    "icon": {
+        "icon_id": 1606,
+        "color_id": 111
+    },
+    "sell_price": 2953,
+    "weight": 10,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 159,
+        "magic_attack": 0,
+        "magic_defense": 159,
+        "crest_slot": 0,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 395
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21787,
+    "name": "Crystal of Inspiration",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines yellow.",
+    "icon": {
+        "icon_id": 2511,
+        "color_id": 19
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 14
+}

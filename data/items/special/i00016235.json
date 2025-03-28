@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16235,
+    "name": "Recipe: Puppet - Giant Mandragora",
+    "info": "Furniture recipe",
+    "icon": {
+        "icon_id": 1759,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

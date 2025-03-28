@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21262,
+    "name": "Blazing Lizard Pelt",
+    "info": "Pelt Crafting Material: Salamander's Skin, imbued\nwith the heat of flames.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 14
+}

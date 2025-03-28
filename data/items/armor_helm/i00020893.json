@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 20893,
+    "name": "Redoutable Head",
+    "info": "",
+    "icon": {
+        "icon_id": 2253,
+        "color_id": 111
+    },
+    "sell_price": 14760,
+    "weight": 38,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 8,
+        "defense": 493,
+        "magic_attack": 8,
+        "magic_defense": 789,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 28,
+            "name": "KIND_TYPE_SPIRIT",
+            "value": 7
+        }
+    ]
+}

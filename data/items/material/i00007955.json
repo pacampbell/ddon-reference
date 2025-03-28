@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7955,
+    "name": "Iron Thread",
+    "info": "String Crafting Material: String material for\ncrafting, made from a combination of Giant fur and\niron powder, used for armor.",
+    "icon": {
+        "icon_id": 503,
+        "color_id": 3
+    },
+    "sell_price": 195,
+    "weight": 0,
+    "item_level": 6
+}

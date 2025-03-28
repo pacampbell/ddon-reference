@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2843,
+    "name": "Sky Anchor",
+    "info": "",
+    "icon": {
+        "icon_id": 1015,
+        "color_id": 7
+    },
+    "sell_price": 3385,
+    "weight": 120,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 27,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 347,
+        "magic_attack": 461,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        }
+    ]
+}

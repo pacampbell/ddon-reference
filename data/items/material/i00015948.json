@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15948,
+    "name": "Premium Fragrant Wood",
+    "info": "Wood Crafting Material:\nHigh-quality wood that emits a pleasant fragrance.",
+    "icon": {
+        "icon_id": 505,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

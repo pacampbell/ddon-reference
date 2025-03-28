@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11507,
+    "name": "Stone Arm",
+    "info": "Ore Crafting Material: Strange stone with a\npeculiar shape resembling an arm.",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 15
+}

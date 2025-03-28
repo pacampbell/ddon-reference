@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3236,
+    "name": "Dragoon Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 3,
+        "color_id": 8
+    },
+    "sell_price": 2560,
+    "weight": 45,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 125,
+        "magic_attack": 0,
+        "magic_defense": 104,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 9
+        }
+    ]
+}

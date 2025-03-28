@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 12621,
+    "name": "Scholarly Eye",
+    "info": "",
+    "icon": {
+        "icon_id": 1333,
+        "color_id": 111
+    },
+    "sell_price": 7351,
+    "weight": 36,
+    "item_level": 13,
+    "quality": 6,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 272,
+        "magic_attack": 0,
+        "magic_defense": 435,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8340,
+    "name": "Destroyer Greaves",
+    "info": "",
+    "icon": {
+        "icon_id": 350,
+        "color_id": 10
+    },
+    "sell_price": 7209,
+    "weight": 72,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 62,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 214,
+        "magic_attack": 0,
+        "magic_defense": 171,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 54
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 732
+        }
+    ]
+}

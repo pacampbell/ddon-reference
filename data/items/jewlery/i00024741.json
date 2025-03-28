@@ -1,0 +1,37 @@
+{
+    "type": "jewlery",
+    "item_id": 24741,
+    "name": "Ring of Order",
+    "info": "",
+    "icon": {
+        "icon_id": 698,
+        "color_id": 122
+    },
+    "sell_price": 100,
+    "weight": 1,
+    "level": 1,
+    "item_level": 2,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 35
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 8
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 350
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 350
+        }
+    ]
+}

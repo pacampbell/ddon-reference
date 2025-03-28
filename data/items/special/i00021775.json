@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21775,
+    "name": "Recipe: Golden Eye Lantern",
+    "info": "Recipe for Golden Eye Lantern",
+    "icon": {
+        "icon_id": 2283,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

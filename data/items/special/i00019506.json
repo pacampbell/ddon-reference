@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 19506,
+    "name": "Spirit Dragon Statue",
+    "info": "This is an object that can be displayed in your\nroom, modeled after the appearance of a Spirit\nDragon that protects Phindym.",
+    "icon": {
+        "icon_id": 2406,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 32
+}

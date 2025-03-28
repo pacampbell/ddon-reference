@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19719,
+    "name": "Adamas Military Expedition Shooter",
+    "info": "",
+    "icon": {
+        "icon_id": 2160,
+        "color_id": 84
+    },
+    "sell_price": 50000,
+    "weight": 60,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2438,
+        "magic_attack": 2621,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 384
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

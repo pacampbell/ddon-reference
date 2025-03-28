@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15017,
+    "name": "Ancient Beast Half Plate",
+    "info": "",
+    "icon": {
+        "icon_id": 131,
+        "color_id": 11
+    },
+    "sell_price": 14768,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 549,
+        "magic_attack": 3,
+        "magic_defense": 488,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1155
+        }
+    ]
+}

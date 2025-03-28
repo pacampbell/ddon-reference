@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19013,
+    "name": "True Hidden Sei\u00f0r",
+    "info": "",
+    "icon": {
+        "icon_id": 980,
+        "color_id": 111
+    },
+    "sell_price": 34270,
+    "weight": 80,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 5,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3136,
+        "magic_attack": 3017,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 631
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

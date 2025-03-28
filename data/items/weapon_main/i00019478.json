@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 19478,
+    "name": "Olfring Bow (Sea)",
+    "info": "",
+    "icon": {
+        "icon_id": 2156,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1756,
+        "magic_attack": 1485,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 331
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

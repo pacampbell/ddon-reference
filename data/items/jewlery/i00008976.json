@@ -1,0 +1,16 @@
+{
+    "type": "jewlery",
+    "item_id": 8976,
+    "name": "Sapphire Pendant",
+    "info": "",
+    "icon": {
+        "icon_id": 599,
+        "color_id": 7
+    },
+    "sell_price": 600,
+    "weight": 1,
+    "level": 26,
+    "item_level": 6,
+    "stats": {},
+    "params": []
+}

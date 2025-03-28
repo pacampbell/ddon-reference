@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 1684,
+    "name": "Shortbow",
+    "info": "",
+    "icon": {
+        "icon_id": 943,
+        "color_id": 5
+    },
+    "sell_price": 10,
+    "weight": 70,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 115,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 25
+        }
+    ]
+}

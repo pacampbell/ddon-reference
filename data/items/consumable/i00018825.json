@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 18825,
+    "name": "AP (Urteca Mountains)",
+    "info": "You can obtain Urteca Mountains AP.",
+    "icon": {
+        "icon_id": 462,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 255
+}

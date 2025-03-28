@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 5433,
+    "name": "Amilec Hood",
+    "info": "",
+    "icon": {
+        "icon_id": 317,
+        "color_id": 10
+    },
+    "sell_price": 5760,
+    "weight": 27,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 215,
+        "magic_attack": 0,
+        "magic_defense": 344,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 10,
+            "name": "KIND_TYPE_GOLD_DEF",
+            "value": 5
+        }
+    ]
+}

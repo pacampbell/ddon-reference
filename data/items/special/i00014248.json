@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 14248,
+    "name": "Halloween Carnival",
+    "info": "Trick or Treat!\nDecorate the room with a Halloween mood.",
+    "icon": {
+        "icon_id": 1536,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

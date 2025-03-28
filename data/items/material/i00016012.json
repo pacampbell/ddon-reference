@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16012,
+    "name": "Thousand-Year Moss",
+    "info": "Mushroom Crafting Material.\nA very long-lived moss that adheres to the body\nof a Phindymian Ent.",
+    "icon": {
+        "icon_id": 511,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 12
+}

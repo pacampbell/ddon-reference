@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2974,
+    "name": "Aspro Neraida",
+    "info": "",
+    "icon": {
+        "icon_id": 990,
+        "color_id": 7
+    },
+    "sell_price": 3925,
+    "weight": 90,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 29,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 439,
+        "magic_attack": 550,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 99
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 18554,
+    "name": "Black Venom Gauntlet",
+    "info": "",
+    "icon": {
+        "icon_id": 2083,
+        "color_id": 82
+    },
+    "sell_price": 30000,
+    "weight": 72,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2162,
+        "magic_attack": 2054,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 431
+        },
+        {
+            "id": 44,
+            "name": "KIND_TYPE_SOFTBODY_SAV",
+            "value": 80
+        },
+        {
+            "id": 47,
+            "name": "KIND_TYPE_SPRED_SAV",
+            "value": 10
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

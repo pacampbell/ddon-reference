@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 13243,
+    "name": "Moody Lamp - Berry",
+    "info": "Room lamp that illuminates the interior with\nbright light",
+    "icon": {
+        "icon_id": 1510,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8
+}

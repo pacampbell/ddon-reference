@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4056,
+    "name": "Robustum",
+    "info": "",
+    "icon": {
+        "icon_id": 973,
+        "color_id": 9
+    },
+    "sell_price": 11050,
+    "weight": 80,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 2,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 918,
+        "magic_attack": 830,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 191
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

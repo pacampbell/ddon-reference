@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17907,
+    "name": "Dried Test Sample",
+    "info": "Miscellaneous Crafting Material:\nSolidified objects that have dried up.\nShowing traces of being used in some kind of\nexperiment.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 16
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 5
+}

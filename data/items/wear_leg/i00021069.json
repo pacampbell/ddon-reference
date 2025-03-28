@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 21069,
+    "name": "Revanche Pants",
+    "info": "",
+    "icon": {
+        "icon_id": 2295,
+        "color_id": 111
+    },
+    "sell_price": 3672,
+    "weight": 6,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 184,
+        "magic_attack": 0,
+        "magic_defense": 184,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 305
+        }
+    ]
+}

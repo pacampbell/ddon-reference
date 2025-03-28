@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11782,
+    "name": "Long Dragon Beard",
+    "info": "Crafting materials with limited availability\nEspecially long and sturdy Dragon Beard material.",
+    "icon": {
+        "icon_id": 1423,
+        "color_id": 28
+    },
+    "sell_price": 952,
+    "weight": 0,
+    "item_level": 14
+}

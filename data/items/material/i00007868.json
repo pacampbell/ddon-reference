@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7868,
+    "name": "Phantom Ore",
+    "info": "Ore Crafting Material:\nA mysterious stone imbued with a pale, shimmering\nglow.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

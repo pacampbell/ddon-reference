@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8024,
+    "name": "Rusted Plate",
+    "info": "Miscellaneous Crafting Material: A part of the\ngreatsword wielded by the fortified swordsman of\nbone.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 3
+    },
+    "sell_price": 130,
+    "weight": 0,
+    "item_level": 6
+}

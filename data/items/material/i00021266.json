@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21266,
+    "name": "Ancient Warrior's Bone",
+    "info": "Bone Crafting Material: Ancient Warrior's Bone,\nwhich bears the traces of rigorous training from\nlong ago.",
+    "icon": {
+        "icon_id": 472,
+        "color_id": 4
+    },
+    "sell_price": 1500,
+    "weight": 0,
+    "item_level": 14
+}

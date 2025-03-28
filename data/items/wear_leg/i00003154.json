@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3154,
+    "name": "Benefit Hose M",
+    "info": "",
+    "icon": {
+        "icon_id": 801,
+        "color_id": 8
+    },
+    "sell_price": 125,
+    "weight": 5,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 8,
+        "magic_attack": 0,
+        "magic_defense": 8,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        },
+        {
+            "id": 29,
+            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "value": 5
+        }
+    ]
+}

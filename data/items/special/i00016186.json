@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16186,
+    "name": "Moody Lamp - Mint",
+    "info": "Room lamp that illuminates the interior with\nsoothing light",
+    "icon": {
+        "icon_id": 1748,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

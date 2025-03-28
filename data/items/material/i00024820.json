@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24820,
+    "name": "Tinctura",
+    "info": "Ore Crafting Material.\nA synthetic ore that serves as a catalyst to\ntransform iron and lead into gold and silver.\nIt was created by ancient alchemists but remains\nincomplete, with its properties being unstable.",
+    "icon": {
+        "icon_id": 2929,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

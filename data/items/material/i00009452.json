@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9452,
+    "name": "Alchemical Extract",
+    "info": "A material used as a foundation when creating\nspecial equipment with alchemical materials.\nCan be used as a crafting material for specific\nequipment.",
+    "icon": {
+        "icon_id": 1274,
+        "color_id": 106
+    },
+    "sell_price": 750,
+    "weight": 0,
+    "item_level": 12
+}

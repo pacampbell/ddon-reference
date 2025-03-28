@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 14076,
+    "name": "Obsidian Rod",
+    "info": "",
+    "icon": {
+        "icon_id": 1244,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 20,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 2,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 948,
+        "crest_slot": 4,
+        "ele_slot": 16
+    },
+    "params": []
+}

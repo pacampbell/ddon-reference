@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7831,
+    "name": "Blessed Drop",
+    "info": "Liquid Crafting Material.\nA mysterious droplet brimming with abundant life\nforce.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 5
+    },
+    "sell_price": 325,
+    "weight": 0,
+    "item_level": 9
+}

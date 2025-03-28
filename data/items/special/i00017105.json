@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17105,
+    "name": "PlayStation\u00ae Awards Trophy",
+    "info": "DDON was awarded\na commemorative trophy.",
+    "icon": {
+        "icon_id": 1828,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 20
+}

@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 12779,
+    "name": "Intelligent Augite Choker",
+    "info": "",
+    "icon": {
+        "icon_id": 600,
+        "color_id": 83
+    },
+    "sell_price": 3000,
+    "weight": 1,
+    "level": 1,
+    "item_level": 12,
+    "stats": {},
+    "params": [
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 15
+        }
+    ]
+}

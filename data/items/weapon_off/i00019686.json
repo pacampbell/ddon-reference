@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 19686,
+    "name": "Raoxshna's Veil",
+    "info": "",
+    "icon": {
+        "icon_id": 2038,
+        "color_id": 111
+    },
+    "sell_price": 50000,
+    "weight": 46,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 23,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 2676,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": []
+}

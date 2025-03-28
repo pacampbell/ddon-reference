@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9439,
+    "name": "Griffin Glossy Plume",
+    "info": "Feather Crafting Material:\nObtained from the wings of Griffins (Lv. 56 and\nabove).\nThese feathers are exceptionally beautiful and\nlarge, making them perfect for crafting purposes.",
+    "icon": {
+        "icon_id": 479,
+        "color_id": 106
+    },
+    "sell_price": 700,
+    "weight": 0,
+    "item_level": 12
+}

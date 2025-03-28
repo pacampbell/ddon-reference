@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 13614,
+    "name": "Marquis Cuisses",
+    "info": "",
+    "icon": {
+        "icon_id": 1399,
+        "color_id": 82
+    },
+    "sell_price": 12500,
+    "weight": 54,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 174,
+        "magic_attack": 0,
+        "magic_defense": 139,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 48
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 772
+        }
+    ]
+}

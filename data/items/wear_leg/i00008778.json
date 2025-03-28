@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 8778,
+    "name": "Hell's Banded",
+    "info": "",
+    "icon": {
+        "icon_id": 811,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 5,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 49,
+        "magic_attack": 0,
+        "magic_defense": 49,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 22
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 217
+        }
+    ]
+}

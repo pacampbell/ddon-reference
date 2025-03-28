@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 1054,
+    "name": "Low Level XP Up",
+    "info": "XP gain increased.\nEffective only until a certain level.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 1
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 1
+}

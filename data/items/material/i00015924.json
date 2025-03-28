@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15924,
+    "name": "Foreign Goddess Idol",
+    "info": "Miscellaneous Crafting Material: Holy Statue of\nthe Sacred Goddess, which was enshrined within the\nruins.",
+    "icon": {
+        "icon_id": 518,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 2
+}

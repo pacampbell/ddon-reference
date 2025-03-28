@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15252,
+    "name": "Azure Gauntlets",
+    "info": "",
+    "icon": {
+        "icon_id": 1550,
+        "color_id": 111
+    },
+    "sell_price": 9601,
+    "weight": 34,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 22,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 422,
+        "magic_attack": 4,
+        "magic_defense": 351,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 25
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 8
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 8
+        }
+    ]
+}

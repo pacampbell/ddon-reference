@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17938,
+    "name": "2nd Anniversary Puppet",
+    "info": "A cute puppet to celebrate the 2nd anniversary,\ncan be placed on top of a\nchest",
+    "icon": {
+        "icon_id": 1902,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

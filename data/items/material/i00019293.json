@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 19293,
+    "name": "Cloth of Fighting Spirit",
+    "info": "Cloth Crafting Material: Cloth filled with\nfighting spirit.",
+    "icon": {
+        "icon_id": 499,
+        "color_id": 28
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 1
+}

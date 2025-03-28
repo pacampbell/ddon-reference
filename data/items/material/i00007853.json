@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7853,
+    "name": "Iron Ore Fragment",
+    "info": "Ore Crafting Material: Iron Ore Fragments",
+    "icon": {
+        "icon_id": 487,
+        "color_id": 2
+    },
+    "sell_price": 37,
+    "weight": 0,
+    "item_level": 3
+}

@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 14211,
+    "name": "Bracelet of Endurance 4",
+    "info": "",
+    "icon": {
+        "icon_id": 660,
+        "color_id": 110
+    },
+    "sell_price": 500,
+    "weight": 1,
+    "level": 1,
+    "item_level": 15,
+    "stats": {},
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 6
+        }
+    ]
+}

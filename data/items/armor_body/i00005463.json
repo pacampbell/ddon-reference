@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 5463,
+    "name": "Infinity Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 139,
+        "color_id": 10
+    },
+    "sell_price": 10080,
+    "weight": 70,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 356,
+        "magic_attack": 0,
+        "magic_defense": 316,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

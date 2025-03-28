@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25440,
+    "name": "Solitary Ranger's Head",
+    "info": "",
+    "icon": {
+        "icon_id": 2783,
+        "color_id": 11
+    },
+    "sell_price": 15000,
+    "weight": 36,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 4,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 110,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 11,
+        "defense": 604,
+        "magic_attack": 11,
+        "magic_defense": 967,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

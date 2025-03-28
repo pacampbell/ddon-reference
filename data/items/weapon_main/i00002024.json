@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 2024,
+    "name": "Ostium",
+    "info": "",
+    "icon": {
+        "icon_id": 974,
+        "color_id": 10
+    },
+    "sell_price": 24505,
+    "weight": 100,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 3,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1708,
+        "magic_attack": 1606,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 336
+        },
+        {
+            "id": 53,
+            "name": "KIND_TYPE_DOWN_THUNDER_SAV",
+            "value": 45
+        },
+        {
+            "id": 62,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

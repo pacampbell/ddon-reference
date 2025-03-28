@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 2551,
+    "name": "Gloves of Sacred Protection",
+    "info": "",
+    "icon": {
+        "icon_id": 82,
+        "color_id": 10
+    },
+    "sell_price": 5015,
+    "weight": 45,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 58,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 232,
+        "magic_attack": 0,
+        "magic_defense": 194,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 12
+        }
+    ]
+}

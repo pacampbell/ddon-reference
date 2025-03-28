@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 15031,
+    "name": "Northern Arr\u00eat",
+    "info": "",
+    "icon": {
+        "icon_id": 168,
+        "color_id": 10
+    },
+    "sell_price": 16802,
+    "weight": 70,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 599,
+        "magic_attack": 3,
+        "magic_defense": 532,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 34
+        },
+        {
+            "id": 7,
+            "name": "KIND_TYPE_SEAL_DEF",
+            "value": 4
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

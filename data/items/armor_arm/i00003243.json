@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 3243,
+    "name": "Cruel Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 73,
+        "color_id": 8
+    },
+    "sell_price": 2310,
+    "weight": 45,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 38,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 118,
+        "magic_attack": 0,
+        "magic_defense": 98,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 8
+        }
+    ]
+}

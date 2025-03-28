@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8032,
+    "name": "Golden Dragon King Wedge",
+    "info": "Crafting materials with limited availability:\nAn advanced magical wedge that was fixed to the\nbody of the Golden Dragon.",
+    "icon": {
+        "icon_id": 1275,
+        "color_id": 28
+    },
+    "sell_price": 610,
+    "weight": 0,
+    "item_level": 12
+}

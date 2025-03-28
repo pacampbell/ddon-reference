@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 49,
+    "name": "Dreed Master Key",
+    "info": "A key that opens the master chamber in Dreed\nCastle.\nA shield and the White Dragon are engraved.",
+    "icon": {
+        "icon_id": 461,
+        "color_id": 4
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 8,
+    "max_stack": 99
+}

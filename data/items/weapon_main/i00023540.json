@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 23540,
+    "name": "Thorny Spear of Fresh Blood",
+    "info": "",
+    "icon": {
+        "icon_id": 2622,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 100,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3136,
+        "magic_attack": 3029,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 611
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 64,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 66,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

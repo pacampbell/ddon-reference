@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7807,
+    "name": "Mutated Bone Lump",
+    "info": "Bone Crafting Material.\nA bone mass from the fused head of a Chimera.\nA rare item.",
+    "icon": {
+        "icon_id": 474,
+        "color_id": 4
+    },
+    "sell_price": 185,
+    "weight": 0,
+    "item_level": 7
+}

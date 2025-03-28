@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9258,
+    "name": "Crest of Incineration",
+    "info": "A crest that grants a magical fire\nattribute effect when equipped.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 8
+}

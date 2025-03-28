@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1721,
+    "name": "Magic in the Cage",
+    "info": "",
+    "icon": {
+        "icon_id": 1032,
+        "color_id": 6
+    },
+    "sell_price": 985,
+    "weight": 140,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_GAUNTLET",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 14,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 187,
+        "magic_attack": 390,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 129
+        }
+    ]
+}

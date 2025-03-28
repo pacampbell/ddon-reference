@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18661,
+    "name": "Beast-Luring Meat",
+    "info": "Meat Crafting Material: A piece of meat that has\nbeen processed to emit a strong odor, attracting\nanimals.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 105
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 0
+}

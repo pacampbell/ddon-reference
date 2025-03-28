@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7959,
+    "name": "Gleipnir",
+    "info": "String Crafting Material:\nA mythical rope crafted with secret techniques\nthat is absolutely unbreakable.",
+    "icon": {
+        "icon_id": 504,
+        "color_id": 5
+    },
+    "sell_price": 615,
+    "weight": 0,
+    "item_level": 10
+}

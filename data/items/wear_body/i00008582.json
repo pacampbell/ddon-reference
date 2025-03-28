@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8582,
+    "name": "Blessing Vest",
+    "info": "",
+    "icon": {
+        "icon_id": 790,
+        "color_id": 5
+    },
+    "sell_price": 110,
+    "weight": 5,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 8,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 14,
+        "magic_attack": 0,
+        "magic_defense": 14,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 72
+        }
+    ]
+}

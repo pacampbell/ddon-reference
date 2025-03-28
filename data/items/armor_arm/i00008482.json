@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 8482,
+    "name": "Vigorous Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 78,
+        "color_id": 6
+    },
+    "sell_price": 520,
+    "weight": 45,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 18,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 63,
+        "magic_attack": 0,
+        "magic_defense": 53,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        }
+    ]
+}

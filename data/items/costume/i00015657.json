@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 15657,
+    "name": "Ancient Folk Maiden's Clothes",
+    "info": "",
+    "icon": {
+        "icon_id": 1585,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 240,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 458,
+        "magic_attack": 4,
+        "magic_defense": 458,
+        "crest_slot": 0,
+        "ele_slot": 4
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 109
+        },
+        {
+            "id": 15,
+            "name": "KIND_TYPE_SWOON_DEF",
+            "value": 20
+        },
+        {
+            "id": 26,
+            "name": "KIND_TYPE_EROSION_DEF",
+            "value": 12
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 720
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 400
+        }
+    ]
+}

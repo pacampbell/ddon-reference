@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7730,
+    "name": "Eye Gem",
+    "info": "Gem Crafting Material.\nA gem located in the center of the Jewel Eye.\nA rare item.",
+    "icon": {
+        "icon_id": 495,
+        "color_id": 5
+    },
+    "sell_price": 515,
+    "weight": 0,
+    "item_level": 10
+}

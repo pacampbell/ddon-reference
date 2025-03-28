@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15987,
+    "name": "Jet Black Fur",
+    "info": "Fur Crafting Material: Deep black animal fur,\nlike the darkness of the night.",
+    "icon": {
+        "icon_id": 477,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 1
+}

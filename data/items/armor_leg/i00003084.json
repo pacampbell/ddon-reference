@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3084,
+    "name": "Composite Bottoms",
+    "info": "",
+    "icon": {
+        "icon_id": 348,
+        "color_id": 6
+    },
+    "sell_price": 510,
+    "weight": 36,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 16,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 43,
+        "magic_attack": 0,
+        "magic_defense": 35,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 18
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 193
+        }
+    ]
+}

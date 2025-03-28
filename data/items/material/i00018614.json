@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18614,
+    "name": "Night Emperor Ring Plate",
+    "info": "A ring-shaped plate that can be exchanged for the\nSupreme Jewelry \"Night Emperor\", which grants the\naugments:\nRakshasa, Yasha, Sky Annihilation, Egression,\nHoly Body",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 5,
+    "weight": 0,
+    "item_level": 6
+}

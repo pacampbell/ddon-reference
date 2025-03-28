@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9406,
+    "name": "All-Purpose Lockpick",
+    "info": "Used to open locked treasure chests.\nHas a chance to break upon use.",
+    "icon": {
+        "icon_id": 454,
+        "color_id": 80
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

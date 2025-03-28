@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16510,
+    "name": "Roaring Blaze Scale Bow",
+    "info": "",
+    "icon": {
+        "icon_id": 1379,
+        "color_id": 84
+    },
+    "sell_price": 20000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "weapon_type": "ARCHISTAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1997,
+        "magic_attack": 1718,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 396
+        },
+        {
+            "id": 54,
+            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "value": 12
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 32,
+            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "value": 28
+        }
+    ]
+}

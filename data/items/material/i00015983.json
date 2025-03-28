@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15983,
+    "name": "Transparent Coarse Sand",
+    "info": "Sand Crafting Material: Sand made from crushed\ncolorless transparent crystals.",
+    "icon": {
+        "icon_id": 486,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 1
+}

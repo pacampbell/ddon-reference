@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 16473,
+    "name": "Mark of the Arisen (Decoration)",
+    "info": "",
+    "icon": {
+        "icon_id": 861,
+        "color_id": 82
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 3,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

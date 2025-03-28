@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 17415,
+    "name": "Pyxis Guard",
+    "info": "",
+    "icon": {
+        "icon_id": 860,
+        "color_id": 11
+    },
+    "sell_price": 6854,
+    "weight": 40,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 83,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 434
+        }
+    ]
+}

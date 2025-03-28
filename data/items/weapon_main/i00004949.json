@@ -1,0 +1,55 @@
+{
+    "type": "equipment",
+    "item_id": 4949,
+    "name": "Heaven's Door",
+    "info": "",
+    "icon": {
+        "icon_id": 900,
+        "color_id": 9
+    },
+    "sell_price": 8468,
+    "weight": 170,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 4,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 47,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 904,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 297
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 290
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 30,
+            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "value": 10
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 5
+        }
+    ]
+}

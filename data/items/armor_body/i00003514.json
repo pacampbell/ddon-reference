@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3514,
+    "name": "Maverick Coat",
+    "info": "",
+    "icon": {
+        "icon_id": 191,
+        "color_id": 10
+    },
+    "sell_price": 6185,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 56,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 329,
+        "magic_attack": 0,
+        "magic_defense": 292,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 24
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

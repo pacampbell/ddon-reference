@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 3295,
+    "name": "Pirate's Jacket",
+    "info": "",
+    "icon": {
+        "icon_id": 161,
+        "color_id": 8
+    },
+    "sell_price": 4045,
+    "weight": 70,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 38,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 177,
+        "magic_attack": 0,
+        "magic_defense": 157,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 17
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 745
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21293,
+    "name": "Bright Fire Wing",
+    "info": "Covered in tough scales, with wing membranes that\nglow with the power of fire.\nIt seems to be a suitable item for appraisal\nexchange.",
+    "icon": {
+        "icon_id": 2599,
+        "color_id": 105
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 8
+}

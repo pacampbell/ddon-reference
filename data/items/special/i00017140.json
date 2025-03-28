@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17140,
+    "name": "Tapestry - Alchemic",
+    "info": "Tapestry (Left) that can be installed in the Study",
+    "icon": {
+        "icon_id": 1888,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 30
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 12930,
+    "name": "Barbarian Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 354,
+        "color_id": 10
+    },
+    "sell_price": 8418,
+    "weight": 42,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 248,
+        "magic_attack": 0,
+        "magic_defense": 198,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 58
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 732
+        }
+    ]
+}

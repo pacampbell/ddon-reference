@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 10593,
+    "name": "Young Maiden's Battle Attire (Plain)",
+    "info": "",
+    "icon": {
+        "icon_id": 1180,
+        "color_id": 84
+    },
+    "sell_price": 35000,
+    "weight": 60,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_COSTUME",
+    "level": 1,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 960,
+        "magic_attack": 0,
+        "magic_defense": 960,
+        "crest_slot": 0,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 130
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1350
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 1044
+        }
+    ]
+}

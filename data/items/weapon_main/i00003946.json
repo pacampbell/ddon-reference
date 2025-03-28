@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 3946,
+    "name": "Heroic Spears",
+    "info": "",
+    "icon": {
+        "icon_id": 932,
+        "color_id": 8
+    },
+    "sell_price": 6850,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 4,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 37,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 581,
+        "magic_attack": 441,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 80
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

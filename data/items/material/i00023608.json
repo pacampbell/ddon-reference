@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23608,
+    "name": "Fighter's shooting attribute damage UP",
+    "info": "The damage inflicted by the Fighter's Pierce\nattribute increases. *This effect is activated\nwhen attacking or when it matches the physical\nattribute of the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

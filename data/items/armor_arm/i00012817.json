@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 12817,
+    "name": "Alloy Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 43,
+        "color_id": 11
+    },
+    "sell_price": 7351,
+    "weight": 34,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 326,
+        "magic_attack": 0,
+        "magic_defense": 272,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 8
+        },
+        {
+            "id": 20,
+            "name": "KIND_TYPE_DOWN_SAINT",
+            "value": 8
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7939,
+    "name": "Courtly Cloth",
+    "info": "Cloth Crafting Material.\nHigh-quality leather cloth with a smooth texture",
+    "icon": {
+        "icon_id": 500,
+        "color_id": 4
+    },
+    "sell_price": 370,
+    "weight": 0,
+    "item_level": 7
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21553,
+    "name": "Cookie Table - White",
+    "info": "A living room table with a sweet color scheme.",
+    "icon": {
+        "icon_id": 2416,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

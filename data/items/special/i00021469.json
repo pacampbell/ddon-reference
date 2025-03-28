@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21469,
+    "name": "Recipe: Fire Dragon Statue",
+    "info": "Recipe for Fire Dragon Statue",
+    "icon": {
+        "icon_id": 2407,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0
+}

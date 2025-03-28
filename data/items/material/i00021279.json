@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21279,
+    "name": "Reddish Dragon Scale",
+    "info": "Crafting materials with limited availability:\nDragon scales imbued with the intense heat of\nfire.",
+    "icon": {
+        "icon_id": 2598,
+        "color_id": 28
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 8
+}

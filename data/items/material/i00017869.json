@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17869,
+    "name": "Undead Wolf's Fang",
+    "info": "Fang Crafting Material:\nFang of the Magic Skeleton Warg.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 15
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25548,
+    "name": "Tricksters' Bliss Gauntlets",
+    "info": "",
+    "icon": {
+        "icon_id": 2216,
+        "color_id": 82
+    },
+    "sell_price": 10000,
+    "weight": 34,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 0,
+        "magic_attack": 0,
+        "magic_defense": 0,
+        "crest_slot": 4,
+        "ele_slot": 32
+    },
+    "params": []
+}

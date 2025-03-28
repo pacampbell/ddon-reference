@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 16152,
+    "name": "Ice Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 1734,
+        "color_id": 19
+    },
+    "sell_price": 10000,
+    "weight": 150,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 0,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1566,
+        "magic_attack": 1156,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 505
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 100
+        },
+        {
+            "id": 59,
+            "name": "KIND_TYPE_DOWN_MAGIC_DEF_SAV",
+            "value": 60
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

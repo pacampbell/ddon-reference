@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14750,
+    "name": "Hasta",
+    "info": "",
+    "icon": {
+        "icon_id": 1693,
+        "color_id": 7
+    },
+    "sell_price": 2885,
+    "weight": 100,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "SPIRIT_LANCE",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 24,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 517,
+        "magic_attack": 447,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 126
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

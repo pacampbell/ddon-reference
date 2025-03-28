@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15540,
+    "name": "Pallid Tights",
+    "info": "",
+    "icon": {
+        "icon_id": 802,
+        "color_id": 10
+    },
+    "sell_price": 2223,
+    "weight": 5,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 77,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 120,
+        "magic_attack": 0,
+        "magic_defense": 120,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 57
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 245
+        }
+    ]
+}

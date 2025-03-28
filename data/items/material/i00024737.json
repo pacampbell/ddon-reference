@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24737,
+    "name": "Otherworldly Drop",
+    "info": "A liquid that only Pawns can handle, used for\nspecial Crafts.",
+    "icon": {
+        "icon_id": 482,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

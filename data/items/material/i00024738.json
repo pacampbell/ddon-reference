@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 24738,
+    "name": "Orichalcum",
+    "info": "Metal Crafting Material.\nA very rare metal that, when processed as armor,\nemits an unparalleled hardness and brilliance.\nIt is soft and easy to work with, making it ideal\nfor crafting.",
+    "icon": {
+        "icon_id": 2927,
+        "color_id": 106
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 2
+}

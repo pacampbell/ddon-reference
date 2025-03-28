@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15974,
+    "name": "Envoy's Loathsome Tail",
+    "info": "Meat Crafting Material:\nThe severed tail of the Bearded Grigori, still\nemanating a sinister presence.",
+    "icon": {
+        "icon_id": 463,
+        "color_id": 5
+    },
+    "sell_price": 800,
+    "weight": 0,
+    "item_level": 13
+}

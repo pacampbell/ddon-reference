@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16183,
+    "name": "Puppet - Burrowing Giant Mandragora",
+    "info": "Through the cooperation of Lestanian artisans, a\npuppet has been created that can be placed on top\nof a chest, in a larger size.",
+    "icon": {
+        "icon_id": 1760,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

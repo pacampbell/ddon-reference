@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10236,
+    "name": "Olfring Shell (Heaven)",
+    "info": "",
+    "icon": {
+        "icon_id": 1133,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 40,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 2,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 168
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 10
+        }
+    ]
+}

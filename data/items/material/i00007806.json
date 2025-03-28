@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7806,
+    "name": "Huge Dragon Bone Lump",
+    "info": "Bone Crafting Material.\nA large cluster of bones from the Dragonkin.",
+    "icon": {
+        "icon_id": 474,
+        "color_id": 105
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 12
+}

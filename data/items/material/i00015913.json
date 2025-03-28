@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15913,
+    "name": "Carved Potsherd",
+    "info": "Miscellaneous Crafting Material: A fragment of\nold pottery with some kind of inscription engraved\non it.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 16
+    },
+    "sell_price": 300,
+    "weight": 0,
+    "item_level": 13
+}

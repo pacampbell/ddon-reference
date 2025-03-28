@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11505,
+    "name": "Ice Cube",
+    "info": "Ore Crafting Material:\nA jagged and brittle mineral infused with cold\nenergy.",
+    "icon": {
+        "icon_id": 488,
+        "color_id": 116
+    },
+    "sell_price": 600,
+    "weight": 0,
+    "item_level": 15
+}

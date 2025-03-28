@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 17852,
+    "name": "Acrean Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 1940,
+        "color_id": 111
+    },
+    "sell_price": 4332,
+    "weight": 10,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 139,
+        "magic_attack": 1,
+        "magic_defense": 139,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 18
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 12
+        }
+    ]
+}

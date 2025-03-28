@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7983,
+    "name": "King Bay Leaf",
+    "info": "Floral Crafting Material: A famous herb known as\nthe leaf that celebrates victory.",
+    "icon": {
+        "icon_id": 510,
+        "color_id": 4
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

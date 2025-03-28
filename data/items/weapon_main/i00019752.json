@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 19752,
+    "name": "Sword of Vermilion",
+    "info": "",
+    "icon": {
+        "icon_id": 1614,
+        "color_id": 11
+    },
+    "sell_price": 33390,
+    "weight": 60,
+    "item_level": 9,
+    "quality": 4,
+    "color_id": 5,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 93,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2944,
+        "magic_attack": 2690,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 581
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 2166,
+    "name": "Foul Armor",
+    "info": "",
+    "icon": {
+        "icon_id": 101,
+        "color_id": 8
+    },
+    "sell_price": 3235,
+    "weight": 90,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 34,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 153,
+        "magic_attack": 0,
+        "magic_defense": 136,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 661
+        }
+    ]
+}

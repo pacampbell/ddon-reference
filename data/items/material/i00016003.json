@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16003,
+    "name": "Morrow Lauan Wood",
+    "info": "Wood Crafting Material:\nA lightly soft wood, a specialty of the Morfaul\nregion.",
+    "icon": {
+        "icon_id": 507,
+        "color_id": 5
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 1
+}

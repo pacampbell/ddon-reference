@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18374,
+    "name": "Dools Bracers",
+    "info": "",
+    "icon": {
+        "icon_id": 1915,
+        "color_id": 111
+    },
+    "sell_price": 11974,
+    "weight": 37,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 0,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 506,
+        "magic_attack": 6,
+        "magic_defense": 421,
+        "crest_slot": 0,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 28
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        }
+    ]
+}

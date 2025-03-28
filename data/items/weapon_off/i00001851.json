@@ -1,0 +1,29 @@
+{
+    "type": "equipment",
+    "item_id": 1851,
+    "name": "Silver Spine",
+    "info": "",
+    "icon": {
+        "icon_id": 913,
+        "color_id": 8
+    },
+    "sell_price": 2890,
+    "weight": 40,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "GREATSHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 40,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 646,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

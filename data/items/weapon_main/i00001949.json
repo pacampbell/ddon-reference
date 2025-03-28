@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 1949,
+    "name": "Morgengl\u00fchen",
+    "info": "",
+    "icon": {
+        "icon_id": 992,
+        "color_id": 7
+    },
+    "sell_price": 2210,
+    "weight": 90,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 21,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 298,
+        "magic_attack": 402,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 75
+        }
+    ]
+}

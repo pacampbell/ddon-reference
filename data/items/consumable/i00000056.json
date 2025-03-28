@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 56,
+    "name": "White Dragon Gala Extract",
+    "info": "Recovers a portion of the user's stamina.",
+    "icon": {
+        "icon_id": 432,
+        "color_id": 80
+    },
+    "sell_price": 400,
+    "weight": 0,
+    "item_level": 15,
+    "max_stack": 10
+}

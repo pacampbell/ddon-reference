@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 8655,
+    "name": "Queen's Corset",
+    "info": "",
+    "icon": {
+        "icon_id": 789,
+        "color_id": 10
+    },
+    "sell_price": 2250,
+    "weight": 5,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
+    "level": 56,
+    "genders": [
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 78,
+        "magic_attack": 0,
+        "magic_defense": 78,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 369
+        }
+    ]
+}

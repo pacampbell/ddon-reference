@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17150,
+    "name": "Woolen Living Room Carpet - Forest",
+    "info": "A woven carpet that can be placed in the living\nroom.",
+    "icon": {
+        "icon_id": 1896,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

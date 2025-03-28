@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1032,
+    "name": "Ancient Deenan Key",
+    "info": "A magnificent panel-shaped key in which the\ndesign of the big tree was carved.\nIt seems that it was used to lock quite a large\ndoor.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

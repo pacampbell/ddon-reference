@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14357,
+    "name": "Behemoth's Hammer",
+    "info": "",
+    "icon": {
+        "icon_id": 888,
+        "color_id": 10
+    },
+    "sell_price": 32005,
+    "weight": 100,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2270,
+        "magic_attack": 1802,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 852
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

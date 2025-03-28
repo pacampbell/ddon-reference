@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17119,
+    "name": "Woolen Carpet - Forest",
+    "info": "You can place\ngreen fur carpets in your study.",
+    "icon": {
+        "icon_id": 1896,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

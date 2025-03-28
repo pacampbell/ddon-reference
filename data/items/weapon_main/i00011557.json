@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11557,
+    "name": "Marquis Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1261,
+        "color_id": 82
+    },
+    "sell_price": 20000,
+    "weight": 70,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 385,
+        "magic_attack": 483,
+        "crest_slot": 4,
+        "ele_slot": 12
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 20
+        }
+    ]
+}

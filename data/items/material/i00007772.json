@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7772,
+    "name": "Cursed Skull",
+    "info": "Bone Crafting Material.\nThe cursed skull of the Skull Lord.\nA rare item.",
+    "icon": {
+        "icon_id": 474,
+        "color_id": 106
+    },
+    "sell_price": 410,
+    "weight": 0,
+    "item_level": 11
+}

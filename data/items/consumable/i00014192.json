@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 14192,
+    "name": "Key of Jewelry",
+    "info": "Key with a Relief depicting Victory.\nConsumed upon use.",
+    "icon": {
+        "icon_id": 1417,
+        "color_id": 100
+    },
+    "sell_price": 950,
+    "weight": 0,
+    "item_level": 14,
+    "max_stack": 99
+}

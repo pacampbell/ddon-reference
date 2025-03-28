@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12347,
+    "name": "H\u00e1vam\u00e1l",
+    "info": "",
+    "icon": {
+        "icon_id": 994,
+        "color_id": 10
+    },
+    "sell_price": 24505,
+    "weight": 60,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 4,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1611,
+        "magic_attack": 1776,
+        "crest_slot": 4,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 252
+        },
+        {
+            "id": 59,
+            "name": "KIND_TYPE_DOWN_MAGIC_DEF_SAV",
+            "value": 50
+        }
+    ]
+}

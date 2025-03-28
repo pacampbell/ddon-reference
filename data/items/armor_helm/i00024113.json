@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 24113,
+    "name": "White Wings Armored Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 2788,
+        "color_id": 200
+    },
+    "sell_price": 0,
+    "weight": 36,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 100,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 9,
+        "defense": 505,
+        "magic_attack": 9,
+        "magic_defense": 809,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": []
+}

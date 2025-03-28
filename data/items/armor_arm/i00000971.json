@@ -1,0 +1,36 @@
+{
+    "type": "equipment",
+    "item_id": 971,
+    "name": "Chrome Knuckles",
+    "info": "",
+    "icon": {
+        "icon_id": 41,
+        "color_id": 6
+    },
+    "sell_price": 175,
+    "weight": 56,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 1,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 12,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 29,
+        "magic_attack": 0,
+        "magic_defense": 24,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 3
+        }
+    ]
+}

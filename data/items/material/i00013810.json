@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 13810,
+    "name": "Thief Card",
+    "info": "Cards left behind by phantom thief.\nCan be used for \"Appraisal Exchange\".",
+    "icon": {
+        "icon_id": 1534,
+        "color_id": 19
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 15
+}

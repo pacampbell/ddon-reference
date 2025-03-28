@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18333,
+    "name": "Dools Arms",
+    "info": "",
+    "icon": {
+        "icon_id": 1915,
+        "color_id": 111
+    },
+    "sell_price": 11974,
+    "weight": 32,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 513,
+        "magic_attack": 6,
+        "magic_defense": 427,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        }
+    ]
+}

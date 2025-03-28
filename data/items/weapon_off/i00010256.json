@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 10256,
+    "name": "Ring Buckler of Sparks",
+    "info": "",
+    "icon": {
+        "icon_id": 859,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 40,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "weapon_type": "SHIELD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
+    "level": 15,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 0
+    },
+    "params": [
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 156
+        },
+        {
+            "id": 57,
+            "name": "KIND_TYPE_DOWN_DEF_SAV",
+            "value": 10
+        }
+    ]
+}

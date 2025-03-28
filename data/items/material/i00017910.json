@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 17910,
+    "name": "Blood-Colored Spiral Shell",
+    "info": "Miscellaneous Crafting Material: A seashell that\ngrows within the flesh, its shell dyed the color\nof blood.",
+    "icon": {
+        "icon_id": 520,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 10
+}

@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21550,
+    "name": "White Day Puppet",
+    "info": "With the cooperation of Lestanian artisans, a\npuppet has been created that can be placed on a\nkitchen chair, just the right size.",
+    "icon": {
+        "icon_id": 2413,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

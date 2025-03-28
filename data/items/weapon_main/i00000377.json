@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 377,
+    "name": "Demolish Hammer",
+    "info": "",
+    "icon": {
+        "icon_id": 882,
+        "color_id": 10
+    },
+    "sell_price": 21130,
+    "weight": 180,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 3,
+    "weapon_type": "BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 65,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1650,
+        "magic_attack": 1221,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 590
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

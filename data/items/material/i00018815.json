@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18815,
+    "name": "Royal Crest Medal (Rathnite District)",
+    "info": "Coins that are only circulated in the Rathnite\nFoothills.\nThey cannot be obtained in other regions and are\nsomewhat rare.\nIt seems they can be traded for \"Appraisal\nExchange\".",
+    "icon": {
+        "icon_id": 1993,
+        "color_id": 105
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 5
+}

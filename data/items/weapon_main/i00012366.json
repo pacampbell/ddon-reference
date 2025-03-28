@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 12366,
+    "name": "Olfring Shooter (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 1480,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 0,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 406,
+        "magic_attack": 533,
+        "crest_slot": 4,
+        "ele_slot": 4
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 96
+        },
+        {
+            "id": 104,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 50
+        }
+    ]
+}

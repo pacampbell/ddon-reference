@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1030,
+    "name": "Dreed Chapel Key",
+    "info": "The key to a \"chapel\" somewhere in Dreed Castle.\nIt has been managed by the Order.",
+    "icon": {
+        "icon_id": 531,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

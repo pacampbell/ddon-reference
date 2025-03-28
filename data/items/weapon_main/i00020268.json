@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 20268,
+    "name": "Hand of Altura",
+    "info": "",
+    "icon": {
+        "icon_id": 1257,
+        "color_id": 10
+    },
+    "sell_price": 43670,
+    "weight": 84,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 4,
+    "weapon_type": "DAGGER",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2988,
+        "magic_attack": 2871,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 596
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

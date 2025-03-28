@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 19457,
+    "name": "Boundless Tempest Cuisses",
+    "info": "",
+    "icon": {
+        "icon_id": 1956,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 42,
+    "item_level": 0,
+    "quality": 0,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 3,
+        "defense": 350,
+        "magic_attack": 3,
+        "magic_defense": 280,
+        "crest_slot": 0,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 77
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 754
+        }
+    ]
+}

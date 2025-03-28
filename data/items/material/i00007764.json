@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7764,
+    "name": "Ancient Grimoire",
+    "info": "Grimoire Crafting Material: Tattered grimoire\nheld by a necromancer.",
+    "icon": {
+        "icon_id": 516,
+        "color_id": 4
+    },
+    "sell_price": 277,
+    "weight": 0,
+    "item_level": 7
+}

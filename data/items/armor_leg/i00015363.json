@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 15363,
+    "name": "Finnegan's Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1576,
+        "color_id": 27
+    },
+    "sell_price": 12001,
+    "weight": 0,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 337,
+        "magic_attack": 4,
+        "magic_defense": 269,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 77
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 739
+        }
+    ]
+}

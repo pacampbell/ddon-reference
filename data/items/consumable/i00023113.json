@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 23113,
+    "name": "Gold Dragon Mark",
+    "info": "Currency to be used in\nBitterblack Maze.",
+    "icon": {
+        "icon_id": 2441,
+        "color_id": 15
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 255
+}

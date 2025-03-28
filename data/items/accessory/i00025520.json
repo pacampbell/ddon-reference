@@ -1,0 +1,56 @@
+{
+    "type": "equipment",
+    "item_id": 25520,
+    "name": "Hero's Lively Cloak",
+    "info": "",
+    "icon": {
+        "icon_id": 2964,
+        "color_id": 82
+    },
+    "sell_price": 5900,
+    "weight": 8,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 243,
+        "magic_attack": 4,
+        "magic_defense": 243,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 12,
+            "name": "KIND_TYPE_FROZEN_DEF",
+            "value": 25
+        },
+        {
+            "id": 100,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 32
+        }
+    ]
+}

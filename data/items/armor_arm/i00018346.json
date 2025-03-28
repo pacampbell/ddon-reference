@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 18346,
+    "name": "Dools Gloves",
+    "info": "",
+    "icon": {
+        "icon_id": 1916,
+        "color_id": 111
+    },
+    "sell_price": 11974,
+    "weight": 35,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
+    "level": 90,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 6,
+        "defense": 509,
+        "magic_attack": 6,
+        "magic_defense": 424,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 29
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 15
+        }
+    ]
+}

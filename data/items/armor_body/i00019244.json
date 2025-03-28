@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 19244,
+    "name": "Torso of the First King",
+    "info": "",
+    "icon": {
+        "icon_id": 1935,
+        "color_id": 127
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 80,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 837,
+        "magic_attack": 7,
+        "magic_defense": 744,
+        "crest_slot": 0,
+        "ele_slot": 28
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 44
+        },
+        {
+            "id": 11,
+            "name": "KIND_TYPE_SPREAD_DEF",
+            "value": 25
+        },
+        {
+            "id": 39,
+            "name": "KIND_TYPE_OIL_SAV",
+            "value": 25
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1237
+        }
+    ]
+}

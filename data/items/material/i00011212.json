@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 11212,
+    "name": "Palm Ring Plate",
+    "info": "A ring-shaped plate with a coat of arms design,\nmodeled after a hand.\nA precious item forged by combining various\nmaterials.\nIt seems to be eligible for \"Appraisal Exchange\"\nas a trading object.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 29
+    },
+    "sell_price": 1000,
+    "weight": 0,
+    "item_level": 9
+}

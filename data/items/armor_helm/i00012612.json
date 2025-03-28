@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 12612,
+    "name": "Roaming Hat",
+    "info": "",
+    "icon": {
+        "icon_id": 1335,
+        "color_id": 10
+    },
+    "sell_price": 6735,
+    "weight": 36,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 67,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 247,
+        "magic_attack": 0,
+        "magic_defense": 395,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

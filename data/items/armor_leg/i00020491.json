@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 20491,
+    "name": "Mehizaf Poleyn",
+    "info": "",
+    "icon": {
+        "icon_id": 2259,
+        "color_id": 111
+    },
+    "sell_price": 16610,
+    "weight": 43,
+    "item_level": 14,
+    "quality": 7,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 7,
+        "defense": 462,
+        "magic_attack": 7,
+        "magic_defense": 369,
+        "crest_slot": 0,
+        "ele_slot": 16
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 95
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 784
+        }
+    ]
+}

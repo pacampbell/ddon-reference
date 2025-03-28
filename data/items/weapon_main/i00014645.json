@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 14645,
+    "name": "Goblin's Worship",
+    "info": "",
+    "icon": {
+        "icon_id": 1013,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 70,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1727,
+        "magic_attack": 1860,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 297
+        },
+        {
+            "id": 92,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        },
+        {
+            "id": 93,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 30
+        }
+    ]
+}

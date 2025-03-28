@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23644,
+    "name": "Seeker's shooting attribute damage UP",
+    "info": "The amount of damage inflicted by the Seeker's\nPierce attribute increases. *Effective when\nattacking or when matching the physical attribute\nof the status application.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

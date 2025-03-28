@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 9301,
+    "name": "Crest of Hellfire Warding",
+    "info": "A crest that grants fire resistance\nwhen equipped to armor.",
+    "icon": {
+        "icon_id": 1048,
+        "color_id": 83
+    },
+    "sell_price": 2500,
+    "weight": 0,
+    "item_level": 15
+}

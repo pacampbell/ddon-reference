@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7740,
+    "name": "Giant Eyeball",
+    "info": "Meat Crafting Material:\nPowerful Cyclops (LV. 34~) Eye",
+    "icon": {
+        "icon_id": 464,
+        "color_id": 104
+    },
+    "sell_price": 250,
+    "weight": 0,
+    "item_level": 8
+}

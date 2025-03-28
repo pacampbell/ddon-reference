@@ -1,0 +1,50 @@
+{
+    "type": "equipment",
+    "item_id": 3907,
+    "name": "Rare Wooden Wall",
+    "info": "",
+    "icon": {
+        "icon_id": 894,
+        "color_id": 7
+    },
+    "sell_price": 1940,
+    "weight": 100,
+    "item_level": 5,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "STAFF",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 23,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 396,
+        "magic_attack": 0,
+        "crest_slot": 4,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 176
+        },
+        {
+            "id": 87,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 193
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        },
+        {
+            "id": 31,
+            "name": "KIND_TYPE_ARROW_NUM",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 16057,
+    "name": "Crest of Superior Magick (Gilding)",
+    "info": "A crest that enhances the performance of the\nequipped weapon.",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 106
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 4
+}

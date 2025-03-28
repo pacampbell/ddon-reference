@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7765,
+    "name": "Water Dragon Fang",
+    "info": "Fang Crafting Material: Lindwurm's sharp fang. A\nrare item.",
+    "icon": {
+        "icon_id": 470,
+        "color_id": 104
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 8
+}

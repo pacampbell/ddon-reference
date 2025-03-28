@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 9009,
+    "name": "High Vitality Ring",
+    "info": "",
+    "icon": {
+        "icon_id": 719,
+        "color_id": 9
+    },
+    "sell_price": 1500,
+    "weight": 1,
+    "level": 41,
+    "item_level": 9,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 40
+        }
+    ]
+}

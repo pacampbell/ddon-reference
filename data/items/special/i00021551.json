@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 21551,
+    "name": "Wall Paint - White Day",
+    "info": "You can repaint your room's walls in a White Day\ntheme\n",
+    "icon": {
+        "icon_id": 2414,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

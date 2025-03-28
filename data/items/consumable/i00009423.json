@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 9423,
+    "name": "Secret Mushroom Stew",
+    "info": "A dish using mushrooms as the main ingredient\nBestows various buffs upon eating",
+    "icon": {
+        "icon_id": 457,
+        "color_id": 5
+    },
+    "sell_price": 450,
+    "weight": 0,
+    "item_level": 10,
+    "max_stack": 10
+}

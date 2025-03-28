@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21292,
+    "name": "Crystal Glass",
+    "info": "Sand Crafting Material: A highly transparent\nglass.",
+    "icon": {
+        "icon_id": 2597,
+        "color_id": 4
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 14
+}

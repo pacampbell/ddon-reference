@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21275,
+    "name": "Dragon Temple's Charm",
+    "info": "Grimoire Crafting Material:\nA charm that was distributed to those who visited\nwith the faith in the Fire Dragon, bearing the\nroyal coat of arms.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 16
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 3
+}

@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 25277,
+    "name": "Hero's Assault Head",
+    "info": "",
+    "icon": {
+        "icon_id": 1330,
+        "color_id": 11
+    },
+    "sell_price": 15000,
+    "weight": 38,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 5,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 115,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 12,
+        "defense": 645,
+        "magic_attack": 12,
+        "magic_defense": 1032,
+        "crest_slot": 0,
+        "ele_slot": 8
+    },
+    "params": []
+}

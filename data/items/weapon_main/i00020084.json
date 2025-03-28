@@ -1,0 +1,45 @@
+{
+    "type": "equipment",
+    "item_id": 20084,
+    "name": "Patlat Edge",
+    "info": "",
+    "icon": {
+        "icon_id": 2360,
+        "color_id": 11
+    },
+    "sell_price": 42876,
+    "weight": 80,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 23,
+    "weapon_type": "MAGICK_SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 95,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2984,
+        "magic_attack": 2984,
+        "crest_slot": 0,
+        "ele_slot": 9
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 586
+        },
+        {
+            "id": 85,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 5
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 10
+        }
+    ]
+}

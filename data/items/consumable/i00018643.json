@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 18643,
+    "name": "Dominion Point",
+    "info": "Currency (DP) that can be used with in the\nDominion Point Shop",
+    "icon": {
+        "icon_id": 1978,
+        "color_id": 1
+    },
+    "sell_price": 1,
+    "weight": 0,
+    "item_level": 1,
+    "max_stack": 99
+}

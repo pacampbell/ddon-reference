@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 10921,
+    "name": "Gold Luna Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 1216,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 18,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 294,
+        "magic_attack": 2,
+        "magic_defense": 458,
+        "crest_slot": 0,
+        "ele_slot": 27
+    },
+    "params": []
+}

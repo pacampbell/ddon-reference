@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21234,
+    "name": "Cave Shrimp Eggs",
+    "info": "Miscellaneous Crafting Material:\nOccasionally, Cave Shrimp eggs are found in the\nrare state of being incubated.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 116
+    },
+    "sell_price": 900,
+    "weight": 0,
+    "item_level": 4
+}

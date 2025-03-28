@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21217,
+    "name": "Highland Akadama",
+    "info": "Sand Crafting Material:\nA small, ball-shaped, well-draining soil.",
+    "icon": {
+        "icon_id": 485,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

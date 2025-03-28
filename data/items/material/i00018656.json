@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 18656,
+    "name": "Guardsman's Spirit",
+    "info": "The power to venture into the depths of the\nHeroic Spirit Sleeping Path: Rathnite Foothills\nthat rests on The Epitaph Road.",
+    "icon": {
+        "icon_id": 1989,
+        "color_id": 105
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 5
+}

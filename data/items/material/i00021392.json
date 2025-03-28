@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21392,
+    "name": "Relic Steel (Urteca District)",
+    "info": "Steel created by lost techniques.\nIt is said that its properties vary depending on\nthe region.",
+    "icon": {
+        "icon_id": 2551,
+        "color_id": 105
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 6
+}

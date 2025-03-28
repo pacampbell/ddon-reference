@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 18081,
+    "name": "Tri-Spell of Resentment",
+    "info": "",
+    "icon": {
+        "icon_id": 2048,
+        "color_id": 10
+    },
+    "sell_price": 35805,
+    "weight": 72,
+    "item_level": 10,
+    "quality": 5,
+    "color_id": 23,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 85,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2339,
+        "magic_attack": 2519,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 361
+        }
+    ]
+}

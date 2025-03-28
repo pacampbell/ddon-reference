@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 13616,
+    "name": "Marquis Legs",
+    "info": "",
+    "icon": {
+        "icon_id": 1519,
+        "color_id": 82
+    },
+    "sell_price": 2500,
+    "weight": 5,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 25,
+        "magic_attack": 0,
+        "magic_defense": 25,
+        "crest_slot": 4,
+        "ele_slot": 8
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 13
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 127
+        }
+    ]
+}

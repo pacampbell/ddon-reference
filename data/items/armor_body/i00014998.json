@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 14998,
+    "name": "Duke Armor (Dark Night)",
+    "info": "",
+    "icon": {
+        "icon_id": 1765,
+        "color_id": 84
+    },
+    "sell_price": 5000,
+    "weight": 70,
+    "item_level": 7,
+    "quality": 3,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 70,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 2,
+        "defense": 547,
+        "magic_attack": 2,
+        "magic_defense": 486,
+        "crest_slot": 4,
+        "ele_slot": 36
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 32
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1147
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7900,
+    "name": "Ruby",
+    "info": "Gem Crafting Material.\nA beautiful gem that shines red.",
+    "icon": {
+        "icon_id": 494,
+        "color_id": 4
+    },
+    "sell_price": 375,
+    "weight": 0,
+    "item_level": 8
+}

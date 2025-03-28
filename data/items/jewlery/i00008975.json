@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 8975,
+    "name": "Ruby Pendant",
+    "info": "",
+    "icon": {
+        "icon_id": 597,
+        "color_id": 8
+    },
+    "sell_price": 1200,
+    "weight": 1,
+    "level": 36,
+    "item_level": 8,
+    "stats": {},
+    "params": [
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 9
+        }
+    ]
+}

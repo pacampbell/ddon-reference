@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7771,
+    "name": "Giant Bone",
+    "info": "Bone Crafting Material.\nGiant's hard and large bones.",
+    "icon": {
+        "icon_id": 473,
+        "color_id": 2
+    },
+    "sell_price": 50,
+    "weight": 0,
+    "item_level": 3
+}

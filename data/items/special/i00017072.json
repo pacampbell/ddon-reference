@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 17072,
+    "name": "Antique Desk - Rose",
+    "info": "Antique desk for study",
+    "icon": {
+        "icon_id": 1858,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 31
+}

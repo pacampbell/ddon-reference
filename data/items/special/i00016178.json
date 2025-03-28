@@ -1,0 +1,13 @@
+{
+    "type": "special",
+    "item_id": 16178,
+    "name": "Gorgeous Bed - Ice",
+    "info": "A bed of a size that allows you to turn over\ncomfortably, promising a peaceful sleep with its\nspacious canopy.",
+    "icon": {
+        "icon_id": 1745,
+        "color_id": 0
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 12
+}

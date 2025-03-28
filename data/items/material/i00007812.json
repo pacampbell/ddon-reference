@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 7812,
+    "name": "Clear Insect Wing",
+    "info": "Feather Crafting Material: Killer Bee's\ntranslucent, medium-thin feather.",
+    "icon": {
+        "icon_id": 478,
+        "color_id": 1
+    },
+    "sell_price": 10,
+    "weight": 0,
+    "item_level": 1
+}

@@ -1,0 +1,14 @@
+{
+    "type": "consumable",
+    "item_id": 10673,
+    "name": "Unspecified Crest",
+    "info": "You can obtain some \"crest\" items.",
+    "icon": {
+        "icon_id": 1164,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 0,
+    "max_stack": 99
+}

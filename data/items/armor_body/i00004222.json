@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 4222,
+    "name": "Dolus Corpus",
+    "info": "",
+    "icon": {
+        "icon_id": 149,
+        "color_id": 10
+    },
+    "sell_price": 8780,
+    "weight": 90,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
+    "level": 60,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 376,
+        "magic_attack": 0,
+        "magic_defense": 334,
+        "crest_slot": 0,
+        "ele_slot": 25
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 26
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 1125
+        }
+    ]
+}

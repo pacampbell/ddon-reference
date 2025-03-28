@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 14592,
+    "name": "Tannh\u00e4user",
+    "info": "",
+    "icon": {
+        "icon_id": 996,
+        "color_id": 10
+    },
+    "sell_price": 28130,
+    "weight": 60,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 1,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 75,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1760,
+        "magic_attack": 1930,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 286
+        },
+        {
+            "id": 55,
+            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "value": 18
+        }
+    ]
+}

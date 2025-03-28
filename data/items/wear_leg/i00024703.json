@@ -1,0 +1,51 @@
+{
+    "type": "equipment",
+    "item_id": 24703,
+    "name": "Survivor Leather Bottoms",
+    "info": "",
+    "icon": {
+        "icon_id": 2900,
+        "color_id": 84
+    },
+    "sell_price": 10000,
+    "weight": 5,
+    "item_level": 2,
+    "quality": 1,
+    "color_id": 20,
+    "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 189,
+        "magic_attack": 0,
+        "magic_defense": 189,
+        "crest_slot": 0,
+        "ele_slot": 32
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 76
+        },
+        {
+            "id": 9,
+            "name": "KIND_TYPE_STONE_DEF",
+            "value": 10
+        },
+        {
+            "id": 27,
+            "name": "KIND_TYPE_ITEMSEAL_DEF",
+            "value": 10
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 316
+        }
+    ]
+}

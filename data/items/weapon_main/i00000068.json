@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 68,
+    "name": "Iron Sword",
+    "info": "",
+    "icon": {
+        "icon_id": 818,
+        "color_id": 6
+    },
+    "sell_price": 1448,
+    "weight": 80,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 19,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 357,
+        "magic_attack": 203,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 88
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

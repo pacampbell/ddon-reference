@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15961,
+    "name": "Stiff Crocodile Skin",
+    "info": "Pelt Crafting Material: Foot-Biter's rough and\ncoarse skin.",
+    "icon": {
+        "icon_id": 496,
+        "color_id": 5
+    },
+    "sell_price": 235,
+    "weight": 0,
+    "item_level": 13
+}

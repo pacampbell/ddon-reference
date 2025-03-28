@@ -1,0 +1,30 @@
+{
+    "type": "equipment",
+    "item_id": 10915,
+    "name": "Silver Sol Helm",
+    "info": "",
+    "icon": {
+        "icon_id": 1215,
+        "color_id": 19
+    },
+    "sell_price": 5000,
+    "weight": 18,
+    "item_level": 6,
+    "quality": 3,
+    "color_id": 23,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
+    "level": 55,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1,
+        "defense": 254,
+        "magic_attack": 1,
+        "magic_defense": 398,
+        "crest_slot": 0,
+        "ele_slot": 19
+    },
+    "params": []
+}

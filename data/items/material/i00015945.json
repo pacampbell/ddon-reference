@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15945,
+    "name": "Sparkling Water",
+    "info": "Liquid Crafting Material: Natural Sparkling Water\nSuitable for Drinking and Crafting.",
+    "icon": {
+        "icon_id": 483,
+        "color_id": 5
+    },
+    "sell_price": 100,
+    "weight": 0,
+    "item_level": 13
+}

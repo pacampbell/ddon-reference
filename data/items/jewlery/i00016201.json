@@ -1,0 +1,22 @@
+{
+    "type": "jewlery",
+    "item_id": 16201,
+    "name": "Phindym Bracelet",
+    "info": "",
+    "icon": {
+        "icon_id": 1769,
+        "color_id": 101
+    },
+    "sell_price": 3500,
+    "weight": 1,
+    "level": 1,
+    "item_level": 11,
+    "stats": {},
+    "params": [
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 300
+        }
+    ]
+}

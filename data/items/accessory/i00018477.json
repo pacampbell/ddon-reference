@@ -1,0 +1,46 @@
+{
+    "type": "equipment",
+    "item_id": 18477,
+    "name": "Oriental Mantle",
+    "info": "",
+    "icon": {
+        "icon_id": 1326,
+        "color_id": 11
+    },
+    "sell_price": 4634,
+    "weight": 11,
+    "item_level": 15,
+    "quality": 7,
+    "color_id": 3,
+    "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
+    "level": 88,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 0,
+        "defense": 148,
+        "magic_attack": 0,
+        "magic_defense": 148,
+        "crest_slot": 4,
+        "ele_slot": 24
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 19
+        },
+        {
+            "id": 68,
+            "name": "KIND_TYPE_MAX_HP_UP",
+            "value": 30
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 24
+        }
+    ]
+}

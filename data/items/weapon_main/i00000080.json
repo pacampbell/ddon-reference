@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 80,
+    "name": "Wood Staff",
+    "info": "",
+    "icon": {
+        "icon_id": 1009,
+        "color_id": 5
+    },
+    "sell_price": 0,
+    "weight": 70,
+    "item_level": 1,
+    "quality": 0,
+    "color_id": 0,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 19,
+        "magic_attack": 110,
+        "crest_slot": 4,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 39
+        }
+    ]
+}

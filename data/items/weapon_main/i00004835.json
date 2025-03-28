@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 4835,
+    "name": "Francisca",
+    "info": "",
+    "icon": {
+        "icon_id": 845,
+        "color_id": 10
+    },
+    "sell_price": 9220,
+    "weight": 110,
+    "item_level": 11,
+    "quality": 5,
+    "color_id": 2,
+    "weapon_type": "SWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 51,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1132,
+        "magic_attack": 919,
+        "crest_slot": 4,
+        "ele_slot": 33
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 207
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

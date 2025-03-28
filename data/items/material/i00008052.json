@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 8052,
+    "name": "White Dragon Attack Upgrade Rock",
+    "info": "The highest quality refining material to enhance\nthe quality of the main weapon.\nIt has a high success rate and, when synthesized\nduring item production, increases the number of\nmounted Crests by 2 (3 in the case of a major\nsuccess).",
+    "icon": {
+        "icon_id": 539,
+        "color_id": 80
+    },
+    "sell_price": 2000,
+    "weight": 0,
+    "item_level": 8
+}

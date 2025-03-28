@@ -1,0 +1,12 @@
+{
+    "type": "keyitem",
+    "item_id": 1049,
+    "name": "Vessel of Life",
+    "info": "Ancient relics from Dreed Castle's that had been\nkept underground\nStrikingly similar to various relics that demons\nhave.",
+    "icon": {
+        "icon_id": 533,
+        "color_id": 1
+    },
+    "sell_price": 0,
+    "weight": 0
+}

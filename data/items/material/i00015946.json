@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 15946,
+    "name": "White Bone Rock",
+    "info": "Ore Crafting Material: Rock with a limestone-like\nappearance resembling bones.",
+    "icon": {
+        "icon_id": 489,
+        "color_id": 5
+    },
+    "sell_price": 200,
+    "weight": 0,
+    "item_level": 2
+}

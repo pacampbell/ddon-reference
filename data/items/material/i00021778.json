@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21778,
+    "name": "Moth Hard Gem",
+    "info": "A gem that resembles a glowing moth, it\ntransforms into a beautiful and radiant \"Luminous\nMandra Lamp\" when used as fertilizer for the\nMandragora.",
+    "icon": {
+        "icon_id": 493,
+        "color_id": 20
+    },
+    "sell_price": 500,
+    "weight": 0,
+    "item_level": 5
+}

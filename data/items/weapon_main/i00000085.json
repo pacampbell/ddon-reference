@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 85,
+    "name": "Staff of Magickal Restraint",
+    "info": "",
+    "icon": {
+        "icon_id": 1009,
+        "color_id": 6
+    },
+    "sell_price": 1450,
+    "weight": 35,
+    "item_level": 4,
+    "quality": 2,
+    "color_id": 1,
+    "weapon_type": "MAGICK_BOW",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 17,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 174,
+        "magic_attack": 249,
+        "crest_slot": 0,
+        "ele_slot": 1
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 65
+        }
+    ]
+}

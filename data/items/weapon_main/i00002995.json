@@ -1,0 +1,35 @@
+{
+    "type": "equipment",
+    "item_id": 2995,
+    "name": "Ketzer Zwillinge",
+    "info": "",
+    "icon": {
+        "icon_id": 1001,
+        "color_id": 10
+    },
+    "sell_price": 15685,
+    "weight": 60,
+    "item_level": 12,
+    "quality": 6,
+    "color_id": 5,
+    "weapon_type": "GREATSWORD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 56,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 1081,
+        "magic_attack": 1232,
+        "crest_slot": 0,
+        "ele_slot": 17
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 196
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "equipment",
+    "item_id": 19461,
+    "name": "Boundless Tempest Boots",
+    "info": "",
+    "icon": {
+        "icon_id": 1956,
+        "color_id": 85
+    },
+    "sell_price": 10000,
+    "weight": 42,
+    "item_level": 3,
+    "quality": 1,
+    "color_id": 2,
+    "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
+    "level": 1,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 4,
+        "defense": 367,
+        "magic_attack": 4,
+        "magic_defense": 293,
+        "crest_slot": 4,
+        "ele_slot": 35
+    },
+    "params": [
+        {
+            "id": 86,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 81
+        },
+        {
+            "id": 69,
+            "name": "KIND_TYPE_MAX_ST_UP",
+            "value": 754
+        }
+    ]
+}

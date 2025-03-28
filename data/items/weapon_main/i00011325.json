@@ -1,0 +1,40 @@
+{
+    "type": "equipment",
+    "item_id": 11325,
+    "name": "Blade of Insight (Black)",
+    "info": "",
+    "icon": {
+        "icon_id": 1289,
+        "color_id": 82
+    },
+    "sell_price": 5000,
+    "weight": 60,
+    "item_level": 8,
+    "quality": 4,
+    "color_id": 3,
+    "weapon_type": "ROD",
+    "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
+    "level": 20,
+    "genders": [
+        "Male",
+        "Female"
+    ],
+    "stats": {
+        "attack": 568,
+        "magic_attack": 430,
+        "crest_slot": 0,
+        "ele_slot": 26
+    },
+    "params": [
+        {
+            "id": 84,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 78
+        },
+        {
+            "id": 67,
+            "name": "KIND_TYPE_UNKNOWN",
+            "value": 15
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 21222,
+    "name": "Cracked Amulet",
+    "info": "Miscellaneous Crafting Material: A fragment of a\ntalisman where you can't even tell what was\nwritten on it.",
+    "icon": {
+        "icon_id": 517,
+        "color_id": 4
+    },
+    "sell_price": 350,
+    "weight": 0,
+    "item_level": 4
+}

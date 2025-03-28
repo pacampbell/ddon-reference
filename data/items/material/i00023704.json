@@ -1,0 +1,13 @@
+{
+    "type": "material",
+    "item_id": 23704,
+    "name": "High scepter's dark attribute damage UP",
+    "info": "The damage inflicted by the High Scepter's Dark\nattribute increases. *This effect is activated\nwhen attacking or when it matches the attribute of\nthe status application. (Note: This effect is\ninvalid during enchantment changes).",
+    "icon": {
+        "icon_id": 1047,
+        "color_id": 15
+    },
+    "sell_price": 0,
+    "weight": 0,
+    "item_level": 1
+}

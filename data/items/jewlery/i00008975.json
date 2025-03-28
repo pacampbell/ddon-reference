@@ -7,15 +7,31 @@
         "icon_id": 597,
         "color_id": 8
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 1200,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": "",
+    "can_bazaar": false,
     "level": 36,
     "item_level": 8,
     "stats": {},
     "params": [
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 9
         }
     ]

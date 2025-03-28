@@ -7,10 +7,15 @@
         "icon_id": 983,
         "color_id": 10
     },
+    "jobs": [
+        "Alchemist"
+    ],
     "sell_price": 35805,
     "weight": 96,
+    "crest_slots": 1,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 3,
     "weapon_type": "DAGGER",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,12 +33,12 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 481
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

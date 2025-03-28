@@ -7,10 +7,17 @@
         "icon_id": 373,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker",
+        "Hunter",
+        "SpiritLancer"
+    ],
     "sell_price": 10548,
     "weight": 42,
-    "item_level": 2,
+    "crest_slots": 0,
     "quality": 1,
+    "can_bazaar": false,
+    "item_level": 2,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
     "level": 75,
@@ -29,17 +36,17 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 71
         },
         {
             "id": 11,
-            "name": "KIND_TYPE_SPREAD_DEF",
+            "name": "RESIST_CATCHING_FIRE",
             "value": 2
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 728
         }
     ]

@@ -7,10 +7,25 @@
         "icon_id": 2075,
         "color_id": 17
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 5000,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 7,
-    "quality": 3,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_WEAR_LEG",
     "level": 1,
@@ -29,7 +44,7 @@
     "params": [
         {
             "id": 11,
-            "name": "KIND_TYPE_SPREAD_DEF",
+            "name": "RESIST_CATCHING_FIRE",
             "value": 100
         }
     ]

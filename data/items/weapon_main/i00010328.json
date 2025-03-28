@@ -7,10 +7,15 @@
         "icon_id": 925,
         "color_id": 84
     },
+    "jobs": [
+        "Seeker"
+    ],
     "sell_price": 10000,
     "weight": 60,
+    "crest_slots": 4,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 7,
-    "quality": 3,
     "color_id": 3,
     "weapon_type": "ROD",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,22 +33,22 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 74
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 10
         },
         {
             "id": 47,
-            "name": "KIND_TYPE_SPRED_SAV",
+            "name": "INFLICT_BLIND",
             "value": 30
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

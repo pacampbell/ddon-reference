@@ -7,10 +7,17 @@
         "icon_id": 50,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker",
+        "Hunter",
+        "SpiritLancer"
+    ],
     "sell_price": 7351,
     "weight": 34,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 3,
-    "quality": 1,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 70,
@@ -29,7 +36,7 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 15
         }
     ]

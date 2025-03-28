@@ -7,10 +7,15 @@
         "icon_id": 2148,
         "color_id": 82
     },
+    "jobs": [
+        "ShieldSage"
+    ],
     "sell_price": 10000,
     "weight": 40,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 0,
-    "quality": 0,
     "color_id": 3,
     "weapon_type": "GREATSHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 55,
-            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "name": "INFLICT_FROZEN_SOLID",
             "value": 15
         }
     ]

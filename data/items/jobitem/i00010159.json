@@ -7,10 +7,25 @@
         "icon_id": 1105,
         "color_id": 2
     },
+    "jobs": [],
     "sell_price": 2,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 16,
     "item_level": 4,
     "stats": {},
-    "params": []
+    "params": [
+        {
+            "id": 119,
+            "name": "MEDAL_FALLSAINT",
+            "param_count": 1,
+            "value": [
+                30,
+                0,
+                0
+            ]
+        }
+    ]
 }

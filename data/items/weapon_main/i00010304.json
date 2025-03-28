@@ -7,10 +7,15 @@
         "icon_id": 1139,
         "color_id": 82
     },
+    "jobs": [
+        "ShieldSage"
+    ],
     "sell_price": 500,
     "weight": 100,
-    "item_level": 6,
+    "crest_slots": 2,
     "quality": 3,
+    "can_bazaar": false,
+    "item_level": 6,
     "color_id": 23,
     "weapon_type": "STAFF",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,22 +33,22 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 176
         },
         {
             "id": 87,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "GUARD_POWER",
             "value": 200
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         },
         {
             "id": 31,
-            "name": "KIND_TYPE_ARROW_NUM",
+            "name": "MAX_FORCE_STOCK",
             "value": 3
         }
     ]

@@ -7,15 +7,31 @@
         "icon_id": 597,
         "color_id": 83
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 3000,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": "",
+    "can_bazaar": false,
     "level": 1,
     "item_level": 12,
     "stats": {},
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 4
         }
     ]

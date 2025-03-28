@@ -7,10 +7,17 @@
         "icon_id": 1710,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker",
+        "Hunter",
+        "SpiritLancer"
+    ],
     "sell_price": 9601,
     "weight": 36,
-    "item_level": 1,
+    "crest_slots": 0,
     "quality": 0,
+    "can_bazaar": false,
+    "item_level": 1,
     "color_id": 1,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 80,
@@ -29,7 +36,7 @@
     "params": [
         {
             "id": 7,
-            "name": "KIND_TYPE_SEAL_DEF",
+            "name": "RESIST_SKILL_STIFLING",
             "value": 2
         }
     ]

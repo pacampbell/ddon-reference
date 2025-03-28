@@ -7,10 +7,25 @@
         "icon_id": 1443,
         "color_id": 84
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 10000,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 7,
-    "quality": 3,
     "color_id": 5,
     "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
     "level": 1,
@@ -29,7 +44,7 @@
     "params": [
         {
             "id": 6,
-            "name": "KIND_TYPE_WATER_DEF",
+            "name": "RESIST_DRENCHING",
             "value": 100
         }
     ]

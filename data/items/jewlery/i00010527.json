@@ -7,25 +7,41 @@
         "icon_id": 618,
         "color_id": 83
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 1500,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": "",
+    "can_bazaar": false,
     "level": 1,
     "item_level": 1,
     "stats": {},
     "params": [
         {
             "id": 14,
-            "name": "KIND_TYPE_SAINT_DEF",
+            "name": "RESIST_HOLY_DRAIN",
             "value": 2
         },
         {
             "id": 42,
-            "name": "KIND_TYPE_WATER_SAV",
+            "name": "HOLY_RESIST",
             "value": 5
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 30
         }
     ]

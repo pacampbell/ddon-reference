@@ -7,10 +7,25 @@
         "icon_id": 1966,
         "color_id": 84
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 50000,
     "weight": 80,
+    "crest_slots": 4,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 0,
-    "quality": 0,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_COSTUME",
     "level": 85,
@@ -28,37 +43,37 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 260
         },
         {
             "id": 4,
-            "name": "KIND_TYPE_BLIND_DEF",
+            "name": "RESIST_BLIND",
             "value": 30
         },
         {
             "id": 15,
-            "name": "KIND_TYPE_SWOON_DEF",
+            "name": "RESIST_KNOCKOUT",
             "value": 30
         },
         {
             "id": 43,
-            "name": "KIND_TYPE_SEAL_SAV",
+            "name": "DARK_RESIST",
             "value": 30
         },
         {
             "id": 29,
-            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "name": "HEALING_POWER",
             "value": 30
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1600
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 900
         }
     ]

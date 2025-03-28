@@ -7,10 +7,15 @@
         "icon_id": 2314,
         "color_id": 86
     },
+    "jobs": [
+        "ShieldSage"
+    ],
     "sell_price": 48000,
     "weight": 46,
-    "item_level": 2,
+    "crest_slots": 0,
     "quality": 1,
+    "can_bazaar": false,
+    "item_level": 2,
     "color_id": 3,
     "weapon_type": "GREATSHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 102,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "DRAGON_SLAYER",
             "value": 33
         }
     ]

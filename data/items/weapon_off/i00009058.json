@@ -7,10 +7,15 @@
         "icon_id": 851,
         "color_id": 8
     },
+    "jobs": [
+        "Fighter"
+    ],
     "sell_price": 2890,
     "weight": 20,
-    "item_level": 8,
+    "crest_slots": 0,
     "quality": 4,
+    "can_bazaar": false,
+    "item_level": 8,
     "color_id": 3,
     "weapon_type": "SHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
@@ -28,12 +33,12 @@
     "params": [
         {
             "id": 87,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "GUARD_POWER",
             "value": 258
         },
         {
             "id": 30,
-            "name": "KIND_TYPE_TSHIELD_STORAGE",
+            "name": "BLOCKING_STAMINA_REDUCTION",
             "value": 15
         }
     ]

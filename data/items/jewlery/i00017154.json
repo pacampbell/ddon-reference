@@ -7,25 +7,41 @@
         "icon_id": 1836,
         "color_id": 101
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 10000,
     "weight": 300,
+    "crest_slots": 0,
+    "quality": "",
+    "can_bazaar": false,
     "level": 80,
     "item_level": 11,
     "stats": {},
     "params": [
         {
             "id": 9,
-            "name": "KIND_TYPE_STONE_DEF",
+            "name": "RESIST_PETRIFICATION",
             "value": 39
         },
         {
             "id": 12,
-            "name": "KIND_TYPE_FROZEN_DEF",
+            "name": "RESIST_FROZEN_SOLID",
             "value": 39
         },
         {
             "id": 13,
-            "name": "KIND_TYPE_SHOCK_DEF",
+            "name": "RESIST_SHOCK",
             "value": 39
         }
     ]

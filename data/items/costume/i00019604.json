@@ -7,10 +7,25 @@
         "icon_id": 2177,
         "color_id": 84
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 10000,
     "weight": 3,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 7,
-    "quality": 3,
     "color_id": 1,
     "equip_slot": "EQUIP_CATEGORY_COSTUME",
     "level": 1,
@@ -29,17 +44,17 @@
     "params": [
         {
             "id": 5,
-            "name": "KIND_TYPE_SLEEP_DEF",
+            "name": "RESIST_SLEEP",
             "value": 100
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 100
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 100
         }
     ]

@@ -7,10 +7,25 @@
         "icon_id": 1953,
         "color_id": 127
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 0,
     "weight": 0,
+    "crest_slots": 3,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 80,
@@ -29,12 +44,12 @@
     "params": [
         {
             "id": 11,
-            "name": "KIND_TYPE_SPREAD_DEF",
+            "name": "RESIST_CATCHING_FIRE",
             "value": 25
         },
         {
             "id": 39,
-            "name": "KIND_TYPE_OIL_SAV",
+            "name": "FIRE_RESIST",
             "value": 25
         }
     ]

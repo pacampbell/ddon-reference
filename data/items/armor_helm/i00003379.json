@@ -7,10 +7,17 @@
         "icon_id": 297,
         "color_id": 10
     },
+    "jobs": [
+        "Priest",
+        "Sorcerer",
+        "ElementArcher"
+    ],
     "sell_price": 7351,
     "weight": 36,
+    "crest_slots": 0,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 3,
-    "quality": 1,
     "color_id": 3,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 70,

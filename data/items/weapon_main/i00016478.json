@@ -7,10 +7,15 @@
         "icon_id": 961,
         "color_id": 82
     },
+    "jobs": [
+        "Hunter"
+    ],
     "sell_price": 100,
     "weight": 0,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 1,
-    "quality": 0,
     "color_id": 20,
     "weapon_type": "ARCHISTAFF",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 32,
-            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "name": "MAX_LOADED_ARROWS",
             "value": 18
         }
     ]

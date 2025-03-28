@@ -7,10 +7,17 @@
         "icon_id": 76,
         "color_id": 11
     },
+    "jobs": [
+        "Priest",
+        "Sorcerer",
+        "ElementArcher"
+    ],
     "sell_price": 7351,
     "weight": 34,
+    "crest_slots": 0,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 8,
-    "quality": 4,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 70,
@@ -29,17 +36,17 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 15
         },
         {
             "id": 12,
-            "name": "KIND_TYPE_FROZEN_DEF",
+            "name": "RESIST_FROZEN_SOLID",
             "value": 4
         },
         {
             "id": 20,
-            "name": "KIND_TYPE_DOWN_SAINT",
+            "name": "RESIST_HOLY_RES_DOWN",
             "value": 4
         }
     ]

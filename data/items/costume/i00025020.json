@@ -7,10 +7,25 @@
         "icon_id": 2877,
         "color_id": 85
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 50000,
     "weight": 80,
+    "crest_slots": 4,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 2,
-    "quality": 1,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_COSTUME",
     "level": 1,
@@ -29,72 +44,72 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 278
         },
         {
             "id": 4,
-            "name": "KIND_TYPE_BLIND_DEF",
+            "name": "RESIST_BLIND",
             "value": 50
         },
         {
             "id": 11,
-            "name": "KIND_TYPE_SPREAD_DEF",
+            "name": "RESIST_CATCHING_FIRE",
             "value": 50
         },
         {
             "id": 12,
-            "name": "KIND_TYPE_FROZEN_DEF",
+            "name": "RESIST_FROZEN_SOLID",
             "value": 50
         },
         {
             "id": 13,
-            "name": "KIND_TYPE_SHOCK_DEF",
+            "name": "RESIST_SHOCK",
             "value": 50
         },
         {
             "id": 14,
-            "name": "KIND_TYPE_SAINT_DEF",
+            "name": "RESIST_HOLY_DRAIN",
             "value": 50
         },
         {
             "id": 39,
-            "name": "KIND_TYPE_OIL_SAV",
+            "name": "FIRE_RESIST",
             "value": 50
         },
         {
             "id": 40,
-            "name": "KIND_TYPE_BLIND_SAV",
+            "name": "ICE_RESIST",
             "value": 50
         },
         {
             "id": 41,
-            "name": "KIND_TYPE_SLEEP_SAV",
+            "name": "THUNDER_RESIST",
             "value": 50
         },
         {
             "id": 42,
-            "name": "KIND_TYPE_WATER_SAV",
+            "name": "HOLY_RESIST",
             "value": 50
         },
         {
             "id": 43,
-            "name": "KIND_TYPE_SEAL_SAV",
+            "name": "DARK_RESIST",
             "value": 50
         },
         {
             "id": 29,
-            "name": "KIND_TYPE_SHIELD_STAMINA",
+            "name": "HEALING_POWER",
             "value": 40
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1810
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 1162
         }
     ]

@@ -7,10 +7,15 @@
         "icon_id": 1018,
         "color_id": 9
     },
+    "jobs": [
+        "Priest"
+    ],
     "sell_price": 10130,
     "weight": 120,
+    "crest_slots": 1,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 9,
-    "quality": 4,
     "color_id": 4,
     "weapon_type": "MAGICK_BOW",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 141
         }
     ]

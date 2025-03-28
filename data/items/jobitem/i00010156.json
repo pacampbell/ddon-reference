@@ -7,10 +7,25 @@
         "icon_id": 1102,
         "color_id": 2
     },
+    "jobs": [],
     "sell_price": 2,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 16,
     "item_level": 4,
     "stats": {},
-    "params": []
+    "params": [
+        {
+            "id": 116,
+            "name": "MEDAL_FALLFIRE",
+            "param_count": 1,
+            "value": [
+                30,
+                0,
+                0
+            ]
+        }
+    ]
 }

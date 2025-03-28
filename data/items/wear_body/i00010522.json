@@ -7,10 +7,25 @@
         "icon_id": 1115,
         "color_id": 82
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 500,
     "weight": 5,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 6,
-    "quality": 3,
     "color_id": 23,
     "equip_slot": "EQUIP_CATEGORY_WEAR_BODY",
     "level": 1,
@@ -29,7 +44,7 @@
     "params": [
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 250
         }
     ]

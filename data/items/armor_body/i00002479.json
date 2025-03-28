@@ -7,10 +7,17 @@
         "icon_id": 153,
         "color_id": 8
     },
+    "jobs": [
+        "ShieldSage",
+        "Alchemist",
+        "HighScepter"
+    ],
     "sell_price": 4480,
     "weight": 90,
+    "crest_slots": 1,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 8,
-    "quality": 4,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
     "level": 40,
@@ -29,12 +36,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 18
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 787
         }
     ]

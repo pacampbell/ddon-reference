@@ -7,10 +7,25 @@
         "icon_id": 1101,
         "color_id": 1
     },
+    "jobs": [],
     "sell_price": 2,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 6,
     "item_level": 2,
     "stats": {},
-    "params": []
+    "params": [
+        {
+            "id": 121,
+            "name": "MEDAL_SEAL",
+            "param_count": 1,
+            "value": [
+                30,
+                0,
+                0
+            ]
+        }
+    ]
 }

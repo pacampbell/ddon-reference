@@ -7,25 +7,31 @@
         "icon_id": 580,
         "color_id": 129
     },
+    "jobs": [
+        "Seeker"
+    ],
     "sell_price": 34464,
     "weight": 1,
+    "crest_slots": 1,
+    "quality": "",
+    "can_bazaar": false,
     "level": 1,
     "item_level": 0,
     "stats": {},
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 30
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 150
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 150
         }
     ]

@@ -7,10 +7,16 @@
         "icon_id": 2218,
         "color_id": 111
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 14280,
     "weight": 34,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 8,
-    "quality": 4,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 100,
@@ -29,12 +35,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 33
         },
         {
             "id": 28,
-            "name": "KIND_TYPE_SPIRIT",
+            "name": "MAGMA_RESIST",
             "value": 9
         }
     ]

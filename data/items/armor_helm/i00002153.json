@@ -7,10 +7,16 @@
         "icon_id": 273,
         "color_id": 10
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 5767,
     "weight": 45,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 15,
-    "quality": 7,
     "color_id": 2,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 62,

@@ -7,10 +7,15 @@
         "icon_id": 2136,
         "color_id": 85
     },
+    "jobs": [
+        "Warrior"
+    ],
     "sell_price": 50000,
     "weight": 100,
+    "crest_slots": 4,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 13,
-    "quality": 6,
     "color_id": 4,
     "weapon_type": "BOW",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,17 +33,17 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 920
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 5
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

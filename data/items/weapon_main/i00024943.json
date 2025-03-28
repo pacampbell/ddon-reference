@@ -7,10 +7,15 @@
         "icon_id": 2641,
         "color_id": 82
     },
+    "jobs": [
+        "Fighter"
+    ],
     "sell_price": 10000,
     "weight": 60,
+    "crest_slots": 4,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 14,
-    "quality": 7,
     "color_id": 4,
     "weapon_type": "SWORD",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,22 +33,22 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 601
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 5
         },
         {
             "id": 54,
-            "name": "KIND_TYPE_DOWN_SAINT_SAV",
+            "name": "INFLICT_CATCHING_FIRE",
             "value": 15
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

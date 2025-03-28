@@ -7,8 +7,14 @@
         "icon_id": 2004,
         "color_id": 30
     },
+    "jobs": [
+        "Warrior"
+    ],
     "sell_price": 100,
     "weight": 0,
+    "crest_slots": 4,
+    "quality": "",
+    "can_bazaar": false,
     "level": 1,
     "item_level": 11,
     "stats": {},

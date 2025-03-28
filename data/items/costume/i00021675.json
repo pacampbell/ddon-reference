@@ -7,10 +7,25 @@
         "icon_id": 2508,
         "color_id": 19
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 10000,
     "weight": 200,
-    "item_level": 9,
+    "crest_slots": 4,
     "quality": 4,
+    "can_bazaar": false,
+    "item_level": 9,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_COSTUME",
     "level": 1,
@@ -29,32 +44,32 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 258
         },
         {
             "id": 11,
-            "name": "KIND_TYPE_SPREAD_DEF",
+            "name": "RESIST_CATCHING_FIRE",
             "value": 100
         },
         {
             "id": 39,
-            "name": "KIND_TYPE_OIL_SAV",
+            "name": "FIRE_RESIST",
             "value": 100
         },
         {
             "id": 103,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "DEMON_SLAYER",
             "value": 50
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1700
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 1100
         }
     ]

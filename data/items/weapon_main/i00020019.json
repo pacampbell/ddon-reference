@@ -7,10 +7,15 @@
         "icon_id": 2342,
         "color_id": 111
     },
+    "jobs": [
+        "SpiritLancer"
+    ],
     "sell_price": 43670,
     "weight": 110,
+    "crest_slots": 1,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 14,
-    "quality": 7,
     "color_id": 23,
     "weapon_type": "SPIRIT_LANCE",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,17 +33,17 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 586
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 10
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

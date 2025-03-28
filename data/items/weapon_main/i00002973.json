@@ -7,10 +7,15 @@
         "icon_id": 996,
         "color_id": 7
     },
+    "jobs": [
+        "ElementArcher"
+    ],
     "sell_price": 3385,
     "weight": 60,
+    "crest_slots": 1,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 6,
-    "quality": 3,
     "color_id": 2,
     "weapon_type": "GREATSWORD",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 94
         }
     ]

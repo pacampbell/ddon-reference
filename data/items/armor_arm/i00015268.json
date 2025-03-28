@@ -7,10 +7,17 @@
         "icon_id": 70,
         "color_id": 10
     },
+    "jobs": [
+        "Priest",
+        "Sorcerer",
+        "ElementArcher"
+    ],
     "sell_price": 8895,
     "weight": 34,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 77,
@@ -29,7 +36,7 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 24
         }
     ]

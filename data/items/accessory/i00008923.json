@@ -7,10 +7,25 @@
         "icon_id": 209,
         "color_id": 10
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 2250,
     "weight": 10,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 11,
-    "quality": 5,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
     "level": 55,
@@ -29,7 +44,7 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 12
         }
     ]

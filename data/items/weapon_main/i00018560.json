@@ -7,10 +7,15 @@
         "icon_id": 2085,
         "color_id": 82
     },
+    "jobs": [
+        "Priest"
+    ],
     "sell_price": 30000,
     "weight": 63,
+    "crest_slots": 4,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 13,
-    "quality": 6,
     "color_id": 23,
     "weapon_type": "MAGICK_BOW",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,17 +33,17 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 249
         },
         {
             "id": 44,
-            "name": "KIND_TYPE_SOFTBODY_SAV",
+            "name": "INFLICT_POISON",
             "value": 80
         },
         {
             "id": 47,
-            "name": "KIND_TYPE_SPRED_SAV",
+            "name": "INFLICT_BLIND",
             "value": 10
         }
     ]

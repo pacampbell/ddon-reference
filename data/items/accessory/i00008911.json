@@ -7,10 +7,15 @@
         "icon_id": 229,
         "color_id": 10
     },
+    "jobs": [
+        "Alchemist"
+    ],
     "sell_price": 2250,
     "weight": 10,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 22,
     "equip_slot": "EQUIP_CATEGORY_ACCESSORY",
     "level": 60,
@@ -29,22 +34,22 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 13
         },
         {
             "id": 10,
-            "name": "KIND_TYPE_GOLD_DEF",
+            "name": "RESIST_GOLDEN",
             "value": 5
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 30
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 24
         }
     ]

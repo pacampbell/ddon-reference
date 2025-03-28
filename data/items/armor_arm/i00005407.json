@@ -7,10 +7,15 @@
         "icon_id": 66,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker"
+    ],
     "sell_price": 5760,
     "weight": 45,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 22,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 60,
@@ -29,12 +34,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 13
         },
         {
             "id": 10,
-            "name": "KIND_TYPE_GOLD_DEF",
+            "name": "RESIST_GOLDEN",
             "value": 5
         }
     ]

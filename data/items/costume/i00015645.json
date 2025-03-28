@@ -7,10 +7,25 @@
         "icon_id": 1592,
         "color_id": 84
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 2600,
     "weight": 30,
-    "item_level": 1,
+    "crest_slots": 0,
     "quality": 0,
+    "can_bazaar": false,
+    "item_level": 1,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_COSTUME",
     "level": 1,
@@ -28,12 +43,12 @@
     "params": [
         {
             "id": 3,
-            "name": "KIND_TYPE_OIL_DEF",
+            "name": "RESIST_TARRING",
             "value": 100
         },
         {
             "id": 6,
-            "name": "KIND_TYPE_WATER_DEF",
+            "name": "RESIST_DRENCHING",
             "value": 100
         }
     ]

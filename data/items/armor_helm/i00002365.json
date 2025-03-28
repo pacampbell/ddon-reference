@@ -7,10 +7,15 @@
         "icon_id": 312,
         "color_id": 10
     },
+    "jobs": [
+        "ElementArcher"
+    ],
     "sell_price": 5760,
     "weight": 27,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 22,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 60,
@@ -29,7 +34,7 @@
     "params": [
         {
             "id": 10,
-            "name": "KIND_TYPE_GOLD_DEF",
+            "name": "RESIST_GOLDEN",
             "value": 5
         }
     ]

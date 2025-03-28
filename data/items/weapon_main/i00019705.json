@@ -7,10 +7,15 @@
         "icon_id": 2152,
         "color_id": 84
     },
+    "jobs": [
+        "Hunter"
+    ],
     "sell_price": 50000,
     "weight": 70,
+    "crest_slots": 4,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 4,
     "weapon_type": "ARCHISTAFF",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,22 +33,22 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 511
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 5
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         },
         {
             "id": 32,
-            "name": "KIND_TYPE_FIRE_ELE_DEF",
+            "name": "MAX_LOADED_ARROWS",
             "value": 28
         }
     ]

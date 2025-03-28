@@ -7,20 +7,36 @@
         "icon_id": 701,
         "color_id": 7
     },
+    "jobs": [
+        "Fighter",
+        "Seeker",
+        "Hunter",
+        "Priest",
+        "ShieldSage",
+        "Sorcerer",
+        "Warrior",
+        "ElementArcher",
+        "Alchemist",
+        "SpiritLancer",
+        "HighScepter"
+    ],
     "sell_price": 400,
     "weight": 1,
+    "crest_slots": 0,
+    "quality": "",
+    "can_bazaar": false,
     "level": 21,
     "item_level": 5,
     "stats": {},
     "params": [
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 15
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 9
         }
     ]

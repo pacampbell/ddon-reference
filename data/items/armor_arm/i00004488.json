@@ -7,10 +7,15 @@
         "icon_id": 67,
         "color_id": 10
     },
+    "jobs": [
+        "ElementArcher"
+    ],
     "sell_price": 5015,
     "weight": 23,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 60,
@@ -29,7 +34,7 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 13
         }
     ]

@@ -7,10 +7,17 @@
         "icon_id": 1549,
         "color_id": 111
     },
+    "jobs": [
+        "ShieldSage",
+        "Alchemist",
+        "HighScepter"
+    ],
     "sell_price": 8439,
     "weight": 45,
+    "crest_slots": 0,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 23,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 75,
@@ -29,22 +36,22 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 23
         },
         {
             "id": 2,
-            "name": "KIND_TYPE_SLOW_DEF",
+            "name": "RESIST_TORPOR",
             "value": 4
         },
         {
             "id": 9,
-            "name": "KIND_TYPE_STONE_DEF",
+            "name": "RESIST_PETRIFICATION",
             "value": 4
         },
         {
             "id": 15,
-            "name": "KIND_TYPE_SWOON_DEF",
+            "name": "RESIST_KNOCKOUT",
             "value": 4
         }
     ]

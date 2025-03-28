@@ -7,10 +7,15 @@
         "icon_id": 306,
         "color_id": 10
     },
+    "jobs": [
+        "Alchemist"
+    ],
     "sell_price": 5015,
     "weight": 36,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 60,

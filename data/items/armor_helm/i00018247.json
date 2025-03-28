@@ -7,10 +7,17 @@
         "icon_id": 250,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker",
+        "Hunter",
+        "SpiritLancer"
+    ],
     "sell_price": 11100,
     "weight": 37,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 85,

@@ -7,10 +7,15 @@
         "icon_id": 402,
         "color_id": 10
     },
+    "jobs": [
+        "Seeker"
+    ],
     "sell_price": 7200,
     "weight": 72,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 22,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
     "level": 60,
@@ -29,17 +34,17 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 52
         },
         {
             "id": 10,
-            "name": "KIND_TYPE_GOLD_DEF",
+            "name": "RESIST_GOLDEN",
             "value": 5
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 772
         }
     ]

@@ -7,10 +7,16 @@
         "icon_id": 106,
         "color_id": 10
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 6450,
     "weight": 90,
+    "crest_slots": 1,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 11,
-    "quality": 5,
     "color_id": 3,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
     "level": 52,
@@ -29,12 +35,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 22
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1051
         }
     ]

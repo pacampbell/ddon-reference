@@ -7,10 +7,15 @@
         "icon_id": 2677,
         "color_id": 86
     },
+    "jobs": [
+        "ShieldSage"
+    ],
     "sell_price": 48000,
     "weight": 40,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 2,
-    "quality": 1,
     "color_id": 23,
     "weapon_type": "GREATSHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 103,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "DEMON_SLAYER",
             "value": 77
         }
     ]

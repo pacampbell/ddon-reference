@@ -7,10 +7,16 @@
         "icon_id": 1954,
         "color_id": 10
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 12020,
     "weight": 57,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 0,
-    "quality": 0,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
     "level": 80,
@@ -29,12 +35,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 77
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 434
         }
     ]

@@ -7,10 +7,15 @@
         "icon_id": 855,
         "color_id": 9
     },
+    "jobs": [
+        "Fighter"
+    ],
     "sell_price": 3700,
     "weight": 80,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 9,
-    "quality": 4,
     "color_id": 2,
     "weapon_type": "SHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",
@@ -28,7 +33,7 @@
     "params": [
         {
             "id": 87,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "GUARD_POWER",
             "value": 273
         }
     ]

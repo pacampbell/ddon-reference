@@ -7,10 +7,17 @@
         "icon_id": 1554,
         "color_id": 111
     },
+    "jobs": [
+        "Priest",
+        "Sorcerer",
+        "ElementArcher"
+    ],
     "sell_price": 14768,
     "weight": 70,
+    "crest_slots": 1,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 1,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
     "level": 75,
@@ -29,27 +36,27 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 32
         },
         {
             "id": 2,
-            "name": "KIND_TYPE_SLOW_DEF",
+            "name": "RESIST_TORPOR",
             "value": 7
         },
         {
             "id": 9,
-            "name": "KIND_TYPE_STONE_DEF",
+            "name": "RESIST_PETRIFICATION",
             "value": 7
         },
         {
             "id": 15,
-            "name": "KIND_TYPE_SWOON_DEF",
+            "name": "RESIST_KNOCKOUT",
             "value": 7
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1192
         }
     ]

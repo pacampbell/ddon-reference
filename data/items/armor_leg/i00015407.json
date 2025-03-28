@@ -7,10 +7,16 @@
         "icon_id": 1352,
         "color_id": 11
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 12001,
     "weight": 42,
-    "item_level": 6,
+    "crest_slots": 0,
     "quality": 3,
+    "can_bazaar": false,
+    "item_level": 6,
     "color_id": 0,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
     "level": 80,
@@ -29,22 +35,22 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 77
         },
         {
             "id": 13,
-            "name": "KIND_TYPE_SHOCK_DEF",
+            "name": "RESIST_SHOCK",
             "value": 4
         },
         {
             "id": 41,
-            "name": "KIND_TYPE_SLEEP_SAV",
+            "name": "THUNDER_RESIST",
             "value": 12
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 735
         }
     ]

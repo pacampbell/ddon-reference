@@ -7,10 +7,15 @@
         "icon_id": 2314,
         "color_id": 11
     },
+    "jobs": [
+        "ShieldSage"
+    ],
     "sell_price": 9388,
     "weight": 40,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 6,
-    "quality": 3,
     "color_id": 23,
     "weapon_type": "GREATSHIELD",
     "equip_slot": "EQUIP_CATEGORY_WEP_SUB",

@@ -7,10 +7,17 @@
         "icon_id": 2219,
         "color_id": 111
     },
+    "jobs": [
+        "Seeker",
+        "Hunter",
+        "SpiritLancer"
+    ],
     "sell_price": 14280,
     "weight": 37,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 8,
-    "quality": 4,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 100,
@@ -29,12 +36,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 32
         },
         {
             "id": 28,
-            "name": "KIND_TYPE_SPIRIT",
+            "name": "MAGMA_RESIST",
             "value": 6
         }
     ]

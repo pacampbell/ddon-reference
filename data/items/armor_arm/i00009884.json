@@ -7,10 +7,16 @@
         "icon_id": 7,
         "color_id": 8
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 0,
     "weight": 45,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 7,
-    "quality": 3,
     "color_id": 2,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_ARM",
     "level": 1,
@@ -29,7 +35,7 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 4
         }
     ]

@@ -7,10 +7,17 @@
         "icon_id": 311,
         "color_id": 10
     },
+    "jobs": [
+        "Priest",
+        "Sorcerer",
+        "ElementArcher"
+    ],
     "sell_price": 9601,
     "weight": 36,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 1,
-    "quality": 0,
     "color_id": 2,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 80,
@@ -29,7 +36,7 @@
     "params": [
         {
             "id": 7,
-            "name": "KIND_TYPE_SEAL_DEF",
+            "name": "RESIST_SKILL_STIFLING",
             "value": 8
         }
     ]

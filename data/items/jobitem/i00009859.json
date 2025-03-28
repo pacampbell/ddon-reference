@@ -7,8 +7,12 @@
         "icon_id": 527,
         "color_id": 2
     },
+    "jobs": [],
     "sell_price": 1,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 1,
     "item_level": 3,
     "stats": {},

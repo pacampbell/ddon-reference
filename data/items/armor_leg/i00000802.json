@@ -7,10 +7,15 @@
         "icon_id": 411,
         "color_id": 10
     },
+    "jobs": [
+        "Priest"
+    ],
     "sell_price": 6270,
     "weight": 36,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 2,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_LEG",
     "level": 60,
@@ -29,12 +34,12 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 52
         },
         {
             "id": 69,
-            "name": "KIND_TYPE_MAX_ST_UP",
+            "name": "MAX_STAMINA",
             "value": 724
         }
     ]

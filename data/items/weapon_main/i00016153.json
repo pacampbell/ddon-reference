@@ -7,10 +7,15 @@
         "icon_id": 1734,
         "color_id": 19
     },
+    "jobs": [
+        "Warrior"
+    ],
     "sell_price": 10000,
     "weight": 150,
+    "crest_slots": 0,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 15,
-    "quality": 7,
     "color_id": 0,
     "weapon_type": "BOW",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,22 +33,22 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 614
         },
         {
             "id": 55,
-            "name": "KIND_TYPE_DOWN_BLIND_SAV",
+            "name": "INFLICT_FROZEN_SOLID",
             "value": 100
         },
         {
             "id": 59,
-            "name": "KIND_TYPE_DOWN_MAGIC_DEF_SAV",
+            "name": "INFLICT_ICE_RES_DOWN",
             "value": 60
         },
         {
             "id": 67,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "KNOCKOUT_POWER",
             "value": 15
         }
     ]

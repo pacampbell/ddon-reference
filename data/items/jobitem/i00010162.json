@@ -7,10 +7,25 @@
         "icon_id": 1108,
         "color_id": 3
     },
+    "jobs": [],
     "sell_price": 5,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 21,
     "item_level": 5,
     "stats": {},
-    "params": []
+    "params": [
+        {
+            "id": 114,
+            "name": "MEDAL_SLEEP",
+            "param_count": 1,
+            "value": [
+                25,
+                0,
+                0
+            ]
+        }
+    ]
 }

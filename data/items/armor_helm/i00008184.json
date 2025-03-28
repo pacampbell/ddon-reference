@@ -7,10 +7,15 @@
         "icon_id": 302,
         "color_id": 10
     },
+    "jobs": [
+        "Sorcerer"
+    ],
     "sell_price": 5015,
     "weight": 27,
+    "crest_slots": 0,
+    "quality": 1,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 1,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 60,

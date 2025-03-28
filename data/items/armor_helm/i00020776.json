@@ -7,10 +7,16 @@
         "icon_id": 2251,
         "color_id": 111
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 14760,
     "weight": 34,
-    "item_level": 8,
+    "crest_slots": 0,
     "quality": 4,
+    "can_bazaar": false,
+    "item_level": 8,
     "color_id": 20,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 100,
@@ -29,7 +35,7 @@
     "params": [
         {
             "id": 28,
-            "name": "KIND_TYPE_SPIRIT",
+            "name": "MAGMA_RESIST",
             "value": 10
         }
     ]

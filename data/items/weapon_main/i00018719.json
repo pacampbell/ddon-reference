@@ -7,10 +7,15 @@
         "icon_id": 2053,
         "color_id": 111
     },
+    "jobs": [
+        "Sorcerer"
+    ],
     "sell_price": 35805,
     "weight": 72,
+    "crest_slots": 1,
+    "quality": 4,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 23,
     "weapon_type": "MAGICK_GAUNTLET",
     "equip_slot": "EQUIP_CATEGORY_WEP_MAIN",
@@ -28,12 +33,12 @@
     "params": [
         {
             "id": 84,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_SLASHING",
             "value": 759
         },
         {
             "id": 85,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "BLOW_POWER_BBLUNT",
             "value": 10
         }
     ]

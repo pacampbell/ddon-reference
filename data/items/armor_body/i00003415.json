@@ -7,10 +7,15 @@
         "icon_id": 178,
         "color_id": 10
     },
+    "jobs": [
+        "ElementArcher"
+    ],
     "sell_price": 10080,
     "weight": 70,
+    "crest_slots": 1,
+    "quality": 2,
+    "can_bazaar": false,
     "item_level": 12,
-    "quality": 6,
     "color_id": 22,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_BODY",
     "level": 60,
@@ -29,17 +34,17 @@
     "params": [
         {
             "id": 86,
-            "name": "KIND_TYPE_UNKNOWN",
+            "name": "ENDURANCE",
             "value": 26
         },
         {
             "id": 10,
-            "name": "KIND_TYPE_GOLD_DEF",
+            "name": "RESIST_GOLDEN",
             "value": 5
         },
         {
             "id": 68,
-            "name": "KIND_TYPE_MAX_HP_UP",
+            "name": "MAX_HEALTH",
             "value": 1185
         }
     ]

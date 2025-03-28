@@ -7,10 +7,17 @@
         "icon_id": 322,
         "color_id": 9
     },
+    "jobs": [
+        "ShieldSage",
+        "Alchemist",
+        "HighScepter"
+    ],
     "sell_price": 4665,
     "weight": 27,
+    "crest_slots": 0,
+    "quality": 0,
+    "can_bazaar": false,
     "item_level": 10,
-    "quality": 5,
     "color_id": 4,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 49,

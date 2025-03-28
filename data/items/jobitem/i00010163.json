@@ -7,10 +7,25 @@
         "icon_id": 1109,
         "color_id": 3
     },
+    "jobs": [],
     "sell_price": 5,
     "weight": 0,
+    "crest_slots": "",
+    "quality": "",
+    "can_bazaar": false,
     "level": 21,
     "item_level": 5,
     "stats": {},
-    "params": []
+    "params": [
+        {
+            "id": 115,
+            "name": "MEDAL_STAN",
+            "param_count": 1,
+            "value": [
+                16,
+                0,
+                0
+            ]
+        }
+    ]
 }

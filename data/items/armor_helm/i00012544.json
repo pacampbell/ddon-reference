@@ -7,10 +7,16 @@
         "icon_id": 1327,
         "color_id": 11
     },
+    "jobs": [
+        "Fighter",
+        "Warrior"
+    ],
     "sell_price": 6339,
     "weight": 36,
+    "crest_slots": 0,
+    "quality": 3,
+    "can_bazaar": false,
     "item_level": 9,
-    "quality": 4,
     "color_id": 2,
     "equip_slot": "EQUIP_CATEGORY_ARMOR_HELM",
     "level": 65,
@@ -29,12 +35,12 @@
     "params": [
         {
             "id": 4,
-            "name": "KIND_TYPE_BLIND_DEF",
+            "name": "RESIST_BLIND",
             "value": 5
         },
         {
             "id": 16,
-            "name": "KIND_TYPE_CURSE_DEF",
+            "name": "RESIST_CURSE",
             "value": 5
         }
     ]

@@ -20,6 +20,16 @@
     "steps": [
         "Defeat the encountered fiendish demons"
     ],
+    "walkthrough": [
+        "x9 enemies total",
+        "",
+        "LV60 Goliath x2 (Hidden Jewelry)",
+        "LV60 Alchemy Eye x3 (Hidden Jewelry)",
+        "Lv60 Alchemized Harpies x4",
+        "",
+        "Player picks up multiple Golden loot bags",
+        "- Has an Unappraised Moon Trinket (Soldier) and Mithril Ore in it"
+    ],
     "variants": [
         {
             "level": 60,
@@ -82,5 +92,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://youtu.be/_sSLt-wBRIU?t=526"]
 }

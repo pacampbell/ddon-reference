@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Composite Longbow",
-                                "item_id": 4757,
+                                "item_id": 76,
                                 "amount": 1
                             },
                             {
@@ -60,7 +60,7 @@
                         [
                             {
                                 "name": "White Wolf Bow",
-                                "item_id": 4759,
+                                "item_id": 78,
                                 "amount": 1
                             },
                             {
@@ -81,12 +81,12 @@
                         [
                             {
                                 "name": "White Wolf Bow",
-                                "item_id": 4759,
+                                "item_id": 78,
                                 "amount": 1
                             },
                             {
                                 "name": "Gladius",
-                                "item_id": 4785,
+                                "item_id": 104,
                                 "amount": 1
                             },
                             {
@@ -161,7 +161,7 @@
                         [
                             {
                                 "name": "Majesty Drapes",
-                                "item_id": 5546,
+                                "item_id": 865,
                                 "amount": 1
                             },
                             {
@@ -182,7 +182,7 @@
                         [
                             {
                                 "name": "Valiant Coat",
-                                "item_id": 5549,
+                                "item_id": 868,
                                 "amount": 1
                             },
                             {
@@ -203,12 +203,12 @@
                         [
                             {
                                 "name": "Valiant Coat",
-                                "item_id": 5549,
+                                "item_id": 868,
                                 "amount": 1
                             },
                             {
                                 "name": "Silver Lorica",
-                                "item_id": 5335,
+                                "item_id": 654,
                                 "amount": 1
                             },
                             {

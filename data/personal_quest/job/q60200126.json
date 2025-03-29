@@ -19,9 +19,18 @@
         "next_quest_id": 60200127
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "ElementArcher", "param02": 50},
-        {"type": "MainQuestCompleted", "param01": 20200},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "ElementArcher",
+            "param02": 50
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20200
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

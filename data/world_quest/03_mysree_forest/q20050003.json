@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Strong Hatchet",
-                                "item_id": 4748,
+                                "item_id": 67,
                                 "amount": 1
                             },
                             {
@@ -70,12 +70,12 @@
                         [
                             {
                                 "name": "Thousand Troops",
-                                "item_id": 4747,
+                                "item_id": 66,
                                 "amount": 1
                             },
                             {
                                 "name": "Muscular Wall",
-                                "item_id": 4752,
+                                "item_id": 71,
                                 "amount": 1
                             },
                             {
@@ -110,7 +110,7 @@
                         [
                             {
                                 "name": "Custom Longbow",
-                                "item_id": 4758,
+                                "item_id": 77,
                                 "amount": 1
                             },
                             {
@@ -131,7 +131,7 @@
                         [
                             {
                                 "name": "Bloody Hide",
-                                "item_id": 4857,
+                                "item_id": 176,
                                 "amount": 1
                             },
                             {
@@ -152,12 +152,12 @@
                         [
                             {
                                 "name": "Bloody Hide",
-                                "item_id": 4857,
+                                "item_id": 176,
                                 "amount": 1
                             },
                             {
                                 "name": "Bardiche Daggers",
-                                "item_id": 4958,
+                                "item_id": 277,
                                 "amount": 1
                             },
                             {

@@ -19,10 +19,23 @@
         "next_quest_id": 60200133
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Alchemist", "param02": 40},
-        {"type": "AreaRank", "param01": "MergodaRuins", "param02": 6},
-        {"type": "ClearPersonalQuest", "param01": 60200001},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Alchemist",
+            "param02": 40
+        },
+        {
+            "type": "AreaRank",
+            "param01": "MergodaRuins",
+            "param02": 6
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200001
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

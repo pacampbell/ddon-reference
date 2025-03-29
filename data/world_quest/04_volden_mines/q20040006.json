@@ -48,7 +48,7 @@
                         [
                             {
                                 "name": "Over Guard",
-                                "item_id": 5309,
+                                "item_id": 628,
                                 "amount": 1
                             },
                             {
@@ -69,7 +69,7 @@
                         [
                             {
                                 "name": "Enamel Hood",
-                                "item_id": 5310,
+                                "item_id": 629,
                                 "amount": 1
                             },
                             {
@@ -90,12 +90,12 @@
                         [
                             {
                                 "name": "Enamel Hood",
-                                "item_id": 5310,
+                                "item_id": 629,
                                 "amount": 1
                             },
                             {
                                 "name": "Showdown Helm",
-                                "item_id": 5524,
+                                "item_id": 843,
                                 "amount": 1
                             },
                             {
@@ -130,7 +130,7 @@
                         [
                             {
                                 "name": "Wiseman Cloak",
-                                "item_id": 5693,
+                                "item_id": 1012,
                                 "amount": 1
                             },
                             {
@@ -151,7 +151,7 @@
                         [
                             {
                                 "name": "Pauldron",
-                                "item_id": 5694,
+                                "item_id": 1013,
                                 "amount": 1
                             },
                             {
@@ -172,7 +172,7 @@
                         [
                             {
                                 "name": "Pauldron",
-                                "item_id": 5694,
+                                "item_id": 1013,
                                 "amount": 1
                             },
                             {

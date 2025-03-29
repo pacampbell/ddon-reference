@@ -19,8 +19,14 @@
         "next_quest_id": 60000055
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Sorcerer", "param02": 1},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Sorcerer",
+            "param02": 1
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

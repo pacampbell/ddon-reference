@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Executioner's Mask",
-                                "item_id": 9543,
+                                "item_id": 14837,
                                 "amount": 1
                             },
                             {
@@ -70,7 +70,7 @@
                         [
                             {
                                 "name": "Legacy Band",
-                                "item_id": 9553,
+                                "item_id": 9549,
                                 "amount": 1
                             },
                             {
@@ -91,12 +91,12 @@
                         [
                             {
                                 "name": "Legacy Band",
-                                "item_id": 9553,
+                                "item_id": 9549,
                                 "amount": 1
                             },
                             {
                                 "name": "Lestanian Vest",
-                                "item_id": 9628,
+                                "item_id": 9624,
                                 "amount": 1
                             },
                             {
@@ -131,7 +131,7 @@
                         [
                             {
                                 "name": "Barrel Helm",
-                                "item_id": 8124,
+                                "item_id": 8120,
                                 "amount": 1
                             },
                             {
@@ -152,7 +152,7 @@
                         [
                             {
                                 "name": "Assassin's Mask",
-                                "item_id": 5306,
+                                "item_id": 625,
                                 "amount": 1
                             },
                             {
@@ -173,12 +173,12 @@
                         [
                             {
                                 "name": "Assassin's Mask",
-                                "item_id": 5306,
+                                "item_id": 625,
                                 "amount": 1
                             },
                             {
                                 "name": "Quest Helm",
-                                "item_id": 5520,
+                                "item_id": 839,
                                 "amount": 1
                             },
                             {

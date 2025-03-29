@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Battle Shield",
-                                "item_id": 4775,
+                                "item_id": 94,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Knight's Honor",
-                                "item_id": 4776,
+                                "item_id": 95,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Knight's Honor",
-                                "item_id": 4776,
+                                "item_id": 95,
                                 "amount": 1
                             },
                             {
                                 "name": "Cathedral Fire",
-                                "item_id": 10051,
+                                "item_id": 10047,
                                 "amount": 1
                             },
                             {
@@ -179,7 +179,7 @@
                         [
                             {
                                 "name": "Over Guard",
-                                "item_id": 5309,
+                                "item_id": 628,
                                 "amount": 1
                             },
                             {

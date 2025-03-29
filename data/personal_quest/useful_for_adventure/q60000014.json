@@ -19,7 +19,10 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "ClearPersonalQuest", "param01": 60000012}
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000012
+        }
     ],
     "unlocks": {
         "tutorials": [
@@ -68,7 +71,7 @@
                         [
                             {
                                 "name": "Blessing Vest",
-                                "item_id": 8582,
+                                "item_id": 8578,
                                 "amount": 1
                             }
                         ]

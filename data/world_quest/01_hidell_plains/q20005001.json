@@ -42,7 +42,7 @@
                         [
                             {
                                 "name": "Blue-edged Helm",
-                                "item_id": 8167,
+                                "item_id": 8163,
                                 "amount": 1
                             },
                             {
@@ -78,7 +78,7 @@
                         [
                             {
                                 "name": "Coif",
-                                "item_id": 8197,
+                                "item_id": 8193,
                                 "amount": 1
                             },
                             {
@@ -94,7 +94,7 @@
                         [
                             {
                                 "name": "Leather Stole",
-                                "item_id": 9533,
+                                "item_id": 9529,
                                 "amount": 1
                             },
                             {
@@ -110,12 +110,12 @@
                         [
                             {
                                 "name": "Leather Stole",
-                                "item_id": 9533,
+                                "item_id": 9529,
                                 "amount": 1
                             },
                             {
                                 "name": "Leader's Vest",
-                                "item_id": 5173,
+                                "item_id": 492,
                                 "amount": 1
                             },
                             {
@@ -160,7 +160,7 @@
                         [
                             {
                                 "name": "Chain Hood",
-                                "item_id": 8207,
+                                "item_id": 8203,
                                 "amount": 1
                             },
                             {

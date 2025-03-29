@@ -50,7 +50,7 @@
                         [
                             {
                                 "name": "Rock Armor",
-                                "item_id": 5228,
+                                "item_id": 547,
                                 "amount": 1
                             },
                             {
@@ -71,12 +71,12 @@
                         [
                             {
                                 "name": "Rock Armor",
-                                "item_id": 5228,
+                                "item_id": 547,
                                 "amount": 1
                             },
                             {
                                 "name": "Shaman's Robe",
-                                "item_id": 5439,
+                                "item_id": 758,
                                 "amount": 1
                             },
                             {
@@ -111,7 +111,7 @@
                         [
                             {
                                 "name": "Shaman's Robe",
-                                "item_id": 5439,
+                                "item_id": 758,
                                 "amount": 1
                             },
                             {
@@ -132,7 +132,7 @@
                         [
                             {
                                 "name": "Sorcerer's Coat",
-                                "item_id": 5442,
+                                "item_id": 761,
                                 "amount": 1
                             },
                             {
@@ -153,12 +153,12 @@
                         [
                             {
                                 "name": "Sorcerer's Coat",
-                                "item_id": 5442,
+                                "item_id": 761,
                                 "amount": 1
                             },
                             {
                                 "name": "Grand Surcoat",
-                                "item_id": 5231,
+                                "item_id": 550,
                                 "amount": 1
                             },
                             {
@@ -193,7 +193,7 @@
                         [
                             {
                                 "name": "Faerie Band",
-                                "item_id": 9568,
+                                "item_id": 9564,
                                 "amount": 1
                             },
                             {
@@ -209,7 +209,7 @@
                         [
                             {
                                 "name": "Advent Circlet",
-                                "item_id": 9573,
+                                "item_id": 9569,
                                 "amount": 1
                             },
                             {
@@ -225,12 +225,12 @@
                         [
                             {
                                 "name": "Advent Circlet",
-                                "item_id": 9573,
+                                "item_id": 9569,
                                 "amount": 1
                             },
                             {
                                 "name": "Justice Holder",
-                                "item_id": 9643,
+                                "item_id": 9639,
                                 "amount": 1
                             },
                             {

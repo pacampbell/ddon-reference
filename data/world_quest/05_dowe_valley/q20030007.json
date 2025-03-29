@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Faerie Band",
-                                "item_id": 9568,
+                                "item_id": 9564,
                                 "amount": 1
                             },
                             {
@@ -68,7 +68,7 @@
                         [
                             {
                                 "name": "Outlaw's Mask",
-                                "item_id": 8522,
+                                "item_id": 8518,
                                 "amount": 1
                             },
                             {
@@ -89,12 +89,12 @@
                         [
                             {
                                 "name": "Outlaw's Mask",
-                                "item_id": 8522,
+                                "item_id": 8518,
                                 "amount": 1
                             },
                             {
                                 "name": "Freya Plate",
-                                "item_id": 5635,
+                                "item_id": 954,
                                 "amount": 1
                             },
                             {
@@ -128,7 +128,7 @@
                         [
                             {
                                 "name": "Silver Chainmail",
-                                "item_id": 5666,
+                                "item_id": 985,
                                 "amount": 1
                             },
                             {
@@ -154,7 +154,7 @@
                             },
                             {
                                 "name": "Silver Chainmail",
-                                "item_id": 5666,
+                                "item_id": 985,
                                 "amount": 1
                             },
                             {

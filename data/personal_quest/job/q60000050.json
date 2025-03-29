@@ -19,7 +19,11 @@
         "next_quest_id": 60200100
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Fighter", "param02": 18}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Fighter",
+            "param02": 18
+        }
     ],
     "unlocks": {
         "tutorials": [],

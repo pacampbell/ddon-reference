@@ -19,8 +19,15 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "HighScepter", "param02": 18},
-        {"type": "MainQuestCompleted", "param01": 30150}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "HighScepter",
+            "param02": 18
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30150
+        }
     ],
     "unlocks": {
         "tutorials": [],
@@ -48,7 +55,7 @@
                         [
                             {
                                 "name": "Fallen Truth",
-                                "item_id": 20051,
+                                "item_id": 20047,
                                 "amount": 1
                             }
                         ]
@@ -58,5 +65,7 @@
         }
     ],
     "tags": [],
-    "references": ["https://www.youtube.com/watch?v=yig79I70jIc"]
+    "references": [
+        "https://www.youtube.com/watch?v=yig79I70jIc"
+    ]
 }

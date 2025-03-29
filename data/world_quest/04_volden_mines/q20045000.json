@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Sergeant's Cloak",
-                                "item_id": 5698,
+                                "item_id": 1017,
                                 "amount": 1
                             },
                             {
@@ -64,7 +64,7 @@
                             },
                             {
                                 "name": "Militant Mantle",
-                                "item_id": 8857,
+                                "item_id": 8853,
                                 "amount": 1
                             },
                             {
@@ -98,7 +98,7 @@
                         [
                             {
                                 "name": "Artisan's Boots",
-                                "item_id": 9703,
+                                "item_id": 13063,
                                 "amount": 1
                             },
                             {

@@ -24,8 +24,13 @@
             "param01": "Fighter",
             "param02": 50
         },
-        {"type": "MainQuestCompleted", "param01": 20200},
-        {"type": "Solo"}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20200
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

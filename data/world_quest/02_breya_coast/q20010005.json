@@ -48,7 +48,7 @@
                         [
                             {
                                 "name": "Power of Pawn",
-                                "item_id": 4765,
+                                "item_id": 84,
                                 "amount": 1
                             },
                             {
@@ -69,7 +69,7 @@
                         [
                             {
                                 "name": "Dawn Staff",
-                                "item_id": 4886,
+                                "item_id": 205,
                                 "amount": 1
                             },
                             {
@@ -90,17 +90,17 @@
                         [
                             {
                                 "name": "Dawn Staff",
-                                "item_id": 4886,
+                                "item_id": 205,
                                 "amount": 1
                             },
                             {
                                 "name": "Crescent Wand",
-                                "item_id": 4987,
+                                "item_id": 306,
                                 "amount": 1
                             },
                             {
                                 "name": "Morgengl\u00fchen",
-                                "item_id": 5018,
+                                "item_id": 337,
                                 "amount": 1
                             },
                             {

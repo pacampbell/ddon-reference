@@ -19,9 +19,18 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 70},
-        {"type": "MainQuestCompleted", "param01": 20250},
-        {"type": "ClearPersonalQuest", "param01": 60200014}
+        {
+            "type": "MinimumLevel",
+            "param01": 70
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20250
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200014
+        }
     ],
     "unlocks": {
         "tutorials": [],

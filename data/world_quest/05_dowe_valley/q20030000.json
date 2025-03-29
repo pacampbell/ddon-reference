@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Deft Gloves",
-                                "item_id": 5601,
+                                "item_id": 920,
                                 "amount": 1
                             },
                             {
@@ -70,7 +70,7 @@
                         [
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
@@ -91,12 +91,12 @@
                         [
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {
@@ -130,7 +130,7 @@
                         [
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {

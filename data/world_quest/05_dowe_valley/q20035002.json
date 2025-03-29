@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Loneliness Gloves",
-                                "item_id": 9663,
+                                "item_id": 9659,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Shiny Hands",
-                                "item_id": 9668,
+                                "item_id": 9664,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Shiny Hands",
-                                "item_id": 9668,
+                                "item_id": 9664,
                                 "amount": 1
                             },
                             {
                                 "name": "Cathedral Bottoms",
-                                "item_id": 9723,
+                                "item_id": 9719,
                                 "amount": 1
                             },
                             {
@@ -119,7 +119,7 @@
                         [
                             {
                                 "name": "Nature Pants",
-                                "item_id": 5685,
+                                "item_id": 1004,
                                 "amount": 1
                             },
                             {
@@ -140,12 +140,12 @@
                         [
                             {
                                 "name": "Braided Hose",
-                                "item_id": 5683,
+                                "item_id": 1002,
                                 "amount": 1
                             },
                             {
                                 "name": "Silver Chainmail",
-                                "item_id": 5666,
+                                "item_id": 985,
                                 "amount": 1
                             },
                             {

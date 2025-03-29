@@ -46,7 +46,7 @@
                         [
                             {
                                 "name": "Palm Flower",
-                                "item_id": 4764,
+                                "item_id": 83,
                                 "amount": 1
                             },
                             {
@@ -67,7 +67,7 @@
                         [
                             {
                                 "name": "Staff of Magickal Restraint",
-                                "item_id": 4766,
+                                "item_id": 85,
                                 "amount": 1
                             },
                             {
@@ -88,17 +88,17 @@
                         [
                             {
                                 "name": "Staff of Magickal Restraint",
-                                "item_id": 4766,
+                                "item_id": 85,
                                 "amount": 1
                             },
                             {
                                 "name": "Spiral Wand",
-                                "item_id": 4791,
+                                "item_id": 110,
                                 "amount": 1
                             },
                             {
                                 "name": "Mageia Kyklos",
-                                "item_id": 4798,
+                                "item_id": 117,
                                 "amount": 1
                             },
                             {
@@ -127,7 +127,7 @@
                         [
                             {
                                 "name": "Sorcerer's Hat",
-                                "item_id": 8157,
+                                "item_id": 8153,
                                 "amount": 1
                             },
                             {
@@ -148,12 +148,12 @@
                         [
                             {
                                 "name": "Sorcerer's Hat",
-                                "item_id": 8157,
+                                "item_id": 8153,
                                 "amount": 1
                             },
                             {
                                 "name": "Barrel Helm",
-                                "item_id": 8124,
+                                "item_id": 8120,
                                 "amount": 1
                             },
                             {

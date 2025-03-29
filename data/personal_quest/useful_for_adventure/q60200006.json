@@ -12,7 +12,10 @@
         "next_quest_id": 60200007
     },
     "order_conditions": [
-        {"type": "ClearPersonalQuest", "param01": 60200012}
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200012
+        }
     ],
     "unlocks": {
         "tutorials": [],

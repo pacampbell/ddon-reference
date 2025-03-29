@@ -58,7 +58,7 @@
                         [
                             {
                                 "name": "Sorcerer's Hat",
-                                "item_id": 8157,
+                                "item_id": 8153,
                                 "amount": 1
                             },
                             {
@@ -74,12 +74,12 @@
                         [
                             {
                                 "name": "Mentor's Cap",
-                                "item_id": 5413,
+                                "item_id": 732,
                                 "amount": 1
                             },
                             {
                                 "name": "Brute Armet",
-                                "item_id": 5203,
+                                "item_id": 522,
                                 "amount": 1
                             },
                             {
@@ -121,7 +121,7 @@
                         [
                             {
                                 "name": "Pleasant Helm",
-                                "item_id": 8177,
+                                "item_id": 8173,
                                 "amount": 1
                             },
                             {
@@ -137,7 +137,7 @@
                         [
                             {
                                 "name": "Sergeant's Helm",
-                                "item_id": 5523,
+                                "item_id": 842,
                                 "amount": 1
                             },
                             {
@@ -153,12 +153,12 @@
                         [
                             {
                                 "name": "Sergeant's Helm",
-                                "item_id": 5523,
+                                "item_id": 842,
                                 "amount": 1
                             },
                             {
                                 "name": "Over Guard",
-                                "item_id": 5309,
+                                "item_id": 628,
                                 "amount": 1
                             },
                             {

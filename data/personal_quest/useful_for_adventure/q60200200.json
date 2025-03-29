@@ -12,9 +12,17 @@
         "next_quest_id": 60200201
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 77},
-        {"type": "MainQuestCompleted", "param01": 20250},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 77
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20250
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
         "tutorials": [],

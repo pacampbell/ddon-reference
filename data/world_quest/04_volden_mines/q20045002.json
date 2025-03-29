@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Murg Armguards",
-                                "item_id": 5280,
+                                "item_id": 599,
                                 "amount": 1
                             },
                             {
@@ -59,12 +59,12 @@
                         [
                             {
                                 "name": "Murg Armguards",
-                                "item_id": 5280,
+                                "item_id": 599,
                                 "amount": 1
                             },
                             {
                                 "name": "Sorcery Bangles",
-                                "item_id": 5493,
+                                "item_id": 812,
                                 "amount": 1
                             },
                             {
@@ -98,7 +98,7 @@
                         [
                             {
                                 "name": "Sorcery Bangles",
-                                "item_id": 5493,
+                                "item_id": 812,
                                 "amount": 1
                             },
                             {
@@ -124,7 +124,7 @@
                             },
                             {
                                 "name": "Mystic Bangles",
-                                "item_id": 5496,
+                                "item_id": 815,
                                 "amount": 1
                             },
                             {
@@ -158,7 +158,7 @@
                         [
                             {
                                 "name": "Victory Bracers",
-                                "item_id": 5389,
+                                "item_id": 708,
                                 "amount": 1
                             },
                             {

@@ -12,9 +12,17 @@
         "next_quest_id": 60300201
     },
     "order_conditions": [
-        {"type": "MainQuestCompleted", "param01": 30250},
-        {"type": "ClearPersonalQuest", "param01": 60300044},
-        {"type": "SoloWithPawn"}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30250
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60300044
+        },
+        {
+            "type": "SoloWithPawn"
+        }
     ],
     "unlocks": {
         "tutorials": [],

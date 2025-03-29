@@ -12,8 +12,14 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MainQuestCompleted", "param01": 30130},
-        {"type": "ItemRank", "param01": 92}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30130
+        },
+        {
+            "type": "ItemRank",
+            "param01": 92
+        }
     ],
     "unlocks": {
         "tutorials": [],

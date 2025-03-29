@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Hard Leather Mask",
-                                "item_id": 5625,
+                                "item_id": 944,
                                 "amount": 1
                             },
                             {
@@ -54,7 +54,7 @@
                         [
                             {
                                 "name": "Thief's Mask",
-                                "item_id": 5170,
+                                "item_id": 489,
                                 "amount": 1
                             },
                             {
@@ -70,12 +70,12 @@
                         [
                             {
                                 "name": "Thief's Mask",
-                                "item_id": 5170,
+                                "item_id": 489,
                                 "amount": 1
                             },
                             {
                                 "name": "Trooper's Vest",
-                                "item_id": 9608,
+                                "item_id": 9604,
                                 "amount": 1
                             },
                             {

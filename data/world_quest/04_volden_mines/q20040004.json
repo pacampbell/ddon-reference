@@ -48,7 +48,7 @@
                         [
                             {
                                 "name": "Shaman's Robe",
-                                "item_id": 5439,
+                                "item_id": 758,
                                 "amount": 1
                             },
                             {
@@ -69,7 +69,7 @@
                         [
                             {
                                 "name": "Ocean Robe",
-                                "item_id": 5440,
+                                "item_id": 759,
                                 "amount": 1
                             },
                             {
@@ -90,12 +90,12 @@
                         [
                             {
                                 "name": "Ocean Robe",
-                                "item_id": 5440,
+                                "item_id": 759,
                                 "amount": 1
                             },
                             {
                                 "name": "Vice Cuirass",
-                                "item_id": 5229,
+                                "item_id": 548,
                                 "amount": 1
                             },
                             {
@@ -170,7 +170,7 @@
                         [
                             {
                                 "name": "Artisan's Boots",
-                                "item_id": 9703,
+                                "item_id": 13063,
                                 "amount": 1
                             },
                             {
@@ -191,7 +191,7 @@
                         [
                             {
                                 "name": "Dignity Boots",
-                                "item_id": 9713,
+                                "item_id": 9709,
                                 "amount": 1
                             },
                             {
@@ -212,12 +212,12 @@
                         [
                             {
                                 "name": "Dignity Boots",
-                                "item_id": 9713,
+                                "item_id": 9709,
                                 "amount": 1
                             },
                             {
                                 "name": "Monarch's Vest",
-                                "item_id": 9638,
+                                "item_id": 9634,
                                 "amount": 1
                             },
                             {

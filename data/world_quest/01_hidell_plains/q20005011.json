@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Sergeant's Helm",
-                                "item_id": 5523,
+                                "item_id": 842,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Showdown Helm",
-                                "item_id": 5524,
+                                "item_id": 843,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Showdown Helm",
-                                "item_id": 5524,
+                                "item_id": 843,
                                 "amount": 1
                             },
                             {
                                 "name": "Enamel Hood",
-                                "item_id": 5310,
+                                "item_id": 629,
                                 "amount": 1
                             },
                             {
@@ -119,7 +119,7 @@
                         [
                             {
                                 "name": "Smoky Gloves",
-                                "item_id": 5283,
+                                "item_id": 602,
                                 "amount": 1
                             },
                             {
@@ -140,12 +140,12 @@
                         [
                             {
                                 "name": "Gooseneck Arm",
-                                "item_id": 5286,
+                                "item_id": 605,
                                 "amount": 1
                             },
                             {
                                 "name": "Iron Bangles",
-                                "item_id": 5499,
+                                "item_id": 818,
                                 "amount": 1
                             },
                             {

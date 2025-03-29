@@ -19,10 +19,23 @@
         "next_quest_id": 60200101
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Fighter", "param02": 40},
-        {"type": "AreaRank", "param01": "HidellPlains", "param02": 4},
-        {"type": "ClearPersonalQuest", "param01": 60200001},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Fighter",
+            "param02": 40
+        },
+        {
+            "type": "AreaRank",
+            "param01": "HidellPlains",
+            "param02": 4
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200001
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

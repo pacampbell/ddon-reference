@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Smart Boots",
-                                "item_id": 5129,
+                                "item_id": 448,
                                 "amount": 1
                             },
                             {
@@ -76,7 +76,7 @@
                         [
                             {
                                 "name": "Composite Bottoms",
-                                "item_id": 5130,
+                                "item_id": 449,
                                 "amount": 1
                             },
                             {
@@ -97,12 +97,12 @@
                         [
                             {
                                 "name": "Composite Bottoms",
-                                "item_id": 5130,
+                                "item_id": 449,
                                 "amount": 1
                             },
                             {
                                 "name": "Sentry Boots",
-                                "item_id": 5162,
+                                "item_id": 481,
                                 "amount": 1
                             },
                             {
@@ -123,12 +123,12 @@
                             },
                             {
                                 "name": "Composite Bottoms",
-                                "item_id": 5130,
+                                "item_id": 449,
                                 "amount": 1
                             },
                             {
                                 "name": "Sentry Boots",
-                                "item_id": 5162,
+                                "item_id": 481,
                                 "amount": 1
                             },
                             {
@@ -158,7 +158,7 @@
                         [
                             {
                                 "name": "Knight's Honor",
-                                "item_id": 4776,
+                                "item_id": 95,
                                 "amount": 1
                             },
                             {
@@ -200,7 +200,7 @@
                         [
                             {
                                 "name": "Smoky Gloves",
-                                "item_id": 5283,
+                                "item_id": 602,
                                 "amount": 1
                             },
                             {

@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Sergeant's Helm",
-                                "item_id": 5523,
+                                "item_id": 842,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Advance Helm",
-                                "item_id": 5526,
+                                "item_id": 845,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Advance Helm",
-                                "item_id": 5526,
+                                "item_id": 845,
                                 "amount": 1
                             },
                             {
                                 "name": "Vagrant's Mask",
-                                "item_id": 5312,
+                                "item_id": 631,
                                 "amount": 1
                             },
                             {

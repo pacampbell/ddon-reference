@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Palm Flower",
-                                "item_id": 4764,
+                                "item_id": 83,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Power of Pawn",
-                                "item_id": 4765,
+                                "item_id": 84,
                                 "amount": 1
                             },
                             {
@@ -80,17 +80,17 @@
                         [
                             {
                                 "name": "Power of Pawn",
-                                "item_id": 4765,
+                                "item_id": 84,
                                 "amount": 1
                             },
                             {
                                 "name": "Magic in the Cage",
-                                "item_id": 4790,
+                                "item_id": 109,
                                 "amount": 1
                             },
                             {
                                 "name": "Doppel Sch\u00fctze",
-                                "item_id": 4797,
+                                "item_id": 116,
                                 "amount": 1
                             },
                             {
@@ -119,7 +119,7 @@
                         [
                             {
                                 "name": "Rock Armor",
-                                "item_id": 5228,
+                                "item_id": 547,
                                 "amount": 1
                             },
                             {
@@ -140,7 +140,7 @@
                         [
                             {
                                 "name": "Grand Surcoat",
-                                "item_id": 5231,
+                                "item_id": 550,
                                 "amount": 1
                             },
                             {
@@ -161,12 +161,12 @@
                         [
                             {
                                 "name": "Grand Surcoat",
-                                "item_id": 5231,
+                                "item_id": 550,
                                 "amount": 1
                             },
                             {
                                 "name": "Sorcerer's Coat",
-                                "item_id": 5442,
+                                "item_id": 761,
                                 "amount": 1
                             },
                             {

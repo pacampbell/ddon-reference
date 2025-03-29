@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Pleasant Helm",
-                                "item_id": 8177,
+                                "item_id": 8173,
                                 "amount": 1
                             },
                             {
@@ -60,7 +60,7 @@
                         [
                             {
                                 "name": "Shielder Helm",
-                                "item_id": 5519,
+                                "item_id": 838,
                                 "amount": 1
                             },
                             {
@@ -81,12 +81,12 @@
                         [
                             {
                                 "name": "Shielder Helm",
-                                "item_id": 5519,
+                                "item_id": 838,
                                 "amount": 1
                             },
                             {
                                 "name": "Headgear",
-                                "item_id": 5305,
+                                "item_id": 624,
                                 "amount": 1
                             },
                             {
@@ -182,7 +182,7 @@
                         [
                             {
                                 "name": "Gooseneck Arm",
-                                "item_id": 5286,
+                                "item_id": 605,
                                 "amount": 1
                             },
                             {
@@ -203,7 +203,7 @@
                         [
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
@@ -224,12 +224,12 @@
                         [
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {

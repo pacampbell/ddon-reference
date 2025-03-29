@@ -19,8 +19,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "SoloWithPawns"},
-        {"type": "ClearPersonalQuest", "param01": 60000016}
+        {
+            "type": "SoloWithPawns"
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000016
+        }
     ],
     "unlocks": {
         "tutorials": [

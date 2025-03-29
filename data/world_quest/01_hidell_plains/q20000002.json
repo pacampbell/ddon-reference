@@ -50,7 +50,7 @@
                         [
                             {
                                 "name": "Combat Bottoms",
-                                "item_id": 5644,
+                                "item_id": 963,
                                 "amount": 1
                             },
                             {
@@ -66,12 +66,12 @@
                         [
                             {
                                 "name": "Folded Boots",
-                                "item_id": 5646,
+                                "item_id": 965,
                                 "amount": 1
                             },
                             {
                                 "name": "Knight's Gloves",
-                                "item_id": 5651,
+                                "item_id": 970,
                                 "amount": 1
                             },
                             {
@@ -87,7 +87,7 @@
                             },
                             {
                                 "name": "Knight's Gloves",
-                                "item_id": 5651,
+                                "item_id": 970,
                                 "amount": 1
                             },
                             {
@@ -117,7 +117,7 @@
                         [
                             {
                                 "name": "Noble Greaves",
-                                "item_id": 5161,
+                                "item_id": 480,
                                 "amount": 1
                             },
                             {
@@ -138,12 +138,12 @@
                         [
                             {
                                 "name": "Noble Greaves",
-                                "item_id": 5161,
+                                "item_id": 480,
                                 "amount": 1
                             },
                             {
                                 "name": "Smart Boots",
-                                "item_id": 5129,
+                                "item_id": 448,
                                 "amount": 1
                             },
                             {
@@ -177,7 +177,7 @@
                         [
                             {
                                 "name": "Copper Greaves",
-                                "item_id": 5113,
+                                "item_id": 432,
                                 "amount": 1
                             },
                             {
@@ -198,7 +198,7 @@
                         [
                             {
                                 "name": "Gaudy Greaves",
-                                "item_id": 5114,
+                                "item_id": 433,
                                 "amount": 1
                             },
                             {

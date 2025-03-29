@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Murg Armguards",
-                                "item_id": 5280,
+                                "item_id": 599,
                                 "amount": 1
                             },
                             {
@@ -65,7 +65,7 @@
                         [
                             {
                                 "name": "Wild Gauntlet",
-                                "item_id": 5281,
+                                "item_id": 600,
                                 "amount": 1
                             },
                             {
@@ -81,12 +81,12 @@
                         [
                             {
                                 "name": "Wild Gauntlet",
-                                "item_id": 5281,
+                                "item_id": 600,
                                 "amount": 1
                             },
                             {
                                 "name": "Charm Bangles",
-                                "item_id": 5494,
+                                "item_id": 813,
                                 "amount": 1
                             },
                             {

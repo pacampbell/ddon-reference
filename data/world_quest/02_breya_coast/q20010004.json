@@ -99,7 +99,7 @@
                         [
                             {
                                 "name": "Sorcerer's Hat",
-                                "item_id": 8157,
+                                "item_id": 8153,
                                 "amount": 1
                             },
                             {
@@ -115,7 +115,7 @@
                         [
                             {
                                 "name": "Sacred Hood",
-                                "item_id": 5411,
+                                "item_id": 730,
                                 "amount": 1
                             },
                             {
@@ -131,12 +131,12 @@
                         [
                             {
                                 "name": "Sacred Hood",
-                                "item_id": 5411,
+                                "item_id": 730,
                                 "amount": 1
                             },
                             {
                                 "name": "Sorel Helm",
-                                "item_id": 5201,
+                                "item_id": 520,
                                 "amount": 1
                             },
                             {

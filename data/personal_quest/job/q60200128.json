@@ -19,10 +19,23 @@
         "next_quest_id": 60200129
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Warrior", "param02": 40},
-        {"type": "AreaRank", "param01": "EasternZandora", "param02": 3},
-        {"type": "ClearPersonalQuest", "param01": 60200001},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Warrior",
+            "param02": 40
+        },
+        {
+            "type": "AreaRank",
+            "param01": "EasternZandora",
+            "param02": 3
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200001
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

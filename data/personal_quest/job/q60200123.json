@@ -19,9 +19,18 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Sorcerer", "param02": 60},
-        {"type": "MainQuestCompleted", "param01": 20250},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Sorcerer",
+            "param02": 60
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20250
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Cleric's Cap",
-                                "item_id": 8147,
+                                "item_id": 8143,
                                 "amount": 1
                             },
                             {
@@ -63,12 +63,12 @@
                         [
                             {
                                 "name": "Intellect Helm",
-                                "item_id": 8172,
+                                "item_id": 8168,
                                 "amount": 1
                             },
                             {
                                 "name": "Plate Coif",
-                                "item_id": 8202,
+                                "item_id": 8198,
                                 "amount": 1
                             },
                             {
@@ -97,7 +97,7 @@
                         [
                             {
                                 "name": "Iron Legs",
-                                "item_id": 8407,
+                                "item_id": 8403,
                                 "amount": 1
                             },
                             {
@@ -113,7 +113,7 @@
                         [
                             {
                                 "name": "Ranger Cuisses",
-                                "item_id": 5360,
+                                "item_id": 679,
                                 "amount": 1
                             },
                             {

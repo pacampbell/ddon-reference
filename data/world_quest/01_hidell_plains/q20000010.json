@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Battle Shield",
-                                "item_id": 4775,
+                                "item_id": 94,
                                 "amount": 1
                             },
                             {
@@ -68,12 +68,12 @@
                         [
                             {
                                 "name": "Knight's Honor",
-                                "item_id": 4776,
+                                "item_id": 95,
                                 "amount": 1
                             },
                             {
                                 "name": "Cathedral Fire",
-                                "item_id": 10051,
+                                "item_id": 10047,
                                 "amount": 1
                             },
                             {
@@ -107,7 +107,7 @@
                         [
                             {
                                 "name": "Nostalgia Waistguard",
-                                "item_id": 8357,
+                                "item_id": 8353,
                                 "amount": 1
                             },
                             {
@@ -146,7 +146,7 @@
                         [
                             {
                                 "name": "Composite Sleeves",
-                                "item_id": 5386,
+                                "item_id": 705,
                                 "amount": 1
                             },
                             {
@@ -167,12 +167,12 @@
                         [
                             {
                                 "name": "Composite Sleeves",
-                                "item_id": 5386,
+                                "item_id": 705,
                                 "amount": 1
                             },
                             {
                                 "name": "Buster Knuckles",
-                                "item_id": 5598,
+                                "item_id": 917,
                                 "amount": 1
                             },
                             {

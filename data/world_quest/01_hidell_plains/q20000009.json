@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Battle Greaves",
-                                "item_id": 5111,
+                                "item_id": 430,
                                 "amount": 1
                             },
                             {
@@ -65,7 +65,7 @@
                         [
                             {
                                 "name": "Leather Shoes",
-                                "item_id": 5143,
+                                "item_id": 462,
                                 "amount": 1
                             },
                             {
@@ -81,7 +81,7 @@
                         [
                             {
                                 "name": "Serpent's Whisker",
-                                "item_id": 8322,
+                                "item_id": 8318,
                                 "amount": 1
                             },
                             {
@@ -97,7 +97,7 @@
                         [
                             {
                                 "name": "Serpent's Whisker",
-                                "item_id": 8322,
+                                "item_id": 8318,
                                 "amount": 1
                             },
                             {
@@ -126,7 +126,7 @@
                         [
                             {
                                 "name": "Entry Boots",
-                                "item_id": 5159,
+                                "item_id": 478,
                                 "amount": 1
                             },
                             {
@@ -142,7 +142,7 @@
                         [
                             {
                                 "name": "Shinguards",
-                                "item_id": 8372,
+                                "item_id": 8368,
                                 "amount": 1
                             },
                             {
@@ -158,12 +158,12 @@
                         [
                             {
                                 "name": "Shinguards",
-                                "item_id": 8372,
+                                "item_id": 8368,
                                 "amount": 1
                             },
                             {
                                 "name": "Hide Cuisses",
-                                "item_id": 8397,
+                                "item_id": 8393,
                                 "amount": 1
                             },
                             {

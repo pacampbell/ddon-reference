@@ -12,7 +12,10 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MainQuestCompleted", "param01": 2}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 2
+        }
     ],
     "unlocks": {
         "tutorials": [
@@ -59,7 +62,7 @@
                         [
                             {
                                 "name": "Leather Cloak",
-                                "item_id": 5192,
+                                "item_id": 511,
                                 "amount": 1
                             }
                         ]

@@ -48,7 +48,7 @@
                         [
                             {
                                 "name": "Tied Belt",
-                                "item_id": 9603,
+                                "item_id": 9599,
                                 "amount": 1
                             },
                             {
@@ -64,7 +64,7 @@
                         [
                             {
                                 "name": "Trooper's Vest",
-                                "item_id": 9608,
+                                "item_id": 9604,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Trooper's Vest",
-                                "item_id": 9608,
+                                "item_id": 9604,
                                 "amount": 1
                             },
                             {
                                 "name": "Thief's Mask",
-                                "item_id": 5170,
+                                "item_id": 489,
                                 "amount": 1
                             },
                             {
@@ -115,7 +115,7 @@
                         [
                             {
                                 "name": "Grass-Green Shoes",
-                                "item_id": 5145,
+                                "item_id": 464,
                                 "amount": 1
                             },
                             {
@@ -131,7 +131,7 @@
                         [
                             {
                                 "name": "Sagacity Shoes",
-                                "item_id": 5146,
+                                "item_id": 465,
                                 "amount": 1
                             },
                             {
@@ -147,12 +147,12 @@
                         [
                             {
                                 "name": "Sagacity Shoes",
-                                "item_id": 5146,
+                                "item_id": 465,
                                 "amount": 1
                             },
                             {
                                 "name": "Gaudy Greaves",
-                                "item_id": 5114,
+                                "item_id": 433,
                                 "amount": 1
                             },
                             {

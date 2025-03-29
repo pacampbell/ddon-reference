@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {
@@ -54,7 +54,7 @@
                         [
                             {
                                 "name": "Silver Manicae",
-                                "item_id": 5394,
+                                "item_id": 713,
                                 "amount": 1
                             },
                             {
@@ -70,12 +70,12 @@
                         [
                             {
                                 "name": "Silver Manicae",
-                                "item_id": 5394,
+                                "item_id": 713,
                                 "amount": 1
                             },
                             {
                                 "name": "Stalwart Arms",
-                                "item_id": 5606,
+                                "item_id": 925,
                                 "amount": 1
                             },
                             {

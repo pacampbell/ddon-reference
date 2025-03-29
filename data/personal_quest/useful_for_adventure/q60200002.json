@@ -19,8 +19,14 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MainQuestCompleted", "param01": 20070},
-        {"type": "ClearPersonalQuest", "param01": 60000101}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20070
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000101
+        }
     ],
     "unlocks": {
         "tutorials": [],

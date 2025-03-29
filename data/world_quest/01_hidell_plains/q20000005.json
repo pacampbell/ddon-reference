@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Vigorous Legs",
-                                "item_id": 8382,
+                                "item_id": 8378,
                                 "amount": 1
                             },
                             {
@@ -63,12 +63,12 @@
                         [
                             {
                                 "name": "Shielder Legs",
-                                "item_id": 5571,
+                                "item_id": 890,
                                 "amount": 1
                             },
                             {
                                 "name": "Ranger Cuisses",
-                                "item_id": 5360,
+                                "item_id": 679,
                                 "amount": 1
                             },
                             {
@@ -97,7 +97,7 @@
                         [
                             {
                                 "name": "Executioner's Mask",
-                                "item_id": 9543,
+                                "item_id": 14837,
                                 "amount": 1
                             },
                             {
@@ -118,12 +118,12 @@
                         [
                             {
                                 "name": "Legacy Band",
-                                "item_id": 9553,
+                                "item_id": 9549,
                                 "amount": 1
                             },
                             {
                                 "name": "Lestanian Vest",
-                                "item_id": 9628,
+                                "item_id": 9624,
                                 "amount": 1
                             },
                             {

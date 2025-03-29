@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Cotton Hose",
-                                "item_id": 5187,
+                                "item_id": 506,
                                 "amount": 1
                             },
                             {
@@ -55,12 +55,12 @@
                         [
                             {
                                 "name": "Cotton Hose",
-                                "item_id": 5187,
+                                "item_id": 506,
                                 "amount": 1
                             },
                             {
                                 "name": "Linen Tunic",
-                                "item_id": 8547,
+                                "item_id": 8543,
                                 "amount": 1
                             },
                             {
@@ -76,7 +76,7 @@
                             },
                             {
                                 "name": "Linen Tunic",
-                                "item_id": 8547,
+                                "item_id": 8543,
                                 "amount": 1
                             },
                             {
@@ -157,7 +157,7 @@
                         [
                             {
                                 "name": "Hunter Jacket",
-                                "item_id": 5332,
+                                "item_id": 651,
                                 "amount": 1
                             },
                             {
@@ -178,7 +178,7 @@
                         [
                             {
                                 "name": "Combat Guard",
-                                "item_id": 5336,
+                                "item_id": 655,
                                 "amount": 1
                             },
                             {
@@ -199,12 +199,12 @@
                         [
                             {
                                 "name": "Combat Guard",
-                                "item_id": 5336,
+                                "item_id": 655,
                                 "amount": 1
                             },
                             {
                                 "name": "Showdown Jacket",
-                                "item_id": 5550,
+                                "item_id": 869,
                                 "amount": 1
                             },
                             {

@@ -19,7 +19,11 @@
         "next_quest_id": 60200108
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Hunter", "param02": 18}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Hunter",
+            "param02": 18
+        }
     ],
     "unlocks": {
         "tutorials": [],

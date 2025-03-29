@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Wolf Head",
-                                "item_id": 5104,
+                                "item_id": 423,
                                 "amount": 1
                             },
                             {
@@ -63,12 +63,12 @@
                         [
                             {
                                 "name": "Bronze Sallet",
-                                "item_id": 5106,
+                                "item_id": 425,
                                 "amount": 1
                             },
                             {
                                 "name": "Magician's Hood",
-                                "item_id": 8152,
+                                "item_id": 8148,
                                 "amount": 1
                             },
                             {
@@ -97,7 +97,7 @@
                         [
                             {
                                 "name": "Leather Armor",
-                                "item_id": 5125,
+                                "item_id": 444,
                                 "amount": 1
                             },
                             {
@@ -113,7 +113,7 @@
                         [
                             {
                                 "name": "Lamellar Jacket",
-                                "item_id": 5126,
+                                "item_id": 445,
                                 "amount": 1
                             },
                             {
@@ -147,7 +147,7 @@
                         [
                             {
                                 "name": "Noble Greaves",
-                                "item_id": 5161,
+                                "item_id": 480,
                                 "amount": 1
                             },
                             {
@@ -168,12 +168,12 @@
                         [
                             {
                                 "name": "Vigorous Legs",
-                                "item_id": 8382,
+                                "item_id": 8378,
                                 "amount": 1
                             },
                             {
                                 "name": "Iron Legs",
-                                "item_id": 8407,
+                                "item_id": 8403,
                                 "amount": 1
                             },
                             {

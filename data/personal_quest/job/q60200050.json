@@ -19,8 +19,14 @@
         "next_quest_id": 60200051
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "SpiritLancer", "param02": 1},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "SpiritLancer",
+            "param02": 1
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],
@@ -67,5 +73,7 @@
         }
     ],
     "tags": [],
-    "references": ["https://www.youtube.com/watch?v=ipCFMKbJ_O8"]
+    "references": [
+        "https://www.youtube.com/watch?v=ipCFMKbJ_O8"
+    ]
 }

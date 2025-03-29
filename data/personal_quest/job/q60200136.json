@@ -19,9 +19,18 @@
         "next_quest_id": 60200137
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "SpiritLancer", "param02": 40},
-        {"type": "ClearPersonalQuest", "param01": 60200001},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "SpiritLancer",
+            "param02": 40
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200001
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

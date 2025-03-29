@@ -49,7 +49,7 @@
                         [
                             {
                                 "name": "Linen Tunic",
-                                "item_id": 8547,
+                                "item_id": 8543,
                                 "amount": 1
                             },
                             {
@@ -65,7 +65,7 @@
                         [
                             {
                                 "name": "Fisherman's Shirt",
-                                "item_id": 5183,
+                                "item_id": 502,
                                 "amount": 1
                             },
                             {
@@ -81,12 +81,12 @@
                         [
                             {
                                 "name": "Fisherman's Shirt",
-                                "item_id": 5183,
+                                "item_id": 502,
                                 "amount": 1
                             },
                             {
                                 "name": "Fisherman's Pants",
-                                "item_id": 5188,
+                                "item_id": 507,
                                 "amount": 1
                             },
                             {
@@ -151,7 +151,7 @@
                         [
                             {
                                 "name": "Copper Greaves",
-                                "item_id": 5113,
+                                "item_id": 432,
                                 "amount": 1
                             },
                             {
@@ -167,12 +167,12 @@
                         [
                             {
                                 "name": "Gaudy Greaves",
-                                "item_id": 5114,
+                                "item_id": 433,
                                 "amount": 1
                             },
                             {
                                 "name": "Sagacity Shoes",
-                                "item_id": 5146,
+                                "item_id": 465,
                                 "amount": 1
                             },
                             {
@@ -202,7 +202,7 @@
                         [
                             {
                                 "name": "Pleasant Helm",
-                                "item_id": 8177,
+                                "item_id": 8173,
                                 "amount": 1
                             },
                             {
@@ -218,7 +218,7 @@
                         [
                             {
                                 "name": "Showdown Helm",
-                                "item_id": 5524,
+                                "item_id": 843,
                                 "amount": 1
                             },
                             {
@@ -234,12 +234,12 @@
                         [
                             {
                                 "name": "Showdown Helm",
-                                "item_id": 5524,
+                                "item_id": 843,
                                 "amount": 1
                             },
                             {
                                 "name": "Enamel Hood",
-                                "item_id": 5310,
+                                "item_id": 629,
                                 "amount": 1
                             },
                             {

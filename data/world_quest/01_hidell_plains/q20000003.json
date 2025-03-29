@@ -55,7 +55,7 @@
                         [
                             {
                                 "name": "Apprentice's Coat",
-                                "item_id": 5139,
+                                "item_id": 458,
                                 "amount": 1
                             },
                             {
@@ -71,7 +71,7 @@
                         [
                             {
                                 "name": "Sage's Robe",
-                                "item_id": 5155,
+                                "item_id": 474,
                                 "amount": 1
                             },
                             {
@@ -87,7 +87,7 @@
                         [
                             {
                                 "name": "Breast Armor",
-                                "item_id": 5123,
+                                "item_id": 442,
                                 "amount": 1
                             },
                             {
@@ -103,7 +103,7 @@
                         [
                             {
                                 "name": "Magician's Coat",
-                                "item_id": 8252,
+                                "item_id": 8248,
                                 "amount": 1
                             },
                             {
@@ -119,12 +119,12 @@
                         [
                             {
                                 "name": "Elite Drapes",
-                                "item_id": 8277,
+                                "item_id": 8273,
                                 "amount": 1
                             },
                             {
                                 "name": "Battle Jacket",
-                                "item_id": 8302,
+                                "item_id": 8298,
                                 "amount": 1
                             },
                             {

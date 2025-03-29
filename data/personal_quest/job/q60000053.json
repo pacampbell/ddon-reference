@@ -19,7 +19,11 @@
         "next_quest_id": 60200112
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "ShieldSage", "param02": 18}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "ShieldSage",
+            "param02": 18
+        }
     ],
     "unlocks": {
         "tutorials": [],

@@ -19,8 +19,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "SoloWithPawns"},
-        {"type": "ClearPersonalQuest", "param01": 60000014}
+        {
+            "type": "SoloWithPawns"
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000014
+        }
     ],
     "unlocks": {
         "tutorials": [
@@ -60,7 +65,7 @@
                         [
                             {
                                 "name": "Traveler's Tights",
-                                "item_id": 8662,
+                                "item_id": 8658,
                                 "amount": 1
                             }
                         ]

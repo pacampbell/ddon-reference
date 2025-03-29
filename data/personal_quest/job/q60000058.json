@@ -19,8 +19,16 @@
         "next_quest_id": 60200132
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Alchemist", "param02": 18},
-        {"type": "AreaRank", "param01": "MergodaRuins", "param02": 6}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Alchemist",
+            "param02": 18
+        },
+        {
+            "type": "AreaRank",
+            "param01": "MergodaRuins",
+            "param02": 6
+        }
     ],
     "unlocks": {
         "tutorials": [],

@@ -19,8 +19,14 @@
         "next_quest_id": 60300401
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "HighScepter", "param02": 1},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "HighScepter",
+            "param02": 1
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],
@@ -79,5 +85,7 @@
         }
     ],
     "tags": [],
-    "references": ["https://www.youtube.com/watch?v=lCQU8_orZwo"]
+    "references": [
+        "https://www.youtube.com/watch?v=lCQU8_orZwo"
+    ]
 }

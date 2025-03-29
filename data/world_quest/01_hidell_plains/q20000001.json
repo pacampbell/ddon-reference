@@ -79,7 +79,7 @@
                         [
                             {
                                 "name": "Hide Armor",
-                                "item_id": 5107,
+                                "item_id": 426,
                                 "amount": 1
                             },
                             {
@@ -95,12 +95,12 @@
                         [
                             {
                                 "name": "Half Cuirass",
-                                "item_id": 8227,
+                                "item_id": 8223,
                                 "amount": 1
                             },
                             {
                                 "name": "Magician's Coat",
-                                "item_id": 8252,
+                                "item_id": 8248,
                                 "amount": 1
                             },
                             {
@@ -129,7 +129,7 @@
                         [
                             {
                                 "name": "Mighty Gloves",
-                                "item_id": 5650,
+                                "item_id": 969,
                                 "amount": 1
                             },
                             {
@@ -150,12 +150,12 @@
                         [
                             {
                                 "name": "Master Hands",
-                                "item_id": 5653,
+                                "item_id": 972,
                                 "amount": 1
                             },
                             {
                                 "name": "Lively Bottoms",
-                                "item_id": 5642,
+                                "item_id": 961,
                                 "amount": 1
                             },
                             {

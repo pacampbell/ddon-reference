@@ -5,8 +5,8 @@
     "area_id": null,
     "guide_type": "VocationQuest",
     "starting_npc": {
-	    "id": 1029,
-	    "name": "Renton0",
+        "id": 1029,
+        "name": "Renton0",
         "stage": {
             "name": "The White Dragon Temple",
             "id": 2
@@ -19,8 +19,14 @@
         "next_quest_id": 60000051
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Priest", "param02": 1},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Priest",
+            "param02": 1
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

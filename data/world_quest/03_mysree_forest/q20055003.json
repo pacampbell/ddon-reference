@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Strong Hatchet",
-                                "item_id": 4748,
+                                "item_id": 67,
                                 "amount": 1
                             },
                             {
@@ -60,12 +60,12 @@
                         [
                             {
                                 "name": "Iron Sword",
-                                "item_id": 4749,
+                                "item_id": 68,
                                 "amount": 1
                             },
                             {
                                 "name": "Vanguard",
-                                "item_id": 9942,
+                                "item_id": 9938,
                                 "amount": 1
                             },
                             {

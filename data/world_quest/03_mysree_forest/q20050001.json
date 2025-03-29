@@ -86,7 +86,7 @@
                         [
                             {
                                 "name": "Knight's Honor",
-                                "item_id": 4776,
+                                "item_id": 95,
                                 "amount": 1
                             },
                             {
@@ -107,7 +107,7 @@
                         [
                             {
                                 "name": "Woody Magick",
-                                "item_id": 4778,
+                                "item_id": 97,
                                 "amount": 1
                             },
                             {
@@ -128,12 +128,12 @@
                         [
                             {
                                 "name": "Woody Magick",
-                                "item_id": 4778,
+                                "item_id": 97,
                                 "amount": 1
                             },
                             {
                                 "name": "Power Rod",
-                                "item_id": 4771,
+                                "item_id": 90,
                                 "amount": 1
                             },
                             {

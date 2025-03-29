@@ -12,8 +12,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "SoloWithPawns"},
-        {"type": "MainQuestCompleted", "param01": 20070}
+        {
+            "type": "SoloWithPawns"
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20070
+        }
     ],
     "unlocks": {
         "tutorials": [],

@@ -39,7 +39,7 @@
                         [
                             {
                                 "name": "Smart Boots",
-                                "item_id": 5129,
+                                "item_id": 448,
                                 "amount": 1
                             },
                             {
@@ -55,7 +55,7 @@
                         [
                             {
                                 "name": "Iron Legs",
-                                "item_id": 8407,
+                                "item_id": 8403,
                                 "amount": 1
                             },
                             {
@@ -71,12 +71,12 @@
                         [
                             {
                                 "name": "Iron Legs",
-                                "item_id": 8407,
+                                "item_id": 8403,
                                 "amount": 1
                             },
                             {
                                 "name": "Vigorous Legs",
-                                "item_id": 8382,
+                                "item_id": 8378,
                                 "amount": 1
                             },
                             {
@@ -106,7 +106,7 @@
                         [
                             {
                                 "name": "Chain Hood",
-                                "item_id": 8207,
+                                "item_id": 8203,
                                 "amount": 1
                             },
                             {
@@ -122,12 +122,12 @@
                         [
                             {
                                 "name": "Battle Helm",
-                                "item_id": 5202,
+                                "item_id": 521,
                                 "amount": 1
                             },
                             {
                                 "name": "Spike Head",
-                                "item_id": 5412,
+                                "item_id": 731,
                                 "amount": 1
                             },
                             {

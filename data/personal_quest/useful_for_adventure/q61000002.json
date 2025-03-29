@@ -19,8 +19,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "MainQuestCompleted", "param01": 30410},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30410
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
         "tutorials": [],
@@ -60,5 +65,7 @@
         }
     ],
     "tags": [],
-    "references": ["https://youtu.be/iFQ4CpOZJAU?list=PL4sHV_hf5_vqC4jkhJ-AmKDxR5Xe3ZF-V"]
+    "references": [
+        "https://youtu.be/iFQ4CpOZJAU?list=PL4sHV_hf5_vqC4jkhJ-AmKDxR5Xe3ZF-V"
+    ]
 }

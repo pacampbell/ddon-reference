@@ -88,7 +88,7 @@
                         [
                             {
                                 "name": "Expedition Shirt",
-                                "item_id": 5661,
+                                "item_id": 980,
                                 "amount": 1
                             },
                             {
@@ -109,12 +109,12 @@
                         [
                             {
                                 "name": "Pourpoint",
-                                "item_id": 5663,
+                                "item_id": 982,
                                 "amount": 1
                             },
                             {
                                 "name": "Belligerent Tied",
-                                "item_id": 5681,
+                                "item_id": 1000,
                                 "amount": 1
                             },
                             {

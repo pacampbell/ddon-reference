@@ -70,7 +70,7 @@
                             },
                             {
                                 "name": "Gryphus Mantle",
-                                "item_id": 5691,
+                                "item_id": 1010,
                                 "amount": 1
                             },
                             {
@@ -116,7 +116,7 @@
                         [
                             {
                                 "name": "Composite Sleeves",
-                                "item_id": 5386,
+                                "item_id": 705,
                                 "amount": 1
                             },
                             {
@@ -137,12 +137,12 @@
                         [
                             {
                                 "name": "Composite Sleeves",
-                                "item_id": 5386,
+                                "item_id": 705,
                                 "amount": 1
                             },
                             {
                                 "name": "Buster Knuckles",
-                                "item_id": 5598,
+                                "item_id": 917,
                                 "amount": 1
                             },
                             {

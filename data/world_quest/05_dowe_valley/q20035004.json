@@ -38,7 +38,7 @@
                         [
                             {
                                 "name": "Braided Hose",
-                                "item_id": 5683,
+                                "item_id": 1002,
                                 "amount": 1
                             },
                             {
@@ -59,7 +59,7 @@
                         [
                             {
                                 "name": "Sentry Tights",
-                                "item_id": 8737,
+                                "item_id": 8733,
                                 "amount": 1
                             },
                             {
@@ -80,12 +80,12 @@
                         [
                             {
                                 "name": "Sentry Tights",
-                                "item_id": 8737,
+                                "item_id": 8733,
                                 "amount": 1
                             },
                             {
                                 "name": "Special Bracers",
-                                "item_id": 5664,
+                                "item_id": 983,
                                 "amount": 1
                             },
                             {
@@ -101,12 +101,12 @@
                         [
                             {
                                 "name": "Sentry Tights",
-                                "item_id": 8737,
+                                "item_id": 8733,
                                 "amount": 1
                             },
                             {
                                 "name": "Special Bracers",
-                                "item_id": 5664,
+                                "item_id": 983,
                                 "amount": 1
                             },
                             {

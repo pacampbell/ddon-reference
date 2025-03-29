@@ -19,8 +19,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "SoloWithPawns"},
-        {"type": "Message", "param01": "Complete <tt><b>Bitterblack Maze</b></tt> at least <b>1</b> time fully"}
+        {
+            "type": "SoloWithPawns"
+        },
+        {
+            "type": "Message",
+            "param01": "Complete <tt><b>Bitterblack Maze</b></tt> at least <b>1</b> time fully"
+        }
     ],
     "unlocks": {
         "tutorials": [],

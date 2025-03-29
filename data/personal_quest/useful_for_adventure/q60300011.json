@@ -19,8 +19,13 @@
         "next_quest_id": 0
     },
     "order_conditions": [
-        {"type": "Solo"},
-        {"type": "ClearPersonalQuest", "param01": 60200000}
+        {
+            "type": "Solo"
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60200000
+        }
     ],
     "unlocks": {
         "tutorials": [

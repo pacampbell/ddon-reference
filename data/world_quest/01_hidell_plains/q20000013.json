@@ -47,7 +47,7 @@
                         [
                             {
                                 "name": "Mace",
-                                "item_id": 4745,
+                                "item_id": 64,
                                 "amount": 1
                             },
                             {
@@ -83,12 +83,12 @@
                         [
                             {
                                 "name": "Thousand Troops",
-                                "item_id": 4747,
+                                "item_id": 66,
                                 "amount": 1
                             },
                             {
                                 "name": "Muscular Wall",
-                                "item_id": 4752,
+                                "item_id": 71,
                                 "amount": 1
                             }
                         ],
@@ -119,7 +119,7 @@
                         [
                             {
                                 "name": "Wiseman Cloak",
-                                "item_id": 5693,
+                                "item_id": 1012,
                                 "amount": 1
                             },
                             {

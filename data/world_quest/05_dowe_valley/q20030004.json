@@ -48,7 +48,7 @@
                         [
                             {
                                 "name": "Victory Bracers",
-                                "item_id": 5389,
+                                "item_id": 708,
                                 "amount": 1
                             },
                             {
@@ -69,7 +69,7 @@
                         [
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {
@@ -90,12 +90,12 @@
                         [
                             {
                                 "name": "Soldier Arms",
-                                "item_id": 5392,
+                                "item_id": 711,
                                 "amount": 1
                             },
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
@@ -129,7 +129,7 @@
                         [
                             {
                                 "name": "Custodian Arms",
-                                "item_id": 5604,
+                                "item_id": 923,
                                 "amount": 1
                             },
                             {
@@ -145,7 +145,7 @@
                         [
                             {
                                 "name": "Resolver Arms",
-                                "item_id": 5605,
+                                "item_id": 924,
                                 "amount": 1
                             },
                             {
@@ -161,12 +161,12 @@
                         [
                             {
                                 "name": "Resolver Arms",
-                                "item_id": 5605,
+                                "item_id": 924,
                                 "amount": 1
                             },
                             {
                                 "name": "Iron Bracers",
-                                "item_id": 5393,
+                                "item_id": 712,
                                 "amount": 1
                             },
                             {

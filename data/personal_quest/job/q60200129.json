@@ -19,9 +19,18 @@
         "next_quest_id": 60200130
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Warrior", "param02": 45},
-        {"type": "MainQuestCompleted", "param01": 20130},
-        {"type": "Solo"}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Warrior",
+            "param02": 45
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20130
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

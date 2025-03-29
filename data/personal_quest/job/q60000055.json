@@ -19,8 +19,16 @@
         "next_quest_id": 60200120
     },
     "order_conditions": [
-        {"type": "MinimumVocationLevel", "param01": "Sorcerer", "param02": 18},
-        {"type": "AreaRank", "param01": "MysreeForest", "param02": 5}
+        {
+            "type": "MinimumVocationLevel",
+            "param01": "Sorcerer",
+            "param02": 18
+        },
+        {
+            "type": "AreaRank",
+            "param01": "MysreeForest",
+            "param02": 5
+        }
     ],
     "unlocks": {
         "tutorials": [],

@@ -44,5 +44,35 @@
             "name": "MAX_HEALTH",
             "value": 1125
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7943,
+            "amount": 4
+        },
+        {
+            "item_id": 8031,
+            "amount": 3
+        },
+        {
+            "item_id": 9442,
+            "amount": 3
+        },
+        {
+            "item_id": 7959,
+            "amount": 5
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 7758,
+            "amount": 1
+        },
+        {
+            "item_id": 8034,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 8264
 }

@@ -13,5 +13,42 @@
     "item_level": 11,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": true
+    "can_bazaar": true,
+    "craft_recipe": [
+        {
+            "item_id": 7892,
+            "amount": 1
+        },
+        {
+            "item_id": 7884,
+            "amount": 3
+        },
+        {
+            "item_id": 7888,
+            "amount": 3
+        },
+        {
+            "item_id": 7880,
+            "amount": 2
+        },
+        {
+            "item_id": 7877,
+            "amount": 2
+        },
+        {
+            "item_id": 8033,
+            "amount": 1
+        },
+        {
+            "item_id": 7833,
+            "amount": 1
+        },
+        {
+            "item_id": 7869,
+            "amount": 5
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

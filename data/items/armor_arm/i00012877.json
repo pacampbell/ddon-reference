@@ -49,5 +49,9 @@
             "name": "RESIST_HOLY_RES_DOWN",
             "value": 8
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 12876,
+    "next_item_id": 0
 }

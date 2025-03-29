@@ -14,5 +14,9 @@
     "crest_slots": 0,
     "quality": 0,
     "can_bazaar": false,
-    "max_stack": 99
+    "max_stack": 99,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

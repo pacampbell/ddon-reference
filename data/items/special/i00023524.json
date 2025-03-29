@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 23524,
-    "name": "Light Vision: 理",
+    "name": "Light Vision: \u7406",
     "info": "Illusory light that can be played back with a\nholographic projector.",
     "icon": {
         "icon_id": 2601,
@@ -13,5 +13,9 @@
     "item_level": 0,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

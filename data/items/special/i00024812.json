@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 24812,
-    "name": "Recipe: ヴォルカニックグラブ",
+    "name": "Recipe: \u30f4\u30a9\u30eb\u30ab\u30cb\u30c3\u30af\u30b0\u30e9\u30d6",
     "info": "Volcanic Gloves Recipe",
     "icon": {
         "icon_id": 1917,
@@ -13,5 +13,9 @@
     "item_level": 0,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

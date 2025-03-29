@@ -34,5 +34,26 @@
             "name": "RESIST_BLIND",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7903,
+            "amount": 5
+        },
+        {
+            "item_id": 8015,
+            "amount": 3
+        },
+        {
+            "item_id": 9373,
+            "amount": 3
+        },
+        {
+            "item_id": 8945,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

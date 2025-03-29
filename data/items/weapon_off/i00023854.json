@@ -36,5 +36,14 @@
             "name": "DRAGON_SLAYER",
             "value": 51
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 24820,
+            "amount": 4
+        }
+    ],
+    "previous_item_id": 23853,
+    "next_item_id": 23855
 }

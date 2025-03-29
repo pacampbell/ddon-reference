@@ -1,7 +1,7 @@
 {
     "type": "equipment",
     "item_id": 24971,
-    "name": "Olfring Bow (染)",
+    "name": "Olfring Bow (\u67d3)",
     "info": "",
     "icon": {
         "icon_id": 2703,
@@ -56,5 +56,9 @@
             "name": "MAX_LOADED_ARROWS",
             "value": 28
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

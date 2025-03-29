@@ -41,5 +41,14 @@
             "name": "INFLICT_CATCHING_FIRE",
             "value": 20
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 13811,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 10635,
+    "next_item_id": 10637
 }

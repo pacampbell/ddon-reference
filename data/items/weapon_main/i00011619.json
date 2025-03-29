@@ -46,5 +46,18 @@
             "name": "WINGED_SLAYER",
             "value": 63
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 9449,
+            "amount": 1
+        },
+        {
+            "item_id": 9447,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 11618,
+    "next_item_id": 11620
 }

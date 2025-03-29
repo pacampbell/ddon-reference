@@ -41,5 +41,18 @@
             "name": "INFLICT_ICE_RES_DOWN",
             "value": 50
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11795,
+            "amount": 2
+        },
+        {
+            "item_id": 11797,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 12347,
+    "next_item_id": 12349
 }

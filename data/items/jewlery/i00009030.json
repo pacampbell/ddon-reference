@@ -34,5 +34,9 @@
             "name": "RESIST_PHYS_ATK_DOWN",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

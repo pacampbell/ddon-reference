@@ -39,5 +39,18 @@
             "name": "MAGMA_RESIST",
             "value": 9
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 21279,
+            "amount": 4
+        },
+        {
+            "item_id": 21271,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 20954,
+    "next_item_id": 20956
 }

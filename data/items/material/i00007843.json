@@ -13,5 +13,9 @@
     "item_level": 2,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": true
+    "can_bazaar": true,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

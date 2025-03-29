@@ -34,5 +34,22 @@
             "name": "RESIST_PHYS_ATK_DOWN",
             "value": 2
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7764,
+            "amount": 2
+        },
+        {
+            "item_id": 7894,
+            "amount": 4
+        },
+        {
+            "item_id": 7957,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

@@ -1,7 +1,7 @@
 {
     "type": "consumable",
     "item_id": 16463,
-    "name": "AB Mastery Tenkaku 破",
+    "name": "AB Mastery Tenkaku \u7834",
     "info": "",
     "icon": {
         "icon_id": 0,
@@ -14,5 +14,9 @@
     "crest_slots": 0,
     "quality": 0,
     "can_bazaar": false,
-    "max_stack": 99
+    "max_stack": 99,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

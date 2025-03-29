@@ -14,5 +14,18 @@
     "crest_slots": 0,
     "quality": 0,
     "can_bazaar": false,
-    "max_stack": 50
+    "max_stack": 50,
+    "craft_recipe": [
+        {
+            "item_id": 11408,
+            "amount": 3
+        },
+        {
+            "item_id": 8018,
+            "amount": 7
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

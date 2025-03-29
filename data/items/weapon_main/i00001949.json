@@ -36,5 +36,18 @@
             "name": "BLOW_POWER_SLASHING",
             "value": 75
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7863,
+            "amount": 1
+        },
+        {
+            "item_id": 7896,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 337,
+    "next_item_id": 2972
 }

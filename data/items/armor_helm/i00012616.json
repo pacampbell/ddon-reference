@@ -44,5 +44,43 @@
             "name": "RESIST_HOLY_RES_DOWN",
             "value": 2
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7891,
+            "amount": 1
+        },
+        {
+            "item_id": 11807,
+            "amount": 1
+        },
+        {
+            "item_id": 11806,
+            "amount": 10
+        },
+        {
+            "item_id": 11779,
+            "amount": 2
+        },
+        {
+            "item_id": 11808,
+            "amount": 10
+        },
+        {
+            "item_id": 11809,
+            "amount": 5
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 11801,
+            "amount": 2
+        },
+        {
+            "item_id": 11799,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 12617
 }

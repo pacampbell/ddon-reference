@@ -37,5 +37,9 @@
             "name": "RESIST_GOLDEN",
             "value": 5
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 4200,
+    "next_item_id": 0
 }

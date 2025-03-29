@@ -51,5 +51,22 @@
             "name": "ALCHEMY_SLAYER",
             "value": 50
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 8014,
+            "amount": 1
+        },
+        {
+            "item_id": 7984,
+            "amount": 1
+        },
+        {
+            "item_id": 7942,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 11710,
+    "next_item_id": 11712
 }

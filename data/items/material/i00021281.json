@@ -13,5 +13,14 @@
     "item_level": 110,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [
+        {
+            "item_id": 21280,
+            "amount": 10
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

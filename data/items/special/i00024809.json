@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 24809,
-    "name": "Recipe: ノブルレッグス",
+    "name": "Recipe: \u30ce\u30d6\u30eb\u30ec\u30c3\u30b0\u30b9",
     "info": "Recipe for the Noble Leggings",
     "icon": {
         "icon_id": 2267,
@@ -13,5 +13,9 @@
     "item_level": 0,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

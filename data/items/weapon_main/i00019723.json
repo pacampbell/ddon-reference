@@ -41,5 +41,22 @@
             "name": "BLOW_POWER_BBLUNT",
             "value": 10
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 19653,
+            "amount": 10
+        },
+        {
+            "item_id": 17893,
+            "amount": 4
+        },
+        {
+            "item_id": 17894,
+            "amount": 4
+        }
+    ],
+    "previous_item_id": 19722,
+    "next_item_id": 19724
 }

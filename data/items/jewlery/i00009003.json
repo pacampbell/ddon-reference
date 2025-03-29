@@ -34,5 +34,26 @@
             "name": "RESIST_HOLY_DRAIN",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7904,
+            "amount": 4
+        },
+        {
+            "item_id": 8014,
+            "amount": 3
+        },
+        {
+            "item_id": 9373,
+            "amount": 3
+        },
+        {
+            "item_id": 8946,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

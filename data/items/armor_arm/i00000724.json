@@ -39,5 +39,55 @@
             "name": "ENDURANCE",
             "value": 10
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7942,
+            "amount": 5
+        },
+        {
+            "item_id": 7927,
+            "amount": 2
+        },
+        {
+            "item_id": 7751,
+            "amount": 2
+        },
+        {
+            "item_id": 7904,
+            "amount": 5
+        },
+        {
+            "item_id": 7831,
+            "amount": 6
+        },
+        {
+            "item_id": 10990,
+            "amount": 3
+        },
+        {
+            "item_id": 11006,
+            "amount": 2
+        },
+        {
+            "item_id": 10999,
+            "amount": 6
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 7947,
+            "amount": 1
+        },
+        {
+            "item_id": 7780,
+            "amount": 1
+        },
+        {
+            "item_id": 7741,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 2336
 }

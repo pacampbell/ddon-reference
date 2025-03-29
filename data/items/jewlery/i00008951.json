@@ -34,5 +34,22 @@
             "name": "ICE_RESIST",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 8012,
+            "amount": 3
+        },
+        {
+            "item_id": 7903,
+            "amount": 3
+        },
+        {
+            "item_id": 7918,
+            "amount": 3
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

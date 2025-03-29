@@ -56,5 +56,14 @@
             "name": "MAX_LOADED_ARROWS",
             "value": 30
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 19147,
+            "amount": 10
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 19170
 }

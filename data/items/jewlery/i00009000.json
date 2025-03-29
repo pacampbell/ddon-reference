@@ -34,5 +34,26 @@
             "name": "RESIST_CATCHING_FIRE",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7900,
+            "amount": 2
+        },
+        {
+            "item_id": 8011,
+            "amount": 5
+        },
+        {
+            "item_id": 9370,
+            "amount": 3
+        },
+        {
+            "item_id": 8942,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

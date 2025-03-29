@@ -52,5 +52,9 @@
             "name": "MAX_HEALTH",
             "value": 279
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 4641,
+    "next_item_id": 0
 }

@@ -39,5 +39,26 @@
             "name": "RESIST_KNOCKOUT",
             "value": 5
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11781,
+            "amount": 3
+        },
+        {
+            "item_id": 11775,
+            "amount": 5
+        },
+        {
+            "item_id": 11783,
+            "amount": 1
+        },
+        {
+            "item_id": 11782,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 12638,
+    "next_item_id": 12640
 }

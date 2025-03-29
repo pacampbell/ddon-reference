@@ -36,5 +36,14 @@
             "name": "GUARD_POWER",
             "value": 203
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7848,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 163,
+    "next_item_id": 2798
 }

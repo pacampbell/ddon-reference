@@ -44,5 +44,18 @@
             "name": "MAX_STAMINA",
             "value": 355
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 8005,
+            "amount": 1
+        },
+        {
+            "item_id": 7901,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 3424,
+    "next_item_id": 5470
 }

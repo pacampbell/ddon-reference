@@ -46,5 +46,14 @@
             "name": "BEAST_SLAYER",
             "value": 66
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 24738,
+            "amount": 5
+        }
+    ],
+    "previous_item_id": 23986,
+    "next_item_id": 23988
 }

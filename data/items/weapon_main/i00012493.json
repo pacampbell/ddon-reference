@@ -41,5 +41,14 @@
             "name": "CORRUPTED_SLAYER",
             "value": 17
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11806,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 12492,
+    "next_item_id": 12494
 }

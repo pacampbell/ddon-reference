@@ -41,5 +41,9 @@
             "name": "INFLICT_FRAIL",
             "value": 25
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 12324,
+    "next_item_id": 0
 }

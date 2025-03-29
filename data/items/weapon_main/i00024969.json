@@ -1,7 +1,7 @@
 {
     "type": "equipment",
     "item_id": 24969,
-    "name": "Olfring Guard (染)",
+    "name": "Olfring Guard (\u67d3)",
     "info": "",
     "icon": {
         "icon_id": 2670,
@@ -66,5 +66,9 @@
             "name": "MAX_FORCE_STOCK",
             "value": 5
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

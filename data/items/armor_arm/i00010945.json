@@ -51,5 +51,14 @@
             "name": "FIRE_RESIST",
             "value": 10
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 13491,
+            "amount": 20
+        }
+    ],
+    "previous_item_id": 10944,
+    "next_item_id": 10946
 }

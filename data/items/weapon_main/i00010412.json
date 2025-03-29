@@ -46,5 +46,18 @@
             "name": "INFLICT_BLIND",
             "value": 30
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7916,
+            "amount": 1
+        },
+        {
+            "item_id": 7963,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 10411,
+    "next_item_id": 10413
 }

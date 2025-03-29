@@ -34,5 +34,22 @@
             "name": "RESIST_POISON",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7737,
+            "amount": 5
+        },
+        {
+            "item_id": 7883,
+            "amount": 2
+        },
+        {
+            "item_id": 9064,
+            "amount": 4
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

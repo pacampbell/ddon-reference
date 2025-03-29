@@ -42,5 +42,43 @@
             "name": "RESIST_GOLDEN",
             "value": 5
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 9444,
+            "amount": 3
+        },
+        {
+            "item_id": 9453,
+            "amount": 2
+        },
+        {
+            "item_id": 9796,
+            "amount": 5
+        },
+        {
+            "item_id": 10996,
+            "amount": 5
+        },
+        {
+            "item_id": 10997,
+            "amount": 3
+        },
+        {
+            "item_id": 10998,
+            "amount": 1
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 8007,
+            "amount": 1
+        },
+        {
+            "item_id": 7940,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 2447
 }

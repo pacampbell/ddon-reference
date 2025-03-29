@@ -46,5 +46,14 @@
             "name": "SKELETON_SLAYER",
             "value": 30
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11775,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 12408,
+    "next_item_id": 12410
 }

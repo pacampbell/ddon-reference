@@ -28,5 +28,22 @@
     "can_bazaar": false,
     "level": 26,
     "stats": {},
-    "params": []
+    "params": [],
+    "craft_recipe": [
+        {
+            "item_id": 7899,
+            "amount": 5
+        },
+        {
+            "item_id": 7879,
+            "amount": 2
+        },
+        {
+            "item_id": 7955,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

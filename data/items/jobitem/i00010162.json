@@ -27,5 +27,18 @@
                 0
             ]
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 8033,
+            "amount": 1
+        },
+        {
+            "item_id": 7783,
+            "amount": 1
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

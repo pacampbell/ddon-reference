@@ -34,5 +34,22 @@
             "name": "HEALING_POWER",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7783,
+            "amount": 1
+        },
+        {
+            "item_id": 8017,
+            "amount": 3
+        },
+        {
+            "item_id": 8957,
+            "amount": 1
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

@@ -44,5 +44,14 @@
             "name": "RESIST_CURSE",
             "value": 4
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11775,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 12632,
+    "next_item_id": 12634
 }

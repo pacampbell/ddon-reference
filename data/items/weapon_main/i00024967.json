@@ -1,7 +1,7 @@
 {
     "type": "equipment",
     "item_id": 24967,
-    "name": "Olfring Sword (染)",
+    "name": "Olfring Sword (\u67d3)",
     "info": "",
     "icon": {
         "icon_id": 2637,
@@ -51,5 +51,9 @@
             "name": "KNOCKOUT_POWER",
             "value": 15
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

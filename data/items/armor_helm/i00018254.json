@@ -39,5 +39,14 @@
             "name": "RESIST_ITEM_SEAL",
             "value": 15
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 19653,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 18255
 }

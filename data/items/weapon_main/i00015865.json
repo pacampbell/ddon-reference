@@ -51,5 +51,18 @@
             "name": "DEMON_SLAYER",
             "value": 50
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7778,
+            "amount": 1
+        },
+        {
+            "item_id": 7829,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 15864,
+    "next_item_id": 15866
 }

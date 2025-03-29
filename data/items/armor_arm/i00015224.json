@@ -38,5 +38,18 @@
             "name": "ENDURANCE",
             "value": 23
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 15929,
+            "amount": 3
+        },
+        {
+            "item_id": 15931,
+            "amount": 3
+        }
+    ],
+    "previous_item_id": 15223,
+    "next_item_id": 15225
 }

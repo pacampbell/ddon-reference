@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 24804,
-    "name": "Recipe: ラフィネアーム",
+    "name": "Recipe: \u30e9\u30d5\u30a3\u30cd\u30a2\u30fc\u30e0",
     "info": "Recipe for Refined Arms",
     "icon": {
         "icon_id": 2367,
@@ -13,5 +13,9 @@
     "item_level": 0,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

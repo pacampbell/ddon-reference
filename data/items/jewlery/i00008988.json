@@ -34,5 +34,22 @@
             "name": "RESIST_MAG_ATK_DOWN",
             "value": 2
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7776,
+            "amount": 2
+        },
+        {
+            "item_id": 7883,
+            "amount": 2
+        },
+        {
+            "item_id": 9382,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

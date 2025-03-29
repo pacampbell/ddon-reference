@@ -44,5 +44,26 @@
             "name": "THUNDER_RESIST",
             "value": 2
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7904,
+            "amount": 6
+        },
+        {
+            "item_id": 7884,
+            "amount": 2
+        },
+        {
+            "item_id": 7807,
+            "amount": 1
+        },
+        {
+            "item_id": 7957,
+            "amount": 4
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

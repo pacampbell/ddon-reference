@@ -41,5 +41,14 @@
             "name": "BLOCKING_STAMINA_REDUCTION",
             "value": 5
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7762,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 19105,
+    "next_item_id": 19107
 }

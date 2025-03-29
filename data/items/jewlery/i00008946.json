@@ -34,5 +34,22 @@
             "name": "HOLY_RESIST",
             "value": 2
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7897,
+            "amount": 1
+        },
+        {
+            "item_id": 7845,
+            "amount": 2
+        },
+        {
+            "item_id": 7825,
+            "amount": 1
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

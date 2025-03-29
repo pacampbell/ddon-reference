@@ -36,5 +36,18 @@
             "name": "INFLICT_FROZEN_SOLID",
             "value": 10
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7893,
+            "amount": 1
+        },
+        {
+            "item_id": 7994,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 10783,
+    "next_item_id": 10785
 }

@@ -49,5 +49,9 @@
             "name": "RESIST_KNOCKOUT",
             "value": 8
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 15322,
+    "next_item_id": 0
 }

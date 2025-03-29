@@ -41,5 +41,18 @@
             "name": "INFLICT_HOLY_DRAIN",
             "value": 13
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 11768,
+            "amount": 3
+        },
+        {
+            "item_id": 11772,
+            "amount": 3
+        }
+    ],
+    "previous_item_id": 12401,
+    "next_item_id": 12403
 }

@@ -1,7 +1,7 @@
 {
     "type": "equipment",
     "item_id": 24972,
-    "name": "Olfring Cane (染)",
+    "name": "Olfring Cane (\u67d3)",
     "info": "",
     "icon": {
         "icon_id": 2730,
@@ -46,5 +46,9 @@
             "name": "INFLICT_BLIND",
             "value": 15
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

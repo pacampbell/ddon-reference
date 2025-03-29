@@ -30,5 +30,39 @@
         "crest_slot": 0,
         "ele_slot": 0
     },
-    "params": []
+    "params": [],
+    "craft_recipe": [
+        {
+            "item_id": 7886,
+            "amount": 2
+        },
+        {
+            "item_id": 7769,
+            "amount": 4
+        },
+        {
+            "item_id": 8031,
+            "amount": 2
+        },
+        {
+            "item_id": 8018,
+            "amount": 2
+        },
+        {
+            "item_id": 9059,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 7838,
+            "amount": 1
+        },
+        {
+            "item_id": 7921,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 1859
 }

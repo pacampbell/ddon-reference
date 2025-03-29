@@ -41,5 +41,22 @@
         "crest_slot": 0,
         "ele_slot": 24
     },
-    "params": []
+    "params": [],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 7956,
+            "amount": 1
+        },
+        {
+            "item_id": 7971,
+            "amount": 1
+        },
+        {
+            "item_id": 7726,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 3585,
+    "next_item_id": 5631
 }

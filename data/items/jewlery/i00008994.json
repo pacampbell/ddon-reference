@@ -34,5 +34,22 @@
             "name": "RESIST_TARRING",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 9368,
+            "amount": 5
+        },
+        {
+            "item_id": 7726,
+            "amount": 2
+        },
+        {
+            "item_id": 7964,
+            "amount": 3
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

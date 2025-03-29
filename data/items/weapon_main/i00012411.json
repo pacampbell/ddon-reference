@@ -41,5 +41,43 @@
             "name": "CORRUPTED_SLAYER",
             "value": 17
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7878,
+            "amount": 7
+        },
+        {
+            "item_id": 11776,
+            "amount": 3
+        },
+        {
+            "item_id": 11779,
+            "amount": 3
+        },
+        {
+            "item_id": 11774,
+            "amount": 5
+        },
+        {
+            "item_id": 13223,
+            "amount": 5
+        },
+        {
+            "item_id": 7959,
+            "amount": 4
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 11774,
+            "amount": 1
+        },
+        {
+            "item_id": 11764,
+            "amount": 3
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 12412
 }

@@ -36,5 +36,14 @@
             "name": "SPIRIT_SLAYER",
             "value": 51
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 24819,
+            "amount": 4
+        }
+    ],
+    "previous_item_id": 23848,
+    "next_item_id": 23850
 }

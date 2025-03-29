@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 24808,
-    "name": "Recipe: ノブルアーム",
+    "name": "Recipe: \u30ce\u30d6\u30eb\u30a2\u30fc\u30e0",
     "info": "Recipe for Noble Arms",
     "icon": {
         "icon_id": 2367,
@@ -13,5 +13,9 @@
     "item_level": 0,
     "crest_slots": 0,
     "quality": 0,
-    "can_bazaar": false
+    "can_bazaar": false,
+    "craft_recipe": [],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

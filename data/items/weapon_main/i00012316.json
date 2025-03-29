@@ -46,5 +46,39 @@
             "name": "INFLICT_MAG_DEF_DOWN",
             "value": 30
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7877,
+            "amount": 7
+        },
+        {
+            "item_id": 11769,
+            "amount": 3
+        },
+        {
+            "item_id": 11771,
+            "amount": 3
+        },
+        {
+            "item_id": 11773,
+            "amount": 3
+        },
+        {
+            "item_id": 7885,
+            "amount": 4
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 11770,
+            "amount": 3
+        },
+        {
+            "item_id": 11772,
+            "amount": 3
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 12317
 }

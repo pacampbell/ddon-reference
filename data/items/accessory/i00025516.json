@@ -57,5 +57,14 @@
             "name": "HUMAN_SLAYER",
             "value": 1
         }
-    ]
+    ],
+    "craft_recipe": [],
+    "gradeup_recipe": [
+        {
+            "item_id": 25523,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 25517
 }

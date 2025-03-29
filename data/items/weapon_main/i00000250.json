@@ -56,5 +56,27 @@
             "name": "MAX_FORCE_STOCK",
             "value": 4
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7856,
+            "amount": 3
+        },
+        {
+            "item_id": 7881,
+            "amount": 1
+        },
+        {
+            "item_id": 7809,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 7856,
+            "amount": 1
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 1862
 }

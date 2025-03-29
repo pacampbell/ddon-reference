@@ -41,5 +41,39 @@
             "name": "KNOCKOUT_POWER",
             "value": 23
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 8031,
+            "amount": 4
+        },
+        {
+            "item_id": 8022,
+            "amount": 3
+        },
+        {
+            "item_id": 8027,
+            "amount": 3
+        },
+        {
+            "item_id": 7730,
+            "amount": 6
+        },
+        {
+            "item_id": 7943,
+            "amount": 4
+        }
+    ],
+    "gradeup_recipe": [
+        {
+            "item_id": 7978,
+            "amount": 1
+        },
+        {
+            "item_id": 7829,
+            "amount": 2
+        }
+    ],
+    "previous_item_id": 0,
+    "next_item_id": 1907
 }

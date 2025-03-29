@@ -34,5 +34,26 @@
             "name": "RESIST_FROZEN_SOLID",
             "value": 3
         }
-    ]
+    ],
+    "craft_recipe": [
+        {
+            "item_id": 7899,
+            "amount": 3
+        },
+        {
+            "item_id": 8012,
+            "amount": 5
+        },
+        {
+            "item_id": 9371,
+            "amount": 3
+        },
+        {
+            "item_id": 8943,
+            "amount": 2
+        }
+    ],
+    "gradeup_recipe": [],
+    "previous_item_id": 0,
+    "next_item_id": 0
 }

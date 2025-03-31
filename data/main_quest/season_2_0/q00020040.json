@@ -11,10 +11,16 @@
         "next_quest_id": 20050
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 56}
+        {
+            "type": "MinimumLevel",
+            "param01": 56
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Infected Plants",
+            "New Area Unlock"
+        ],
         "contents": [
             "BloodbaneIsleWorldQuests"
         ]

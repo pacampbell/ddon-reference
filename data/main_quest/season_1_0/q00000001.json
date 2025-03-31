@@ -13,14 +13,19 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [
-            "WhatAreTheArisen",
+            "Basic Abilities",
+            "Using the Minimap",
+            "What Are the Arisen?",
+            "Custom Skills",
             "BasicAbilities",
             "BasicTacticsFighter",
+            "AdvancedTacticsFighter",
             "BasicTacticsPriest",
+            "AdvancedTacticsPriest",
             "BasicTacticsHunter",
+            "AdvancedTacticsHunter",
             "BasicTacticsShieldSage",
-            "CustomSkills",
-            "UsingTheMinimap"
+            "AdvancedTacticsShieldSage"
         ],
         "contents": [
             "MainMenu"
@@ -45,7 +50,11 @@
             "rewards": []
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1150"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1150"
+    ],
     "starting_npc": null
 }

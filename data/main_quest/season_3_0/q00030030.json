@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Armored Battles: Small Enemies"
+        ],
         "contents": []
     },
     "description": "In the despair-filled land of Acre Selund, Gillian speaks,  searching for the true nature of hope.",

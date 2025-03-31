@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Rescue by friendly fire"
+        ],
         "contents": []
     },
     "description": "Consult about Prince Nedo,  who disappeared after the recapture of Megado",

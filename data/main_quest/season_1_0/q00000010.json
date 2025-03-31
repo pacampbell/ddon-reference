@@ -11,11 +11,22 @@
         "next_quest_id": 11
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 35},
-        {"type": "AreaRank", "param01": "DoweValley", "param02": 5}
+        {
+            "type": "MinimumLevel",
+            "param01": 35
+        },
+        {
+            "type": "AreaRank",
+            "param01": "DoweValley",
+            "param02": 5
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Quest Limits",
+            "Rift Teleport with Party",
+            "Allocating Craft Points"
+        ],
         "contents": []
     },
     "description": "Explore how to awaken the White Dragon",
@@ -64,7 +75,9 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
+    "tags": [
+        "Season 1.0"
+    ],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

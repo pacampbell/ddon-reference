@@ -18,7 +18,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "What Is Average Item Rank (IR)?",
+            "Fighting Large Enemies: Special Conditions"
+        ],
         "contents": []
     },
     "description": "On Isaac's request, head to either the Frigid Ancient Passage, Picturesque Grotto, or Cesspool of Filth, and find the treasure chest at the deepest part.",

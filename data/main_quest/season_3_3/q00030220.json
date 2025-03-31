@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "On enemies with flaming bodies"
+        ],
         "contents": []
     },
     "description": "Track Prince Nedo, who is believed to have headed towards Firefall Mountain",

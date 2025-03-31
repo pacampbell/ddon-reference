@@ -11,11 +11,19 @@
         "next_quest_id": 30030
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 80},
-        {"type": "MainQuestCompleted", "param01": 30010}
+        {
+            "type": "MinimumLevel",
+            "param01": 80
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 30010
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Dwarf Orcs"
+        ],
         "contents": []
     },
     "description": "Return to Acre Selund and release Elliot to assess the local conditions",

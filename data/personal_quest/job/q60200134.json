@@ -33,7 +33,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Advanced Tactics: Alchemist II"
+        ],
         "contents": [
             "Alchemist Skill Augmentation III"
         ]

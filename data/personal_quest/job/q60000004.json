@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tactical Role of the Priest",
+            "Basic Tactics: Priest",
+            "Advanced Tactics: Priest"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Priest, challenge the trial of the Training Chapel",

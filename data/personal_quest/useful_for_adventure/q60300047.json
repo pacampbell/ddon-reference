@@ -28,7 +28,14 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "What Is the Bitterblack Maze?",
+            "Bitterblack Equipment Effect Seal",
+            "Rare Item Appraisal",
+            "Bitterblack Maze Equipment",
+            "Bitterblack Item Takeaway",
+            "Play Bitterblack Maze Again"
+        ],
         "contents": [
             "Bitterblack Maze"
         ]

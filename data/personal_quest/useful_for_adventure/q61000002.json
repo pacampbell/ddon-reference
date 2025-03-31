@@ -28,7 +28,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Synthesis of Dragon Abilities"
+        ],
         "contents": [
             "Synthesis of Dragon Abilities"
         ]

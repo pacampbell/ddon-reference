@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Land of Despair: Prologue"
+        ],
         "contents": [
             "Prerequisite to unlock Special Skill Augmentation"
         ]

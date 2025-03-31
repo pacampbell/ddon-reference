@@ -11,8 +11,15 @@
         "next_quest_id": 21
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 48},
-        {"type": "AreaRank", "param01": "EasternZandora", "param02": 2}
+        {
+            "type": "MinimumLevel",
+            "param01": 48
+        },
+        {
+            "type": "AreaRank",
+            "param01": "EasternZandora",
+            "param02": 2
+        }
     ],
     "unlocks": {
         "tutorials": [],

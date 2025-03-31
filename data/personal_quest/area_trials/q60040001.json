@@ -26,7 +26,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Using Items",
+            "Item Limits"
+        ],
         "contents": [
             "Unlocks Volden Mines AR5"
         ]

@@ -11,12 +11,20 @@
         "next_quest_id": 6
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 14},
-        {"type": "AreaRank", "param01": "BreyaCoast", "param02": 3}
+        {
+            "type": "MinimumLevel",
+            "param01": 14
+        },
+        {
+            "type": "AreaRank",
+            "param01": "BreyaCoast",
+            "param02": 3
+        }
     ],
     "unlocks": {
         "tutorials": [
-            "Notes on Main Quest Boss Monster"
+            "Achievements",
+            "Notes on Main Quest Boss Monsters"
         ],
         "contents": []
     },
@@ -63,8 +71,12 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2121"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2121"
+    ],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

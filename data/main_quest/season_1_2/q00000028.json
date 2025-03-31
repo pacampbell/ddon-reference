@@ -11,8 +11,13 @@
         "next_quest_id": 18
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 45},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 45
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
         "tutorials": [],

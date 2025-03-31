@@ -29,7 +29,8 @@
     ],
     "unlocks": {
         "tutorials": [
-            "PawnSpecialSkills"
+            "PawnSpecialSkills",
+            "Pawn Special Skills"
         ],
         "contents": [
             "PawnsNewSpecialSkills"

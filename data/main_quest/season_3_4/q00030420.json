@@ -22,7 +22,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Dragon Abilities: Fire Dragon"
+        ],
         "contents": []
     },
     "description": "Save the Fire Dragon and its continent from the  Vortex of Stagnation that appeared in Acre Selund",

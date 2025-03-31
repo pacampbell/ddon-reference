@@ -11,10 +11,15 @@
         "next_quest_id": 20040
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 55}
+        {
+            "type": "MinimumLevel",
+            "param01": 55
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Infected: Large Enemies"
+        ],
         "contents": []
     },
     "description": "The White Knights have requested support, head to Lynwood",

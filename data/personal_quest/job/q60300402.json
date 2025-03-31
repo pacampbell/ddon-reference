@@ -13,7 +13,9 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Emblem Stones"
+        ],
         "contents": []
     },
     "description": "Undertake the trial to obtain  the Emblem Stone from Gilstan",

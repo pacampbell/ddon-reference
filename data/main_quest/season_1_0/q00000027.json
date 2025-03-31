@@ -11,11 +11,22 @@
         "next_quest_id": 7
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 21},
-        {"type": "AreaRank", "param01": "MysreeForest", "param02": 5}
+        {
+            "type": "MinimumLevel",
+            "param01": 21
+        },
+        {
+            "type": "AreaRank",
+            "param01": "MysreeForest",
+            "param02": 5
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Important Points of Party Play",
+            "Means of Recovery",
+            "Clinging"
+        ],
         "contents": []
     },
     "description": "Seek clues to undo the petrification of  the White Dragon by visiting the Goblin King  in Hobolic Cave.",
@@ -62,7 +73,9 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
+    "tags": [
+        "Season 1.0"
+    ],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

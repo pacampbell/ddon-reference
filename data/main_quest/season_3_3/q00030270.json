@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Land of Despair: Section IV"
+        ],
         "contents": []
     },
     "description": "Receive a revelation from the White Dragon",

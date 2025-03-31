@@ -25,7 +25,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Earth's Fury"
+        ],
         "contents": []
     },
     "description": "Visit Isaac again to receive a new mission",

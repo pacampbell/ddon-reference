@@ -11,10 +11,15 @@
         "next_quest_id": 20150
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 66}
+        {
+            "type": "MinimumLevel",
+            "param01": 66
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Infection: Section II"
+        ],
         "contents": []
     },
     "description": "To confront the Black Knight,  the invader of both continents,  head towards Bloodbane Isle.",

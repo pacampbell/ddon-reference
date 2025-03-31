@@ -25,7 +25,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Onset of Darkness"
+        ],
         "contents": [
             "Onset of Darkness (EM8)"
         ]

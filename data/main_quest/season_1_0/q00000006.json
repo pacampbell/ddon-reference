@@ -11,10 +11,17 @@
         "next_quest_id": 27
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 16}
+        {
+            "type": "MinimumLevel",
+            "param01": 16
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Retrying Quests",
+            "Use of Free Markers",
+            "Coordinated Actions"
+        ],
         "contents": []
     },
     "description": "Search for and rescue Mayleaf,  who has disappeared again.",
@@ -68,8 +75,13 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=3075", "https://youtu.be/DdMNhVnZJww?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1500"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/REXbk03jjyI?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=3075",
+        "https://youtu.be/DdMNhVnZJww?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1500"
+    ],
     "starting_npc": {
         "id": 4,
         "name": "Joseph",

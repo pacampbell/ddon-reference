@@ -11,19 +11,29 @@
         "next_quest_id": 4
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 2},
-        {"type": "ClearPersonalQuest", "param01": 60000012},
-        {"type": "Solo"}
+        {
+            "type": "MinimumLevel",
+            "param01": 2
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000012
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [
-            "AdventureGuide",
-            "ExploringTheWorld",
-            "UsingTheProgressMarker",
-            "PortcrystalUse",
+            "Using the Area Map",
+            "Fighting Monsters",
+            "Obtaining Items",
+            "Portcrystal Use",
+            "Casting Light into Darkness",
             "Portcrystals",
-            "CastingLightIntoDarkness",
-            "ReturnToTemple"
+            "Return to Temple",
+            "Using the Progress Marker",
+            "Adventure Guide"
         ],
         "contents": []
     },
@@ -92,8 +102,13 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2056", "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1117"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2056",
+        "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1117"
+    ],
     "starting_npc": {
         "id": 5,
         "name": "Leo",

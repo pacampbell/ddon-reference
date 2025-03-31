@@ -28,7 +28,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Bitterblack Maze Abyss"
+        ],
         "contents": [
             "Bitterblack Maze Abyss"
         ]

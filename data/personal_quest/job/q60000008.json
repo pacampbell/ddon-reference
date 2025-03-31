@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tactical Role of the Sorcerer",
+            "Basic Tactics: Sorcerer",
+            "Advanced Tactics: Sorcerer"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Sorcerer, challenge the trial of the Training Chapel",

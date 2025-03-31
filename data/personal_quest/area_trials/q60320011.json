@@ -19,7 +19,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Hazardous Locations: Additional Notes"
+        ],
         "contents": [
             "Unlocks Megadosys Plataeu AR10"
         ]

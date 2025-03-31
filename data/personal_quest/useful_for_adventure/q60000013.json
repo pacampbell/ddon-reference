@@ -20,7 +20,14 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "NPCs",
+            "Trading Goods",
+            "Equipment",
+            "Inn",
+            "Treasure Lot",
+            "Recover Revival Power"
+        ],
         "contents": []
     },
     "description": "Listen to Cameron's request and assist with the procurement work inside the temple.",

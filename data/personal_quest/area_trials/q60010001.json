@@ -26,7 +26,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Monster Warning Message",
+            "Area Master's Support Goods"
+        ],
         "contents": [
             "Unlocks Hidell Plains AR5"
         ]

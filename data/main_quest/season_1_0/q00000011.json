@@ -11,10 +11,18 @@
         "next_quest_id": 12
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 35}
+        {
+            "type": "MinimumLevel",
+            "param01": 35
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Beauty Shop",
+            "Crafting Level Test",
+            "Party Rewards",
+            "Lestania: Prologue"
+        ],
         "contents": [
             "One additional page of the storage box is added",
             "The 2nd stage of Dragon Force Augmentation is unlocked"
@@ -38,7 +46,9 @@
             "rewards": []
         }
     ],
-    "tags": ["Season 1.0"],
+    "tags": [
+        "Season 1.0"
+    ],
     "starting_npc": {
         "id": 2,
         "name": "Mysial",

@@ -35,7 +35,11 @@
     "unlocks": {
         "tutorials": [
             "Climbing",
-            "TacticalRoleoftheFighter"
+            "TacticalRoleoftheFighter",
+            "Tactical Role of the Fighter",
+            "Basic Tactics: Fighter",
+            "Job Roles (Role in Combat)",
+            "Advanced Tactics: Fighter"
         ],
         "contents": []
     },
@@ -78,5 +82,7 @@
         }
     ],
     "tags": [],
-    "references": ["https://youtu.be/qPq2FJfJQSA"]
+    "references": [
+        "https://youtu.be/qPq2FJfJQSA"
+    ]
 }

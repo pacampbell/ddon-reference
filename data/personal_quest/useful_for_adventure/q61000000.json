@@ -33,7 +33,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Wild Hunt: Basics"
+        ],
         "contents": [
             "Wild Hunt"
         ]

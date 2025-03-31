@@ -30,7 +30,13 @@
     "unlocks": {
         "tutorials": [
             "CraftingBasicItems",
-            "MyrmidonsPledge"
+            "MyrmidonsPledge",
+            "Auto-Run",
+            "Hiring and Organizing Pawns",
+            "Craft Room",
+            "Crafting Basic Items",
+            "Customizing Equipment",
+            "Myrmidon's Pledge"
         ],
         "contents": [
             "Craft",

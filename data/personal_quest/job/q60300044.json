@@ -25,7 +25,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Basic Tactics: High Scepter"
+        ],
         "contents": [
             "ChangetoHighScepter",
             "HighScepterJobTraining"

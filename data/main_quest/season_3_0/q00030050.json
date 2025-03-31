@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Armored Battles: Additional Notes"
+        ],
         "contents": []
     },
     "description": "Find out the whereabouts of Prince Nedo,  who is working with the bandits",

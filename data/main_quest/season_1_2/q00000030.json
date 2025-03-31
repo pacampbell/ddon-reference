@@ -11,12 +11,22 @@
         "next_quest_id": 20010
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 53},
-        {"type": "MainQuestCompleted", "param01": 24},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 53
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 24
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Lestania: Section III"
+        ],
         "contents": [
             "The 4th stage of Dragon Force Augmentation is unlocked"
         ]

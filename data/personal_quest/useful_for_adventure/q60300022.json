@@ -22,7 +22,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Epitaph Road: Ordeals",
+            "The Epitaph Road: Divine Protection of Heroic\nSpirits"
+        ],
         "contents": [
             "Unlocks Epitaph Road: Memory of Megadosys",
             "Unlocks Special Skill Augmentation (3)"

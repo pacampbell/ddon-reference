@@ -11,14 +11,19 @@
         "next_quest_id": 26
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 5},
-        {"type": "Solo"}
+        {
+            "type": "MinimumLevel",
+            "param01": 5
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [
-            "AreaMasters",
-            "AreaRankAndLevelingUp",
-            "SuspendResumeGame"
+            "Area Masters",
+            "Suspend/Resume Game",
+            "Area Rank and Leveling Up"
         ],
         "contents": [
             "AreaMaster",
@@ -66,8 +71,12 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2262"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=2262"
+    ],
     "starting_npc": {
         "id": 6,
         "name": "Iris",

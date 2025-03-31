@@ -11,10 +11,15 @@
         "next_quest_id": 20190
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 69}
+        {
+            "type": "MinimumLevel",
+            "param01": 69
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tentacled buds of mad invasive demons"
+        ],
         "contents": [
             "ElanWaterGroveWorldQuests",
             "MorrowForestWorldQuests",

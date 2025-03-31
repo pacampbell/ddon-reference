@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Armored Battles: Large Enemies"
+        ],
         "contents": []
     },
     "description": "Cross to Acre Selund and cooperate in the search  for Prince Nedo, the hope of the Liberation Army",

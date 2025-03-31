@@ -21,7 +21,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Further growth of Arisen and inheritance of\nwarfare skills"
+        ],
         "contents": [
             "Skill Augmentation"
         ]

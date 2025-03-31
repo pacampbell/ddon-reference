@@ -11,11 +11,20 @@
         "next_quest_id": 20070
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 57},
-        {"type": "AreaRank", "param01": "NorthernBetlandPlains", "param02": 6}
+        {
+            "type": "MinimumLevel",
+            "param01": 57
+        },
+        {
+            "type": "AreaRank",
+            "param01": "NorthernBetlandPlains",
+            "param02": 6
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Fighting Large Enemies: Break Icon"
+        ],
         "contents": []
     },
     "description": "Follow Cecily who has gone from Mayleaf's home and is headed for Flocwald Bridge",

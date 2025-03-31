@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tactical Role of the Warrior",
+            "Basic Tactics: Warrior",
+            "Advanced Tactics: Warrior"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Warrior, challenge the trial of the Training Chapel",

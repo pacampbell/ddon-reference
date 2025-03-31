@@ -11,11 +11,19 @@
         "next_quest_id": 28
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 43},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 43
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Lestania: Section II",
+            "Appraisal Exchange"
+        ],
         "contents": [
             "The 3rd stage of Dragon Force Augmentation is unlocked"
         ]

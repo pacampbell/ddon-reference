@@ -29,7 +29,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Advanced Tactics: High Scepter",
+            "Tactical Role of the High Scepter"
+        ],
         "contents": [
             "High Scepter Skill Augmentation"
         ]

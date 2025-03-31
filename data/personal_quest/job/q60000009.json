@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tactical Role of the Element Archer",
+            "Basic Tactics: Element Archer",
+            "Advanced Tactics: Element Archer"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Element Archer, challenge the trial of the Training Chapel",

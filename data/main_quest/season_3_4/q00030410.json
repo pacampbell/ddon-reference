@@ -22,7 +22,12 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Battle for the Destruction of the Great Dragon\nCrystal of Darkness",
+            "Missions in Dungeons",
+            "Chain Rewards",
+            "Dragon Abilities"
+        ],
         "contents": []
     },
     "description": "Glimpse with the White Dragon the unsettling  events that are about to unfold in the world of order",

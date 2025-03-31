@@ -22,7 +22,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Dragon Abilities: White Dragon"
+        ],
         "contents": []
     },
     "description": "To deal with the vortex of stagnation that appeared in Lestania, find Fabio.",

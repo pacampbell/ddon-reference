@@ -11,10 +11,15 @@
         "next_quest_id": 20200
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 70}
+        {
+            "type": "MinimumLevel",
+            "param01": 70
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Small room of training"
+        ],
         "contents": [
             "KingalCanyonWorldQuests"
         ]

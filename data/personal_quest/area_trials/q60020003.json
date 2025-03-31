@@ -31,7 +31,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Hazardous Locations"
+        ],
         "contents": [
             "Unlocks Breya Coast AR5"
         ]

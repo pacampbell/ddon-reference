@@ -22,7 +22,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Toward the final battle against the Black Dragon",
+            "The Land of Despair: Section V"
+        ],
         "contents": []
     },
     "description": "Enter the Vortex of Stagnation that connects the dark world that appeared in skies of  Mergoda Abyss and Lestania,  and slay the Black Dragon.",

@@ -27,7 +27,8 @@
     ],
     "unlocks": {
         "tutorials": [
-            "JobTrainingLog"
+            "JobTrainingLog",
+            "Job Training Log"
         ],
         "contents": [
             "FighterJobTraining"

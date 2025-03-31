@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Land of Despair: Section III"
+        ],
         "contents": []
     },
     "description": "Invade the Megado with the Liberation Army and reclaim the stolen Dragon Force",

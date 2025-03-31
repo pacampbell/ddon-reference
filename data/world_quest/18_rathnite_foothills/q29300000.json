@@ -13,7 +13,12 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Dominion Point Shop",
+            "Dacreim Fortress Recapture Battle",
+            "War status gauge",
+            "War Missions"
+        ],
         "contents": []
     },
     "description": "\u3010War Mission\u3011 Advance to the occupied Dacreim Fortress and defeat the commanding officer of the Evil Dragon army.",

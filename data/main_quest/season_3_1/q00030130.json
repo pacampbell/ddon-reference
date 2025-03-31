@@ -29,7 +29,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Land of Despair: Section II"
+        ],
         "contents": []
     },
     "description": "With diversions in place, enter the Royal Passage and reclaim Lookout Castle",

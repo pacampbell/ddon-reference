@@ -11,7 +11,10 @@
         "next_quest_id": 29
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 46}
+        {
+            "type": "MinimumLevel",
+            "param01": 46
+        }
     ],
     "unlocks": {
         "tutorials": [],

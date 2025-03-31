@@ -19,7 +19,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Artillery That Players Can Operate"
+        ],
         "contents": [
             "Unlocks Megadosys Plataeu AR4"
         ]

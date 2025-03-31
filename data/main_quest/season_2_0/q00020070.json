@@ -11,10 +11,19 @@
         "next_quest_id": 20080
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 57}
+        {
+            "type": "MinimumLevel",
+            "param01": 57
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Appraising Jewelry",
+            "The Infection: Introduction",
+            "Sub Portcrystals",
+            "Custom Skill Palette Switching",
+            "About Furniture"
+        ],
         "contents": []
     },
     "description": "Eliminate the infected demons that are attacking all over Lestania",

@@ -11,10 +11,17 @@
         "next_quest_id": 20210
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 71}
+        {
+            "type": "MinimumLevel",
+            "param01": 71
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Pawn Expeditions",
+            "Requests from Pawn",
+            "The Infection: Section III"
+        ],
         "contents": []
     },
     "description": "Meet Gear\u00f3id, who has woken up, and inquire about the situation",

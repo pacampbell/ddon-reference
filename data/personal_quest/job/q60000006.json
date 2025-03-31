@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Tactical Role of the Shield Sage",
+            "Basic Tactics: Shield Sage",
+            "Advanced Tactics: Shield Sage"
+        ],
         "contents": []
     },
     "description": "In order to learn the basics of Shield Sage, challenge the trial of the Training Chapel",

@@ -19,7 +19,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Monster gathering spot"
+        ],
         "contents": [
             "Unlocks Rathnite Foothills AR4"
         ]

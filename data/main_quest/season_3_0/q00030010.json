@@ -11,9 +11,17 @@
         "next_quest_id": 30020
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 80},
-        {"type": "MainQuestCompleted", "param01": 20250},
-        {"type": "Solo"}
+        {
+            "type": "MinimumLevel",
+            "param01": 80
+        },
+        {
+            "type": "MainQuestCompleted",
+            "param01": 20250
+        },
+        {
+            "type": "Solo"
+        }
     ],
     "unlocks": {
         "tutorials": [],

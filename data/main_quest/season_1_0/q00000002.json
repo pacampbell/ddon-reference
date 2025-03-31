@@ -13,11 +13,11 @@
     "order_conditions": [],
     "unlocks": {
         "tutorials": [
-            "TutorialGuide",
-            "MainQuests",
-            "TheWhiteDragonTemple",
-            "ChatLog",
-            "BasicGrowth"
+            "Main Quests",
+            "The White Dragon Temple",
+            "Chat Log",
+            "Basic Growth",
+            "Tutorial Guide"
         ],
         "contents": []
     },
@@ -59,7 +59,11 @@
             ]
         }
     ],
-    "tags": ["Season 1.0"],
-    "references": ["https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1642"],
+    "tags": [
+        "Season 1.0"
+    ],
+    "references": [
+        "https://youtu.be/hM3jKYPHoDk?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1642"
+    ],
     "starting_npc": null
 }

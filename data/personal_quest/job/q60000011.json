@@ -36,7 +36,10 @@
         "tutorials": [
             "AdvancedTacticsAlchemist",
             "FightingLargeEnemies",
-            "TacticalRoleOfTheAlchemist"
+            "TacticalRoleOfTheAlchemist",
+            "Basic Tactics: Alchemist",
+            "Tactical Role of the Alchemist",
+            "Advanced Tactics: Alchemist"
         ],
         "contents": []
     },
@@ -87,5 +90,8 @@
         }
     ],
     "tags": [],
-    "references": ["https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=953", "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1680"]
+    "references": [
+        "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=953",
+        "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1680"
+    ]
 }

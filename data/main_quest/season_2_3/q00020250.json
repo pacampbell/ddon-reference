@@ -11,11 +11,19 @@
         "next_quest_id": 30010
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 77},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 77
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "The Trail of an Explorer",
+            "The Infection: Section IV"
+        ],
         "contents": []
     },
     "description": "Go to Phindym and meet the new Spirit Dragon",

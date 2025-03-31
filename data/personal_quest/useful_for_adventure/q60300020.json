@@ -29,7 +29,12 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Further growth of the Arisen:\nSpecial Skill Augmentation",
+            "Limited Time Spots",
+            "The Epitaph Road",
+            "High Orbs"
+        ],
         "contents": [
             "Unlocks Epitaph Road: Rathnite Foothills",
             "Unlocks Special Skill Augmentation (1)"

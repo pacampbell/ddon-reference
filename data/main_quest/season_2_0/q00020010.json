@@ -11,11 +11,19 @@
         "next_quest_id": 20020
     },
     "order_conditions": [
-        {"type": "MinimumLevel", "param01": 55},
-        {"type": "SoloWithPawns"}
+        {
+            "type": "MinimumLevel",
+            "param01": 55
+        },
+        {
+            "type": "SoloWithPawns"
+        }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "About Infected: Small Enemies",
+            "Area Rank Cap Unlock"
+        ],
         "contents": []
     },
     "description": "Inspect the carcass of the dead beast that washed up on Breya Coast",

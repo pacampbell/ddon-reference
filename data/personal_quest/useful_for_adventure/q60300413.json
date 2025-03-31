@@ -13,7 +13,9 @@
     },
     "order_conditions": [],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "How to Obtain an Emblem Stone"
+        ],
         "contents": []
     },
     "description": "The White Dragon requests you to conduct  an investigation of the Emblem Stone",

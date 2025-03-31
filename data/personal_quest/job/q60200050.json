@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Basic Tactics: Spirit Lancer",
+            "Advanced Tactics: Spirit Lancer",
+            "Tactical Role of the Spirit Lancer"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Spirit Lancer, challenge the trial of the Training Chapel",

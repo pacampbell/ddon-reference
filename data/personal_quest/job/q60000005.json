@@ -29,7 +29,11 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "AdvancedTacticsSeeker",
+            "FightingLargeEnemies",
+            "TacticalRoleOfTheSeeker"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Seeker, challenge the trial of the Training Chapel",

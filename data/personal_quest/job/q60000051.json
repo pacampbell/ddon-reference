@@ -6,7 +6,7 @@
     "guide_type": "VocationQuest",
     "starting_npc": {
         "id": 1029,
-        "name": "Renton0",
+        "name": "Renton",
         "stage": {
             "name": "The White Dragon Temple",
             "id": 2
@@ -26,7 +26,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "JobTrainingLog"
+        ],
         "contents": [
             "PriestJobTraining"
         ]

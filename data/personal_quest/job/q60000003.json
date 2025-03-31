@@ -26,10 +26,17 @@
         },
         {
             "type": "Solo"
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000012
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "Climbing",
+            "TacticalRoleoftheFighter"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Fighter, challenge the trial of the Training Chapel",
@@ -70,5 +77,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://youtu.be/qPq2FJfJQSA"]
 }

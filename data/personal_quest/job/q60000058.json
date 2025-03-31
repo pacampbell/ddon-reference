@@ -31,7 +31,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "JobTrainingLog"
+        ],
         "contents": [
             "Alchemist Job Training"
         ]

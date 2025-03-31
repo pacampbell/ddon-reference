@@ -31,7 +31,9 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "JobTrainingLog"
+        ],
         "contents": [
             "Seeker Job Training"
         ]

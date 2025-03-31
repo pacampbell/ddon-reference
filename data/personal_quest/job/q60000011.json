@@ -26,10 +26,18 @@
         },
         {
             "type": "Solo"
+        },
+        {
+            "type": "ClearPersonalQuest",
+            "param01": 60000012
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "AdvancedTacticsAlchemist",
+            "FightingLargeEnemies",
+            "TacticalRoleOfTheAlchemist"
+        ],
         "contents": []
     },
     "description": "In order to learn the basic tactics of Alchemist, challenge the trial of the Training Chapel",
@@ -63,6 +71,11 @@
                     "pools": [
                         [
                             {
+                                "name": "Mergitur",
+                                "item_id": 4808,
+                                "amount": 1
+                            },
+                            {
                                 "name": "Conqueror's Periapt",
                                 "item_id": 42,
                                 "amount": 1
@@ -73,5 +86,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=953", "https://youtu.be/GJztrW6kE64?list=PLVwYn5UISXmAPJliPhSpZPzb8AGCO-saT&t=1680"]
 }

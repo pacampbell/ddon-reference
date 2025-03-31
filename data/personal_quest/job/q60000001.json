@@ -29,7 +29,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "FightingLargeEnemies",
+            "TacticalRoleOfTheFighter"
+        ],
         "contents": []
     },
     "description": "In order to learn the fundamentals of combat, challenge the trial of the Training Chapel",
@@ -71,5 +74,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://youtu.be/qPq2FJfJQSA?t=507", "https://www.youtube.com/watch?v=YZ0vy0_FSFE"]
 }

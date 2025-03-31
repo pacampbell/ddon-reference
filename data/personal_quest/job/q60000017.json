@@ -6,7 +6,7 @@
     "guide_type": "VocationQuest",
     "starting_npc": {
         "id": 1029,
-        "name": "Renton0",
+        "name": "Renton",
         "stage": {
             "name": "The White Dragon Temple",
             "id": 2
@@ -29,7 +29,10 @@
         }
     ],
     "unlocks": {
-        "tutorials": [],
+        "tutorials": [
+            "FightingLargeEnemies",
+            "TacticalRoleofthePriest"
+        ],
         "contents": []
     },
     "description": "In order to learn the fundamentals of combat, challenge the trial of the Training Chapel",

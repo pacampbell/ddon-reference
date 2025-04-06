@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Alchemy Eye",
+        "Level 56+ Damned Golem",
+        "Level 56+ Goliath"
+    ],
+    "subtype": "ore"
 }

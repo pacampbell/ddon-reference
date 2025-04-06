@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Roaring Tide Cave",
+        "Dowe Valley: Partly-Dug Well",
+        "Mergoda Ruins: Mergoda Ruins Lower Level",
+        "Mysree Grove",
+        "Mysree Grove: Dark Green Terrace",
+        "Mysree Grove: Greenleaf Terrace",
+        "Volden Mines: Bandit Hideout",
+        "Zandora Wastelands"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

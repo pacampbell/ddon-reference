@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Balcony",
+        "Deenan Woods: Sunset Terrace",
+        "Eastern Zandora: Lakebottom Connecting Passage",
+        "Eastern Zandora: Lighthouse Underground Stores",
+        "Eastern Zandora: Temple of Purification South Chamber"
+    ],
+    "hunt": [
+        "Level 35+ Ox"
+    ],
+    "subtype": "meat"
 }

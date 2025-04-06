@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Megadosys Plateau",
+        "Megadosys Plateau: Hidden Waterway to Megado",
+        "Megadosys Plateau: Megado Corridor",
+        "Megadosys Plateau: Megadosys Old Road",
+        "Megadosys Plateau: Royal Family's Hidden Chamber"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

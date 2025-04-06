@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Orc Battler",
+        "Level 1+ Orc Bringer",
+        "Level 1+ Orc General",
+        "Level 1+ Orc Trooper",
+        "Level 35+ Orc Captain",
+        "Level 40+ Mogok"
+    ],
+    "subtype": "fangs tusks and claws"
 }

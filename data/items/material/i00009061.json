@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Dowe Valley",
+        "Volden Mines: Kinoza Mineral Springs",
+        "Volden Mines: Volden Narrow Tunnels"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

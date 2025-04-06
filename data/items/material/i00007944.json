@@ -26,5 +26,14 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Small Cave Tombs"
+    ],
+    "hunt": [
+        "Level 1+ Sword Undead",
+        "Level 4+ Undead"
+    ],
+    "subtype": "fabric"
 }

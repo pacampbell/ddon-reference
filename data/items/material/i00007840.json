@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 15+ Deep Slime",
+        "Level 15+ Slime",
+        "Level 1+ Blob",
+        "Level 1+ Grand Ooze",
+        "Level 1+ Ooze",
+        "Level 1+ Sludgeman"
+    ],
+    "subtype": "liquids"
 }

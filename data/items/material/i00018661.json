@@ -17,5 +17,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Rathnite Foothills: Beastmaster's Garden",
+        "Rathnite Foothills: Demon Army Camp",
+        "Rathnite Foothills: Demon Army War Machine Garrison",
+        "Rathnite Foothills: Deserted Village of Denisyr",
+        "Rathnite Foothills: Dewdrop Crater",
+        "Rathnite Foothills: Feryana Border Checkpoint",
+        "Rathnite Foothills: Former Rest Station",
+        "Rathnite Foothills: Goblin Lookout",
+        "Rathnite Foothills: The Howling Front"
+    ],
+    "hunt": [],
+    "subtype": "meat"
 }

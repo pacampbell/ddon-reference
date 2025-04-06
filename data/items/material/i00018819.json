@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Feryana Wilderness",
+        "Feryana Wilderness: Dark Path to the Secret Spring",
+        "Feryana Wilderness: Royal Family's Secret Path"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

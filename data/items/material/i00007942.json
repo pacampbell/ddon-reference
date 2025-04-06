@@ -30,5 +30,12 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle: Cesspool of Filth",
+        "Bloodbane Isle: Infected Den"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

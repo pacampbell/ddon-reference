@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Abandoned Well on Hidell Road",
+        "Hidell Plains: Hidell Catacombs"
+    ],
+    "hunt": [
+        "Level 1+ Skeleton"
+    ],
+    "subtype": "ore"
 }

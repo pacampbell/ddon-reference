@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Severely Infected Stymphal\u00eddes",
+        "Level 1+ Stymphal\u00eddes"
+    ],
+    "subtype": "feathers"
 }

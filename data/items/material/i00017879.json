@@ -17,5 +17,21 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Angules",
+        "Level 80+ Behemoth",
+        "Level 80+ Drake",
+        "Level 80+ Infected Behemoth",
+        "Level 80+ Lindwurm",
+        "Level 80+ Mist Drake",
+        "Level 80+ Mist Wyrm",
+        "Level 80+ Severely Infected Behemoth",
+        "Level 80+ Tarasque",
+        "Level 80+ Wisened Tarasque",
+        "Level 80+ Wyrm"
+    ],
+    "subtype": "plets and skins"
 }

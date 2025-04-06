@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 45+ Crystal Eye",
+        "Level 45+ Emerald Eye",
+        "Level 45+ Lapis Eye",
+        "Level 45+ Ruby Eye"
+    ],
+    "subtype": "gemstones"
 }

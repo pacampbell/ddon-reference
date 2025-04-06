@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Le Karvas Lotana",
+        "Northern Betland Plains",
+        "Northern Betland Plains: Gardnox Fortress"
+    ],
+    "hunt": [],
+    "subtype": "lumber"
 }

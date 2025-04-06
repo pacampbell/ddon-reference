@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Megadosys Plateau",
+        "Megadosys Plateau: Captive Interrogation Prison",
+        "Megadosys Plateau: Fortress City Megado: Royal Palace Level",
+        "Megadosys Plateau: Jikei's Funeral Parlor",
+        "Megadosys Plateau: Megado Corridor",
+        "Urteca Mountains: Cave of Suffering"
+    ],
+    "hunt": [],
+    "subtype": "mushrooms"
 }

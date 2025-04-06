@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Moltova Ruins",
+        "Deenan Woods",
+        "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Sacred Tree Terrace",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Eastern Zandora",
+        "Mergoda Ruins: Mergoda Ruins Lower Level",
+        "Zandora Wastelands"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

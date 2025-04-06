@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "LV55:Captain Orc",
+        "LV55:General Orc",
+        "LV55:Orc Aimer",
+        "LV55:Orc Banger",
+        "LV55:Orc Battler",
+        "LV55:Orc Bringer",
+        "LV55:Orc Soldier",
+        "LV55:Orc Trooper"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

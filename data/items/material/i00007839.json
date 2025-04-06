@@ -17,5 +17,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest: Mysree Underground Waterway"
+    ],
+    "hunt": [
+        "Level 10+ Orc Aimer",
+        "Level 10+ Orc Banger",
+        "Level 10+ Orc Soldier",
+        "Level 1+ Goblin Bomber",
+        "Level 5+ Hobgoblin",
+        "Level 5+ Hobgoblin Fighter",
+        "Level 7+ Hobgoblin Leader"
+    ],
+    "subtype": "liquids"
 }

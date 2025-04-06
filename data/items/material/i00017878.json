@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Death Knight",
+        "Level 80+ Ghost",
+        "Level 80+ Ghost Mail",
+        "Level 80+ Medusa",
+        "Level 80+ Skull Lord",
+        "Level 80+ Wight",
+        "Level 80+ Witch"
+    ],
+    "subtype": "scrolls"
 }

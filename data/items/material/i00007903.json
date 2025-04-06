@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: War Demons\u2019 Hideout",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Volden Mines: Miners' Secret Route",
+        "Volden Mines: Summit Chapel",
+        "Volden Mines: Volden Large Tunnels"
+    ],
+    "hunt": [],
+    "subtype": "gemstones"
 }

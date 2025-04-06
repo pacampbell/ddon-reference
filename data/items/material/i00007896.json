@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Volden Mines: Southern Wall Fissure"
+    ],
+    "hunt": [
+        "Level 1+ Ruby Eye"
+    ],
+    "subtype": "gemstones"
 }

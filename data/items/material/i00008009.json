@@ -30,5 +30,15 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Sunset Terrace",
+        "Mergoda Ruins: Mergodan Residence",
+        "Northern Betland Plains: Underground Crypt"
+    ],
+    "hunt": [
+        "Level 1+ Skeleton Sorcerer"
+    ],
+    "subtype": "scrolls"
 }

@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Dowe Valley",
+        "Dowe Valley: Knights\u2019 Old Guardhouse",
+        "Dowe Valley: Valley Chapel",
+        "Volden Mines: Bandit Hideout"
+    ],
+    "hunt": [
+        "Level 1+ Banded Fighter",
+        "Level 1+ Banded Guarder",
+        "Level 1+ Banded Hunter",
+        "Level 1+ Banded Seeker",
+        "Level 1+ Banded Warrior"
+    ],
+    "subtype": "liquids"
 }

@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Megadosys Plateau",
+        "Megadosys Plateau: Fortress City Megado: Royal Palace Level",
+        "Megadosys Plateau: Hidden Waterway to Megado",
+        "Megadosys Plateau: Isolated Beach",
+        "Megadosys Plateau: Megado Corridor",
+        "Urteca Mountains: Pyro Saurian Colony"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Rathnite Foothills: Beastmaster's Garden",
+        "Rathnite Foothills: Demon Army Camp"
+    ],
+    "hunt": [
+        "Level 1+ Catoblepas"
+    ],
+    "subtype": "other"
 }

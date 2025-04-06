@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Northern Betland Plains: Common Waterhole",
+        "Dowe Valley: Sealed Old Well",
+        "Hidell Plains: Hidell Catacombs Depths"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

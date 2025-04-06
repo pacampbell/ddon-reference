@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Roaring Tide Cave"
+    ],
+    "hunt": [
+        "Level 30+ Hobgoblin",
+        "Level 30+ Hobgoblin Fighter",
+        "Level 30+ Hobgoblin Leader",
+        "Level 30+ Shadow Goblin Leader",
+        "Level 30+ Sling Hobgoblin"
+    ],
+    "subtype": "other"
 }

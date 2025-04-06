@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Alchemised Griffin",
+        "Level 80+ Bifrest",
+        "Level 80+ Black Griffin",
+        "Level 80+ Cockatrice",
+        "Level 80+ Griffin",
+        "Level 80+ Infected Griffin",
+        "Level 80+ Nightmare",
+        "Level 80+ Severely Infected Griffin",
+        "Level 80+ Sphinx",
+        "Level 80+ White Griffin"
+    ],
+    "subtype": "meat"
 }

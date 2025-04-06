@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 15+ Blue Newt",
+        "Level 15+ Giant Saurian",
+        "Level 15+ Giant Sulfur Saurian",
+        "Level 15+ Saurian",
+        "Level 15+ Sulfur Saurian"
+    ],
+    "subtype": "gemstones"
 }

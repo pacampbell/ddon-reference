@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast",
+        "Hidell Plains",
+        "Mergoda Ruins: Mergoda Ruins Lower Level"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

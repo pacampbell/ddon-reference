@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Temple of Purification",
+        "Eastern Zandora: Shrine of Resentment"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

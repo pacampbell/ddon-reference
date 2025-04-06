@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle: Fungal Colony Caves",
+        "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Le Karvas Lotana",
+        "Deenan Woods: Sacred Tree Terrace",
+        "Northern Betland Plains: Tegor Flood Control Channel"
+    ],
+    "hunt": [
+        "Level 1+ Emerald Eye"
+    ],
+    "subtype": "gemstones"
 }

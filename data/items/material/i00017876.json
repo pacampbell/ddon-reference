@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Catoblepas",
+        "Level 1+ War-Ready Gorecyclops",
+        "Level 1+ War-Ready Goremanticore",
+        "Level 1+ War-Ready Grimwarg"
+    ],
+    "subtype": "other"
 }

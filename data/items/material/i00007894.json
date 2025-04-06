@@ -17,5 +17,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Roaring Tide Cave",
+        "Deenan Woods: Le Karvas Arma",
+        "Deenan Woods: Le Karvas Lotana",
+        "Dowe Valley: Dreed Castle",
+        "Dowe Valley: Howling Wind Cave",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Volden Mines: Bandit Hideout",
+        "Volden Mines: Volden Large Tunnels"
+    ],
+    "hunt": [],
+    "subtype": "gemstones"
 }

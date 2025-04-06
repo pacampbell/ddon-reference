@@ -30,5 +30,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Grove: Greenleaf Terrace"
+    ],
+    "hunt": [],
+    "subtype": "scrolls"
 }

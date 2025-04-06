@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 18+ Mist Fighter",
+        "Level 18+ Mist Hunter",
+        "Level 18+ Mist Priest",
+        "Level 18+ Mist Sorcerer",
+        "Level 18+ Mist Warrior"
+    ],
+    "subtype": "gemstones"
 }

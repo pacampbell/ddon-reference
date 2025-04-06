@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Dowe Valley: Abandoned Boneyard",
+        "Dowe Valley: Fort\u2019s Old Well",
+        "Volden Mines",
+        "Volden Mines: Southern Wall Fissure"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

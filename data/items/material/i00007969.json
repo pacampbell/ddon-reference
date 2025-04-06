@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods",
+        "Deenan Woods: Le Karvas Arma",
+        "Deenan Woods: Le Karvas Lotana",
+        "Deenan Woods: Le Karvas Patiro",
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Dreed Castle"
+    ],
+    "hunt": [],
+    "subtype": "lumber"
 }

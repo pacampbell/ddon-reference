@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest: Demon's Den"
+    ],
+    "hunt": [
+        "Level 10+ Skeleton",
+        "Level 1+ Alchemised Skeleton",
+        "Level 1+ Skeleton Knight"
+    ],
+    "subtype": "bones"
 }

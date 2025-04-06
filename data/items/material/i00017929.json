@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Feryana Wilderness: Dark Path to the Secret Spring",
+        "Feryana Wilderness: Shrine of the Eternal Blaze"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

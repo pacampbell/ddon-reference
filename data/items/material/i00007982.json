@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest",
+        "Mysree Forest: Glowworm Cave",
+        "Volden Mines"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

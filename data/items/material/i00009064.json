@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Moltova Ruins",
+        "Mysree Grove: Greenleaf Terrace",
+        "Northern Betland Plains",
+        "Northern Betland Plains: Gardnox Fortress",
+        "Northern Betland Plains: Tegor Flood Control Channel",
+        "Northern Betland Plains: Underground Crypt"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

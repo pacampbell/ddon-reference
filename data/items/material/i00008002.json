@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Seaside Cellar",
+        "Deenan Woods: Blue Waterway",
+        "Dowe Valley: Dreed Castle",
+        "Hidell Plains",
+        "Mysree Forest: Old Waterhole"
+    ],
+    "hunt": [
+        "Level 1+ Banded Healer",
+        "Level 1+ Banded Mage",
+        "Level 1+ Skeleton Mage",
+        "Level 1+ Skeleton Sorcerer"
+    ],
+    "subtype": "scrolls"
 }

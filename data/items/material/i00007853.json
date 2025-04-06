@@ -17,5 +17,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Lighthouse Old Well",
+        "Hidell Plains: Hidell Catacombs",
+        "Hidell Plains: Small Cave Tombs",
+        "Hidell Plains: The Ark"
+    ],
+    "hunt": [
+        "Level 1+ Redcap",
+        "Level 1+ Redcap Fighter",
+        "Level 1+ Skeleton Knight",
+        "Level 1+ Sling Redcap"
+    ],
+    "subtype": "ore"
 }

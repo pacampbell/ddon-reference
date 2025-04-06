@@ -17,5 +17,22 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Betland Cemetery",
+        "Betland Plains: Foul Water Channel",
+        "Deenan Woods: Deep Water's Edge",
+        "Deenan Woods: Forest People\u2019s Tunnel",
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Howling Wind Cave",
+        "Eastern Zandora",
+        "Eastern Zandora: Empty Chapel",
+        "Hidell Plains",
+        "Hidell Plains: Hidell Catacombs Depths",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Zandora Wastelands: Mergoda Flood Channels"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

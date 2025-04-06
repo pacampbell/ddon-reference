@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle: Dried Well by the Tower",
+        "Deenan Woods: Blue Waterway",
+        "Dowe Valley: Knights' Old Guardhouse",
+        "Dowe Valley: Partly-Dug Well",
+        "Northern Betland Plains: Tegor Flood Control Channel",
+        "Volden Mines: Southern Wall Fissure",
+        "Volden Mines: Summit Chapel",
+        "Zandora Wastelands: Sage\u2019s Old Well"
+    ],
+    "hunt": [],
+    "subtype": "gemstones"
 }

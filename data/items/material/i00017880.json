@@ -17,5 +17,23 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Acid Blob",
+        "Level 80+ Aqua Jelly",
+        "Level 80+ Blob",
+        "Level 80+ Deep Slime",
+        "Level 80+ Dim Slime",
+        "Level 80+ Electric Slime",
+        "Level 80+ Freezing Slime",
+        "Level 80+ Glutton Ooze",
+        "Level 80+ Oil Jelly",
+        "Level 80+ Ooze",
+        "Level 80+ Photon Slime",
+        "Level 80+ Pyro Slime",
+        "Level 80+ Slime"
+    ],
+    "subtype": "liquids"
 }

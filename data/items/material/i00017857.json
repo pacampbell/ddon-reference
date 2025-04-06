@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Chimera",
+        "Level 80+ Gorechimera",
+        "Level 80+ Shadow Chimera",
+        "Level 80+ White Chimera"
+    ],
+    "subtype": "plets and skins"
 }

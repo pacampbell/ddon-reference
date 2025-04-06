@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Morrow Forest: Dark Woods Great Depths",
+        "Morrow Forest: Deserted Village of Aethrig",
+        "Morrow Forest: Forest Sprite's Refuge",
+        "Morrow Forest: Infected Basin",
+        "Morrow Forest: Morrow Forest",
+        "Morrow Forest: Pixies' Camp",
+        "Morrow Forest: Sage's Gravestone"
+    ],
+    "hunt": [],
+    "subtype": "lumber"
 }

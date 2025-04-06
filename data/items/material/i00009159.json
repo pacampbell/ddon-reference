@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Mergoda Ruins Area Points Weekly Rewards"
+    ],
+    "gather": [
+        "Deenan Woods: Heavenly Terrace",
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Mergoda Ruins: Mergoda Ruins",
+        "Mergoda Ruins: Mergoda Ruins Lower Level",
+        "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
+        "Mergoda Ruins: Mergodan Residence"
+    ],
+    "hunt": [],
+    "subtype": "lumber"
 }

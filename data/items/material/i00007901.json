@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle",
+        "Bloodbane Isle: Dried Well by the Tower",
+        "Volden Mines: Miners' Secret Route",
+        "Zandora Wastelands: Ruins Site Cellar"
+    ],
+    "hunt": [
+        "Level 1+ Crystal Eye"
+    ],
+    "subtype": "gemstones"
 }

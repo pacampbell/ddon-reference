@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Alchemised Harpy",
+        "Level 80+ Harpy",
+        "Level 80+ Infected Snow Harpy",
+        "Level 80+ Siren",
+        "Level 80+ Snow Harpy"
+    ],
+    "subtype": "meat"
 }

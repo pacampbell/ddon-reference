@@ -30,5 +30,11 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Hidell Catacombs Innermost Depths"
+    ],
+    "hunt": [],
+    "subtype": "scrolls"
 }

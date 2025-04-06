@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Grove",
+        "Northern Betland Plains",
+        "Northern Betland Plains: Gardnox Fortress",
+        "Northern Betland Plains: Knights\u2019 Old Storehouse"
+    ],
+    "hunt": [],
+    "subtype": "mushrooms"
 }

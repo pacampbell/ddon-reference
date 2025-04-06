@@ -26,5 +26,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Lighthouse Old Well",
+        "Mysree Forest",
+        "Mysree Grove"
+    ],
+    "hunt": [],
+    "subtype": "thread"
 }

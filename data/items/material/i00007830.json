@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Betland Cemetery",
+        "Deenan Woods",
+        "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
+        "Northern Betland Plains"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

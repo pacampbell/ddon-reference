@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Megadosys Plateau",
+        "Megadosys Plateau: Demon Army Standby Spot",
+        "Megadosys Plateau: Fortress City Megado: Royal Palace Level",
+        "Megadosys Plateau: Megado Corridor",
+        "Megadosys Plateau: Shrine of Combat",
+        "Urteca Mountains: Skygazing Spot"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

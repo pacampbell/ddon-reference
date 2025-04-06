@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Emblem Medal Exchange (Feryana Wilderness)"
+    ],
+    "gather": [
+        "Feryana Wilderness: Army Demon Bird's Checkpoint",
+        "Feryana Wilderness: Army Demon's Patrol Ground"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

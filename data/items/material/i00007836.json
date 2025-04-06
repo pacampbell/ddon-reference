@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Killer Bee",
+        "Level 1+ Leech",
+        "Level 1+ Spider",
+        "Level 1+ Worm"
+    ],
+    "subtype": "liquids"
 }

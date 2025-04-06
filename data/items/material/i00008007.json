@@ -30,5 +30,14 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Temple of Purification",
+        "Deenan Woods: Sunset Terrace",
+        "Northern Betland Plains: Knights\u2019 Old Storehouse",
+        "Volden Mines: Bandit Hideout"
+    ],
+    "hunt": [],
+    "subtype": "scrolls"
 }

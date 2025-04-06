@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Rathnite Foothills",
+        "Rathnite Foothills: Cave of Hell's Descent",
+        "Rathnite Foothills: Cave of Hell's Descent Depths",
+        "Rathnite Foothills: Lakeside Grotto",
+        "Rathnite Foothills: Rathnite Foothills Lakeside",
+        "Rathnite Foothills: Rathnite Underground Waterway",
+        "Rathnite Foothills: Ulta Ancient Watercourse",
+        "Rathnite Foothills: Yimidhitt Ruins"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

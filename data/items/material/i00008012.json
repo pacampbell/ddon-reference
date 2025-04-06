@@ -30,5 +30,12 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Sunset Terrace"
+    ],
+    "hunt": [],
+    "subtype": "scrolls"
 }

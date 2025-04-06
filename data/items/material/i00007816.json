@@ -1,7 +1,7 @@
 {
     "type": "material",
     "item_id": 7816,
-    "name": "Black Cockatrice Feather",
+    "name": "Cockatrice Raven Pinion",
     "info": "Feather Crafting Material.\nFeathers from a speckled stone chicken, black and\ngreen in color.",
     "icon": {
         "icon_id": 479,
@@ -17,5 +17,11 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Cockatrice"
+    ],
+    "subtype": "feathers"
 }

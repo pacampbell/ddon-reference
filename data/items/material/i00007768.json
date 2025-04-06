@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Breya Coast: Walter's Materials",
+        "The White Dragon Temple: materials vendors"
+    ],
+    "gather": [
+        "Hidell Plains",
+        "Hidell Plains: Hunters' Secret Passage"
+    ],
+    "hunt": [
+        "Level 1+ Doe",
+        "Level 1+ Pig",
+        "Level 1+ Piglet",
+        "Level 1+ Wild Boar"
+    ],
+    "subtype": "bones"
 }

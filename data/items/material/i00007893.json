@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Abandoned Well on Hidell Road",
+        "Hidell Plains: Hunters' Secret Passage"
+    ],
+    "hunt": [
+        "Level 1+ Lapis Eye",
+        "Level 1+ Mist Fighter",
+        "Level 1+ Mist Healer",
+        "Level 1+ Mist Hunter",
+        "Level 1+ Mist Sorcerer"
+    ],
+    "subtype": "gemstones"
 }

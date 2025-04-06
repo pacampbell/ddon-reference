@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Feryana Wilderness: Beast Training Ground",
+        "Feryana Wilderness: Captive Interrogation Prison",
+        "Feryana Wilderness: Demon Army Standby Spot",
+        "Feryana Wilderness: Jikei's Funeral Parlor",
+        "Feryana Wilderness: Nilviris Bridge Checkpoint",
+        "Megadosys Plateau: Abhorrent territory",
+        "Megadosys Plateau: Firefall Mountain Eroded Rock",
+        "Megadosys Plateau: Isolated Beach"
+    ],
+    "hunt": [],
+    "subtype": "regional"
 }

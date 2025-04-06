@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: The Third Ark",
+        "Mergoda Ruins: An Alchemist\u2019s Home",
+        "Mergoda Ruins: Mergoda Ruins Lower Level",
+        "Zandora Wastelands: Mergoda Security District"
+    ],
+    "hunt": [
+        "Level 1+ Alchemised Goblin",
+        "Level 1+ Alchemised Goblin Fighter",
+        "Level 1+ Alchemised Skeleton",
+        "Level 1+ Alchemised Sling Goblin",
+        "Level 1+ Alchemised Wolf"
+    ],
+    "subtype": "other"
 }

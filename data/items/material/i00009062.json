@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Moonlight Terrace",
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Grove: Bower Old Well"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

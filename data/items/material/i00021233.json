@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Emblem Medal Exchange (Megadosys Plateau)"
+    ],
+    "gather": [
+        "Megadosys Plateau: Quiet Concealed Cave"
+    ],
+    "hunt": [],
+    "subtype": "regional"
 }

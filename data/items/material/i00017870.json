@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Cragger",
+        "Level 1+ Little Cragg"
+    ],
+    "subtype": "plets and skins"
 }

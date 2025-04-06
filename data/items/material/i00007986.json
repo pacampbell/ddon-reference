@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 41+ Forest Goblin",
+        "Level 41+ Forest Goblin Fighter",
+        "Level 41+ Sling Forest Goblin"
+    ],
+    "subtype": "grasses herbs and flowers"
 }

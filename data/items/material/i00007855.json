@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Blocked Passage",
+        "Hidell Plains: Hidell Catacombs",
+        "Mysree Forest: Demon\u2019s Den",
+        "Mysree Forest: Lynwood Underground Waterway",
+        "Volden Mines: Kinoza Mineral Springs"
+    ],
+    "hunt": [
+        "Level 1+ Rock Saurian",
+        "Level 1+ Rock Saurian Spinel"
+    ],
+    "subtype": "ore"
 }

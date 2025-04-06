@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Temple of Purification",
+        "Deenan Woods: Le Karvas Arma",
+        "Deenan Woods: Le Karvas Salto",
+        "Mysree Grove: Greenleaf Terrace"
+    ],
+    "hunt": [],
+    "subtype": "sand"
 }

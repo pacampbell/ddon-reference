@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ High Pixie",
+        "Level 1+ Pixie",
+        "Level 1+ Pixie Biff",
+        "Level 1+ Pixie Din",
+        "Level 1+ Pixie Jabber",
+        "Level 1+ Pixie Pow",
+        "Level 1+ Severely Infected Pixie"
+    ],
+    "subtype": "feathers"
 }

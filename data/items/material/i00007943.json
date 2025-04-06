@@ -38,5 +38,14 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Penitentiary",
+        "Dowe Valley: Forsaken Well",
+        "Mysree Grove: Misty Illusion Terrace",
+        "Mysree Grove: Mysree Ancient Burial Mound"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

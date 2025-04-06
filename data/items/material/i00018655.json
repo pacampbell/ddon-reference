@@ -17,5 +17,21 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ War-Ready Grimwarg",
+        "Level 80+ Alchemised Wolf",
+        "Level 80+ Bolt Grimwarg",
+        "Level 80+ Damned Wolf",
+        "Level 80+ Direwolf",
+        "Level 80+ Green Guardian",
+        "Level 80+ Grimwarg",
+        "Level 80+ Infected Direwolf",
+        "Level 80+ Severely Infected Warg",
+        "Level 80+ Warg",
+        "Level 80+ Wolf"
+    ],
+    "subtype": "meat"
 }

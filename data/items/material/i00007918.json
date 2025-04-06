@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Dry Underground Stores",
+        "Volden Mines: Kinoza Flood Control Channel"
+    ],
+    "hunt": [
+        "Level 15+ Direwolf"
+    ],
+    "subtype": "plets and skins"
 }

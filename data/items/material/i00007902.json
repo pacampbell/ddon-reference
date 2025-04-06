@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Temple of Purification",
+        "Bloodbane Isle: Dried Well by the Tower",
+        "Deenan Woods: Le Karvas Lotana",
+        "Dowe Valley: Catacombs",
+        "Dowe Valley: Dreed Waterway Ruins"
+    ],
+    "hunt": [
+        "Level 1+ Lapis Eye"
+    ],
+    "subtype": "gemstones"
 }

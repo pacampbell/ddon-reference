@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mergoda Ruins: Mergodan Residence",
+        "Mysree Forest: Glowworm Cave",
+        "Volden Mines: Southern Wall Fissure"
+    ],
+    "hunt": [],
+    "subtype": "gemstones"
 }

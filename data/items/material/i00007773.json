@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Breya Coast: Walter's Materials",
+        "The White Dragon Temple"
+    ],
+    "gather": [
+        "Breya Coast",
+        "Mysree Grove"
+    ],
+    "hunt": [
+        "Level 1+ Rabbit",
+        "Level 1+ Wolf"
+    ],
+    "subtype": "furs"
 }

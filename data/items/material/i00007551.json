@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Old Knights' Route",
+        "Dowe Valley: Cell",
+        "Dowe Valley: Supply Store",
+        "Eastern Zandora: Ruins Site Cellar",
+        "Volden Mines",
+        "Volden Mines: Volden Narrow Tunnels"
+    ],
+    "hunt": [
+        "Level 20+ Boar",
+        "Level 20+ Deer",
+        "Level 20+ Pig"
+    ],
+    "subtype": "meat"
 }

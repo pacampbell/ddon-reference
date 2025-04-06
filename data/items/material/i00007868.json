@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Roaring Tide Cave",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Dowe Valley: Catacombs",
+        "Hidell Plains: Hidell Catacombs Innermost Depths"
+    ],
+    "hunt": [
+        "Level 1+ Ghost",
+        "Level 1+ Ghost Mail",
+        "Level 1+ Living Armor"
+    ],
+    "subtype": "ore"
 }

@@ -17,5 +17,21 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Betland Cemetery",
+        "Betland Plains: Betland Cemetery",
+        "Breya Coast: Roaring Tide Cave",
+        "Deenan Woods",
+        "Deenan Woods: Deep Water\u2019s Edge",
+        "Deenan Woods: Forest People's Tunnel",
+        "Deenan Woods: Le Karvas Arma",
+        "Dowe Valley: Howling Wind Cave",
+        "Dowe Valley: Valley Chapel",
+        "Northern Betland Plains: The Decaying Well",
+        "Volden Mines: Bandit Hideout"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Mergan Elementor",
+        "Level 1+ Mergan Fighter",
+        "Level 1+ Mergan Guarder",
+        "Level 1+ Mergan Healer",
+        "Level 1+ Mergan Hunter",
+        "Level 1+ Mergan Mage",
+        "Level 1+ Mergan Seeker",
+        "Level 1+ Mergan Warrior"
+    ],
+    "subtype": "other"
 }

@@ -30,5 +30,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Dowe Valley",
+        "Volden Mines: Small Tunnels",
+        "Volden Mines: Southern Wall Fissure"
+    ],
+    "hunt": [],
+    "subtype": "thread"
 }

@@ -17,5 +17,22 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: The Second Ark",
+        "Hidell Plains: The Third Ark",
+        "Mergoda Ruins: Elixir Refining Chamber",
+        "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
+        "Mergoda Ruins: Mergodan Residence",
+        "Zandora Wastelands: Mergoda Security District",
+        "Zandora Wastelands: Sage's Old Well"
+    ],
+    "hunt": [
+        "Level 1+ Damned Goblin",
+        "Level 1+ Damned Goblin Fighter",
+        "Level 1+ Damned Golem",
+        "Level 1+ Damned Sling Goblin"
+    ],
+    "subtype": "other"
 }

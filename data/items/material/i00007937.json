@@ -26,5 +26,16 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Farana Plains",
+        "Farana Plains: Farana Ruins",
+        "Farana Plains: Magusas Ancient Watercourse",
+        "Kingal Canyon: Grinmel Ruins",
+        "Kingal Canyon: Nebula Temple",
+        "Morrow Forest"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

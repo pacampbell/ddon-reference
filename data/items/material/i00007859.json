@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle: Frigid Ancient Passage",
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Moonlight Terrace",
+        "Eastern Zandora: Shrine of Resentment"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

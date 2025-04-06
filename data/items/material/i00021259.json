@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Urteca Mountains: Eastern Urteca Mountains",
+        "Urteca Mountains: Firefall Mountain Dragon Temple",
+        "Urteca Mountains: Northern Urteca Mountains",
+        "Urteca Mountains: The Burial Chamber of the Unmourned"
+    ],
+    "hunt": [],
+    "subtype": "sand"
 }

@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Foul Water Channel",
+        "Betland Plains: Groaning Old Well",
+        "Bloodbane Isle: Dried Well by the Tower",
+        "Breya Coast: Roaring Tide Cave",
+        "Deenan Woods: Moonlight Terrace",
+        "Dowe Valley: Cliff Tunnels",
+        "Northern Betland Plains: Betland Underground Passage",
+        "Volden Mines: Fiend\u2019s Cavern"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

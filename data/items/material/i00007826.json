@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: North Drainage Channel",
+        "Dowe Valley: Cesspool",
+        "Dowe Valley: Dreed Drainage Channels",
+        "Dowe Valley: Dreed Waterway Ruins",
+        "Volden Mines",
+        "Volden Mines: Kinoza Flood Control Channel",
+        "Zandora Wastelands: Mergoda Flood Channels"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

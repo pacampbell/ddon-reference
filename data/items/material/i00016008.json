@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ High Pixie Biff",
+        "Level 1+ High Pixie Pow",
+        "Level 1+ High Pixie Zolda",
+        "Level 1+ Pixie King"
+    ],
+    "subtype": "bones"
 }

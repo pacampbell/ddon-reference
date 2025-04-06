@@ -30,5 +30,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest: Glowworm Cave",
+        "Mysree Grove: Sacred Spring Terrace",
+        "Volden Mines: Volden Small Tunnels"
+    ],
+    "hunt": [],
+    "subtype": "scrolls"
 }

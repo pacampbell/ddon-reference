@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Pig",
+        "Level 1+ Rabbit",
+        "Level 1+ Boar",
+        "Level 1+ Giant Rat",
+        "Level 1+ Ox",
+        "Level 1+ Piglet"
+    ],
+    "subtype": "meat"
 }

@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Bloodbane Isle: Dried Well by the Tower",
+        "Breya Coast: Lighthouse Old Well",
+        "Breya Coast: Seaside Cellar",
+        "Hidell Plains: Blocked Passage",
+        "Mysree Forest: Lynwood Underground Waterway"
+    ],
+    "hunt": [],
+    "subtype": "gemstones"
 }

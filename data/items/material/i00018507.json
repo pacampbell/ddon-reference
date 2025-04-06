@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Rathnite Foothills",
+        "Rathnite Foothills: Cave of Hell's Descent",
+        "Rathnite Foothills: Goblin Lookout",
+        "Rathnite Foothills: Lakeside Grotto",
+        "Rathnite Foothills: Rathnite Foothills Lakeside",
+        "Rathnite Foothills: Reservoir Underground Tunnel"
+    ],
+    "hunt": [],
+    "subtype": "lumber"
 }

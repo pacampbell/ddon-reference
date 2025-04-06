@@ -17,5 +17,22 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains",
+        "Betland Plains: Temple of Purification",
+        "Breya Coast: Lighthouse Old Well",
+        "Dowe Valley",
+        "Hidell Plains",
+        "Hidell Plains: Hunters' Secret Passage",
+        "Hidell Plains: Tel's Withered Well",
+        "Mysree Forest",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Mysree Grove",
+        "Volden Mines",
+        "Volden Mines: Kinoza Mineral Springs"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

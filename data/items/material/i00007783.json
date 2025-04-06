@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Shadow Harpy",
+        "Level 25+ Harpy",
+        "Level 25+ Snow Harpy"
+    ],
+    "subtype": "feathers"
 }

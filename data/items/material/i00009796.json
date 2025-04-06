@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Eastern Zandora Area Points Weekly Rewards"
+    ],
+    "gather": [
+        "Eastern Zandora: Dead Lord's Labyrinth"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

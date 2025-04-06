@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "The White Dragon Temple: Gilliam",
+        "The White Dragon Temple: Kittridge"
+    ],
+    "gather": [],
+    "hunt": [],
+    "subtype": "other"
 }

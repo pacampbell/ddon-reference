@@ -17,5 +17,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Blue Waterway",
+        "Deenan Woods: Divine Blossom Terrace",
+        "Dowe Valley: Cell",
+        "Dowe Valley: Knights' Old Guardhouse",
+        "Eastern Zandora: Temple of Purification South Chamber"
+    ],
+    "hunt": [
+        "Level 1+ Skeleton Sorcerer",
+        "Level 20+ Skeleton Mage",
+        "Level 20+ Wight"
+    ],
+    "subtype": "bones"
 }

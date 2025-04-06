@@ -26,5 +26,12 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Blocked Passage",
+        "Hidell Plains: Small Cave Tombs"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

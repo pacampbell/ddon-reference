@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Eastern Zandora: Water Channel Ruins",
+        "Northern Betland Plains: Gardnox Fortress",
+        "Northern Betland Plains: Knights\u2019 Old Storehouse",
+        "Northern Betland Plains: Underground Crypt",
+        "Zandora Wastelands: Mergoda Flood Channels"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

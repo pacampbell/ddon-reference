@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 45+ Shadow Chimera",
+        "Level 45+ Shadow Goblin",
+        "Level 45+ Shadow Goblin Fighter",
+        "Level 45+ Shadow Goblin Leader",
+        "Level 45+ Shadow Harpy",
+        "Level 45+ Shadow Wolf",
+        "Level 45+ Sling Shadow Goblin"
+    ],
+    "subtype": "gemstones"
 }

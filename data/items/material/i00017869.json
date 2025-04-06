@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Feryana Wilderness: Restless Water Channel",
+        "Feryana Wilderness: Royal Family's Secret Path"
+    ],
+    "hunt": [
+        "Level 1+ Skeleton Warg"
+    ],
+    "subtype": "fangs tusks and claws"
 }

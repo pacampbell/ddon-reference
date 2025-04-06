@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Hidell Catacombs",
+        "Hidell Plains: Hunters\u2019 Secret Passage",
+        "Mysree Forest"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

@@ -1,7 +1,7 @@
 {
     "type": "special",
     "item_id": 25639,
-    "name": "Glowworms",
+    "name": "Glowworm",
     "info": "",
     "icon": {
         "icon_id": 0,
@@ -17,5 +17,11 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest: Glowworm Cave"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

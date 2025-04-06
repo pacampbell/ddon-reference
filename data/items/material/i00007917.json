@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Abandoned House\u2019s Cellar",
+        "Hidell Plains: Hunters' Secret Passage",
+        "Mysree Forest"
+    ],
+    "hunt": [
+        "Level 1+ Alchemised Wolf",
+        "Level 1+ Buck",
+        "Level 1+ Doe"
+    ],
+    "subtype": "plets and skins"
 }

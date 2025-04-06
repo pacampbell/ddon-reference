@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Northern Betland Plains",
+        "Northern Betland Plains: Gardnox Fortress"
+    ],
+    "hunt": [
+        "Level 1+ General Orc",
+        "Level 1+ Mogok",
+        "Level 1+ Orc Battler",
+        "Level 1+ Orc Bringer",
+        "Level 1+ Orc General",
+        "Level 1+ Orc Trooper",
+        "Level 40+ Orc Captain"
+    ],
+    "subtype": "other"
 }

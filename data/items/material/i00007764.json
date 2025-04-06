@@ -34,5 +34,11 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 30+ Skeleton Sorcerer"
+    ],
+    "subtype": "scrolls"
 }

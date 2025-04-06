@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Alchemised Harpy",
+        "Level 50+ Alchemised Goblin",
+        "Level 50+ Alchemised Goblin Fighter",
+        "Level 50+ Alchemised Skeleton",
+        "Level 50+ Alchemised Sling Goblin",
+        "Level 50+ Alchemised Wolf"
+    ],
+    "subtype": "other"
 }

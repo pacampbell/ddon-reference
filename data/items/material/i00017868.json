@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [
+        "Emblem Medal Exchange (Feryana Wilderness)"
+    ],
+    "gather": [
+        "Feryana Wilderness: False Remains",
+        "Feryana Wilderness: Ogina's Domination Area"
+    ],
+    "hunt": [],
+    "subtype": "other"
 }

@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Mysree Forest: Demon's Den",
+        "Mysree Forest: Lynwood Underground Waterway"
+    ],
+    "hunt": [
+        "Level 10+ Wolf"
+    ],
+    "subtype": "furs"
 }

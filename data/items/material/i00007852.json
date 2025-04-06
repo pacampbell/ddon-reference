@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Eastern Zandora",
+        "Northern Betland Plains: Gardnox Fortress",
+        "Zandora Wastelands",
+        "Zandora Wastelands: Mergoda Flood Channels",
+        "Zandora Wastelands: Old Underground Laboratory",
+        "Zandora Wastelands: Ruins Site Cellar"
+    ],
+    "hunt": [],
+    "subtype": "sand"
 }

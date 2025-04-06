@@ -17,5 +17,14 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Elan Water Grove",
+        "Elan Water Grove: Dancing Rainbow Cave",
+        "Elan Water Grove: Jungle Limestone Caves",
+        "Elan Water Grove: Path to Morrow"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

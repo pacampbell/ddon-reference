@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: War Demons' Hideout",
+        "Deenan Woods: Le Karvas Lotana",
+        "Deenan Woods: Sacred Tree Terrace"
+    ],
+    "hunt": [
+        "Level 1+ Orc General",
+        "Level 40+ Orc Captain"
+    ],
+    "subtype": "gemstones"
 }

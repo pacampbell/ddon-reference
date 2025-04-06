@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: The Second Ark",
+        "Eastern Zandora: Empty Chapel",
+        "Eastern Zandora: Ruins Site Cellar",
+        "Eastern Zandora: Shrine of Resentment",
+        "Zandora Wastelands",
+        "Zandora Wastelands: Mergoda Security District",
+        "Zandora Wastelands: Old Underground Laboratory"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

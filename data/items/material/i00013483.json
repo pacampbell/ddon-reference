@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Elan Water Grove: Path to Morrow",
+        "Farana Plains: Danandell Cave",
+        "Kingal Canyon: Nebula Temple",
+        "Kingal Canyon: Shadolean Great Temple",
+        "Morrow Forest - Morrow Cavern"
+    ],
+    "hunt": [],
+    "subtype": "unappraised jewelry"
 }

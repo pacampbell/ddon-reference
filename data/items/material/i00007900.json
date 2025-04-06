@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Fairy's Withered Well",
+        "Deenan Woods: Le Karvas Arma",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Grove: Sacred Spring Terrace"
+    ],
+    "hunt": [
+        "Level 1+ Ruby Eye",
+        "Level 1+ Witch"
+    ],
+    "subtype": "gemstones"
 }

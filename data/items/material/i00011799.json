@@ -22,5 +22,12 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods: Heavenly Terrace",
+        "Deenan Woods: Path of Running Water"
+    ],
+    "hunt": [],
+    "subtype": "regional"
 }

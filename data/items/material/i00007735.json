@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Undead",
+        "Level 1+ Stout Undead",
+        "Level 1+ Sword Undead"
+    ],
+    "subtype": "meat"
 }

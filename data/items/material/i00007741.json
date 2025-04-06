@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Corpse Punisher",
+        "Level 1+ Corpse Torturer",
+        "Level 1+ Warrior Undead"
+    ],
+    "subtype": "meat"
 }

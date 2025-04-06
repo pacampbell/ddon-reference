@@ -17,5 +17,17 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Deenan Woods",
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Le Karvas Patiro",
+        "Deenan Woods: Le Karvas Salto",
+        "Deenan Woods: Moonlight Terrace",
+        "Mysree Grove: Greenleaf Terrace"
+    ],
+    "hunt": [],
+    "subtype": "grasses herbs and flowers"
 }

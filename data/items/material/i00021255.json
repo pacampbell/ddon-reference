@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Urteca Mountains: Crumbling Entrance Path",
+        "Urteca Mountains: Eastern Urteca Mountains",
+        "Urteca Mountains: Megado Detached Palace",
+        "Urteca Mountains: Pyre Saurian Colony",
+        "Urteca Mountains: The Royal Family Mausoleum",
+        "Urteca Mountains: Western Urteca Mountains"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

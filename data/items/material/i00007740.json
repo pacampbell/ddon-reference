@@ -17,5 +17,12 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 34+ Armoured Cyclops",
+        "Level 34+ Cyclops"
+    ],
+    "subtype": "meat"
 }

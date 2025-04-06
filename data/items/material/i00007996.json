@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Temple of Purification",
+        "Breya Coast: Seaside Cellar",
+        "Hidell Plains: Hidell Catacombs Depths",
+        "Hidell Plains: Small Cave Tombs",
+        "Mysree Forest: Lynwood Underground Waterway",
+        "Volden Mines: Kinoza Flood Control Channel"
+    ],
+    "hunt": [],
+    "subtype": "mushrooms"
 }

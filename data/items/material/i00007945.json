@@ -30,5 +30,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 30+ Orc Aimer",
+        "Level 30+ Orc Banger",
+        "Level 30+ Orc Soldier"
+    ],
+    "subtype": "fabric"
 }

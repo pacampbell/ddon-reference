@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Goblin Aid Shaman",
+        "Level 1+ Goblin Shaman",
+        "Level 1+ Grimgoblin",
+        "Level 1+ Grimgoblin Fighter",
+        "Level 1+ Grimgoblin Leader",
+        "Level 1+ Sling Grimgoblin"
+    ],
+    "subtype": "ore"
 }

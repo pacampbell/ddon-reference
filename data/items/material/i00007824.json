@@ -17,5 +17,18 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast",
+        "Dowe Valley: Village's Abandoned Well",
+        "Hidell Plains",
+        "Hidell Plains: Abandoned Well on Hidell Road",
+        "Hidell Plains: Hunters' Secret Passage",
+        "Hidell Plains: Tel\u2019s Withered Well",
+        "Mysree Forest: The Rift",
+        "Volden Mines: Kinoza Mineral Springs"
+    ],
+    "hunt": [],
+    "subtype": "liquids"
 }

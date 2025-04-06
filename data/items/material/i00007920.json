@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Chimera",
+        "Level 1+ Giant Sulfur Saurian",
+        "Level 1+ Sulfur Saurian"
+    ],
+    "subtype": "plets and skins"
 }

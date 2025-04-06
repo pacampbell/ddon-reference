@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Assault Trooper Dwarf Orc",
+        "Level 80+ Heavy Trooper Dwarf Orc",
+        "Level 80+ Ranged Trooper Dwarf Orc",
+        "Level 80+ Slasher Trooper Dwarf Orc",
+        "Level 80+ Squad Leader Dwarf Orc"
+    ],
+    "subtype": "other"
 }

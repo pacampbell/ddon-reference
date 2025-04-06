@@ -26,5 +26,12 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains: Abandoned House Cellar",
+        "Hidell Plains: Hunters' Secret Passage"
+    ],
+    "hunt": [],
+    "subtype": "fabric"
 }

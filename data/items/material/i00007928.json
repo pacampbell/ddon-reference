@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Angules",
+        "Level 1+ Behemoth",
+        "Level 1+ Lindwurm"
+    ],
+    "subtype": "plets and skins"
 }

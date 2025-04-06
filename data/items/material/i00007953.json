@@ -26,5 +26,13 @@
     ],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Dowe Valley: Dreed Waterway Ruins",
+        "Hidell Plains: Blocked Passage",
+        "Mysree Forest"
+    ],
+    "hunt": [],
+    "subtype": "thread"
 }

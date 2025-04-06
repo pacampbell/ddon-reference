@@ -17,5 +17,30 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Betland Plains: Lakeside Cellar"
+    ],
+    "hunt": [
+        "Level 10+ Goblin",
+        "Level 10+ Goblin Leader",
+        "Level 10+ Shield Goblin",
+        "Level 10+ Sling Goblin",
+        "Level 1+ Alchemized Goblin",
+        "Level 1+ Alchemized Goblin Fighter",
+        "Level 1+ Alchemized Sling Goblin",
+        "Level 1+ Forest Goblin",
+        "Level 1+ Forest Goblin Fighter",
+        "Level 1+ Goblin Bomber",
+        "Level 1+ Goblin Fighter",
+        "Level 1+ Hobgoblin",
+        "Level 1+ Hobgoblin Fighter",
+        "Level 1+ Hobgoblin Leader",
+        "Level 1+ Redcap",
+        "Level 1+ Redcap Fighter",
+        "Level 1+ Sling Forest Goblin",
+        "Level 1+ Sling Hobgoblin"
+    ],
+    "subtype": "horn"
 }

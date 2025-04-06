@@ -17,5 +17,15 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Breya Coast: Roaring Tide Cave",
+        "Mysree Forest: Glowworm Cave",
+        "Volden Mines: Southern Wall Fissure"
+    ],
+    "hunt": [
+        "Level 15+ Rock Saurian Spinel"
+    ],
+    "subtype": "gemstones"
 }

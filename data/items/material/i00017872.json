@@ -17,5 +17,20 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 80+ Blue Newt",
+        "Level 80+ Giant Saurian",
+        "Level 80+ Giant Saurian Sage",
+        "Level 80+ Giant Sulfur Saurian",
+        "Level 80+ Large Newt",
+        "Level 80+ Rock Saurian",
+        "Level 80+ Rock Saurian Spinel",
+        "Level 80+ Saurian",
+        "Level 80+ Saurian Sage",
+        "Level 80+ Sulfur Saurian"
+    ],
+    "subtype": "gemstones"
 }

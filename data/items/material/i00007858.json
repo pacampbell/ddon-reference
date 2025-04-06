@@ -17,5 +17,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [
+        "Hidell Plains",
+        "Hidell Plains: Hunters' Secret Passage",
+        "Hidell Plains: Tel's Withered Well"
+    ],
+    "hunt": [],
+    "subtype": "ore"
 }

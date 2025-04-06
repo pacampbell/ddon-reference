@@ -17,5 +17,16 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "shops": [],
+    "gather": [],
+    "hunt": [
+        "Level 1+ Buck",
+        "Level 1+ Goblin",
+        "Level 1+ Goblin Fighter",
+        "Level 1+ Goblin Leader",
+        "Level 1+ Shield Goblin",
+        "Level 1+ Sling Goblin"
+    ],
+    "subtype": "horn"
 }

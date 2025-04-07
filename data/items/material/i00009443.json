@@ -19,16 +19,16 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [
-        "LV55:Captain Orc",
-        "LV55:General Orc",
-        "LV55:Orc Aimer",
-        "LV55:Orc Banger",
-        "LV55:Orc Battler",
-        "LV55:Orc Bringer",
-        "LV55:Orc Soldier",
-        "LV55:Orc Trooper"
+    "gather": [],
+    "hunt": [
+        "Level 55+ Captain Orc",
+        "Level 55+ General Orc",
+        "Level 55+ Orc Aimer",
+        "Level 55+ Orc Banger",
+        "Level 55+ Orc Battler",
+        "Level 55+ Orc Bringer",
+        "Level 55+ Orc Soldier",
+        "Level 55+ Orc Trooper"
     ],
-    "hunt": [],
     "subtype": "liquids"
 }

@@ -20,9 +20,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Abandoned House Cellar",
         "Hidell Plains",
-        "Tel's Withered Well"
+        "Hidell Plains: Abandoned House Cellar",
+        "Hidell Plains: Tel's Withered Well"
     ],
     "hunt": [],
     "subtype": "mushrooms"

@@ -33,6 +33,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Dowe Valley: Dreed Castle",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Northern Betland Plains: Knights' Old Storehouse"
+    ],
     "hunt": []
 }

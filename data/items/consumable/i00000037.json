@@ -29,6 +29,13 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Purified Water Section",
+        "Dowe Valley",
+        "Dowe Valley: Dreed Waterway Ruins",
+        "Mysree Forest: The Rift",
+        "Volden Mines",
+        "Volden Mines: Kinoza Flood Control Channel"
+    ],
     "hunt": []
 }

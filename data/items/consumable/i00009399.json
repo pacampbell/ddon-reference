@@ -33,6 +33,14 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Deenan Woods: Erte Deenan",
+        "Dowe Valley: Howling Wind Cave",
+        "Eastern Zandora: Old Capital Ruins",
+        "Northern Betland Plains",
+        "Northern Betland Plains: Gardnox Fortress",
+        "Northern Betland Plains: Knights' Old Storehouse",
+        "Volden Mines: Volden Large Tunnels"
+    ],
     "hunt": []
 }

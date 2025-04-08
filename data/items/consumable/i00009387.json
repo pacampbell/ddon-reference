@@ -37,6 +37,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Betland Cemetery",
+        "Deenan Woods: Divine Blossom Terrace"
+    ],
     "hunt": []
 }

@@ -33,6 +33,14 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Foul Water Channel",
+        "Betland Plains: Lakeside Cellar",
+        "Dowe Valley",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Dowe Valley: Catacombs",
+        "Dowe Valley: Cliff Tunnels",
+        "Hidell Plains: Hidell Catacombs Innermost Depths"
+    ],
     "hunt": []
 }

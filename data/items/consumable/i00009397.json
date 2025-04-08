@@ -33,6 +33,17 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains",
+        "Betland Plains: Betland Cemetery",
+        "Betland Plains: Temple of Purification",
+        "Dowe Valley: Catacombs",
+        "Dowe Valley: Dreed Castle",
+        "Dowe Valley: Howling Wind Cave",
+        "Dowe Valley: Underground Side Entrance",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Volden Mines: Bandit Hideaway",
+        "Volden Mines: Southern Wall Fissure"
+    ],
     "hunt": []
 }

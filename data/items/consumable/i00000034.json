@@ -29,6 +29,13 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Breya Coast",
+        "Hidell Plains",
+        "Mysree Forest",
+        "Mysree Forest: The Rift",
+        "Volden Mines",
+        "Volden Mines: Old Spring"
+    ],
     "hunt": []
 }

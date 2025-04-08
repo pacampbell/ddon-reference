@@ -33,6 +33,22 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains",
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Howling Wind Cave",
+        "Dowe Valley: Underground Side Entrance",
+        "Dowe Valley: Underground Stores",
+        "Eastern Zandora: Keening Well",
+        "Hidell Plains: Hidell Catacombs",
+        "Hidell Plains: Hidell Catacombs Depths",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Mysree Grove",
+        "Volden Mines",
+        "Volden Mines: Miners' Secret Route",
+        "Volden Mines: Southern Wall Fissure",
+        "Volden Mines: Summit Chapel",
+        "Volden Mines: Volden Narrow Tunnels"
+    ],
     "hunt": []
 }

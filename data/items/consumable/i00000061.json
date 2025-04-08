@@ -29,6 +29,14 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Breya Coast",
+        "Breya Coast: Seaside Cellar",
+        "Dowe Valley: Partly-Dug Well",
+        "Mysree Forest: Glowworm Cave",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Volden Mines",
+        "Volden Mines: Partly-Dug Well"
+    ],
     "hunt": []
 }

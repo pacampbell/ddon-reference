@@ -29,6 +29,19 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: The Second Ark",
+        "Breya Coast",
+        "Dowe Valley: Dreed Castle",
+        "Dowe Valley: Partly-Dug Well",
+        "Hidell Plains",
+        "Hidell Plains: Blocked Passage",
+        "Hidell Plains: Small Cave Tombs",
+        "Hidell Plains: The Ark",
+        "Mysree Forest",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Northern Betland Plains: Tegor Flood Control Channel",
+        "Volden Mines: Kinoza Flood Control Channel"
+    ],
     "hunt": []
 }

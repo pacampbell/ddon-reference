@@ -29,6 +29,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Hidell Plains",
+        "Hidell Plains: Abandoned House Cellar",
+        "Hidell Plains: Blocked Passage"
+    ],
     "hunt": []
 }

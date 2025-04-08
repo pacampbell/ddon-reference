@@ -33,6 +33,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: The Second Ark",
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Hidell Plains: The Ark's Lower Level: Storage"
+    ],
     "hunt": []
 }

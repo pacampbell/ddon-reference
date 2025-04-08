@@ -33,6 +33,14 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains",
+        "Deenan Woods",
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Le Karvas Lotana",
+        "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Volden Mines: Bandit Hideaway"
+    ],
     "hunt": []
 }

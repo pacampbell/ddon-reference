@@ -33,6 +33,12 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Ruins Cellar",
+        "Dowe Valley: Abandoned Underground Passage",
+        "Dowe Valley: Dreed Waterway Ruins",
+        "Dowe Valley: Sealed Old Well",
+        "Volden Mines: Summit Chapel"
+    ],
     "hunt": []
 }

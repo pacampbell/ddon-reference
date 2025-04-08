@@ -33,6 +33,12 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: War Demons' Hideout",
+        "Breya Coast: Roaring Tide Cave",
+        "Dowe Valley: Abandoned Boneyard",
+        "Mysree Grove: Sacred Spring Terrace",
+        "Northern Betland Plains: Underground Crypt"
+    ],
     "hunt": []
 }

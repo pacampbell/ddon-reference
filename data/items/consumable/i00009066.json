@@ -33,6 +33,13 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Deenan Woods: Le Karvas Salto",
+        "Deenan Woods: Sacred Tree Terrace",
+        "Deenan Woods: Sunset Terrace",
+        "Mysree Grove: Dark Green Terrace",
+        "Mysree Grove: Greenleaf Terrace",
+        "Mysree Grove: Sacred Spring Terrace"
+    ],
     "hunt": []
 }

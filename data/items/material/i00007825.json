@@ -32,11 +32,11 @@
         "Mysree Forest: Mysree Limestone Cave",
         "Mysree Forest: Glowworm Cave",
         "Mysree Grove",
-	"Northern Betland Plains",
+        "Northern Betland Plains",
         "Volden Mines",
         "Volden Mines: Kinoza Mineral Springs",
-	"Volden Mines: Southern Wall Fissure",
-	"Volden Mines: Village's Abandoned Well"
+        "Volden Mines: Southern Wall Fissure",
+        "Volden Mines: Village's Abandoned Well"
     ],
     "hunt": [],
     "subtype": "liquids"

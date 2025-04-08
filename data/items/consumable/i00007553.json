@@ -33,6 +33,21 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Purified Water Section",
+        "Betland Plains: Ruins Cellar",
+        "Betland Plains: Temple of Purification",
+        "Deenan Woods: Blue Waterway",
+        "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Moonlight Terrace",
+        "Deenan Woods: Sacred Tree Terrace",
+        "Dowe Valley",
+        "Dowe Valley: Cliff Tunnels",
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Mysree Grove: Sacred Spring Terrace",
+        "Volden Mines: Bandit Hideaway",
+        "Volden Mines: Volden Large Tunnels",
+        "Zandora Wastelands: Old Underground Laboratory"
+    ],
     "hunt": []
 }

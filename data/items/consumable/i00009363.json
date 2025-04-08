@@ -33,6 +33,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Eastern Zandora: Lighthouse Underground Stores",
+        "Eastern Zandora: Old Capital Ruins",
+        "Northern Betland Plains: Decaying Well"
+    ],
     "hunt": []
 }

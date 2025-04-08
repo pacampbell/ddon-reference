@@ -33,6 +33,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains"
+    ],
     "hunt": []
 }

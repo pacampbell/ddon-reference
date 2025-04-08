@@ -33,6 +33,12 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Sacred Tree Terrace",
+        "Dowe Valley: Cesspool",
+        "Mysree Grove",
+        "Volden Mines: Kinoza Mineral Springs"
+    ],
     "hunt": []
 }

@@ -37,6 +37,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Moonlight Terrace",
+        "Northern Betland Plains: Tegor Flood Control Channel"
+    ],
     "hunt": []
 }

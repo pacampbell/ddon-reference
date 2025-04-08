@@ -33,6 +33,13 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Foul Water Channel",
+        "Dowe Valley: Cesspool",
+        "Dowe Valley: Knights' Old Guardhouse",
+        "Mysree Forest: Lynwood Underground Waterway",
+        "Northern Betland Plains: Knights' Old Storehouse",
+        "Northern Betland Plains: Tegor Flood Control Channel"
+    ],
     "hunt": []
 }

@@ -29,6 +29,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Deenan Woods: Le Karvas Lotana",
+        "Eastern Zandora: Keening Well"
+    ],
     "hunt": []
 }

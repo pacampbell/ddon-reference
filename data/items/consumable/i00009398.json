@@ -33,6 +33,15 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains",
+        "Betland Plains: North Drainage Channel",
+        "Deenan Woods",
+        "Dowe Valley: Abandoned Boneyard",
+        "Dowe Valley: Partly-Dug Well",
+        "Eastern Zandora: Lighthouse Underground Stores",
+        "Eastern Zandora: Temple of Purification: South Chamber",
+        "Mysree Forest: Mysree Limestone Cave"
+    ],
     "hunt": []
 }

@@ -33,6 +33,19 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains",
+        "Betland Plains: Knights' Old Route",
+        "Betland Plains: Temple of Purification",
+        "Deenan Woods: Deep Water's Edge",
+        "Dowe Valley",
+        "Dowe Valley: Dreed Drainage Channels",
+        "Eastern Zandora: Temple of Purification: South Chamber",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Mysree Grove",
+        "Northern Betland Plains: Underground Crypt",
+        "Volden Mines: Miners' Secret Route",
+        "Volden Mines: Southern Wall Fissure"
+    ],
     "hunt": []
 }

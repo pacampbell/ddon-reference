@@ -33,6 +33,12 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Dowe Valley",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Volden Mines: Volden Large Tunnels",
+        "Volden Mines: Volden Narrow Tunnels"
+    ],
     "hunt": []
 }

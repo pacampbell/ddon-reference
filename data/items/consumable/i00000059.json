@@ -29,6 +29,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Breya Coast: Seaside Cellar",
+        "Hidell Plains: Small Cave Tombs",
+        "Hidell Plains: The Ark"
+    ],
     "hunt": []
 }

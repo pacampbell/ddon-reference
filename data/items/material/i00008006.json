@@ -35,7 +35,9 @@
     "gather": [
         "Mysree Forest: Glowworm Cave",
         "Mysree Grove: Sacred Spring Terrace",
-        "Volden Mines: Volden Narrow Tunnels"
+        "Volden Mines: Volden Narrow Tunnels",
+	"Morrow Forest: Morrow Cavern",
+	"Morrow Forest: Morrow Cavern Depths" 
     ],
     "hunt": [],
     "subtype": "scrolls"

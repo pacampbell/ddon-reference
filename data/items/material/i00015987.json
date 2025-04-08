@@ -20,8 +20,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Kingal Canyon: Dancing Circle",
-        "Kingal Canyon: Kingal Canyon"
+        "Kingal Canyon",
+        "Kingal Canyon: Dancing Circle"
     ],
     "hunt": [],
     "subtype": "regional"

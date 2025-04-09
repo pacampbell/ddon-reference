@@ -20,8 +20,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle",
         "Eastern Zandora",
         "Eastern Zandora: Old Capital Ruins",
+        "Eastern Zandora: Old Capital Ruins (East Side)",
         "Eastern Zandora: Water Channel Ruins"
     ],
     "hunt": [],

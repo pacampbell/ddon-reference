@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7883,
     "name": "Bornite Ingot",
     "info": "Metal Crafting Material: A lump of metal\ncontaining green copper, which is found in rock\nscales.",
@@ -32,6 +33,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Elan Water Grove: Jungle Limestone Caves",
+        "Elan Water Grove: Jungle Limestone Caves Depths"
+    ],
     "hunt": []
 }

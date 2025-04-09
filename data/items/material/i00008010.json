@@ -33,8 +33,14 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle: Dried Well by the Tower",
         "Breya Coast: Roaring Tide Cave",
         "Deenan Woods: Blue Waterway",
+        "Elan Water Grove: Dancing Rainbow Cave",
+        "Morrow Forest: Invading Demons Cave Center Passage",
+        "Morrow Forest: Morrow Cavern",
+        "Mysree Forest: Ancient Burial Mound: Chamber of Hunting",
+        "Mysree Forest: Ancient Burial Mound: Chamber of Immortality",
         "Zandora Wastelands: Mergoda Flood Channels"
     ],
     "hunt": [],

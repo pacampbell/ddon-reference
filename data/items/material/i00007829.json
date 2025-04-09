@@ -21,16 +21,20 @@
     "shops": [],
     "gather": [
         "Betland Plains: Betland Cemetery",
-        "Betland Plains: Betland Cemetery",
+        "Bloodbane Isle: Picturesque Grotto",
         "Breya Coast: Roaring Tide Cave",
         "Deenan Woods",
         "Deenan Woods: Deep Water's Edge",
         "Deenan Woods: Forest People's Tunnel",
         "Deenan Woods: Le Karvas Arma",
+        "Dowe Valley: Abandoned Underground Passage",
         "Dowe Valley: Howling Wind Cave",
+        "Dowe Valley: Partly-Dug Well",
         "Dowe Valley: Valley Chapel",
+        "Hidell Plains: The Ark's Lower Level: Storage",
         "Northern Betland Plains: Decaying Well",
-        "Volden Mines: Bandit Hideaway"
+        "Volden Mines: Bandit Hideaway",
+        "Zandora Wastelands: Neophyte's Cellar"
     ],
     "hunt": [],
     "subtype": "liquids"

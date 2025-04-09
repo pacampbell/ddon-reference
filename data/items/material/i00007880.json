@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7880,
     "name": "Mithril Ingot",
     "info": "Metal Crafting Material:\nA chunk of mithril refined from mithril ore.",
@@ -32,6 +33,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Bloodbane Isle: Picturesque Grotto",
+        "Eastern Zandora: Dead Lord's Labyrinth"
+    ],
     "hunt": []
 }

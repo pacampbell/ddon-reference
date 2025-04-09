@@ -19,7 +19,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Dowe Valley: Cesspool"
+    ],
     "hunt": [
         "Level 1+ Killer Bee",
         "Level 1+ Leech",

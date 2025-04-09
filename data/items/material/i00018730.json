@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 18730,
     "name": "Unappraised Snow Trinket (Soldier)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
@@ -19,6 +20,14 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Rathnite Foothills: Cave of Hell's Descent Inner Depths",
+        "Rathnite Foothills: Dacreim Fortress",
+        "Rathnite Foothills: Lakeside Grotto",
+        "Rathnite Foothills: Rathnite Underground Waterway",
+        "Rathnite Foothills: Reservoir Underground Tunnel",
+        "Rathnite Foothills: Ulta Ancient Watercourse",
+        "Rathnite Foothills: Yimidhitt Ruins"
+    ],
     "hunt": []
 }

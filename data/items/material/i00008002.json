@@ -20,10 +20,16 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: North Drainage Channel",
+        "Breya Coast",
         "Breya Coast: Seaside Cellar",
         "Deenan Woods: Blue Waterway",
+        "Deenan Woods: Le Karvas Salto",
+        "Deenan Woods: Sunset Terrace",
         "Dowe Valley: Dreed Castle",
         "Hidell Plains",
+        "Mergoda Ruins: Mergodan Residence (Mergoda Ruins: Lower Level)",
+        "Mysree Forest: Lynwood Underground Waterway",
         "Mysree Forest: Old Waterhole"
     ],
     "hunt": [

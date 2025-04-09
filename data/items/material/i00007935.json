@@ -29,14 +29,19 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Elan Water Grove: Path to Morrow",
         "Farana Plains",
         "Farana Plains: Danandell Cave",
+        "Farana Plains: Danandell Cave Depths",
         "Farana Plains: Farana Ruins",
+        "Farana Plains: Farana Ruins Depths",
         "Farana Plains: Magusas Ancient Watercourse",
         "Hidell Plains: Hidell Catacombs",
         "Hidell Plains: Hidell Catacombs Depths",
         "Kingal Canyon: Grinmel Ruins",
-        "Kingal Canyon: Nebula Temple"
+        "Kingal Canyon: Grinmel Ruins Center Depths",
+        "Kingal Canyon: Nebula Temple",
+        "Kingal Canyon: Nebula Temple: Center"
     ],
     "hunt": [],
     "subtype": "fabric"

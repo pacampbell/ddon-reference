@@ -25,8 +25,11 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Hidell Plains: The Foreigner's Underground Tomb",
         "Kingal Canyon: Nebula Temple",
-        "Kingal Canyon: Shadolean Great Temple"
+        "Kingal Canyon: Nebula Temple Depths",
+        "Kingal Canyon: Shadolean Great Temple",
+        "Kingal Canyon: Shadolean Great Temple: Center"
     ],
     "hunt": [],
     "subtype": "unappraised jewelry"

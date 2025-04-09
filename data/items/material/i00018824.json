@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 18824,
     "name": "Unappraised Flight Trinket (Emperor)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",

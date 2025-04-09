@@ -21,9 +21,17 @@
     "shops": [],
     "gather": [
         "Breya Coast: Roaring Tide Cave",
+        "Deenan Woods: Divine Blossom Terrace",
         "Dowe Valley: Abandoned Underground Passage",
         "Dowe Valley: Catacombs",
-        "Hidell Plains: Hidell Catacombs Innermost Depths"
+        "Farana Plains: Small Tower of Wisdom",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Kingal Canyon: Ancient Underground Shrine",
+        "Kingal Canyon: Ancient Underground Shrine Innermost Depths",
+        "Mysree Forest: Mysree Limestone Cave",
+        "Mysree Grove: Forest Ruins Cellar",
+        "Mysree Grove: Lair of the Holy Beast",
+        "Mysree Grove: Sacred Spring Terrace"
     ],
     "hunt": [
         "Level 1+ Ghost",

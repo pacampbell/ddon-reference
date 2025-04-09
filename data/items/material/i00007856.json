@@ -20,10 +20,16 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Breya Coast",
         "Dowe Valley: Abandoned Boneyard",
         "Dowe Valley: Fort's Old Well",
+        "Dowe Valley: Underground Side Entrance",
+        "Mysree Forest: Lynwood Underground Waterway",
         "Volden Mines",
-        "Volden Mines: Southern Wall Fissure"
+        "Volden Mines: Bandit Hideaway",
+        "Volden Mines: Miners' Secret Route",
+        "Volden Mines: Southern Wall Fissure",
+        "Volden Mines: Volden Narrow Tunnels"
     ],
     "hunt": [],
     "subtype": "ore"

@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Other",
     "item_id": 17902,
     "name": "Demonic Slasher Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Demon Slayer\" to weapons.",
@@ -32,6 +33,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Rathnite Foothills: Feryana Border Checkpoint"
+    ],
     "hunt": []
 }

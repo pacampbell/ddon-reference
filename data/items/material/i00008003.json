@@ -33,7 +33,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Hidell Plains: Hidell Catacombs Innermost Depths"
+        "Elan Water Grove: Elan Quarry Cave",
+        "Farana Plains: Valtable Hall",
+        "Hidell Plains: Hidell Catacombs",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Kingal Canyon: Hadin Underground Old Road",
+        "Kingal Canyon: Hadin Underground Old Road: Center"
     ],
     "hunt": [],
     "subtype": "scrolls"

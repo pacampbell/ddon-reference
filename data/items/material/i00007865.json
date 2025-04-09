@@ -20,9 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Breya Coast",
         "Dowe Valley",
+        "Eastern Zandora: Lakebottom Connecting Passage",
         "Hidell Plains: Blocked Passage",
-        "Volden Mines"
+        "Mysree Forest: Demon's Den",
+        "Volden Mines",
+        "Volden Mines: Kinoza Flood Control Channel"
     ],
     "hunt": [],
     "subtype": "ore"

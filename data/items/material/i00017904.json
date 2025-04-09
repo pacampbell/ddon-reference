@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Other",
     "item_id": 17904,
     "name": "Undead Destroyer Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Undead Slayer\" to weapons.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Feryana Wilderness: Wailing Wetland"
+    ],
     "hunt": []
 }

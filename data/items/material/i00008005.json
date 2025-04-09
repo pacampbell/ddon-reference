@@ -33,7 +33,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Elan Water Grove: Dancing Rainbow Cave",
+        "Elan Water Grove: Dancing Rainbow Cave Depths",
         "Hidell Plains: Hidell Catacombs",
+        "Morrow Forest: Invading Demons Cave Center Passage",
+        "Morrow Forest: Morrow Cavern",
+        "Morrow Forest: Morrow Cavern Depths",
         "Mysree Grove: Sacred Spring Terrace"
     ],
     "hunt": [],

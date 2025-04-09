@@ -33,8 +33,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle: Frigid Ancient Passage",
         "Bloodbane Isle: Infected Den Depths",
-        "Deenan Woods: Sunset Terrace"
+        "Deenan Woods: Sunset Terrace",
+        "Mysree Forest: Mysree Limestone Cave"
     ],
     "hunt": [],
     "subtype": "thread"

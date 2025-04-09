@@ -33,11 +33,11 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Morrow Forest: Morrow Cavern",
+        "Morrow Forest: Morrow Cavern Depths",
         "Mysree Forest: Glowworm Cave",
         "Mysree Grove: Sacred Spring Terrace",
-        "Volden Mines: Volden Narrow Tunnels",
-        "Morrow Forest: Morrow Cavern",
-        "Morrow Forest: Morrow Cavern Depths"
+        "Volden Mines: Volden Narrow Tunnels"
     ],
     "hunt": [],
     "subtype": "scrolls"

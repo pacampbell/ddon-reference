@@ -20,9 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: Betland Underground Passage",
+        "Betland Plains: Temple of Purification",
         "Dowe Valley",
+        "Dowe Valley: Dreed Drainage Channels",
         "Dowe Valley: Knights' Old Guardhouse",
         "Dowe Valley: Valley Chapel",
+        "Volden Mines",
         "Volden Mines: Bandit Hideaway"
     ],
     "hunt": [

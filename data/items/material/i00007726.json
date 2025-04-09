@@ -21,10 +21,16 @@
     "shops": [],
     "gather": [
         "Betland Plains: Balcony",
+        "Betland Plains: Dry Underground Stores",
         "Deenan Woods: Sunset Terrace",
         "Eastern Zandora: Lakebottom Connecting Passage",
         "Eastern Zandora: Lighthouse Underground Stores",
-        "Eastern Zandora: Temple of Purification South Chamber"
+        "Eastern Zandora: Old Capital Ruins (East Side)",
+        "Eastern Zandora: Ruins Site Cellar (Eastern Zandora)",
+        "Eastern Zandora: Temple of Purification: South Chamber",
+        "Mysree Forest: Ancient Burial Mound: Chamber of Hunting",
+        "Mysree Forest: Ancient Burial Mound: Chamber of Immortality",
+        "Northern Betland Plains: Knights' Old Storehouse"
     ],
     "hunt": [
         "Level 35+ Ox"

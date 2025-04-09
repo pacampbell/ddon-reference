@@ -20,7 +20,18 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Megadosys Plateau"
+        "Bloodbane Isle: Sage Tower Ruins",
+        "Farana Plains: Tarie Small Tower",
+        "Megadosys Plateau",
+        "Megadosys Plateau: Abhorrent territory",
+        "Megadosys Plateau: Firefall Mountain Eroded Rock",
+        "Megadosys Plateau: Fortress City Megado: Royal Palace Level",
+        "Megadosys Plateau: Hidden Waterway to Megado",
+        "Megadosys Plateau: Megado Corridor",
+        "Megadosys Plateau: Megado Water Supply Network",
+        "Megadosys Plateau: Megadosys Old Road",
+        "Megadosys Plateau: Quiet Concealed Cave",
+        "Megadosys Plateau: Shrine of Combat"
     ],
     "hunt": [],
     "subtype": "ore"

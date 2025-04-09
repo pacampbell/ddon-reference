@@ -25,7 +25,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Farana Plains: Magusas Ancient Watercourse"
+        "Farana Plains: Magusas Ancient Watercourse",
+        "Farana Plains: Magusas Ancient Watercourse: Wastewater Processing Site"
     ],
     "hunt": [],
     "subtype": "regional"

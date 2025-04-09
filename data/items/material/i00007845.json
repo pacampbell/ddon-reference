@@ -20,7 +20,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Breya Coast: Lighthouse Old Well"
+        "Breya Coast: Lighthouse Old Well",
+        "Elan Water Grove: Jungle Limestone Caves",
+        "Elan Water Grove: Jungle Limestone Caves Depths",
+        "Mysree Forest"
     ],
     "hunt": [
         "Level 1+ Mudman"

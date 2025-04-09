@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7873,
     "name": "Copper Ingot",
     "info": "Metal Crafting Material:\nA chunk of copper refined from copper ore.",
@@ -28,6 +29,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Elan Water Grove: Jungle Limestone Caves Depths",
+        "Elan Water Grove: Path to Morrow"
+    ],
     "hunt": []
 }

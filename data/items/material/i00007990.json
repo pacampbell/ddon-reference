@@ -20,13 +20,17 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle: Cesspool of Filth",
         "Breya Coast: Moltova Ruins",
         "Deenan Woods",
         "Deenan Woods: Erte Deenan",
+        "Deenan Woods: Le Karvas Salto",
         "Deenan Woods: Sacred Tree Terrace",
         "Dowe Valley: Abandoned Underground Passage",
         "Eastern Zandora",
         "Mergoda Ruins: Mergoda Ruins Lower Level",
+        "Mysree Grove",
+        "Northern Betland Plains",
         "Zandora Wastelands"
     ],
     "hunt": [],

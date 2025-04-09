@@ -20,7 +20,15 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Feryana Wilderness"
+        "Feryana Wilderness",
+        "Feryana Wilderness: Army Demon Bird's Checkpoint",
+        "Feryana Wilderness: Army Demon's Patrol Ground",
+        "Feryana Wilderness: Demon Army Relay Station",
+        "Feryana Wilderness: Farthest Bank",
+        "Feryana Wilderness: Gate Camp",
+        "Feryana Wilderness: Ogina's Domination Area",
+        "Feryana Wilderness: Silver Hermit's Stronghold",
+        "Feryana Wilderness: Wailing Wetland"
     ],
     "hunt": [],
     "subtype": "ingots"

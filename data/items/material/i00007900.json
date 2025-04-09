@@ -20,10 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: Betland Cemetery",
         "Deenan Woods: Fairy's Withered Well",
         "Deenan Woods: Le Karvas Arma",
         "Dowe Valley: Dreed Castle",
-        "Mysree Grove: Sacred Spring Terrace"
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Mysree Grove: Sacred Spring Terrace",
+        "Volden Mines: Bandit Hideaway"
     ],
     "hunt": [
         "Level 1+ Ruby Eye",

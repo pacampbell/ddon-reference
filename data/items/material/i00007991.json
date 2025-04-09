@@ -20,8 +20,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle",
         "Bloodbane Isle: Fungal Colony Caves",
-        "Mysree Forest"
+        "Mysree Forest",
+        "Mysree Forest: Glowworm Cave"
     ],
     "hunt": [],
     "subtype": "grasses herbs and flowers"

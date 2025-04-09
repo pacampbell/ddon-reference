@@ -19,7 +19,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Volden Mines: Volden Large Tunnels"
+    ],
     "hunt": [
         "Level 1+ Rock Saurian",
         "Level 1+ Rock Saurian Spinel"

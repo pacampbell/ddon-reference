@@ -25,13 +25,22 @@
         "Deenan Woods: Deep Water's Edge",
         "Deenan Woods: Forest People's Tunnel",
         "Deenan Woods: Sunset Terrace",
+        "Dowe Valley: Catacombs",
         "Dowe Valley: Howling Wind Cave",
+        "Dowe Valley: Partly-Dug Well",
         "Eastern Zandora",
         "Eastern Zandora: Empty Chapel",
+        "Eastern Zandora: Ruins Site Cellar (Eastern Zandora)",
         "Hidell Plains",
         "Hidell Plains: Hidell Catacombs Depths",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Morrow Forest: Sauzanel Infected Woods",
         "Mysree Forest: Mysree Limestone Cave",
-        "Zandora Wastelands: Mergoda Flood Channels"
+        "Mysree Grove: Sacred Spring Terrace",
+        "Northern Betland Plains: Knights' Old Storehouse",
+        "Volden Mines: Volden Large Tunnels",
+        "Zandora Wastelands: Mergoda Flood Channels",
+        "Zandora Wastelands: Old Underground Laboratory"
     ],
     "hunt": [],
     "subtype": "ore"

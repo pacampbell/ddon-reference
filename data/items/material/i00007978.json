@@ -20,9 +20,14 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Northern Betland Plains: Common Waterhole",
+        "Betland Plains",
+        "Deenan Woods: Moonlight Terrace",
+        "Dowe Valley",
         "Dowe Valley: Sealed Old Well",
-        "Hidell Plains: Hidell Catacombs Depths"
+        "Hidell Plains: Hidell Catacombs Depths",
+        "Northern Betland Plains",
+        "Northern Betland Plains: Common Waterhole",
+        "Northern Betland Plains: Gardnox Fortress"
     ],
     "hunt": [],
     "subtype": "grasses herbs and flowers"

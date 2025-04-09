@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Other",
     "item_id": 17898,
     "name": "Victorious Chance Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds Chance Attack to weapons.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Morrow Forest: Dark Woods Great Depths"
+    ],
     "hunt": []
 }

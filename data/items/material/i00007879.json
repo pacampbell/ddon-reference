@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7879,
     "name": "Red Chromium",
     "info": "Metal Crafting Material:\nA chunk of metal strengthened with a base of\nHematite.",
@@ -32,6 +33,11 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Farana Plains: Small Tower of Wisdom",
+        "Kingal Canyon: Ancient Underground Shrine 2nd Floor",
+        "Kingal Canyon: Ancient Underground Shrine Innermost Depths",
+        "Kingal Canyon: Shadolean Great Temple"
+    ],
     "hunt": []
 }

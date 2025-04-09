@@ -19,7 +19,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Hidell Plains: The Third Ark"
+    ],
     "hunt": [
         "Level 1+ Alchemised Harpy",
         "Level 50+ Alchemised Goblin",

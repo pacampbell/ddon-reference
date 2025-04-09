@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 19645,
     "name": "Demon Expeller Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Fiend Slayer\" to weapons.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Feryana Wilderness: Silver Hermit's Stronghold"
+    ],
     "hunt": []
 }

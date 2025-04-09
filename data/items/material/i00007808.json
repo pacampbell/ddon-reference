@@ -52,7 +52,13 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Breya Coast",
+        "Deenan Woods: Heavenly Terrace",
+        "Deenan Woods: Stream Alley",
+        "Eastern Zandora: Mysterious Mausoleum",
+        "Mysree Forest: Ancient Burial Mound"
+    ],
     "hunt": [
         "Level 1+ Empress Ghost"
     ],

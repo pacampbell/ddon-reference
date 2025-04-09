@@ -21,9 +21,16 @@
     "shops": [],
     "gather": [
         "Betland Plains: Betland Cemetery",
+        "Betland Plains: North Drainage Channel",
+        "Betland Plains: Purified Water Section",
+        "Betland Plains: Temple of Purification",
         "Deenan Woods",
+        "Mergoda Ruins: An Alchemist's Home",
+        "Mergoda Ruins: Elixir Refining Chamber",
         "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
-        "Northern Betland Plains"
+        "Northern Betland Plains",
+        "Northern Betland Plains: Decaying Well",
+        "Zandora Wastelands: Ruins Site Cellar (Zandora Wastelands)"
     ],
     "hunt": [],
     "subtype": "liquids"

@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 21244,
     "name": "Spirit Purifier Stone Shard",
     "info": "Fragments of a forged stone made from a special\nmaterial.\nWhen combined in item crafting, it becomes a\ncrafting material that adds additional stats.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Megadosys Plateau: Isolated Beach"
+    ],
     "hunt": []
 }

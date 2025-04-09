@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7888,
     "name": "Red Alloy Ingot",
     "info": "Metal Crafting Material: Red metal ingot\nsynthesized with lava rock to create a\ncrimson-colored metal.",
@@ -32,6 +33,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Farana Plains: Small Tower of Wisdom"
+    ],
     "hunt": []
 }

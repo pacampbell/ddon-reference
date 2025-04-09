@@ -20,10 +20,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Breya Coast",
         "Breya Coast: Lighthouse Old Well",
         "Hidell Plains: Hidell Catacombs",
         "Hidell Plains: Small Cave Tombs",
-        "Hidell Plains: The Ark"
+        "Hidell Plains: The Ark",
+        "Mysree Forest"
     ],
     "hunt": [
         "Level 1+ Redcap",

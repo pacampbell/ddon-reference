@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7875,
     "name": "Silver Ingot",
     "info": "Metal Crafting Material:\nA chunk of silver refined from silver ore.",
@@ -28,6 +29,12 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Farana Plains: Small Tower of Wisdom",
+        "Hidell Plains: Hidell Catacombs Innermost Depths",
+        "Kingal Canyon: Ancient Underground Shrine 2nd Floor",
+        "Kingal Canyon: Ancient Underground Shrine Innermost Depths",
+        "Morrow Forest: Sauzanel Infected Woods"
+    ],
     "hunt": []
 }

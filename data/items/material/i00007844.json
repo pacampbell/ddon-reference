@@ -20,7 +20,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Mysree Forest"
+        "Breya Coast",
+        "Hidell Plains: Hidell Catacombs",
+        "Mysree Forest",
+        "Volden Mines"
     ],
     "hunt": [],
     "subtype": "sand"

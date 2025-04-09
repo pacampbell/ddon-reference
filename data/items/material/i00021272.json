@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "ingots",
     "item_id": 21272,
     "name": "Old Brick Material",
     "info": "Miscellaneous Crafting Material:\nBricks that are widely used in Acre Selund.\nOld ones were made using a unique method and are\nparticularly strong.",
@@ -19,6 +20,15 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Ancestral Territory",
+        "Urteca Mountains: Cave of Suffering",
+        "Urteca Mountains: Construction Material Depot",
+        "Urteca Mountains: Pool of Inextinguishable Flames",
+        "Urteca Mountains: Primordial settlement",
+        "Urteca Mountains: Pyre Saurian Colony",
+        "Urteca Mountains: Silent Resistance Battle Site",
+        "Urteca Mountains: Skygazing Spot"
+    ],
     "hunt": []
 }

@@ -25,7 +25,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Farana Plains: Farana Ruins"
+        "Farana Plains: Farana Ruins",
+        "Farana Plains: Farana Ruins Depths"
     ],
     "hunt": [],
     "subtype": "regional"

@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 21249,
     "name": "Cursed Exorciser Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Cursed Slayer\" to weapons.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Megadosys Plateau: Jikei's Funeral Parlor"
+    ],
     "hunt": []
 }

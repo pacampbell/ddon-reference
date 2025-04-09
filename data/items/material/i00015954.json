@@ -20,7 +20,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Farana Plains"
+        "Farana Plains",
+        "Kingal Canyon"
     ],
     "hunt": [],
     "subtype": "liquids"

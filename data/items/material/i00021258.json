@@ -20,7 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Urteca Mountains"
+        "Urteca Mountains",
+        "Urteca Mountains: Crumbling Entrance Path",
+        "Urteca Mountains: Megado Detached Palace",
+        "Urteca Mountains: Silent Resistance Battle Site",
+        "Urteca Mountains: The Burial Chamber of the Unmourned",
+        "Urteca Mountains: The Royal Family Mausoleum",
+        "Urteca Mountains: Western Urteca Mountains"
     ],
     "hunt": [],
     "subtype": "ore"

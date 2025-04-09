@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Unappraised",
     "item_id": 13488,
     "name": "Unappraised Wind Trinket (General)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
@@ -24,6 +25,11 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Farana Plains: Small Tower of Wisdom",
+        "Farana Plains: Thalati Waterway",
+        "Hidell Plains: The Foreigner's Tower",
+        "Kingal Canyon: Shadolean Great Temple"
+    ],
     "hunt": []
 }

@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Ingots",
     "item_id": 7876,
     "name": "Bronze Ingot",
     "info": "Metal Crafting Material:\nA chunk of bronze refined from bronze ore.",
@@ -28,6 +29,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Hidell Plains: Hidell Catacombs"
+    ],
     "hunt": []
 }

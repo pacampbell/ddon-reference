@@ -19,7 +19,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Feryana Wilderness: Restless Water Channel",
+        "Feryana Wilderness: Royal Family's Secret Path"
+    ],
     "hunt": [
         "Level 1+ Skeleton Cyclops"
     ],

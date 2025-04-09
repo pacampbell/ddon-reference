@@ -33,7 +33,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Betland Plains: Betland Cemetery"
+        "Betland Plains: Betland Cemetery",
+        "Kingal Canyon: Hadin Underground Old Road Depths",
+        "Kingal Canyon: Hadin Underground Old Road: Center",
+        "Mysree Forest: Ancient Burial Mound: Chamber of Hunting"
     ],
     "hunt": [],
     "subtype": "scrolls"

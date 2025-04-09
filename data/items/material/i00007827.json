@@ -20,7 +20,10 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Mysree Forest: Lynwood Underground Waterway"
+        "Bloodbane Isle: Picturesque Grotto",
+        "Dowe Valley: Knights' Old Guardhouse",
+        "Mysree Forest: Lynwood Underground Waterway",
+        "Volden Mines"
     ],
     "hunt": [],
     "subtype": "liquids"

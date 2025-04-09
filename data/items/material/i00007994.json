@@ -20,7 +20,11 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Mysree Forest"
+        "Bloodbane Isle",
+        "Hidell Plains",
+        "Hidell Plains: Small Cave Tombs",
+        "Mysree Forest",
+        "Mysree Grove"
     ],
     "hunt": [],
     "subtype": "mushrooms"

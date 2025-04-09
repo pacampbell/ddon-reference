@@ -20,9 +20,18 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains",
         "Betland Plains: Temple of Purification",
+        "Bloodbane Isle: Frigid Ancient Passage",
         "Deenan Woods: Le Karvas Arma",
         "Deenan Woods: Le Karvas Salto",
+        "Elan Water Grove: Old Ferryman's Haunt",
+        "Elan Water Grove: Old Ferryman's Haunt Innermost Depths",
+        "Elan Water Grove: Old Ferryman's Haunt: Central Square",
+        "Elan Water Grove: Old Ferryman's Haunt: Depths Passage",
+	"Farana Plains: Sacred River Ruins",
+        "Kingal Canyon: Ancient Underground Shrine 2nd Floor",
+        "Mysree Grove: Bower Old Well",
         "Mysree Grove: Greenleaf Terrace"
     ],
     "hunt": [],

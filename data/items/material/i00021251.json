@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "Other",
     "item_id": 21251,
     "name": "Corrupted Sealer Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"Corrupted Slayer\" to weapons.",
@@ -19,6 +20,10 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Bloodbane Isle",
+        "Farana Plains: Tarie Small Tower",
+        "Megadosys Plateau: Captive Interrogation Prison"
+    ],
     "hunt": []
 }

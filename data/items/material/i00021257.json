@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "lumber",
     "item_id": 21257,
     "name": "Petrified Wood",
     "info": "Wood Crafting Material: A part of petrified wood.",
@@ -19,6 +20,16 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Cave of Rest",
+        "Urteca Mountains: Construction Material Depot",
+        "Urteca Mountains: Crumbling Entrance Path",
+        "Urteca Mountains: Eastern Urteca Mountains",
+        "Urteca Mountains: Megado Detached Palace",
+        "Urteca Mountains: Northern Urteca Mountains",
+        "Urteca Mountains: Primordial settlement",
+        "Urteca Mountains: The Burial Chamber of the Unmourned",
+        "Urteca Mountains: The Royal Family Mausoleum"
+    ],
     "hunt": []
 }

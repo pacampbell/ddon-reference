@@ -20,8 +20,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: Balcony",
+        "Betland Plains: Purified Water Section",
         "Betland Plains: Temple of Purification",
-        "Eastern Zandora: Shrine of Resentment"
+        "Eastern Zandora: Shrine of Resentment",
+        "Farana Plains: Small Tower of Wisdom",
+        "Kingal Canyon: Ancient Underground Shrine"
     ],
     "hunt": [],
     "subtype": "ore"

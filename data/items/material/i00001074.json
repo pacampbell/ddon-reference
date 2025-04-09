@@ -19,7 +19,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Mysree Forest: Lynwood Underground Waterway"
+    ],
     "hunt": [
         "Level 1+ Pig",
         "Level 1+ Rabbit",

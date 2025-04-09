@@ -21,7 +21,9 @@
     "shops": [
         "Dominion Point Shop"
     ],
-    "gather": [],
+    "gather": [
+        "Feryana Wilderness: Jifule Fortress"
+    ],
     "hunt": [],
     "subtype": "bones"
 }

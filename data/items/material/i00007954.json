@@ -33,9 +33,11 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Breya Coast: Roaring Tide Cave",
         "Dowe Valley",
-        "Volden Mines: Volden Narrow Tunnels",
-        "Volden Mines: Southern Wall Fissure"
+        "Hidell Plains: Hidell Catacombs Depths",
+        "Volden Mines: Southern Wall Fissure",
+        "Volden Mines: Volden Narrow Tunnels"
     ],
     "hunt": [],
     "subtype": "thread"

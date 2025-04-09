@@ -20,10 +20,16 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: The Second Ark",
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Hidell Plains: The Ark",
         "Hidell Plains: The Third Ark",
         "Mergoda Ruins: An Alchemist's Home",
+        "Mergoda Ruins: Elixir Refining Chamber",
         "Mergoda Ruins: Mergoda Ruins Lower Level",
-        "Zandora Wastelands: Mergoda Security District"
+        "Mergoda Ruins: Mergodan Residence (Royal Palace Level)",
+        "Zandora Wastelands: Mergoda Security District",
+        "Zandora Wastelands: Sage's Old Well"
     ],
     "hunt": [
         "Level 1+ Alchemised Goblin",

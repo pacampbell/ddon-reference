@@ -26,8 +26,13 @@
         "Feryana Wilderness: Jikei's Funeral Parlor",
         "Feryana Wilderness: Nilviris Bridge Checkpoint",
         "Megadosys Plateau: Abhorrent territory",
+        "Megadosys Plateau: Beast Training Ground",
+        "Megadosys Plateau: Captive Interrogation Prison",
+        "Megadosys Plateau: Demon Army Standby Spot",
         "Megadosys Plateau: Firefall Mountain Eroded Rock",
-        "Megadosys Plateau: Isolated Beach"
+        "Megadosys Plateau: Isolated Beach",
+        "Megadosys Plateau: Jikei's Funeral Parlor",
+        "Megadosys Plateau: Nilviris Bridge Checkpoint"
     ],
     "hunt": [],
     "subtype": "regional"

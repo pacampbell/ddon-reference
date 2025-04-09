@@ -20,7 +20,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Mergoda Ruins: An Alchemist's Home"
+        "Mergoda Ruins: An Alchemist's Home",
+        "Zandora Wastelands: Ancient Underground Channels"
     ],
     "hunt": [],
     "subtype": "liquids"

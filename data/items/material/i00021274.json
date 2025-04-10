@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "plants",
     "item_id": 21274,
     "name": "Ancient Wheat Ear",
     "info": "Floral Crafting Material: An ear of ancient\nwheat, believed to have been brought in the past\nand established deep in the cave.",
@@ -12,13 +13,15 @@
     "weight": 0,
     "item_level": 110,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Cave of Rest"
+    ],
     "hunt": []
 }

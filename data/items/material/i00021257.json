@@ -13,7 +13,7 @@
     "weight": 0,
     "item_level": 110,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
@@ -27,7 +27,7 @@
         "Urteca Mountains: Eastern Urteca Mountains",
         "Urteca Mountains: Megado Detached Palace",
         "Urteca Mountains: Northern Urteca Mountains",
-        "Urteca Mountains: Primordial settlement",
+        "Urteca Mountains: Primordial Settlement",
         "Urteca Mountains: The Burial Chamber of the Unmourned",
         "Urteca Mountains: The Royal Family Mausoleum"
     ],

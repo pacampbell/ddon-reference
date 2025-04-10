@@ -20,7 +20,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Elan Water Grove"
+        "Elan Water Grove",
+        "Elan Water Grove: Before Elan Front Gate",
+        "Elan Water Grove: Demon Wolf Territory",
+        "Elan Water Grove: Forgotten Abandoned Village",
+        "Elan Water Grove: Tumult Site",
+        "Elan Water Grove: Water Beasts' Habitat"
     ],
     "hunt": [],
     "subtype": "lumber"

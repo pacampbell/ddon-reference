@@ -21,10 +21,17 @@
     "shops": [],
     "gather": [
         "Elan Water Grove",
+        "Elan Water Grove: Buzzing Plateau",
         "Elan Water Grove: Dancing Rainbow Cave",
+        "Elan Water Grove: Forgotten Abandoned Village",
         "Elan Water Grove: Jungle Limestone Caves",
         "Elan Water Grove: Jungle Limestone Caves Depths",
-        "Elan Water Grove: Path to Morrow"
+        "Elan Water Grove: Path to Morrow",
+        "Elan Water Grove: Riverside of Dappled Sunlight",
+        "Elan Water Grove: Shimmering Waterfall",
+        "Elan Water Grove: Tumult Site",
+        "Elan Water Grove: Visiting Square",
+        "Elan Water Grove: Water Beasts' Habitat"
     ],
     "hunt": [],
     "subtype": "grasses herbs and flowers"

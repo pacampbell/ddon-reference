@@ -20,7 +20,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Farana Plains"
+        "Farana Plains",
+        "Farana Plains: Central Farana Sandbank",
+        "Farana Plains: Shell Dragon's Bog"
     ],
     "hunt": [],
     "subtype": "liquids"

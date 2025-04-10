@@ -20,12 +20,16 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle",
+        "Bloodbane Isle: Bloodbane Isle Precipice",
         "Breya Coast",
         "Breya Coast: Lighthouse Old Well",
+        "Farana Plains",
         "Hidell Plains: Hidell Catacombs",
         "Hidell Plains: Small Cave Tombs",
         "Hidell Plains: The Ark",
-        "Mysree Forest"
+        "Mysree Forest",
+        "Mysree Forest: Demon's Den"
     ],
     "hunt": [
         "Level 1+ Redcap",

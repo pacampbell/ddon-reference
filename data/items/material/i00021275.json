@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 21275,
     "name": "Dragon Temple's Charm",
     "info": "Grimoire Crafting Material:\nA charm that was distributed to those who visited\nwith the faith in the Fire Dragon, bearing the\nroyal coat of arms.",
@@ -19,6 +20,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Firefall Mountain Dragon Temple"
+    ],
     "hunt": []
 }

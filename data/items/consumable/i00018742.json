@@ -12,11 +12,19 @@
     "weight": 0,
     "item_level": 1,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "max_stack": 255,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "gather": [
+        "Feryana Wilderness: Heroic Spirit Sleeping Path: Feryana Wilderness",
+        "Megadosys Plateau: Memory of Megadosys",
+        "Megadosys Plateau: Shrine of Combat",
+        "Rathnite Foothills: Heroic Spirit Sleeping Path: Rathnite Foothills",
+        "Urteca Mountains: Memory of Urteca",
+        "Urteca Mountains: The Burial Chamber of the Unmourned"
+    ]
 }

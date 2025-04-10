@@ -21,8 +21,12 @@
     "shops": [],
     "gather": [
         "Betland Plains",
+        "Deenan Woods: Erte Deenan",
+        "Dowe Valley: Dreed Castle",
+        "Mysree Grove: Lair of the Holy Beast",
         "Mysree Grove: Sacred Spring Terrace",
-        "Northern Betland Plains: Underground Crypt"
+        "Northern Betland Plains: Underground Crypt",
+        "Zandora Wastelands: Mergoda Flood Channels"
     ],
     "hunt": [
         "Level 1+ Empress Ghost"

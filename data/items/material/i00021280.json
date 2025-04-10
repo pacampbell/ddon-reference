@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 21280,
     "name": "Unappraised Cloud Trinket (Soldier)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
@@ -12,13 +13,18 @@
     "weight": 0,
     "item_level": 105,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Crumbling Entrance Path",
+        "Urteca Mountains: Megado Detached Palace",
+        "Urteca Mountains: Sacred Flame Path",
+        "Urteca Mountains: The Royal Family Mausoleum"
+    ],
     "hunt": []
 }

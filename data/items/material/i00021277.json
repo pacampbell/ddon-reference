@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "ore",
     "item_id": 21277,
     "name": "Royal Blazing Rock",
     "info": "Ore Crafting Material:\nA rock imbued with the power of intense fire,\npreviously only held by members of the royal\nfamily.",
@@ -12,13 +13,15 @@
     "weight": 0,
     "item_level": 120,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Sacred Flame Path"
+    ],
     "hunt": []
 }

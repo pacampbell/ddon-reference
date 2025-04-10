@@ -25,14 +25,16 @@
         "Bloodbane Isle: Frigid Ancient Passage",
         "Deenan Woods: Le Karvas Arma",
         "Deenan Woods: Le Karvas Salto",
+        "Eastern Zandora",
         "Elan Water Grove: Old Ferryman's Haunt",
         "Elan Water Grove: Old Ferryman's Haunt Innermost Depths",
         "Elan Water Grove: Old Ferryman's Haunt: Central Square",
         "Elan Water Grove: Old Ferryman's Haunt: Depths Passage",
-	"Farana Plains: Sacred River Ruins",
+        "Farana Plains: Sacred River Ruins",
         "Kingal Canyon: Ancient Underground Shrine 2nd Floor",
         "Mysree Grove: Bower Old Well",
-        "Mysree Grove: Greenleaf Terrace"
+        "Mysree Grove: Greenleaf Terrace",
+        "Zandora Wastelands"
     ],
     "hunt": [],
     "subtype": "sand"

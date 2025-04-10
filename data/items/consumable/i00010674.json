@@ -20,6 +20,15 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Breya Coast: Blue Claw Beach",
+        "Breya Coast: Deserted Village of Ruflow",
+        "Breya Coast: Roaring Tide Cave",
+        "Deenan Woods: Divine Blossom Terrace",
+        "Deenan Woods: Le Karvas Arma",
+        "Hidell Plains: Blocked Passage",
+        "Hidell Plains: Hidell Catacombs",
+        "Volden Mines: Volden Large Tunnels"
+    ],
     "hunt": []
 }

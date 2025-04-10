@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 21288,
     "name": "War-Ready Break Stone",
     "info": "Crafting Material for adding additional stats to\nweapons.\nA refined stone made from a special material.\nAdds \"War Ready Slayer\" to weapons.",
@@ -12,13 +13,15 @@
     "weight": 0,
     "item_level": 85,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Construction Material Depot"
+    ],
     "hunt": []
 }

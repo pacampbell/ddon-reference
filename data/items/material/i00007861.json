@@ -22,14 +22,20 @@
     "gather": [
         "Betland Plains: Foul Water Channel",
         "Betland Plains: Groaning Old Well",
+        "Betland Plains: Temple of Purification",
         "Bloodbane Isle: Dried Well by the Tower",
         "Breya Coast: Roaring Tide Cave",
         "Deenan Woods: Moonlight Terrace",
+        "Deenan Woods: Sunset Terrace",
         "Dowe Valley: Cliff Tunnels",
+        "Dowe Valley: Howling Wind Cave",
+        "Farana Plains",
         "Kingal Canyon: Amburos Great Ruins",
         "Kingal Canyon: Shadolean Great Temple",
+        "Mysree Forest: Mysree Limestone Cave",
         "Northern Betland Plains: Betland Underground Passage",
-        "Volden Mines: Fiend's Cavern"
+        "Volden Mines: Fiend's Cavern",
+        "Volden Mines: Volden Large Tunnels"
     ],
     "hunt": [],
     "subtype": "ore"

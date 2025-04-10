@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 21283,
     "name": "Unappraised Cloud Trinket (Emperor)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",

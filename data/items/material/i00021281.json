@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 21281,
     "name": "Unappraised Cloud Trinket (General)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
@@ -24,6 +25,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Sacred Flame Path"
+    ],
     "hunt": []
 }

@@ -19,7 +19,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Bloodbane Isle: Crypt of Murmurs"
+    ],
     "hunt": [
         "Level 15+ Blue Newt",
         "Level 15+ Giant Saurian",

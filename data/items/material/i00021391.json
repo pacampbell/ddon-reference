@@ -12,14 +12,16 @@
     "weight": 0,
     "item_level": 108,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Megadosys Plateau: Memory of Megadosys"
+    ],
     "hunt": [],
     "subtype": "other"
 }

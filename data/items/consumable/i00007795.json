@@ -18,5 +18,19 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "gather": [
+        "Bloodbane Isle: Infected Den Depths",
+        "Dowe Valley: Dreed Connecting Passage",
+        "Farana Plains: Danandell Cave",
+        "Hidell Plains: The Ark's Lower Level",
+        "Kingal Canyon: Hadin Underground Old Road",
+        "Megadosys Plateau: Shrine of Combat",
+        "Morrow Forest: Morrow Cavern",
+        "Mysree Forest: Ancient Burial Mound",
+        "Urteca Mountains: Crumbling Entrance Path",
+        "Urteca Mountains: Megado Detached Palace",
+        "Urteca Mountains: The Burial Chamber of the Unmourned",
+        "Urteca Mountains: The Royal Family Mausoleum"
+    ]
 }

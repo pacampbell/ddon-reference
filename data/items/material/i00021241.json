@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "unappraised",
     "item_id": 21241,
     "name": "Unappraised Water Trinket (General)",
     "info": "Jewelry available in the \"Appraisal Exchange\".\nIts effect is unknown.",
@@ -12,7 +13,7 @@
     "weight": 0,
     "item_level": 100,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "craft_recipe": [
         {
@@ -24,6 +25,8 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Megadosys Plateau: Megado Cathedral"
+    ],
     "hunt": []
 }

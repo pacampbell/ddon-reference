@@ -20,9 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Betland Plains: Penitentiary",
+        "Bloodbane Isle",
         "Deenan Woods",
         "Deenan Woods: Erte Deenan",
+        "Mysree Grove: Misty Illusion Terrace",
         "Zandora Wastelands",
+        "Zandora Wastelands: Mergoda Flood Channels",
         "Zandora Wastelands: Neophyte's Cellar"
     ],
     "hunt": [],

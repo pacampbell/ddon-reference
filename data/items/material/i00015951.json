@@ -20,10 +20,14 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Elan Water Grove: Elan Quarry Cave",
         "Morrow Forest",
+        "Morrow Forest: Deserted Village of Aethrig",
         "Morrow Forest: Morrow Cavern",
         "Morrow Forest: Morrow Cavern Depths",
-        "Morrow Forest: Sauzanel Infected Woods"
+        "Morrow Forest: Sauzanel Infected Woods",
+        "Morrow Forest: Suffering Forest",
+        "Morrow Forest: Vacant Green Forest"
     ],
     "hunt": [],
     "subtype": "mushrooms"

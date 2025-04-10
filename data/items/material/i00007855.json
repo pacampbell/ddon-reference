@@ -20,14 +20,18 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle: Crypt of Murmurs",
+        "Bloodbane Isle: Sunlit Underground Cave",
         "Breya Coast",
+        "Breya Coast: Beach Underground Stores",
         "Hidell Plains: Blocked Passage",
         "Hidell Plains: Hidell Catacombs",
         "Hidell Plains: Hidell Catacombs Depths",
         "Hidell Plains: The Ark",
         "Mysree Forest: Demon's Den",
         "Mysree Forest: Lynwood Underground Waterway",
-        "Volden Mines: Kinoza Mineral Springs"
+        "Volden Mines: Kinoza Mineral Springs",
+        "Volden Mines: Volden Narrow Tunnels"
     ],
     "hunt": [
         "Level 1+ Rock Saurian",

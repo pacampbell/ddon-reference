@@ -12,7 +12,7 @@
     "weight": 0,
     "item_level": 3,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "max_stack": 255,
     "craft_recipe": [],
@@ -20,6 +20,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Feryana Wilderness: Thundering Roar Cave",
+        "Rathnite Foothills: Rathnite Columbarium"
+    ],
     "hunt": []
 }

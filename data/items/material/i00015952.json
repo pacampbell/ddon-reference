@@ -20,7 +20,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Morrow Forest"
+        "Morrow Forest",
+        "Morrow Forest: Forest Sprite's Refuge",
+        "Morrow Forest: Morrow Old Ruins"
     ],
     "hunt": [],
     "subtype": "grasses herbs and flowers"

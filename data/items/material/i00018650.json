@@ -20,8 +20,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Feryana Wilderness",
+        "Megadosys Plateau",
+        "Megadosys Plateau: Abhorrent Territory",
+        "Megadosys Plateau: Firefall Mountain Eroded Rock",
         "Rathnite Foothills",
-        "Rathnite Foothills: Rathnite Foothills Lakeside"
+        "Rathnite Foothills: Rathnite Foothills Lakeside",
+        "Urteca Mountains: Western Urteca Mountains"
     ],
     "hunt": [],
     "subtype": "gemstones"

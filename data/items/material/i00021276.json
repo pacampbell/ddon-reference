@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 21276,
     "name": "Dragon Temple's Blessed Cloth",
     "info": "Cloth Crafting Material:\nSpecial cloth blessed at the temple of Acre\nSelund.",
@@ -12,13 +13,15 @@
     "weight": 0,
     "item_level": 115,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Urteca Mountains: Firefall Mountain Dragon Temple"
+    ],
     "hunt": []
 }

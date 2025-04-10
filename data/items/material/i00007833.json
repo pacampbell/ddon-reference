@@ -20,8 +20,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Bloodbane Isle: Waterfall Echo Cavern",
+        "Mergoda Ruins",
         "Mergoda Ruins: An Alchemist's Home",
-        "Zandora Wastelands: Ancient Underground Channels"
+        "Mergoda Ruins: Secret Proving Ground",
+        "Zandora Wastelands: Ancient Underground Channels",
+        "Zandora Wastelands: Pit of Screams"
     ],
     "hunt": [],
     "subtype": "liquids"

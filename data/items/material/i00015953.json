@@ -22,7 +22,11 @@
     "gather": [
         "Farana Plains: Vegasa Corridor",
         "Farana Plains: Vegasa Corridor Center Passage",
-        "Kingal Canyon"
+        "Kingal Canyon",
+        "Kingal Canyon: Carrion Bank",
+        "Kingal Canyon: Deserted Village of Kraag",
+        "Kingal Canyon: Great Temple Plaza",
+        "Kingal Canyon: Kingal West Bank"
     ],
     "hunt": [],
     "subtype": "ore"

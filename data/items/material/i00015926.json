@@ -12,7 +12,7 @@
     "weight": 0,
     "item_level": 50,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [],
     "gradeup_recipe": [],
@@ -20,7 +20,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Morrow Forest"
+        "Morrow Forest",
+        "Morrow Forest: Morrow Old Ruins"
     ],
     "hunt": [],
     "subtype": "regional"

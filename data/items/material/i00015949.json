@@ -20,7 +20,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Elan Water Grove"
+        "Elan Water Grove",
+        "Elan Water Grove: Riverside of Dappled Sunlight",
+        "Elan Water Grove: Water Beasts' Habitat"
     ],
     "hunt": [],
     "subtype": "liquids"

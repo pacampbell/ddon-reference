@@ -21,7 +21,10 @@
     "shops": [],
     "gather": [
         "Farana Plains",
-        "Kingal Canyon"
+        "Kingal Canyon",
+        "Kingal Canyon: Carrion Bank",
+        "Kingal Canyon: Crushing Rock Riverbank",
+        "Kingal Canyon: Watersdeep Old Road"
     ],
     "hunt": [],
     "subtype": "liquids"

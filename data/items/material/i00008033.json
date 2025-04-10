@@ -20,9 +20,12 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Mergoda Ruins",
         "Mergoda Ruins: Elixir Refining Chamber",
         "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
-        "Mergoda Ruins: Mergodan Residence"
+        "Mergoda Ruins: Mergodan Residence",
+        "Mergoda Ruins: Secret Proving Ground"
     ],
     "hunt": [
         "Level 1+ Mergan Elementor",

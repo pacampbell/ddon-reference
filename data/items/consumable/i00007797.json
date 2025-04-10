@@ -18,5 +18,13 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "gather": [
+        "Feryana Wilderness: Dark Path to the Secret Spring",
+        "Feryana Wilderness: Royal Family's Secret Path",
+        "Feryana Wilderness: Thundering Roar Cave",
+        "Megadosys Plateau: Hidden Waterway to Megado",
+        "Megadosys Plateau: Megadosys Old Road",
+        "Rathnite Foothills: Rathnite Columbarium"
+    ]
 }

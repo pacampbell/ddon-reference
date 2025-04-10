@@ -12,7 +12,7 @@
     "weight": 0,
     "item_level": 115,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": false,
     "craft_recipe": [],
     "gradeup_recipe": [],
@@ -20,7 +20,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Epitaph Road: Memory of Urteca"
+        "Epitaph Road: Memory of Urteca",
+        "Urteca Mountains: Memory of Urteca"
     ],
     "hunt": [
         "Epitaph Road: Memory of Urteca"

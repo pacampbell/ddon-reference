@@ -30,10 +30,13 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Elan Water Grove: Old Ferryman's Haunt",
         "Farana Plains: Small Tower of Wisdom",
+        "Farana Plains: Thalati Waterway",
         "Hidell Plains: Hidell Catacombs Innermost Depths",
         "Kingal Canyon: Ancient Underground Shrine 2nd Floor",
         "Kingal Canyon: Ancient Underground Shrine Innermost Depths",
+        "Kingal Canyon: Shadolean Great Temple",
         "Morrow Forest: Sauzanel Infected Woods"
     ],
     "hunt": []

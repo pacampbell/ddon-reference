@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "other",
     "item_id": 1316,
     "name": "Glowworm",
     "info": "Miscellaneous crafting material.\nA special insect that emits a pale light in dark\nplaces.",
@@ -17,5 +18,8 @@
     "craft_recipe": [],
     "gradeup_recipe": [],
     "previous_item_id": 0,
-    "next_item_id": 0
+    "next_item_id": 0,
+    "gather": [
+        "Mysree Forest: Glowworm Cave"
+    ]
 }

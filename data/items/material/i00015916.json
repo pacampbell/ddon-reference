@@ -25,7 +25,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Elan Water Grove"
+        "Elan Water Grove",
+        "Elan Water Grove: Dancing Rainbow Cave",
+        "Elan Water Grove: Purple Flower Garden"
     ],
     "hunt": [],
     "subtype": "regional"

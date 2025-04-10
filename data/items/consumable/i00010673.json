@@ -20,6 +20,21 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Foul Water Channel",
+        "Deenan Woods: Elnea Spring",
+        "Deenan Woods: Forest People's Tunnel",
+        "Dowe Valley: Dreed Watchtower",
+        "Dowe Valley: White Sands Riverbank",
+        "Eastern Zandora: Dead Lord's Labyrinth",
+        "Eastern Zandora: Garden of Curses",
+        "Eastern Zandora: Zandora Lighthouse",
+        "Mergoda Ruins: Elixir Refining Chamber",
+        "Mergoda Ruins: Mergan Alchemdia",
+        "Mysree Grove: Lair of the Holy Beast",
+        "Northern Betland Plains: Gardnox Patrol Area",
+        "Northern Betland Plains: Tegor Flood Control Channel",
+        "Zandora Wastelands: Twin Wheel Valley"
+    ],
     "hunt": []
 }

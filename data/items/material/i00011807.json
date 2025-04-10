@@ -12,7 +12,7 @@
     "weight": 0,
     "item_level": 40,
     "crest_slots": 0,
-    "quality": 0,
+    "quality": 1,
     "can_bazaar": true,
     "craft_recipe": [
         {
@@ -25,7 +25,8 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Zandora Wastelands: Ancient Underground Channels"
+        "Zandora Wastelands: Ancient Underground Channels",
+        "Zandora Wastelands: Pit of Screams"
     ],
     "hunt": [],
     "subtype": "regional"

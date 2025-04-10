@@ -20,13 +20,16 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
+        "Deenan Woods: Le Karvas Arma",
         "Dowe Valley",
         "Dowe Valley: Dreed Castle",
         "Eastern Zandora",
+        "Mergoda Ruins",
         "Mergoda Ruins: Mergoda Ruins Lower Level",
         "Mergoda Ruins: Mergoda Ruins Royal Palace Level",
         "Mysree Grove",
-        "Mysree Grove: Greenleaf Terrace"
+        "Mysree Grove: Greenleaf Terrace",
+        "Mysree Grove: Sacred Spring Terrace"
     ],
     "hunt": [],
     "subtype": "lumber"

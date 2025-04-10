@@ -20,6 +20,18 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+        "Betland Plains: Betland Bridge",
+        "Deenan Woods: Sazu Deenan",
+        "Dowe Valley: Catacombs",
+        "Hidell Plains: The Black Wolves' Hideout",
+        "Mergoda Ruins: Palace Plaza",
+        "Mysree Forest: Forest Goblins' Village",
+        "Mysree Grove: Poachers' Camp",
+        "Northern Betland Plains: Fortress Front: Barbed Line",
+        "Volden Mines: Mountainside Battlefield",
+        "Zandora Wastelands: Black Abyss Valley",
+        "Zandora Wastelands: South Mergoda Ruins"
+    ],
     "hunt": []
 }

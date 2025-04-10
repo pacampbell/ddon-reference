@@ -22,12 +22,16 @@
     "gather": [
         "Feryana Wilderness",
         "Feryana Wilderness: Dark Path to the Secret Spring",
+        "Feryana Wilderness: False Remains",
         "Feryana Wilderness: Restless Water Channel",
         "Feryana Wilderness: Royal Family's Secret Path",
         "Feryana Wilderness: Shrine of the Eternal Blaze",
         "Feryana Wilderness: Thundering Roar Cave",
         "Hidell Plains: False Remains",
-        "Megadosys Plateau"
+        "Megadosys Plateau",
+        "Megadosys Plateau: Abhorrent Territory",
+        "Megadosys Plateau: Firefall Mountain Eroded Rock",
+        "Megadosys Plateau: Megadosys Old Road"
     ],
     "hunt": [],
     "subtype": "ore"

@@ -20,7 +20,9 @@
     "next_item_id": 0,
     "shops": [],
     "gather": [
-        "Kingal Canyon"
+        "Kingal Canyon",
+        "Kingal Canyon: Dancing Circle",
+        "Kingal Canyon: Deserted Village of Kraag"
     ],
     "hunt": [],
     "subtype": "gemstones"

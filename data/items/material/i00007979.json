@@ -28,6 +28,7 @@
         "Dowe Valley: Abandoned Underground Passage",
         "Dowe Valley: Partly-Dug Well",
         "Farana Plains: Sacred River Ruins",
+        "Farana Plains: Valtable Hall",
         "Mergoda Ruins: Mergoda Ruins Lower Level",
         "Mysree Grove",
         "Mysree Grove: Dark Green Terrace",
@@ -37,5 +38,5 @@
         "Zandora Wastelands"
     ],
     "hunt": [],
-    "subtype": "grasses herbs and flowers"
+    "subtype": "plants"
 }

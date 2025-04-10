@@ -1,5 +1,6 @@
 {
     "type": "material",
+    "subtype": "scrolls",
     "item_id": 7764,
     "name": "Ancient Grimoire",
     "info": "Grimoire Crafting Material: Tattered grimoire\nheld by a necromancer.",
@@ -36,7 +37,9 @@
     "previous_item_id": 0,
     "next_item_id": 0,
     "shops": [],
-    "gather": [],
+    "gather": [
+	"Farana Plains: Valtable Hall"
+    ],
     "hunt": [
         "Level 30+ Skeleton Sorcerer"
     ],

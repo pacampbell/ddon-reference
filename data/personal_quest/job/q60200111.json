@@ -25,11 +25,11 @@
             "param02": 60
         },
         {
-            "type": "MainQuestCompleted",
-            "param01": 20250
+            "type": "Solo"
         },
         {
-            "type": "Solo"
+            "type": "MainQuestCompleted",
+            "param01": 20250
         }
     ],
     "unlocks": {
@@ -74,7 +74,33 @@
                     ]
                 }
             ]
+        },
+        {
+            "level": 60,
+            "minimum_item_rank": 0,
+            "xp": 18915,
+            "gold": 3960,
+            "rift": 500,
+            "ap": 0,
+            "jp": 0,
+            "pp": 0,
+            "is_bounty": false,
+            "rewards": [
+                {
+                    "type": "Fixed",
+                    "pools": [
+                        [
+                            {
+                                "name": "Crest of Herculean Power",
+                                "item_id": 9198,
+                                "amount": 4
+                            }
+                        ]
+                    ]
+                }
+            ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=7WGJqNpxV9s"]
 }

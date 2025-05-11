@@ -25,11 +25,11 @@
             "param02": 40
         },
         {
-            "type": "ClearPersonalQuest",
-            "param01": 60200001
+            "type": "Solo"
         },
         {
-            "type": "Solo"
+            "type": "MainQuestCompleted",
+            "param01": 20070
         }
     ],
     "unlocks": {
@@ -76,5 +76,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=LUaDmCNoDDM"]
 }

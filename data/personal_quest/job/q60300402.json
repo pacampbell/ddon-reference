@@ -4,11 +4,18 @@
     "quest_id": 60300402,
     "area_id": null,
     "guide_type": "AreaTrialOrMission",
-    "starting_npc": null,
+    "starting_npc": {
+        "id": 1029,
+        "name": "Renton",
+        "stage": {
+            "name": "The White Dragon Temple",
+            "id": 2
+        }
+    },
     "minimum_area_rank": 0,
     "repeatable": false,
     "quest_chain": {
-        "previous_quest_id": 0,
+        "previous_quest_id": 60300413,
         "next_quest_id": 0
     },
     "order_conditions": [],
@@ -54,5 +61,6 @@
             ]
         }
     ],
-    "tags": []
+    "tags": [],
+    "references": ["https://www.youtube.com/watch?v=8UbC-KZ2ZiU"]
 }

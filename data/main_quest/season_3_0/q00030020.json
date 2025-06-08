@@ -24,7 +24,10 @@
         "tutorials": [
             "About Dwarf Orcs"
         ],
-        "contents": []
+        "contents": [
+            "Rathnite Foothills Area Master",
+            "Rathnite Foothills World Quests"
+        ]
     },
     "description": "Return to Acre Selund and release Elliot to assess the local conditions",
     "steps": [
@@ -84,5 +87,6 @@
             "name": "Audience Chamber",
             "id": 3
         }
-    }
+    },
+    "references": ["https://www.youtube.com/watch?v=GI10IyJ3RWw", "https://www.youtube.com/watch?v=NHz3iPGCw50"]
 }

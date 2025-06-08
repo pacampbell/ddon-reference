@@ -48,7 +48,20 @@
             "value": 375
         }
     ],
-    "craft_recipe": [],
+    "craft_recipe": [
+        {
+            "item_id": 15961,
+            "amount": 1
+        },
+        {
+            "item_id": 15959,
+            "amount": 2
+        },
+        {
+            "item_id": 15960,
+            "amount": 1
+        }
+    ],
     "gradeup_recipe": [
         {
             "item_id": 15959,
